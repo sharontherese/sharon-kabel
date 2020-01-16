@@ -12,11 +12,6 @@ superuser: true
 # Role/position
 role: Librarian
 
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Catholic newspapers, amateur data visualizations, and Cinderella.
 
@@ -36,7 +31,7 @@ social:
 - icon: goodreads
   icon_pack: fab
   link: https://www.goodreads.com/user/show/10966533-sharon
-- icon: flickr
+- icon: fa-flickr
   icon_pack: fab
   link: https://www.flickr.com/photos/186519630@N06/albums
   icon: facebook
