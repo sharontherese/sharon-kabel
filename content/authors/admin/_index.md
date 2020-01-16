@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Librarian
+role: Librarian, Nuisance
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Catholic newspapers, amateur data visualizations, and Cinderella.
