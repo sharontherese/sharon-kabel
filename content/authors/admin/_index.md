@@ -31,9 +31,6 @@ social:
 - icon: goodreads
   icon_pack: fab
   link: https://www.goodreads.com/user/show/10966533-sharon
-- icon: fa-flickr
-  icon_pack: fab
-  link: https://www.flickr.com/photos/186519630@N06/albums
   icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/SharonKabel2
