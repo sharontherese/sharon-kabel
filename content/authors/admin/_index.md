@@ -13,12 +13,7 @@ superuser: true
 role: Librarian, Nuisance
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Catholic newspapers, amateur data visualizations, and Cinderella.
-
-interests:
-- Research
-- 19th and 20th century American Catholic history
-- Metadata
+bio: I like Catholic newspapers, amateur data visualizations, and walls of text.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,12 +45,11 @@ I was voted “most likely to win the Nobel Peace Prize” and “most likely to
 
 My first website name was _A Wild Sostenuto_, from Richard Wilbur’s poem, “For C.”
 
-> Still, there’s a certain scope in that long love
-> Which constant spirits are the keepers of,
-
-> And which, though taken to be tame and staid,
-> Is a wild sostenuto of the heart,
-> A passion joined to courtesy and art
-> Which has the quality of something made,
-> Like a good fiddle, like the rose’s scent,
+> Still, there’s a certain scope in that long love /
+> Which constant spirits are the keepers of, /
+> And which, though taken to be tame and staid, /
+> Is a wild sostenuto of the heart, /
+> A passion joined to courtesy and art /
+> Which has the quality of something made, /
+> Like a good fiddle, like the rose’s scent, /
 > Like a rose window or the firmament.
