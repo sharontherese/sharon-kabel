@@ -20,5 +20,6 @@ I looked for three things:
 
 The project is ongoing. You can see the results on this page, or:
 * View as a [PDF]{{% staticref "files/credibly accused by state 1-17-2020.pdf" %}}
+* View as a {{% staticref "files/files/credibly accused by state 1-17-2020.pdf" %}}PDF{{% /staticref %}}
 * View as a [Flickr album](https://www.flickr.com/photos/186519630@N06/albums/72157712699057908)
 * View as a [Facebook album](https://www.facebook.com/pg/SharonKabel2/photos/?tab=album&album_id=2409345026043319)
