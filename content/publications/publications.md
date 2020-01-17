@@ -1,4 +1,10 @@
-# Publications and Original Work
++++
+gallery1 = [""]
+text = ""
+title = "Publications"
+toggle = false
+
++++
 
 OnePeterFive, "Bible Vigils, and Why We Don't Have (Or Need) Them." December 9, 2019. https://onepeterfive.com/bible-vigils/
 <br/>
