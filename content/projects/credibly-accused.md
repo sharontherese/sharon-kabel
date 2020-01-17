@@ -5,7 +5,7 @@ title = "Credibly Accused"
 toggle = false
 
 +++
-![](/uploads/credibly accused by state - header.jpg)
+![](/uploads/credibly accused by state - header.png)
 
 # About 
 
