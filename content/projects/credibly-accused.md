@@ -4,6 +4,8 @@ text = ""
 title = "Credibly Accused"
 toggle = false
 images = ["credibly_accused_header2.jpg"]
+date = "2020-01-17"
+description = "is this thing on"
 
 +++
 ![](/uploads/credibly_accused_header2.jpg)
