@@ -12,6 +12,12 @@
   name = "Things I Make"
   url = "Projects"
   weight = 20
+  
+[[main]]
+ name = "Credibly Accused"
+ parent = "Projects"
+ url = "projects/credibly-accused"
+ weight = 20
 
 [[main]]
   name = "Things I Quote"
