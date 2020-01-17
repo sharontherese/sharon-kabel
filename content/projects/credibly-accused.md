@@ -5,7 +5,7 @@ title = "Credibly Accused"
 toggle = false
 
 +++
-![](/uploads/credibly_accused_header.PNG)
+![](/uploads/credibly_accused_header2.jpg)
 
 According to [BishopAccountability](bishopaccountability.org), 149 American Roman Catholic dioceses have released lists of clergy credibly accused of sexual abuse of a minor. 
 
