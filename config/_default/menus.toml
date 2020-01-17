@@ -18,6 +18,12 @@
  parent = "Projects"
  url = "credibly-accused"
  weight = 20
+ 
+ [[main]]
+ name = "Dies Irae"
+ parent = "Projects"
+ url = "dies-rae"
+ weight = 20
 
 [[main]]
   name = "Publications"
