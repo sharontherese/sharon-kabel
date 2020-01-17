@@ -23,12 +23,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sharon_therese
-- icon: fa-goodreads-g
+- icon: goodreads
   icon_pack: fab
   link: https://www.goodreads.com/user/show/10966533-sharon
   icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/SharonKabel2
+  icon: flickr
+  icon_pack: fab
+  link: https://www.flickr.com/photos/186519630@N06/albums/with/72157712699057908
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
