@@ -23,7 +23,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sharon_therese
-- icon: goodreads
+- icon: fa-goodreads-g
   icon_pack: fab
   link: https://www.goodreads.com/user/show/10966533-sharon
   icon: facebook
@@ -45,11 +45,18 @@ I was voted “most likely to win the Nobel Peace Prize” and “most likely to
 
 My first website name was _A Wild Sostenuto_, from Richard Wilbur’s poem, “For C.”
 
-> Still, there’s a certain scope in that long love /
-> Which constant spirits are the keepers of, /
-> And which, though taken to be tame and staid, /
-> Is a wild sostenuto of the heart, /
-> A passion joined to courtesy and art /
-> Which has the quality of something made, /
-> Like a good fiddle, like the rose’s scent, /
+> Still, there’s a certain scope in that long love 
+
+> Which constant spirits are the keepers of, 
+
+> And which, though taken to be tame and staid, 
+
+> Is a wild sostenuto of the heart, 
+
+> A passion joined to courtesy and art 
+
+> Which has the quality of something made, 
+
+> Like a good fiddle, like the rose’s scent, 
+
 > Like a rose window or the firmament.
