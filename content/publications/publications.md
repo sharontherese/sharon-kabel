@@ -1,6 +1,6 @@
 +++
 gallery1 = [""]
-text = ""
+text = "Publications"
 title = "Publications"
 toggle = false
 
