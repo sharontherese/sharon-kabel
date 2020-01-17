@@ -1,10 +1,3 @@
-+++
-gallery1 = [""]
-text = "Publications"
-title = "Publications"
-toggle = false
-
-+++
 
 OnePeterFive, ["Bible Vigils, and Why We Don't Have (Or Need) Them."](https://onepeterfive.com/bible-vigils/) December 9, 2019. 
 <br/>
@@ -24,7 +17,7 @@ Catholic Herald, [“Meanwhile: Yes, Encyclicals Are Getting Longer.”](https:/
 Liturgy Guy (Brian Williams), [“The Many, Many, Many Words of Pope Francis.”](https://liturgyguy.com/2019/04/12/the-many-many-many-words-of-pope-francis/) April 12, 2019.
 <br/>
 
-# Shoutouts 
+Shoutouts 
 
 Charlotte Latin Mass Community, “Latin Mass Weddings.” August 28, 2019. https://charlottelatinmass.org/2019/08/28/latin-mass-weddings/
 <br/>
