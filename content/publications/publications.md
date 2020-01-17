@@ -6,9 +6,9 @@ toggle = false
 
 +++
 
-OnePeterFive, "Bible Vigils, and Why We Don't Have (Or Need) Them." December 9, 2019. https://onepeterfive.com/bible-vigils/
+OnePeterFive, ["Bible Vigils, and Why We Don't Have (Or Need) Them."](https://onepeterfive.com/bible-vigils/) December 9, 2019. 
 <br/>
-<br/>
+
 New Liturgical Movement, "Bible Vigils: Guest Article by Sharon Kabel." October 18, 2019. http://www.newliturgicalmovement.org/2019/10/bible-vigils-guest-article-by-sharon.html#.XiHozntOm70
 <br/>
 <br/>
