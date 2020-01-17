@@ -3,7 +3,7 @@ gallery1 = [""]
 text = ""
 title = "Credibly Accused"
 toggle = false
-featuredimage = "img/credibly_accused_header2.jpg"
+thumbnail = "img/credibly_accused_header2.jpg"
 
 +++
 ![](/uploads/credibly_accused_header2.jpg)
