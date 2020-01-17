@@ -3,6 +3,8 @@ gallery1 = [""]
 text = ""
 title = "Credibly Accused"
 toggle = false
+
+template = "internal/opengraph.html"
 images = ["credibly_accused_header2.jpg"]
 date = "2020-01-17"
 description = "is this thing on"
