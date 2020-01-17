@@ -9,20 +9,19 @@ toggle = false
 OnePeterFive, ["Bible Vigils, and Why We Don't Have (Or Need) Them."](https://onepeterfive.com/bible-vigils/) December 9, 2019. 
 <br/>
 
-New Liturgical Movement, "Bible Vigils: Guest Article by Sharon Kabel." October 18, 2019. http://www.newliturgicalmovement.org/2019/10/bible-vigils-guest-article-by-sharon.html#.XiHozntOm70
+New Liturgical Movement, ["Bible Vigils: Guest Article by Sharon Kabel."](http://www.newliturgicalmovement.org/2019/10/bible-vigils-guest-article-by-sharon.html#.XiHozntOm70) October 18, 2019. 
+<br/>
+
+OnePeterFive, [“‘Virtually Impossible with an All-Latin Liturgy’: A Brief History of Active Participation.”](https://onepeterfive.com/active-participation/) October 3, 2019.
 <br/>
 <br/>
-OnePeterFive, “‘Virtually Impossible with an All-Latin Liturgy’: A Brief History of Active Participation.” October 3, 2019. https://onepeterfive.com/active-participation/
+OnePeterFive, [“Not Authorized: The Untold Story of the Death of the Old Mass.”](https://onepeterfive.com/not-authorized-death-mass/) August 27, 2019. 
 <br/>
+
+Catholic Herald, [“Meanwhile: Yes, Encyclicals Are Getting Longer.”](https://catholicherald.co.uk/magazine/meanwhile-yes-encyclicals-are-getting-longer/) April 18, 2019. 
 <br/>
-OnePeterFive, “Not Authorized: The Untold Story of the Death of the Old Mass.” August 27, 2019. https://onepeterfive.com/not-authorized-death-mass/
-<br/>
-<br/>
-Catholic Herald, “Meanwhile: Yes, Encyclicals Are Getting Longer.” April 18, 2019. https://catholicherald.co.uk/magazine/meanwhile-yes-encyclicals-are-getting-longer/
-<br/>
-<br/>
-Liturgy Guy (Brian Williams), “The Many, Many, Many Words of Pope Francis.” April 12, 2019. https://liturgyguy.com/2019/04/12/the-many-many-many-words-of-pope-francis/
-<br/>
+
+Liturgy Guy (Brian Williams), [“The Many, Many, Many Words of Pope Francis.”](https://liturgyguy.com/2019/04/12/the-many-many-many-words-of-pope-francis/) April 12, 2019.
 <br/>
 
 # Shoutouts 
