@@ -16,13 +16,13 @@
 [[main]]
  name = "Credibly Accused"
  parent = "Projects"
- url = "credibly-accused"
+ url = "projects/credibly-accused"
  weight = 20
  
  [[main]]
  name = "Dies Irae"
  parent = "Projects"
- url = "dies-rae"
+ url = "projects/dies-rae"
  weight = 20
 
 [[main]]
