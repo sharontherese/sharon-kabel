@@ -7,8 +7,6 @@ toggle = false
 +++
 ![](/uploads/credibly_accused_header.PNG)
 
-# About 
-
 According to [BishopAccountability](bishopaccountability.org), 149 American Roman Catholic dioceses have released lists of clergy credibly accused of sexual abuse of a minor. 
 
 This project looks at the lists themselves. Every list, of course, has names of the accused on them. In the bishops' repeatedly stated goal of transparency, what other information do they include in the lists? 
