@@ -1,41 +1,19 @@
 +++
-# A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+headless = false  # This file represents a page section.
+active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Projects1"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
-  
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
-  
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-  
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
-  
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-  
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -54,7 +32,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  # color = "red"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -75,3 +53,19 @@ subtitle = ""
  css_class = ""
 +++
 
+
+![](/uploads/credibly_accused_header2.jpg)
+
+According to [BishopAccountability](bishopaccountability.org), 149 American Roman Catholic dioceses have released lists of clergy credibly accused of sexual abuse of a minor. 
+
+This project looks at the lists themselves. Every list, of course, has names of the accused on them. In the bishops' repeatedly stated goal of transparency, what other information do they include in the lists? 
+
+I looked for three things: 
+1) A complete parish assignment history (parish assignments, including dates)
+2) photographs of the accused
+3) details of the allegations (such as dates of occurrence, dates reported, number of allegations, gender of victims, and/or nature of the allegations)
+
+The project is ongoing. You can see the project in several places:
+* View as a {{% staticref "files/files/credibly accused by state 1-17-2020.pdf" %}}PDF{{% /staticref %}}
+* View as a [Flickr album](https://www.flickr.com/photos/186519630@N06/albums/72157712699057908)
+* View as a [Facebook album](https://www.facebook.com/pg/SharonKabel2/photos/?tab=album&album_id=2409345026043319)
