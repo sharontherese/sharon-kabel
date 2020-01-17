@@ -50,11 +50,11 @@ I also run [latinmasswedding.com](https://www.latinmasswedding.com/).
 
 My first website name was _A Wild Sostenuto_, from Richard Wilbur’s poem, “For C.”
 
-> Still, there’s a certain scope in that long love / <br/>
-> Which constant spirits are the keepers of, / <br/>
-> And which, though taken to be tame and staid, / <br/>
-> Is a wild sostenuto of the heart, / <br/>
-> A passion joined to courtesy and art / <br/>
-> Which has the quality of something made, / <br/>
-> Like a good fiddle, like the rose’s scent, / <br/>
+> Still, there’s a certain scope in that long love <br/>
+> Which constant spirits are the keepers of, <br/>
+> And which, though taken to be tame and staid, <br/>
+> Is a wild sostenuto of the heart, <br/>
+> A passion joined to courtesy and art <br/>
+> Which has the quality of something made, <br/>
+> Like a good fiddle, like the rose’s scent, <br/>
 > Like a rose window or the firmament.
