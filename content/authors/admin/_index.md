@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Librarian, Nuisance
+role: Librarian; Nuisance
 
 # Short bio (displayed in user profile at end of posts)
 bio: I like Catholic newspapers, amateur data visualizations, and walls of text.
@@ -43,20 +43,15 @@ I started a Wordpress site in March of 2016, as a way to keep track of interesti
 I have a MS in Library Science, and a BA in English, so I am particularly interested in research methods, and good writing. 
 I was voted “most likely to win the Nobel Peace Prize” and “most likely to make a sarcastic comment” by classmates.
 
+I also run [latinmasswedding.com](https://www.latinmasswedding.com/). 
+
 My first website name was _A Wild Sostenuto_, from Richard Wilbur’s poem, “For C.”
 
 > Still, there’s a certain scope in that long love 
-
 > Which constant spirits are the keepers of, 
-
 > And which, though taken to be tame and staid, 
-
 > Is a wild sostenuto of the heart, 
-
 > A passion joined to courtesy and art 
-
 > Which has the quality of something made, 
-
 > Like a good fiddle, like the rose’s scent, 
-
 > Like a rose window or the firmament.
