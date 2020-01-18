@@ -75,3 +75,4 @@ subtitle = "a walk through Father Nicholas Gihr's classic work"
  css_class = ""
 +++
 
+![](/uploads/diesirae.jpg)
