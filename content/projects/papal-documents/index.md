@@ -22,9 +22,9 @@ These charts do not include Scriptural citations. All popes quoted Scripture in 
 ![](/uploads/pf-cvwithout-2.png)
 ![](/uploads/pf-gewithout.png)
 
-pf-lfwithout.png	
-pf-lswithout-1.png	
-pvi-enwithout.png
+![](/uploads/pf-lfwithout.png)
+![](/uploads/pf-lswithout-1.png)
+![](/uploads/pvi-enwithout.png)
 
 # Word counts in papal documents
 
