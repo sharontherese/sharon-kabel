@@ -24,6 +24,12 @@
  parent = "Projects"
  url = "projects/dies-irae"
  weight = 20
+ 
+  [[main]]
+ name = "Highlights of the 40th Statewide Investigating Grand Jury of the Pennsylvania Supreme Court"
+ parent = "Projects"
+ url = "projects/highlights"
+ weight = 20
 
 [[main]]
   name = "Publications"
