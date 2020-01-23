@@ -10,6 +10,8 @@ Citations extracted from http://w2.vatican.va/content/vatican/en.html and http:/
 
 These charts do not include Scriptural citations. All popes quoted Scripture in their documents; what is not consistent is how they handled those quotes. Some popes provided a citation at the end, and some simply included an in-text citation. As a result, comparing the exact citations will make it look as though certain popes or documents did not use any Scripture. To improve usefulness – that is, to more easily compare citations among papal documents – I have removed Scriptural citations from the final count. 
 
+{{< gallery album="<citation-album>" >}}
+
 ## Pope Francis 
 
 ![](/uploads/pf-cvwithout-2.png)
