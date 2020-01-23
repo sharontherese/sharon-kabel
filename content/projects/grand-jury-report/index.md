@@ -12,4 +12,4 @@ Data visualizations are provided at the beginning of the document to give a broa
 Trends and Patterns, which are my own observations from reading the report. 
 Sections II-V are quotations taken directly from the Grand Jury Report.
 
-* View as a {{% staticref "files/files/Highlights_01-23-2020.pdf" %}}PDF{{% /staticref %}}
+* View as a {{% staticref "files/Highlights_01-23-2020.pdf" %}}PDF{{% /staticref %}}
