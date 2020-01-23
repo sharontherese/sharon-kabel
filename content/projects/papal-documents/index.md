@@ -1,3 +1,9 @@
++++
+title = "Papal Documents"
+toggle = false
+
++++
+
 # Citation sources in papal documents
 
 Citations extracted from http://w2.vatican.va/content/vatican/en.html and http://www.papalencyclicals.net/. All data are in Excel. Contact me if you’d like a copy or if you’ve spotted an error!
