@@ -36,6 +36,12 @@
  parent = "Projects"
  url = "projects/maps"
  weight = 20
+ 
+[[main]]
+ name = "Papal Documents"
+ parent = "Projects"
+ url = "projects/papal-documents"
+ weight = 20
 
 [[main]]
   name = "Publications"
