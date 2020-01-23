@@ -1,10 +1,12 @@
 +++
 gallery1 = [""]
 text = ""
-title = "Highlights of the 40th Statewide Investigating Grand Jury of the Pennsylvania Supreme Court"
+title = "2018 PA Grant Jury Report"
 toggle = false
 
 +++
+
+# Summary of the 2018 PA Grant Jury Report
 
 This document summarizes and visualize key selections from the 1,000+ pages of the 2018 P.A. Grand Jury Report. 
 
