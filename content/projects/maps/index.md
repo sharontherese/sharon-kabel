@@ -6,6 +6,6 @@ This geographic map shows the locations of the monasteries destroyed during the 
 
 # Doctors of the Church
  
- This timelapse map shows where the Doctors of the Church were from. 
+ This timelapse map shows the birthplaces of the Doctors of the Church. 
  
  <iframe width="100%" height="520" frameborder="0" src="https://mmesosostris.carto.com/viz/f5d3ad72-9ade-11e6-a5d2-0ecd1babdde5/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
