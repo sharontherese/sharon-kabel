@@ -1,3 +1,14 @@
++++
+gallery1 = [""]
+text = ""
+title = "Dies Irae"
+toggle = false
+aliases = [
+    "/projects/dies-irae",
+]
+
++++
+
 The Dies Irae is considered by many to be not only the greatest [sequence](https://www.fisheaters.com/diesirae.html), but the greatest Latin poem in history. There are hundreds of translations and commentaries on the chant.
 
 One of the best commentaries is the book, _Dies Irae_, by Fr. Nicholas Gihr.
