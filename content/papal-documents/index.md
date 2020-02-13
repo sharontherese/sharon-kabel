@@ -1,6 +1,9 @@
 +++
 title = "Papal Documents"
 toggle = false
+aliases = [
+    "/projects/papal-documents",
+]
 
 +++
 
