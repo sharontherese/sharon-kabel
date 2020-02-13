@@ -1,15 +1,13 @@
 +++
 gallery1 = [""]
 text = ""
-title = "2018 PA Grant Jury Report"
+title = "Summary of the 2018 PA Grant Jury Report"
 toggle = false
 aliases = [
     "/projects/grand-jury-report",
 ]
 
 +++
-
-# Summary of the 2018 PA Grant Jury Report
 
 This document summarizes and visualize key selections from the 1,000+ pages of the 2018 P.A. Grand Jury Report. 
 
