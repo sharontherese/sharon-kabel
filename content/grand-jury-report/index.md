@@ -3,6 +3,9 @@ gallery1 = [""]
 text = ""
 title = "2018 PA Grant Jury Report"
 toggle = false
+aliases = [
+    "/projects/grand-jury-report",
+]
 
 +++
 
