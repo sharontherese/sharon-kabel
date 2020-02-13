@@ -3,6 +3,9 @@ gallery1 = [""]
 text = ""
 title = "Credibly Accused"
 toggle = false
+aliases = [
+    "/projects/credibly-accused",
+]
 
 +++
 
