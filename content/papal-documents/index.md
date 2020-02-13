@@ -7,11 +7,13 @@ aliases = [
 
 +++
 
+This is an ongoing project that looks at papal documents, what they cite, and how long they are. 
+
+I used the versions of papal documents as found on [the Vatican's website](http://w2.vatican.va/content/vatican/en.html) and [Papal Encyclicals](http://www.papalencyclicals.net/). All data are in Excel. Contact me if you’ve spotted an error!
+
 # Citation sources in papal documents
 
-Citations extracted from [the Vatican's website](http://w2.vatican.va/content/vatican/en.html) and [Papal Encyclicals](http://www.papalencyclicals.net/). All data are in Excel. Contact me if you’d like a copy or if you’ve spotted an error!
-
-These charts do not include Scriptural citations. All popes quoted Scripture in their documents; what is not consistent is how they handled those quotes. Some popes provided a citation at the end, and some simply included an in-text citation. As a result, comparing the exact citations will make it look as though certain popes or documents did not use any Scripture. To improve usefulness – that is, to more easily compare citations among papal documents – I have removed Scriptural citations from the final count. 
+These charts do not include Scriptural citations. All popes reference Scripture in their writings. What varies is how the pontiffs handled those references. Some provided a citation at the end, and some simply included an in-text citation. As a result, comparing the exact citations will make it look as though certain popes or documents did not use any Scripture. To improve both fairness and usefulness – that is, to more easily compare citations among papal documents – I have removed Scriptural citations from the final count. 
 
 ## Pope Francis 
 
