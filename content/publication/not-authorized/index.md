@@ -25,9 +25,9 @@ tags:
 - Source Themes
 featured: false
 
-# links:
+links:
 # - name: ""
-url: http://onepeterfive.com/not-authorized-death-mass/
+url: https://onepeterfive.com/not-authorized-death-mass/
 url_pdf: 
 url_code: ''
 url_dataset: ''
