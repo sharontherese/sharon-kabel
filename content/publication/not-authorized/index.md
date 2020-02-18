@@ -26,8 +26,8 @@ tags:
 featured: false
 
 links:
-# - name: ""
-url: www.onepeterfive.com/not-authorized-death-mass/
+ - name: "View"
+   url: www.onepeterfive.com/not-authorized-death-mass/
 url_pdf: 
 url_code: ''
 url_dataset: ''
