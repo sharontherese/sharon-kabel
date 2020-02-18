@@ -27,7 +27,7 @@ featured: false
 
 links:
 # - name: ""
-url: https://onepeterfive.com/not-authorized-death-mass/
+url: http://onepeterfive.com/not-authorized-death-mass/
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -59,12 +59,4 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
