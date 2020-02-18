@@ -1,28 +1,25 @@
 ---
-title: "Not Authorized"
+title: "Not Authorized: The Untold Story of the Death of the Old Mass"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+date: "2019-08-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "OnePeterFive"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Although it is now frequently claimed that the traditional Latin Mass (TLM) was never abrogated (totally abolished) following the Second Vatican Council, this position is squarely at odds not only with the lived experience of several generations of Catholics, but with the rapid and near total disappearance of the TLM within a brief period of time.
 
 tags:
 - Source Themes
@@ -30,8 +27,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url: https://onepeterfive.com/not-authorized-death-mass/
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -43,7 +40,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
