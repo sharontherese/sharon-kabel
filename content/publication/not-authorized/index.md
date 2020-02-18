@@ -25,7 +25,7 @@ tags:
 - publications
 featured: false
 
-# links:
+  links:
 # - name: ""
    url: "https://onepeterfive.com/not-authorized-death-mass/"
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
