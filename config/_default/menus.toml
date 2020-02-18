@@ -10,32 +10,8 @@
 
 [[main]]
   name = "Projects"
-  url = "Projects"
+  url = "#Projects"
   weight = 20
-  
-[[main]]
- name = "Credibly Accused"
- parent = "Projects"
- url = "credibly-accused"
- weight = 20
- 
- [[main]]
- name = "Dies Irae"
- parent = "Projects"
- url = "dies-irae"
- weight = 20
- 
-[[main]]
- name = "2018 PA Grant Jury Report"
- parent = "Projects"
- url = "grand-jury-report"
- weight = 20
- 
-[[main]]
- name = "Papal Documents"
- parent = "Projects"
- url = "papal-documents"
- weight = 20
 
 [[main]]
   name = "Publications"
