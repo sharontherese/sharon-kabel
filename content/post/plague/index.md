@@ -15,9 +15,9 @@ header:
 
 > “When a severe plague was raging in the city of Trent in 1546, it is reported that the fathers of the Council of Trent devoutly wore certain characters arranged in the form of a cross collected by S. Zacharias, ancient Bishop of Jerusalem. In fact, they found that wearing and venerating these characters as signs of various devout ancient and spontaneous prayers to ward off the evil of contagion (as described by their explanation), was an advantageous remedy against the plague. These characters were written down on parchment in ancient times by the sainted bishop, and then found in the Monastery of Frailes in Spain, and placed in veneration with an admirable effect by devout people, who paid tribute to them, brought them back, and said the prayers.”
 
-> _Il tesoro nascosto manifestato per la miracolosa invenzione di S. Maria della Sanita': venerata nel soccorpo di sua Chiesa in Napoli, con la memoria de' SS. Martiri ivi esistenti_" by Raffaele Corvino (1831). [Google Books](books.google.com/books?id=VI_qvCq3nX0C&pg=PA97#v=onepage&q&f=false); [Worldcat](http://www.worldcat.org/oclc/867495900). Translated by [Fr. Alex Schrenk, March 8, 2020](https://threadreaderapp.com/thread/1236770869621460995.html).
+> _Il tesoro nascosto manifestato per la miracolosa invenzione di S. Maria della Sanita': venerata nel soccorpo di sua Chiesa in Napoli, con la memoria de' SS. Martiri ivi esistenti_" by Raffaele Corvino (1831). [Google Books](books.google.com/books?id=VI_qvCq3nX0C&pg=PA97#v=onepage&q&f=false); [Worldcat](http://www.worldcat.org/oclc/867495900). Translated by [Fr. Alek Schrenk, March 8, 2020](https://threadreaderapp.com/thread/1236770869621460995.html).
 
-On March 8,2020, Father Alex Schrenk posted on Twitter about a prayer in the time of plague likely approved by the Council of Trent. 
+On March 8,2020, Father Alek Schrenk posted on Twitter about a prayer in the time of plague likely approved by the Council of Trent. 
 
 The prayer, in Latin and in English, have now been reformatted into a booklet. There are three versions of the booklet, with different cover art options.
 
