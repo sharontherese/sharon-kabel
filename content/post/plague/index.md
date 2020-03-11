@@ -9,8 +9,8 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "[A plague cross with St. Sebastian, St. Roch and St. John Nep Wellcome](https://commons.wikimedia.org/wiki/File:A_plague_cross_with_St._Sebastian,_St._Roch_and_St._John_Nep_Wellcome_V0033364.jpg)"
+  image: "plague.jpg"
 ---
 
 > “When a severe plague was raging in the city of Trent in 1546, it is reported that the fathers of the Council of Trent devoutly wore certain characters arranged in the form of a cross collected by S. Zacharias, ancient Bishop of Jerusalem. In fact, they found that wearing and venerating these characters as signs of various devout ancient and spontaneous prayers to ward off the evil of contagion (as described by their explanation), was an advantageous remedy against the plague. These characters were written down on parchment in ancient times by the sainted bishop, and then found in the Monastery of Frailes in Spain, and placed in veneration with an admirable effect by devout people, who paid tribute to them, brought them back, and said the prayers.”
