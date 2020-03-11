@@ -9,7 +9,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "[A plague cross with St. Sebastian, St. Roch and St. John Nep Wellcome](https://commons.wikimedia.org/wiki/File:A_plague_cross_with_St._Sebastian,_St._Roch_and_St._John_Nep_Wellcome_V0033364.jpg)"
+  caption: "[Prayer in Latin, for prevention from the plague Wellcome L0063751](https://commons.wikimedia.org/wiki/File:Prayer_in_Latin,_for_prevention_from_the_plague_Wellcome_L0063751.jpg)"
   image: "plague.jpg"
 ---
 
