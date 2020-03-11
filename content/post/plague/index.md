@@ -1,5 +1,5 @@
 ---
-title: Plague
+title: Prayer in the Time of Plague
 
 # View.
 #   1 = List
