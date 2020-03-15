@@ -17,7 +17,7 @@ header:
 
 > _Il tesoro nascosto manifestato per la miracolosa invenzione di S. Maria della Sanita': venerata nel soccorpo di sua Chiesa in Napoli, con la memoria de' SS. Martiri ivi esistenti_" by Raffaele Corvino (1831). [Google Books](books.google.com/books?id=VI_qvCq3nX0C&pg=PA97#v=onepage&q&f=false); [Worldcat](http://www.worldcat.org/oclc/867495900). Translated by [Fr. Alek Schrenk, March 8, 2020](https://threadreaderapp.com/thread/1236770869621460995.html).
 
-On March 8,2020, Father Alek Schrenk posted on Twitter about a prayer in the time of plague likely approved by the Council of Trent. 
+On March 8,2020, Father Alek Schrenk posted on Twitter about a prayer in the time of plague likely approved by the Council of Trent. The prayer also appears in old prayer books, such as [_Locupletissimus thesaurus: continens varias, et selectissimas benedictiones, conjurationes, exorcismos, absolutiones, ritus..._](https://books.google.com/books?id=Wp9hAAAAcAAJ) from 1782 (see page 125). 
 
 The prayer, in Latin and in English, have now been reformatted into a booklet. There are three versions of the booklet, with different cover art options.
 
