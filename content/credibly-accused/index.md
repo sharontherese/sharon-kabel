@@ -20,12 +20,17 @@ I looked for three things:
 
 The project is ongoing. You can see the project in several places:
 * View below
-* View as a {{% staticref "files/files/credibly accused by state 02-18-2020.pdf" %}}PDF{{% /staticref %}}
+* View as a {{% staticref "files/files/credibly accused by state 03-18-2020.pdf" %}}PDF{{% /staticref %}}
 * View as a [Flickr album](https://www.flickr.com/photos/186519630@N06/albums/72157712699057908)
 * View as a [Facebook album](https://www.facebook.com/pg/SharonKabel2/photos/?tab=album&album_id=2409345026043319)
 
+3/18/20: 30 of 50 states posted
+
 ![](/uploads/credibly-accused/alabama.png)
+![](/uploads/credibly-accused/alaska.png)
 ![](/uploads/credibly-accused/arkansas.png)
+![](/uploads/credibly-accused/colorado.png)
+![](/uploads/credibly-accused/connecticut.png)
 ![](/uploads/credibly-accused/delawaremaryland.png)
 ![](/uploads/credibly-accused/georgia.png)
 ![](/uploads/credibly-accused/hawaii.png)
@@ -33,14 +38,21 @@ The project is ongoing. You can see the project in several places:
 ![](/uploads/credibly-accused/maine.png)
 ![](/uploads/credibly-accused/mississippi.png)
 ![](/uploads/credibly-accused/montana.png)
+![](/uploads/credibly-accused/nebraska.png)
 ![](/uploads/credibly-accused/nevada.png)
 ![](/uploads/credibly-accused/newhampshire.png)
 ![](/uploads/credibly-accused/northcarolina.png)
 ![](/uploads/credibly-accused/northdakota.png)
+![](/uploads/credibly-accused/oklahoma.png)
+![](/uploads/credibly-accused/oregon.png)
 ![](/uploads/credibly-accused/rhodeisland.png)
 ![](/uploads/credibly-accused/southcarolina.png)
+![](/uploads/credibly-accused/southdakota.png)
+![](/uploads/credibly-accused/tennessee.png)
 ![](/uploads/credibly-accused/utah.png)
 ![](/uploads/credibly-accused/vermont.png)
+![](/uploads/credibly-accused/virginia.png)
 ![](/uploads/credibly-accused/washingtondc.png)
+![](/uploads/credibly-accused/washingtonstate.png)
 ![](/uploads/credibly-accused/westvirginia.png)
 ![](/uploads/credibly-accused/wyoming.png)
