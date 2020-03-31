@@ -18,9 +18,5 @@ A few years ago, I discovered a photograph album of hers in our garage. The pape
 
 She called her album, _Studies in Art (after Rembrandt, Whistler, Turner, Miller, etc.)_, so that's the title I will use for the album.
 
-Completed: 
-* View {{% staticref "files/Elinor - album.pdf" %}} _Studies in Art_ [PDF]{{% /staticref %}}
-
 Ongoing: 
-* View {{% staticref "files/Elinor - album with comments 03-31-2020.pdf" %}} _Studies in Art_ *with comments* [PDF]{{% /staticref %}}
-* scanning the album photographs
+* View {{% staticref "files/Elinor - album with comments 03-31-2020.pdf" %}} _Studies in Art_ with comments [PDF]{{% /staticref %}}
