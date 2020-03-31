@@ -1,8 +1,8 @@
 ---
-title: "Bible Vigils: Guest Article"
+title: "“May Your Kids Always Like You”: Subtle Changes in the Rite of Marriage"
 authors:
 - admin
-date: "2019-10-08T00:00:00Z"
+date: "2020-03-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication: "OnePeterFive"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: Bible vigils were a Catholic phenomenon of the 1960s. They were called by a variety of names, “Bible vigil” being the most common but also “Bible” or “Biblical” “ritual, service, devotion”, “celebration of the Word”, and most confusingly, sometimes used synonymously with Vespers. 
+summary: The Rite of Marriage was codified in the 1614–15 Rituale Romanum by the Council of Trent. The 1962 Rite of Marriage is identical to the one found in the 1615 Rituale and is spartan.
 tags:
 - Source Themes
 featured: false
