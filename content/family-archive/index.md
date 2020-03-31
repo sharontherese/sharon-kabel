@@ -10,7 +10,7 @@ This project is a makeshift family archive. I am preserving some fragile and/or 
 
 The project is ongoing, and will be updated regularly. 
 
-# Elinor Bolger (nee Parks) 
+## Elinor Bolger (nee Parks) 
 
 Elinor Bolger is my paternal grandmother. I first started collecting records about her when I discovered that her alma mater, St. Joseph's College in Brooklyn, NY, had digitized and made freely available all of their students yearbooks, literary magazines, and alumnae newsletters. 
 
