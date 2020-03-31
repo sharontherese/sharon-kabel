@@ -3,7 +3,6 @@ gallery1 = [""]
 text = ""
 title = "The Family Archive"
 toggle = false
-aliases = [""]
 
 +++
 
