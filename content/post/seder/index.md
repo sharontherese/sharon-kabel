@@ -45,7 +45,7 @@ Activity increased in 1964, with both St. Mary's in Bethel, Connecticut[^5] and 
 
 ![](/uploads/seder/CTR19640407.png)
 
-In 1965, there is a column on the Catholic Herald on how to celebrate a Seder meal.[^7] The write refers to it as a "Paschal meal," a search term I deliebrately avoided for fear of too many false drops. However, there is a lull in mentions of actual celebrations of Seders. 
+In 1965, there is a column on the Catholic Herald on how to celebrate a Seder meal.[^7] The writer refers to it as a "Paschal meal," a search term I deliebrately avoided for fear of too many false drops. However, there is a lull in mentions of actual celebrations of Seders. 
 
 1966 compensates for this lull, with a half-page spread of Seder meal instruction at Ursuline Academy, New Orleans, Louisiana[^8]. The article notes that, "Many religious teachers have said they would like to have a Seder demonstration in their schools," suggesting that the practice was new and increasingly popular. St. Michael's, Union City, New Jersey, reenacted a Seder meal (the photo is next to a bizarre-sounding article about an experimental 'Amsterdam Mass' by Dutch Jesuits.)[^9]
 
