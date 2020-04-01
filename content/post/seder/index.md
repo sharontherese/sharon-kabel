@@ -37,7 +37,7 @@ Then, there is nothing of note until 1962, when St. Patrick Catholic Church of W
 
 ![](/uploads/seder/TCA19620411.jpg)
 
-Seminarians at St. John's Seminary, Little Rock, Arkansas held the next reported-on Seder meal, in 1963[^3]. The photo below is of Father James Drane leading the Seder, in a prayer shawl.[^4] Father Drane was 4 years later, in [July 1967](https://www.arkansas-catholic.org/news/article/2697) for his [controversial support of artificial birth control](https://sites.allegheny.edu/news/2009/01/19/annual-lehman-lecture-to-explore-medicine-a-profession-in-danger/).
+Seminarians at St. John's Seminary, Little Rock, Arkansas held the next reported-on Seder meal, in 1963[^3]. The photo below is of Father James Drane leading the Seder, in a prayer shawl.[^4] Father Drane was defrocked a few years later for his [controversial support of artificial birth control](https://sites.allegheny.edu/news/2009/01/19/annual-lehman-lecture-to-explore-medicine-a-profession-in-danger/).
 
 ![](/uploads/seder/TCA19630411.png)
 
