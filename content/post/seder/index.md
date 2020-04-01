@@ -8,9 +8,9 @@ title: Seder Meals in Catholic Newspapers
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: "[Prayer in Latin, for prevention from the plague Wellcome L0063751](https://commons.wikimedia.org/wiki/File:Prayer_in_Latin,_for_prevention_from_the_plague_Wellcome_L0063751.jpg)"
-  image: "plague.jpg"
+header:  
+  caption: "[Catholic children to study Passover. Clarion Herald, 24 March 1966.](https://thecatholicnewsarchive.org/?a=d&d=cher19660324-01.1.20&srpos=10)"
+  image: "sederheader.png"
 ---
 
 This is the first post in an ongoing series, documenting assorted topics as they appear in Catholic Newspapers in the [Catholic News Archive](https://thecatholicnewsarchive.org/). How was the topic described? When did it peak in usage? Did its connotations or associations for Catholics change over time?  
@@ -37,19 +37,43 @@ Then, there is nothing of note until 1962, when St. Patrick Catholic Church of W
 
 ![](/uploads/seder/TCA19620411.jpg)
 
-Seminarians at St. John's Seminary, Little Rock, Arkansas held the next reported-on seder meal, in 1963[3].
+Seminarians at St. John's Seminary, Little Rock, Arkansas held the next reported-on seder meal, in 1963[3]. The photo below is of Father James Drane leading the seder, in a prayer shawl.[44] Father Drane was 4 years later, in [July 1967](https://www.arkansas-catholic.org/news/article/2697) for his [controversial support of artificial birth control](https://sites.allegheny.edu/news/2009/01/19/annual-lehman-lecture-to-explore-medicine-a-profession-in-danger/).
+
+![](/uploads/seder/TCA19630411.png)
 
 Activity increased in 1964, with both St. Mary's in Bethel, Connecticut[4] and Stamford Catholic High School in Stamford, New York[5] celebrating seders. The former article notes that elements of the seder meal are, "not ceremonies designed by Christ," and the latter concluded their seder meal with a Catholic Mass - the first to do so in our results. 
 
 ![](/uploads/seder/CTR19640407.png)
 
-By 1965, there is a column on the Catholic Herald on how to celebrate a seder meal.[^6] The write refers to it as a "Paschal meal," a search term I deliebrately avoided for fear of too many false drops.
+In 1965, there is a column on the Catholic Herald on how to celebrate a seder meal.[^6] The write refers to it as a "Paschal meal," a search term I deliebrately avoided for fear of too many false drops. However, there is a lull in mentions of actual celebrations of seders. 
+
+1966 compensates for this lull, with a half-page spread of seder meal instruction at Ursuline Academy, New Orleans, Louisiana[7]. The article notes that, "Many religious teachers have said they would like to have a Seder demonstration in their schools," suggesting that the practice was new and increasingly popular. St. Michael's, Union City, New Jersey, reenacted a seder meal (the photo is next to a bizarre-sounding article about an experimental 'Amsterdam Mass' by Dutch Jesuits.)[8]
+
+The Sisters of Notre Dame, Wilton, Conecticut, held a seder in 1967 with Father Edmund C. O'Connell "taking part."[9]
+
+![](/uploads/seder/CHER19660324.png)
+
+Then, there is nothing for several years, until two references in 1973. A 1973 article covers a speech by Father Benjamin Nunez, Costa Rican ambassador to Israel, on Jesus' Jewishness and, "what we call the Last Supper, was actually called the Last Seder (Jewish passover meal) for Him, before he changed His mission."[10] The same year, in a separate speech, Fr. Nunez criticized Pope Pius XII's ["silence during the Holocaust"](https://www.jta.org/1973/12/27/archive/a-catholic-priest-the-rev-benjamin-nunez-criticized). Elsewhere, Our Lady of Mount Carmel, Hamden, Connecticut, featured in an extensive article on seder meal education and celebrations.[11]
+
+![](/uploads/seder/TCT19730427.jpg)
+
+The final reference to Catholic celebrations of seder meals is a group of religious sisters in New Castle, Pennsylvania, in 1975.[12] Mass was offered beforehand, by Father Nicholas Dattilo - future Bishop of Harrisburg. 
+
+The _final_ final reference to seder meals in the Catholic News Archive is a long article about Passover Week and Holy Week in The Catholic Worker in 2001.[13]
 
 ## Newspaper articles of note
 
 [^1]: Korean dispatch describing dinner by rabbi as inter-faith service in error, priest says. Catholic News Service - Newsfeeds, 28 May 1951. https://thecatholicnewsarchive.org/?a=d&d=cns19510528-01.1.108&srpos=2.
 [^2]: 'Seder' recalls ancient ties. The Catholic Advocate, Volume 11, Number 17, 19 April 1962. https://thecatholicnewsarchive.org/?a=d&d=ca19620419-01.2.49&srpos=2.
 [^3]: Catholic seminarians enact seder, Jewish Passover meal. Catholic News Service - Newsfeeds, 8 April 1963. https://thecatholicnewsarchive.org/?a=d&d=cns19630408-01.1.92&srpos=3
-[^4]: Passover meal, seder held for Bethel parish members. Catholic Transcript, Volume LXVI, Number 49, 2 April 1964. https://thecatholicnewsarchive.org/?a=d&d=CTR19640402-01.2.79&srpos=4
+[^44]: Photo: Seder supper. The Catholic Advocate, Volume 12, Number 16, 11 April 1963. https://thecatholicnewsarchive.org/?a=d&d=ca19630411-01.2.107&srpos=1.
+[^4]: Passover meal, seder held for Bethel parish members. Catholic Transcript, Volume LXVI, Number 49, 2 April 1964. https://thecatholicnewsarchive.org/?a=d&d=CTR19640402-01.2.79&srpos=4.
 [^5]: Seder demonstration at Stamford High. Catholic Transcript, Volume LXVII, Number 29, 12 November 1964. https://thecatholicnewsarchive.org/?a=d&d=CTR19641112-01.2.79&srpos=5.
 [^6]: Paschal meal is traditional rite. Clarion Herald, 8 April 1965. https://thecatholicnewsarchive.org/?a=d&d=cher19650408-01.1.11&srpos=8
+[^7]: Catholic children to study Passover. Clarion Herald, 24 March 1966. https://thecatholicnewsarchive.org/?a=d&d=cher19660324-01.1.20&srpos=10
+[^8]: Photo: The Passover. The Catholic Advocate, Volume 15, Number 17, 14 April 1966. https://thecatholicnewsarchive.org/?a=d&d=ca19660414-01.2.90&srpos=12
+[^9]: Sisters in Wilton take part in seder. Catholic Transcript, Volume LXIX, Number 52, 21 April 1967. https://thecatholicnewsarchive.org/?a=d&d=CTR19670421-01.2.68&srpos=13.
+[^10]: Catholic priest, former Costa Rican envoy, says faith in Jesus increased here. Catholic News Service - Newsfeeds, 1 March 1973. https://thecatholicnewsarchive.org/?a=d&d=cns19730301-01.1.22&srpos=1. 
+[^11]: Traditional Jewish 'Seder' is observed by parish. Catholic Transcript, Volume LXVI, Number 1, 27 April 1973. https://thecatholicnewsarchive.org/?a=d&d=CTR19730427-01.2.65&srpos=19
+[^12]: Photo: Lawrence Deanery Sisters. Pittsburgh Catholic, Volume 123, Number 5, 28 March 1975. https://thecatholicnewsarchive.org/?a=d&d=TPC19750328-01.2.62&srpos=24.
+[^13]: Neither light extinguished. The Catholic Worker, Volume LXVIII, Number 4, 1 June 2001. https://thecatholicnewsarchive.org/?a=d&d=CW20010601-01.2.11&srpos=30.
