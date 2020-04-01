@@ -20,3 +20,9 @@ She called her album, _Studies in Art (after Rembrandt, Whistler, Turner, Miller
 
 Ongoing: 
 * View {{% staticref "files/Elinor - album with comments 03-31-2020.pdf" %}} _Studies in Art_ with comments [PDF]{{% /staticref %}}
+
+Research sources:
+* [Footprints](https://archive.org/details/mcentegarthall?and%5B%5D=footprints&sin=) (St. Joseph's College Yearbook)
+* [Loria](https://archive.org/details/mcentegarthall?and%5B%5D=alumnagram&sin=)
+* [Alumnaegram](https://archive.org/details/mcentegarthall?and%5B%5D=alumnagram&sin=)
+* [oldnyc](https://www.oldnyc.org/)
