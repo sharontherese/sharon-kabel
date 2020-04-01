@@ -19,7 +19,8 @@ A few years ago, I discovered a photograph album of hers in our garage. The pape
 She called her album, _Studies in Art (after Rembrandt, Whistler, Turner, Miller, etc.)_, so that's the title I will use for the album.
 
 Ongoing: 
-* View {{% staticref "files/Elinor - album with comments 03-31-2020.pdf" %}} _Studies in Art_ with comments [PDF]{{% /staticref %}}
+* View {{% staticref "files/Elinor - album with comments 03-31-2020.pdf" %}} _Studies in Art_, with my comments [PDF]{{% /staticref %}}
+* View [_Studies in Art_](https://drive.google.com/open?id=120mfI7QC20cm5hsDqgHxecq78Pk0a24K), just the photos [Google Drive]
 
 Research sources:
 * [Footprints](https://archive.org/details/mcentegarthall?and%5B%5D=footprints&sin=) (St. Joseph's College Yearbook)
