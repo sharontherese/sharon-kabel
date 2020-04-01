@@ -9,8 +9,8 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:  
-  caption: "[Catholic children to study Passover. Clarion Herald, 24 March 1966.](https://thecatholicnewsarchive.org/?a=d&d=cher19660324-01.1.20&srpos=10)"
-  image: "sederheader.png"
+  caption: "[Seder supper. The Catholic Advocate, Volume 12, Number 16, 11 April 1963.](https://thecatholicnewsarchive.org/?a=d&d=ca19630411-01.2.107&srpos=1)"
+  image: "sederheader2.jpg"
 ---
 
 This is the first post in an ongoing series, documenting assorted topics as they appear in Catholic Newspapers in the [Catholic News Archive](https://thecatholicnewsarchive.org/). How was the topic described? When did it peak in usage? Did its connotations or associations for Catholics change over time?  
