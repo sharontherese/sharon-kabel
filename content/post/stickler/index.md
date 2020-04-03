@@ -21,7 +21,7 @@ In one example, the story goes:
 
 Cursory Google checks reveal no further detail or even corroboration of this dramatic scene. So, as an exercise in Catholic fact-checking, I started with newspapers in the hope of finding a contemporary account. 
 
-# Methods 
+# Round 1 
 
 I searched the [Catholic News Archive](https://thecatholicnewsarchive.org/) for: 
 
@@ -50,7 +50,7 @@ Extracting ourselves from the web of midcentury Catholic historical minutiae, we
 
 The Catholic News Archive can take me no further, except for an interesting reference to the fact that the votes at the 1846 Council of Baltimore were signed on the altar [^9].
 
-# Methods, round 2
+# Round 2
 
 I searched Google for various combinations of "veterum sapientia," "signed," and "altar." The winning combination was: 
 
@@ -66,13 +66,13 @@ Michael E. Woods, Jr. provides an English translation of Cardinal Stickler's ess
 
 > As an expert on the commission for the seminaries, I was entrusted with the question of the Latin language. It proved to be brief and concise and after lengthy discussion was brought to a form which complied with the wishes of all members and was ready for presentation in the Council hall. Then, in an unexpected solemnity, Pope John XXIII signed the Apostolic Letter Veterum Sapientia on the altar of St. Peter. [^11]
 
-This is the earliest reference I can find to this anecdote. 
+This is the earliest and best evidence I can find for this anecdote. 
 
 # Postscript 
 
 A quick search for Stickler retrieves two interviews demonstrating his scholarly [^12] reputation [^13] (the former found thanks to a finding aid in the Catholic News Archive's companion, the Catholic Portal [^14]).
 
-And, as a final adventure, a search for Jones, Jr. (the translator of the key article) retrieves an entertaining editorial Jones wrote in the Wall Street Journal against Father Andrew Greeley[^16] - a good place to round out this constellation of curious Catholic figures.
+And, as a final adventure, a search for Jones, Jr. (the translator of the key article) retrieves an entertaining editorial Jones wrote in the Wall Street Journal against Father Andrew Greeley [^15] - a good place to round out this constellation of curious Catholic figures.
 
 # Sources
 
