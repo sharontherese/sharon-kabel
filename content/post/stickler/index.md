@@ -1,5 +1,5 @@
 ---
-title: The Promulgation of Veterum Sapientia
+title: Veterum Sapientia and High Altars
 
 # View.
 #   1 = List
@@ -9,8 +9,8 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "['Pope John reconfirms Latin as Church's official language.' Pittsburgh Catholic, 1962-03-01](https://thecatholicnewsarchive.org/?a=d&d=TPC19620301-01.1.1&srpos=1)"
+  image: "sticklerheader.jpg"
 ---
 
 There is an anecdote that circulates in the Catholic blogosphere about the promulgation of Pope John XXIII's apostolic constitution _Veterum Sapientia_. 
@@ -45,7 +45,7 @@ Extracting ourselves from the web of midcentury Catholic historical minutiae, we
 
 The Catholic News Archive can take me no further, except for an interesting reference to the fact that the votes at the 1846 Council of Baltimore were signed on the altar[^9].
 
-## Methods, round 2
+# Methods, round 2
 
 I searched Google for various combinations of "veterum sapientia," "signed," and "altar." The winning combination was: 
 
@@ -53,15 +53,21 @@ I searched Google for various combinations of "veterum sapientia," "signed," and
 
 That retrieved a article from Latin Mass Magazine that appears to be the origin of this story. 
 
+# Results
+
 The 1999 article, "Recollections of a Vatican II Peritus," is an English translation of a 1997 German essay by Alfons Cardinal Stickler, Archivist, Librarian, and one of the nine cardinals on Pope Saint John Paul II's Pontifical Commission _Ecclesia Dei_. 
 
 Cardinal Stickler's essay originally appeared in, Franz Breid's _Die heilige Liturgie_[^10], and was originally titled "Erinnerungen und Erfahrungen eines Konzilsperitus der Liturgiekommission." Thanks to Michael E. Woods, Jr.'s translation, we can find the pertinent quotation from Cardinal Stickler:
 
 > As an expert on the commission for the seminaries, I was entrusted with the question of the Latin language. It proved to be brief and concise and after lengthy discussion was brought to a form which complied with the wishes of all members and was ready for presentation in the Council hall. Then, in an unexpected solemnity, Pope John XXIII signed the Apostolic Letter Veterum Sapientia on the altar of St. Peter.[^11]
 
-This is the earliest reference I can find to this anecdote. A quick search for Stickler retrieves two interviews demonstrating his scholarly[^12] reputation[^13] (the former found thanks to a finding aid in the Catholic News Archive's companion, the Catholic Portal[^14]).
+This is the earliest reference I can find to this anecdote. 
 
-And, as a final adventure, a search for Michael E. Jones, Jr. (the translator of the key article) retrieves his book, _The church confronts modernity: Catholic intellectuals and the progressive era_ (which provided me with the English translation of the _title_ of Stickler's essay, and an entertaining editorial Jones wrote in the Wall Street Journal against Father Andrew Greeley[^16]. 
+# Postscript 
+
+A quick search for Stickler retrieves two interviews demonstrating his scholarly[^12] reputation[^13] (the former found thanks to a finding aid in the Catholic News Archive's companion, the Catholic Portal[^14]).
+
+And, as a final adventure, a search for Michael E. Jones, Jr. (the translator of the key article) retrieves his book, _The church confronts modernity: Catholic intellectuals and the progressive era_ (which provided me with the English translation of the _title_ of Stickler's essay, and an entertaining editorial Jones wrote in the Wall Street Journal against Father Andrew Greeley[^16] - a good place to round out this constellation of curious Catholic figures.
 
 # Sources
 
