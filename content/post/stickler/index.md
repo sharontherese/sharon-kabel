@@ -62,7 +62,7 @@ That retrieved a article from Latin Mass Magazine that appears to be the origin 
 
 Alfons Cardinal Stickler wrote an essay, "Erinnerungen und Erfahrungen eines Konzilsperitus der Liturgiekommission" in Franz Breid's 1997 conference proceedings _Die heilige Liturgie_ [^10]. Cardinal Stickler was Vatican Archivist, Librarian, and one of the nine cardinals on Pope Saint John Paul II's Pontifical Commission _Ecclesia Dei_. 
 
-Michael E. Woods, Jr. provides an English translation of Cardinal Stickler's essay, which ran in the Winter 1999 issue of Latin Mass Magazine,and which appeared in my search results. The pertinent quotation from Cardinal Stickler is:
+Thomas E. Woods, Jr. provides an English translation of Cardinal Stickler's essay, which ran in the Winter 1999 issue of Latin Mass Magazine,and which appeared in my search results. The pertinent quotation from Cardinal Stickler is:
 
 > As an expert on the commission for the seminaries, I was entrusted with the question of the Latin language. It proved to be brief and concise and after lengthy discussion was brought to a form which complied with the wishes of all members and was ready for presentation in the Council hall. Then, in an unexpected solemnity, Pope John XXIII signed the Apostolic Letter Veterum Sapientia on the altar of St. Peter. [^11]
 
@@ -90,4 +90,4 @@ And, as a final adventure, a search for Jones, Jr. (the translator of the key ar
 [^12]: Tierney, Brian. "Infallibility and the Medieval Canonists: A Discussion with Alfons Stickler." The Catholic Historical Review 61, no. 2 (1975): 265-73. www.jstor.org/stable/25019677
 [^13]: Ward, Roberta. "The Vatican Library - precious things for all peoples." Catholic News Service 1975-10-02. https://thecatholicnewsarchive.org/?a=d&d=cns19751002-01.1.22&srpos=2
 [^14]: Richard P. McBrien Papers: Guide. University of Notre Dame Archives. https://vufind.catholicresearch.org/vufind/Record/unaead_W91Lba
-[^15]: Jones, Michael E., Jr. "The Wondrous vs. the banal." Wall Street Journal, 1997-05-05. https://www.wsj.com/articles/SB862766555571113000
+[^15]: Jones, Thomas E., Jr. "The Wondrous vs. the banal." Wall Street Journal, 1997-05-05. https://www.wsj.com/articles/SB862766555571113000
