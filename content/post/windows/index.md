@@ -81,4 +81,4 @@ The Catholic Church and the Chicago Parliaments of Religions." https://tspace.li
 [^16]: Yzermans, Vincent A. 1962. "Pope John's Council." American Benedictine Review, 13:4, p. 550-557. https://babel.hathitrust.org/cgi/pt?id=mdp.39015025941975&view=1up&seq=594
 [^17]: John. 1963. Pope John's Council. [Place of publication not identified]: [publisher not identified].
 [^18]: "Assignment Record– Rev. Vincent Arthur "Fr. Art" Yzermans." BishopAccountability. http://www.bishopaccountability.org/Yzermans_Vincent_Arthur.htm
-[^19]: "U.S. Bishops wanted freedom of religion in pluralistic society defined at council, editor says." February 11, 1963. Catholic News Service. https://thecatholicnewsarchive.org/?a=d&d=cns19630211-01.1.129&srpos=8&e=------196-en-20--1-byDA-txt-txIN-%22fresh+air%22+%22window%22------
+[^19]: "U.S. Bishops wanted freedom of religion in pluralistic society defined at council, editor says." February 11, 1963. Catholic News Service. https://thecatholicnewsarchive.org/?a=d&d=cns19630211-01.1.129&srpos=8
