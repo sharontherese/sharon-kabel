@@ -23,41 +23,43 @@ This anecdote, unlike others I've researched, has the distinction of being refer
 
 I am not the first to question the authenticity of this quotation. 
 
-Paul Collins in 2018 wrote, "Unfortunately, John XXIII probably never said that he wanted 'to throw open the windows of the Church to let in fresh air," which is sad because it is such a vivid image".[^6] Just as unfortunately, Collins never explains why. 
-
 As mentioned above, Oxford University Press settles for calling the quotation "attributed." 
 
-The no-loner-updated blog Casa Santa Lidia argues that John XXIII never said the quotation. Dr. Alexandra von Teuffenbach (who also apparently has presented on Father Stanley Jaki, OSB, a hero of mine) asked Archbishop Loris Capovilla about the anecdote, and he - allegedly - said it likely never happened because Italians have a superstitious fear of drafts.[^7]
+Paul Collins in 2018 wrote, "Unfortunately, John XXIII probably never said that he wanted 'to throw open the windows of the Church to let in fresh air," which is sad because it is such a vivid image".[^6] Just as unfortunately, Collins never explains why. 
+
+The no-longer-updated blog Casa Santa Lidia argues that John XXIII never said the quotation. Dr. Alexandra von Teuffenbach (who also apparently has presented on Father Stanley Jaki, OSB, a hero of mine) asked Archbishop Loris Capovilla, John XXIII's personal secretary, about the anecdote, and he - allegedly - said it likely never happened because Italians have a superstitious fear of drafts.[^7]
 
 # Believers
 
 Of those who claim he said it, I will focus on Norman Cousins, Henri Fesquet, and Father Vincent A. Yzermans.
 
-Norman Cousins was a prominent American journalist, honored for his peace work by St. John XXIII. THe first time he appears in my research is in something purporting to be a journal article by Collin Schnakenberg in the Tau Sigma Journal of Historical Studies.[^8] The article is riddled with typos, starting with the photo caption on page 1, of "Pope John XXII." Its one bit of usefulness is that it cites the "Fresh air" anecdote: _Norman Cousins, “Pacem in Terris and the World’s Community,” Continuem 1, no.
-2, (1964): 218._ (It's Continuum, not Continuem.) Unfortunately, I don't have access to this article, but Cousins wrote about the "fresh air" story elsewhere. 
+Norman Cousins was a prominent American journalist, honored for his peace work by John XXIII. The first time he appears in my research is in something purporting to be a journal article by Collin Schnakenberg in the Tau Sigma Journal of Historical Studies.[^8] The article is riddled with typos, starting with the photo caption on page 1, of "Pope John XXII." Its one bit of usefulness is that it cites the "fresh air" anecdote: _Norman Cousins, “Pacem in Terris and the World’s Community,” Continuem 1, no.
+2, (1964): 218._ (It's Continuum, not Continuem.) 
 
-Cousins wrote an editorial in the _Saturday Review_ in January 19, 1963. In it, he says: 
+Unfortunately, I don't have access to this article, but Cousins wrote about the "fresh air" story elsewhere. Cousins wrote an editorial in the _Saturday Review_ in January 19, 1963. In it, he says: 
 
 > The third incident illuminates Pope John's central purposes. A Canadian dignitary asked him to explain the main objectives of his Papacy in general and the Ecumenical Council in particular. Pope John stood up, walked over to the window, opened it, and
 said, "What do we intend to do? We intend to let in a little fresh air."[^9]
 
-The allusion to the "Canadian dignitary" is unique, and confusing. Canada had an apostolic delegate in 1962-3 (Cardinal Sebastiano Baggio), but Canada did _not_ have an ambassador to the Vatican until 1969. THe New York TImes piece referenced above simply says John XXIII's comment was to "a visitor,"[^3], others claim he said it to a reporter[^10], others say it was to an ambassador[^11], and the Catholic Register confounds them all by saying it was said to Cardinal Roger Etchegaray.[^12]
+The allusion to the "Canadian dignitary" is unique, and confusing. Canada had an apostolic delegate in 1962-3 (Cardinal Sebastiano Baggio), but Canada did _not_ have an ambassador to the Vatican until 1969. It could be any Canadian public figure, of course, but thie detail is never repeated in later iterations. The New York Times piece referenced above simply says John XXIII's comment was to "a visitor,"[^3], others claim he said it to a reporter[^10], others say it was to an ambassador[^11], and the Catholic Register confounds them all by saying it was said to Cardinal Roger Etchegaray.[^12]
 
 Regardless, Cousins' version of the story with the Canadian is repeated word for word several months later in The Anchor's June 3, 1963 issue on the occasion of John XXIII's death.[^13]
 
-Moving along, the story was also confirmed by henri Fesquet, a French journalist who observed the Council. I found Fesquet cited in Tradition in Action's book _Animus Delendi_[^14]. Writing on October 19, 1962, Fesquet says: 
+Moving along, the story was also reported by Henri Fesquet, a French journalist who observed the Council. I found Fesquet cited in Tradition in Action's book _Animus Delendi_[^14]. Writing on October 19, 1962, Fesquet says: 
 
 > When a recent visitor asked him what he expected from the Council, John XXIII pointed to a window and said, "A breath of fresh air in the Church."[^15]
 
-Lastly, an article called "Pope John's Council" appeared in my results in a finding aid from Notre Dame. The article was written by Father Vincent A> Yzermans in the _American Benedictine Review_. Yzermans says: 
+Lastly, an article called "Pope John's Council" appeared in my results in a finding aid from Notre Dame. The article was written by Father Vincent A. Yzermans in the _American Benedictine Review_. Yzermans says: 
 
 > During the time that the Council was in preparation, Pope John was asked what his purpose was in calling the council. The amiable pontiff went to the window and opened it. "I want," he said, "to let some fresh air into the Catholic Church."[^16]
 
-Yzermans appears several more times in my results, as the author or translator of a mysterious short book called Pope John's Council[^17], as the future editor of Our Sunday Visitor, as a priest credibly accused of abuse[^18], and most confusingly, in a newspaper article from 1962 that makes it sound like _he_ said the line about fresh air[^19].
+Yzermans appears several more times in my results, as the author or translator of a mysterious short book called _Pope John's Council_[^17], as the future editor of Our Sunday Visitor, as a priest credibly accused of abuse[^18], and most confusingly, in a newspaper article from 1962 that makes it sound like _he_ said the line about fresh air[^19].
 
 # Did he say it? 
 
-On the one hand, all of the reports are alleged, and they disagree in details - especially regarding who actually _heard_ him say it. It is outright disputed by several sources. On the other hand, we appear to have three independent reports from accredited journalists or correspondents from 1962-3 of John XXIII saying it. 
+On the one hand, all of the reports are alleged, and they disagree in details - especially regarding who actually _heard_ him say it. It is outright disputed by several sources, including, according to one blog, John XXIII's personal secretary. 
+
+On the other hand, we appear to have three independent reports from accredited journalists or correspondents from 1962-3 of John XXIII saying it. 
 
 So, it's difficult to say. I"m going to call this one inconclusive.
 
