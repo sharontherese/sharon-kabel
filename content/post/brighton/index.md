@@ -9,8 +9,8 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:  
-  # caption: ""
-  # image: ""
+  caption: ""
+  image: ""
 ---
 
 My grandmother, born and raised in Brooklyn, NY, left behind a beautiful photo album of her childhood and college years. I digitized it recently, since it’s ancient and crumbling.
