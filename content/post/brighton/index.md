@@ -21,4 +21,4 @@ After cleaning the photos, physically and digitally, the fun has been researchin
 ![](/uploads/elinor/brighton2.png)
 ![](/uploads/elinor/brighton3.png)
 
-These photos were captioned “Brighton.” I assumed this was whimsical, as a few pages later some photos were labeled “Cairo.” I was wrong! These are of Brighton Beach, Brooklyn, from roughly 100 years ago. You can see similar contemporary photos of Brighton Beach at oldnyc.org. 
+These photos were captioned “Brighton.” I assumed this was whimsical, as a few pages later some photos were labeled “Cairo.” I was wrong! These are of Brighton Beach, Brooklyn, from roughly 100 years ago. You can see similar contemporary photos of Brighton Beach at [oldnyc.org](https://www.oldnyc.org/). 
