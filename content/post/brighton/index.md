@@ -1,5 +1,5 @@
 ---
-title: Family Archive: Brighton Beach
+title: Brighton Beach
 
 # View.
 #   1 = List
