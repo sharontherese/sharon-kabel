@@ -1,5 +1,5 @@
 ---
-title: Missals in the newspaper Shepherd of the Valley
+title: Missals in the Shepherd of the Valley
 
 # View.
 #   1 = List
@@ -13,7 +13,7 @@ header:
   image: "SOTVheader.png"
 ---
 
-#About 
+# About 
 
 I recently started a comprehensive search of 'missal' in the Catholic News Archive (CNA). 
 
@@ -47,5 +47,5 @@ The really valuable find was another reprint. Father Frederick William Faber del
 [^1]: Hughes, John, and John Breckinridge. Controversy between Rev. Messrs. Hughes and Breckenridge, on the subject "Is the Protestant religion the religion of Christ?". Philadelphia: I. Bird, 1833. Pdf. https://www.loc.gov/item/80461916/.
 [^2]: Shepherd of the Valley, Volume 1, Number 17, 1 February 1851. https://thecatholicnewsarchive.org/?a=d&d=STL18510201-01.2.23&srpos=3.
 [^3]: Faber, Father Frederick William. The spirit and genius of St. Philip Neri, founder of the Oratory lectures delivered in the Oratory, King William Street, Strand. 1850. https://archive.org/details/TheSpiritAndGeniusOfStPhilipNeri/page/n13/mode/2up/search/warped.
-{^4]: "Popular Services." The Rambler, July 1850, pp. 315-351. https://archive.org/details/ramblerjournalof06londuoft.
+[^4]: "Popular Services." The Rambler, July 1850, pp. 315-351. https://archive.org/details/ramblerjournalof06londuoft.
 [^5]: Review: The Rambler. Shepherd of the Valley, Volume 1, Number 6, 16 November 1850. https://thecatholicnewsarchive.org/?a=d&d=STL18501116-01.2.14&srpos=2.
