@@ -9,8 +9,8 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:  
-  caption: "[Shepherd of the Valley, June 7, 1851](https://thecatholicnewsarchive.org/?a=d&d=STL18510607-01.2.28.6&srpos=6)"
-  image: "SOTVheader.png"
+  caption: "[The Catholic Commentator, October 11, 1963](https://thecatholicnewsarchive.org/?a=d&d=CAC19631011-01.2.2&srpos=49)"
+  image: "TCCheader.jpg"
 ---
 
 # Background 
