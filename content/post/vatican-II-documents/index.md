@@ -27,7 +27,7 @@ While _Inter Mirifica_ was second-to-last in terms of number of results, the doc
 
 Wittgen's chronicle of the council discussed the sometimes unfortunate conciliar attitudes toward the Eastern Rites:
 
-Patriarch Maximos said that the weakest chapter of the schema was “indubitably the one devoted to the patriarchs.” He called it “inadmissible” in its existing form...He also objected to the “infinite number of times” that patriarchs were obliged to have recourse to the Sacred Congregations of the Roman Curia. The patriarch and his synod, he said, “without prejudicing the prerogatives of the successor of Peter,” should normally be the highest authority for all affairs concerning the patriarchate. Maronite Bishop Doumith of Sarba, Lebanon, told the assembly that the great hopes stirred in the Eastern Churches by the Second Vatican Council had “almost completely vanished after an examination of this schema.” Apart from the praise which was usually given the Eastern Churches in any discussion of the subject, he said, “there is nothing of momentous importance in the schema: prejudices are not corrected, useless things are repeated, special problems are not always resolved in the best manner and, finally, the more serious matters which ought to be treated are avoided.”[^2]
+> Patriarch Maximos said that the weakest chapter of the schema was “indubitably the one devoted to the patriarchs.” He called it “inadmissible” in its existing form...He also objected to the “infinite number of times” that patriarchs were obliged to have recourse to the Sacred Congregations of the Roman Curia. The patriarch and his synod, he said, “without prejudicing the prerogatives of the successor of Peter,” should normally be the highest authority for all affairs concerning the patriarchate. Maronite Bishop Doumith of Sarba, Lebanon, told the assembly that the great hopes stirred in the Eastern Churches by the Second Vatican Council had “almost completely vanished after an examination of this schema.” Apart from the praise which was usually given the Eastern Churches in any discussion of the subject, he said, “there is nothing of momentous importance in the schema: prejudices are not corrected, useless things are repeated, special problems are not always resolved in the best manner and, finally, the more serious matters which ought to be treated are avoided.”[^2]
 
 Beyond that, the most surprising result is the obvious one: the disproportionate spread. It is certainly strange that the conciliar document on communication was the second-to-least discussed; it is just as strange to see the enormous jumps in numbers, even factoring in possible duplicate hits. 
 
@@ -63,6 +63,6 @@ For some of these titles, adding "decree" or "constitution" was part of a balanc
 So, the list above is my compromise. I wanted the highest number of accurate results, but also search strategies that were all at least the same level of complexity. 
 
 # Sources
-{^1]: James Hitchcock, _Catholicism and Modernity_ (1979).
+[^1]: James Hitchcock, _Catholicism and Modernity_ (1979).
 [^2]: Ralph M. Wiltgen, _The Rhine Flows Into the Tiber: The Unknown Council_ (1967).
 [^3]: EWTN, "The 16 Documents of the Second Vatican Council". https://www.ewtn.com/catholicism/library/16-documents-of-the-second-vatican-council-1509.
