@@ -41,22 +41,22 @@ I ran 2 searches for each document: one exact phrase search for the Latin title 
 
 I did this to a) do my best to work around the uncorrected OCR text, and b) account for different papers referring to the document titles in different ways. The English searches I used are below: 
 
-"On the Mission Activity of the Church" decree
-"On the Apostolate of the Laity" constitution
-"Pastoral Office of Bishops in the Church"
-"on divine revelation" constitution
-"On Religious Freedom" declaration
-"On the Church in the Modern World" constitution
-"on christian education" decree
-"On the Means of Social Communication"
-"constitution on the Church"
-"Relation of the Church to Non-Christian" 
-"on priestly training" decree
-"On the Catholic Churches of the Eastern Rite" decree
-"Renewal of Religious Life" decree
-"On the Ministry and Life of Priests" decree
-"on the sacred liturgy" constitution
-"Decree On Ecumenism"
+* "On the Mission Activity of the Church" decree
+* "On the Apostolate of the Laity" constitution
+* "Pastoral Office of Bishops in the Church"
+* "on divine revelation" constitution
+* "On Religious Freedom" declaration
+* "On the Church in the Modern World" constitution
+* "on christian education" decree
+* "On the Means of Social Communication"
+* "constitution on the Church"
+* "Relation of the Church to Non-Christian" 
+* "on priestly training" decree
+* "On the Catholic Churches of the Eastern Rite" decree
+* "Renewal of Religious Life" decree
+* "On the Ministry and Life of Priests" decree
+* "on the sacred liturgy" constitution
+* "Decree On Ecumenism"
 
 For some of these titles, adding "decree" or "constitution" was part of a balancing act. An exact phrase search for the English titles sometimes resulted in no results, because of slight variations like "decree on" or "Decree of" or "decree for". I didn't want to ignore "decree," etc., completely, because a search for "on christian education" runs the risk of too many false drops to be useable. For the particularly long titles, I didn't want to include more than I had to - again, because of the risk of uncorrected OCR. For titles like "decree on ecumenism," I decided to search that exactly as is because the words are so general. 
 
