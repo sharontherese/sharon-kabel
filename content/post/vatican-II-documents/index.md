@@ -17,7 +17,7 @@ In James Hitchcock's 1979 work _Catholicism and Modernity_, there is a quotation
 
 > One of the choicest of all the ironies of the postconciliar era presented itself here, since in its decree on communications, Inter Mirifica, the Council warned severely against precisely those misuses of the media which the conciliar excitement was in the process of inspiring. There developed an almost universal conspiracy of silence about that document. The journalists who fed the public’s seemingly insatiable hunger for information about the Church’s new era deliberately kept that same public in the dark about the one document which bore directly on their own work.[^1]
 
-I tested this claim by running searches for the 16 documents of the Second Vatican Council in the Catholic News Archive
+I tested this claim by running searches for the 16 documents of the Second Vatican Council in the Catholic News Archive.
 
 # Results
 
