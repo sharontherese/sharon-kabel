@@ -26,7 +26,7 @@ featured: false
 
 links:
  - name: "View"
-   url: www.onepeterfive.com/kids-like-you-marriage-rite/
+   url: "www.onepeterfive.com/kids-like-you-marriage-rite/"
 url_pdf: 
 url_code: ''
 url_dataset: ''
