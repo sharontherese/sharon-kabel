@@ -1,5 +1,6 @@
 ---
 title: Brighton Beach
+date: 2020-05-02
 
 # View.
 #   1 = List
