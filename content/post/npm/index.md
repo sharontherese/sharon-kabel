@@ -1,5 +1,6 @@
 ---
 title: A Glimpse into 1970s Liturgical Music
+date: 2020-04-23
 
 # View.
 #   1 = List
