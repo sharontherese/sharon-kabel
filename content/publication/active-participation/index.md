@@ -27,7 +27,7 @@ featured: false
 
 links:
  - name: "View"
-   url: www.onepeterfive.com/active-participation/
+   url: "www.onepeterfive.com/active-participation/"
 url_pdf: 
 url_code: ''
 url_dataset: ''
