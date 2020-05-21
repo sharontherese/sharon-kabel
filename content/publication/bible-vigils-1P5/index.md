@@ -27,7 +27,7 @@ featured: false
 
 links:
  - name: "View"
-   url: www.onepeterfive.com/bible-vigils/
+   url: "www.onepeterfive.com/bible-vigils/"
 url_pdf: 
 url_code: ''
 url_dataset: ''
