@@ -1,5 +1,6 @@
 ---
 title: Missals in the Shepherd of the Valley
+date: 2020-05-08
 
 # View.
 #   1 = List
