@@ -1,5 +1,6 @@
 ---
 title: Seder Meals in Catholic Newspapers
+date: 2020-04-01
 
 # View.
 #   1 = List
