@@ -1,5 +1,6 @@
 ---
 title: The Second Vatican Council Documents in American Catholic Newspapers
+date: 2020-05-14
 
 # View.
 #   1 = List
