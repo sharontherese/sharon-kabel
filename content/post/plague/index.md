@@ -1,5 +1,6 @@
 ---
 title: Prayer in the Time of Plague
+date: 2020-03-15
 
 # View.
 #   1 = List
