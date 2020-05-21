@@ -3,7 +3,7 @@ title: "How New Is the New Traditional Wedding Preface?"
 authors:
 - admin
 date: "2020-03-30T00:00:00Z"
-doi: "https://onepeterfive.com/new-wedding-preface/"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -26,7 +26,7 @@ featured: false
 
 links:
  - name: "View"
-   url: new-wedding-preface/
+   url: "https://onepeterfive.com/new-wedding-preface/"
 url_pdf: 
 url_code: ''
 url_dataset: ''
