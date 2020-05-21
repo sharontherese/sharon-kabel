@@ -1,5 +1,6 @@
 ---
 title: American Catholic Diocesan response to COVID-19
+date: 2020-03-17
 
 # View.
 #   1 = List
