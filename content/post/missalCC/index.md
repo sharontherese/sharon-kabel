@@ -1,5 +1,6 @@
 ---
 title: Missals in The Catholic Commentator
+date: 2020-05-12
 
 # View.
 #   1 = List
