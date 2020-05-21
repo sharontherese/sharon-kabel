@@ -1,5 +1,6 @@
 ---
 title: Veterum Sapientia and High Altars
+date: 2020-04-03
 
 # View.
 #   1 = List
