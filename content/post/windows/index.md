@@ -1,5 +1,6 @@
 ---
 title: Pope John XXIII and Fresh Air
+date: 2020-04-19
 
 # View.
 #   1 = List
