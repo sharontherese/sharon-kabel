@@ -62,7 +62,7 @@ On the one hand, all of the reports are alleged, and they disagree in details - 
 
 On the other hand, we appear to have three independent reports from accredited journalists or correspondents from 1962-3 of John XXIII saying it. 
 
-So, it's difficult to say. I"m going to call this one inconclusive.
+So, it's difficult to say. I'm going to call this one inconclusive.
 
 # Sources
 [^1]: Knowles, Elizabeth. 2001. The Oxford dictionary of quotations. Oxford [etc.]: Oxford University Press.
