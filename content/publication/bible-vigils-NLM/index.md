@@ -25,7 +25,7 @@ tags:
 featured: false
 
 links:
- - name: "Originally published"
+ - name: "Originally published in"
    url: "www.newliturgicalmovement.org/2019/10/bible-vigils-guest-article-by-sharon.html\"
 url_pdf: '' 
 url_code: ''
@@ -38,10 +38,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
+# image:
+#  caption: ''
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
