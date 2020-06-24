@@ -25,9 +25,9 @@ tags:
 featured: false
 
 links:
- - name: "View"
-   external_link: "www.newliturgicalmovement.org/2019/10/bible-vigils-guest-article-by-sharon.html#.XkxUtmhKi71"
-url_pdf: 
+ - name: ''
+   url: ''
+url_pdf: '' 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -35,6 +35,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+external_link: "www.newliturgicalmovement.org/2019/10/bible-vigils-guest-article-by-sharon.html#.XkxUtmhKi71"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
