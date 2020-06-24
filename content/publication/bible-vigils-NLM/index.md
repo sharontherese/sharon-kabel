@@ -19,7 +19,7 @@ publication: "New Liturgical Movement"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: Bible vigils were a Catholic phenomenon of the 1960s. They were called by a variety of names, “Bible vigil” being the most common but also “Bible” or “Biblical” “ritual, service, devotion”, “celebration of the Word”, and most confusingly, sometimes used synonymously with Vespers. 
+summary: [Bible vigils were a Catholic phenomenon of the 1960s. They were called by a variety of names, “Bible vigil” being the most common but also “Bible” or “Biblical” “ritual, service, devotion”, “celebration of the Word”, and most confusingly, sometimes used synonymously with Vespers.](www.newliturgicalmovement.org/2019/10/bible-vigils-guest-article-by-sharon.html#.XkxUtmhKi71) 
 tags:
 - Source Themes
 featured: false
