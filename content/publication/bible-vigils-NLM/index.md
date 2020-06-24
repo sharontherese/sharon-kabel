@@ -26,7 +26,7 @@ featured: false
 
 links:
  - name: Originally published
-   url: "www.newliturgicalmovement.org/2019/10/bible-vigils-guest-article-by-sharon.html#.XkxUtmhKi71\"
+   url: "www.newliturgicalmovement.org/2019/10/bible-vigils-guest-article-by-sharon.html\"
 url_pdf: '' 
 url_code: ''
 url_dataset: ''
