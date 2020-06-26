@@ -20,7 +20,7 @@ I looked for three things:
 
 The project is complete. You can see the project in several places:
 * View below
-* View as a {{% staticref "files/credibly_accused_by_state_2020-06-25.pdf" %}}PDF{{% /staticref %}}
+* View as a {{% staticref "files/crediblyaccused_2020-06-25.pdf" %}}PDF{{% /staticref %}}
 * View as a [Flickr album](https://www.flickr.com/photos/186519630@N06/albums/72157712699057908)
 * View as a [Facebook album](https://www.facebook.com/pg/SharonKabel2/photos/?tab=album&album_id=2409345026043319)
 
