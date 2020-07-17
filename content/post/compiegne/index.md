@@ -4,7 +4,7 @@ date: 2020-07-17
 view: 2
 header:
   caption: ''
-  image: 'compiegneheader.jpg'
+  image: "compiegneheader.png"
 
 ---
 The 16 Carmelites martyrs of Compiegne have become famous not only for their martyrdom, but for singing while at the scaffold.
