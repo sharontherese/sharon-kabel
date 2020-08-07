@@ -28,9 +28,11 @@ This left me with 12 colors: black, blue, gold, gray, green, orange, pink, purpl
 
 Swiftian scholars may take issue with my classification of “purple-pink” as its own color, but given the context of the song it seems to refer to one color, not two. Complaints may be directed to the songwriter.
 
-One could also challenge “champagne sea” (“This Is Why We Can’t Have Nice Things,” _Reputation_), because of its Homerian undertones. While I am not currently swayed, I look forward to future research on both “champagne” and Swift’s iterations of “wine” and “rose.” 
+One could also challenge “champagne sea” (“This Is Why We Can’t Have Nice Things,”), because of its Homerian undertones. While I am not currently swayed, I look forward to future research on both “champagne” and Swift’s iterations of “wine” and “rose.” 
 
-I only counted lyrics once; i.e., “loving him was red” (“Red,” album of the same name) is counted as one occurrence, despite being used multiple times in the song. 
+I counted "redhead" ("Fifteen") as red, and "indigo" ("I Think He Knows") as blue.
+
+I only counted lyrics once; i.e., “loving him was red” (“Red") is counted as one occurrence, despite being used multiple times in the song. 
 
 # Results
 
@@ -44,4 +46,7 @@ There seems to be a turning point around _Red_, when both the quantity and varie
 
 Red, Lover, and Folklore, all have the most variety of colors; Lover may have the most interesting breakdown by color. 
 
+Much grist could also be made of the shades within the most popular colors: "clear blue," "ocean blue," deep blue," etc. "White" is obviously used in Swift's lyrical descriptions of proposals and weddings, the portrayal of which change dramatically over her discography. 
+
+Of course, none of this captures words connected to "light" and "dark," which may cumulatively be even more prevalent than her colors.
 
