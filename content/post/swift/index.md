@@ -34,7 +34,7 @@ I only counted lyrics once; i.e., “loving him was red” (“Red,” album of 
 
 # Results
 
-![](/uploads/swift/taylorall.png)
+![](/uploads/swift/taylorall2.png)
 ![](/uploads/swift/taylorclusteredbarchart.png)
 ![](/uploads/swift/taylorpiechart.png)
 
