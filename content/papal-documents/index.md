@@ -56,9 +56,9 @@ Each graph tells a very different story, so they should be considered contextual
 
 The longer the reign, the more words they wrote – but contrasting the _total_ numbers with _average_ numbers can reveal surprises. Pope Leo XIII, to take another example, has the lowest average paragraph and average word counts, but one of the highest total paragraph and total word counts.
 
-![](/uploads/word-counts/total-word-count-by-year.png)
-![](/uploads/word-counts/average-words-per-paragraph.png)
-![](/uploads/word-counts/total-word-count.png)
-![](/uploads/word-counts/total-paragraph-count.png)
-![](/uploads/word-counts/average-word-count.png)
-![](/uploads/word-counts/average-paragraph-count.png)
+![](/uploads/word-counts/total_word_count_by_year.png)
+![](/uploads/word-counts/total_word_count.png)
+![](/uploads/word-counts/total_paragraph_count.png)
+![](/uploads/word-counts/average_word_count.png)
+![](/uploads/word-counts/average_paragraph_count.png)
+![](/uploads/word-counts/average_words_per_paragraph.png)
