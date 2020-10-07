@@ -62,3 +62,27 @@ At this point, the chart is mostly done. I go through the citations at least onc
 I try to keep my own commentary out of the charts, and to let it speak for itself. Citation analysis is not the only, or even the most important way to analyze a text. It is useful to notice broad strokes, or abrupt changes. 
 
 For _Fratelli Tutti_, the obvious and dramatic item of note is the number of self-citations. 
+
+Here is the breakdown of the 303 citation sources per broad category, rounded to whole numbers:
+
+* Pope Francis himself: 176 (58%)
+** Editor's notes: 3 (>1%)
+* Public figures: 17 (6%)
+* Saints: 52 (17%)
+* Proceedings of the Roman Catholic Church: 55 (18%)
+
+Self-citation in itself is not necessarily bad, but it is a controversial topic. A self-citing rate of almost 60% - three of every five citation sources - is at minimum noteworthy. 
+
+Context is also important. Post-synodal documents, for example, are likely going to cite the synod most frequently. An encyclical on Dante is going to cite Dante a lot. 
+
+Within the self-citations, there is some diversity. A documentary on Pope Francis is referenced three times, as are video messages sesnt to TED Conferences. Encyclicals and exhortations are present, but the majority of self-cites are from addresses, speeches, homilies, and other similar events. I did try to make a chart just of the self-cites, but 176 data points are awfully hard to visualize in a helpful way. 
+
+I settled on a word cloud of the 59 most commonly used terms, with words like months and locations removed: 
+
+![](/uploads/wordcloud_fratelliwithout.png)
+
+We can see that he references two of his documents, Laudato Si and Evangelii Gaudium, quite a lot. More surprisingly is the number of references to addresses to the Diplomatic Corps, and civil leaders or authorities. 
+
+# Conclusions
+
+Because this document is an encyclical, at some point I'll need to update the series of charts I have that compare word/paragraph counts for encyclicals. Otherwise, this is about as much grist as I can fairly get solely from a citation analysis. 
