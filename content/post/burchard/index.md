@@ -10,8 +10,8 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "[The Catholic Advocate, 30 August 1962](https://thecatholicnewsarchive.org/?a=d&d=ca19620830-01.2.42&srpos=2)"
-  image: "windowsheader.png"
+  caption: ""
+  image: ""
 ---
 
 Every so often, a quotation attributed either to St. Basil the Great or St. Peter Damian circulates. The quotation reads: 
