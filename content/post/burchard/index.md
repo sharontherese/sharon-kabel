@@ -41,7 +41,7 @@ Thanks to websites like New Advent and Christian Classics Ethereal Library, many
 
 # A promising lead
 
-Another Google result looks more promising: an essay by [^4] C. Colt Anderson, "When Magesterium Becomes Imperium: Peter Damian on the Accountability of Bishops for Scandal." Anderson says: 
+Another Google result looks more promising: an essay by C. Colt Anderson, "When Magesterium Becomes Imperium: Peter Damian on the Accountability of Bishops for Scandal."[^4]  Anderson says: 
 
 > Even if the bishop never personally committed such a deed, Peter Damian concluded he was still guilty of the crime of spiritual incest if he allowed his clergy to sexually abuse boys, young men, mistresses, and even prostitutes. Damian exhorted Pope Leo IX to enforce the canons of church law on the scandalous matter of priests seducing boys and young men. The law clearly prescribed the following penance: 
 
