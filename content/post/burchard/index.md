@@ -1,5 +1,5 @@
 ---
-title: St. Basil and St. Peter Damian's warnings against pedophilia and homosexuality
+title: St. Basil and St. Peter Damian on pedophilia and homosexuality
 date: 2020-04-19
 
 # View.
@@ -11,7 +11,7 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "burchardheader.jpeg"
 ---
 
 Every so often, a quotation attributed either to St. Basil the Great or St. Peter Damian circulates. The quotation reads: 
