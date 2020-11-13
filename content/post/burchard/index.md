@@ -11,7 +11,7 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "burchardheader.jpeg"
+  image: "burchardheader.jpg"
 ---
 
 Every so often, a quotation attributed either to St. Basil the Great or St. Peter Damian circulates. The quotation reads: 
