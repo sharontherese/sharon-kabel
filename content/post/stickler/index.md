@@ -12,6 +12,10 @@ view: 2
 header:
   caption: "[Pittsburgh Catholic, 1962-03-01](https://thecatholicnewsarchive.org/?a=d&d=TPC19620301-01.1.1&srpos=1)"
   image: "sticklerheader.jpg"
+  
+tags:
+ - Catholic fact check
+ 
 ---
 
 There is an anecdote that circulates in the Catholic blogosphere about the promulgation of Pope John XXIII's apostolic constitution _Veterum Sapientia_. 
