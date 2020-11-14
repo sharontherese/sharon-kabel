@@ -14,12 +14,6 @@ Liturgy Guy (Brian Williams), [“The Many, Many, Many Words of Pope Francis.”
 Charlotte Latin Mass Community, “Latin Mass Weddings.” August 28, 2019. https://charlottelatinmass.org/2019/08/28/latin-mass-weddings/
 <br/>
 <br/>
-Windsor, Ontario, “Tridentine Community News: Pre-55 Holy Week Chart.” April 28, 2019. http://www.windsorlatinmass.org/wtnews/190428.pdf
-<br/>
-<br/>
-Fisheaters, “Moral Thinking: A Basic Primer on Catholic Moral Theology: The Complements of the Virtues.” https://www.fisheaters.com/moralthinking.html
-<br/>
-<br/>
 Regina Magazine, Facebook post. April 12, 2019. https://www.facebook.com/ReginaMagazine/posts/1059741524209659 
 <br/>
 <br/>
