@@ -8,7 +8,7 @@ publication: OnePeterFive
 publication_short: ''
 summary: By virtue of her birth, her education, and her talents, Abbess Pirckheimer was uniquely positioned to be a bastion for Bavarian Catholics against steadily increasing Lutheran influence, an influence that sought not only material repossession over the convent’s assets, but religious abolition of their way of life.
 tags:
-- Source Themes
+- saints
 featured: false
 links:
 - name: View at OnePeterFive
