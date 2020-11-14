@@ -12,6 +12,9 @@ view: 2
 header:
   caption: ""
   image: "burchardheader.jpg"
+  
+tags:
+ - Catholic fact check
 ---
 
 Every so often, a quotation attributed either to St. Basil the Great or St. Peter Damian circulates. The quotation reads: 
