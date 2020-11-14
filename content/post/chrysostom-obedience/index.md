@@ -10,7 +10,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 header:
-  caption: ""
+  caption: "Greek Miniaturist, "Homilies of Ioannes Chrysostomos." c. 1078. Manuscript (Ms. Coislin 79) Bibliothèque Nationale, Paris"
   image: "chrysostomheader.jpg"
   
 tags:
