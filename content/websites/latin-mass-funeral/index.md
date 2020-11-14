@@ -2,7 +2,7 @@
 title: Latin Mass Funeral
 summary: 
 tags:
-- More
+- 
 date: ""
 
 # Optional external URL for project (replaces project detail page).
