@@ -12,6 +12,10 @@ view: 2
 header:  
   caption: "[Seder supper. The Catholic Advocate, Volume 12, Number 16, 11 April 1963.](https://thecatholicnewsarchive.org/?a=d&d=ca19630411-01.2.107&srpos=1)"
   image: "sederheader2.jpg"
+  
+tags:
+ - newspapers
+ 
 ---
 
 This is the first post in an ongoing series, documenting assorted topics as they appear in Catholic Newspapers in the [Catholic News Archive](https://thecatholicnewsarchive.org/). How was the topic described? When did it peak in usage? Did its connotations or associations for Catholics change over time?  
