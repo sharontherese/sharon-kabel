@@ -12,6 +12,10 @@ view: 2
 header:  
   caption: ""
   image: "vaticaniiheader.png"
+  
+tags:
+ - newspapers
+ - Vatican II
 ---
 
 In James Hitchcock's 1979 work _Catholicism and Modernity_, there is a quotation that particularly interested me: 
