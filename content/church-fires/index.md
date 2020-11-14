@@ -6,6 +6,8 @@ toggle = false
 
 +++
 
+_[The Catholic Telegraph, 18 December 1852](https://thecatholicnewsarchive.org/?a=d&d=TCT18521218-01.1.1&srpos=22)
+
 This project started off as something entirely different than what it is now. 
 
 In 2018, the Facebook group Cathedrals: From Era to Era sprang up. Their “About” section (as of January 2019) reads, “A page for sharing content regarding architectural revolution that occurred within the Catholic Church throughout the 20th Century, and after.”
