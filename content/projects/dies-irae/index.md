@@ -2,7 +2,7 @@
 title: Dies Irae
 summary: A walk through Fr. Nicholas Gihr's classic work
 tags:
-- More
+- music
 date: ""
 
 # Optional external URL for project (replaces project detail page).
