@@ -12,6 +12,10 @@ view: 2
 header:
   caption: "[Pastoral Music, Volume 1.1, October/November 1976](https://npm.org/pastoral-music/)"
   image: "npmheader.png"
+
+tags:
+ - newspapers
+
 ---
 
 Most of my content is fairly dense, so today I decided to take a break and have fun with some lighter content. The National Association of Pastoral Musicians (NPM) has made freely available most of the issues of their magazine _Pastoral Music_: 
