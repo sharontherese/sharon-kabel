@@ -12,7 +12,8 @@ summary: Although it is now frequently claimed that the traditional Latin Mass (
   of Catholics, but with the rapid and near total disappearance of the TLM within
   a brief period of time.
 tags:
-- Source Themes
+- Vatican II
+- newspapers
 featured: false
 links:
 - name: View at OnePeterFive
