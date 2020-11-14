@@ -1,6 +1,6 @@
 ---
-title: American Catholic church fires and the Catholic News Archive
-summary: Using the Catholic News Archive, which decades had the greatest number of American Catholic church fires? Are there any obvious trends, and what might those trends tell us about the American Catholic Church?
+title: Church Fires
+summary: A report on American Catholic church fires and the Catholic News Archive
 tags:
 - data
 date: ""
