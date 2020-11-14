@@ -10,12 +10,14 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 header:
-  caption: "Greek Miniaturist, "Homilies of Ioannes Chrysostomos." c. 1078. Manuscript (Ms. Coislin 79) Bibliothèque Nationale, Paris"
+  caption: ""
   image: "chrysostomheader.jpg"
   
 tags:
  - Catholic fact check
 ---
+
+_Artwork: Greek Miniaturist, "Homilies of Ioannes Chrysostomos." c. 1078. Manuscript (Ms. Coislin 79) Bibliothèque Nationale, Paris_
 
 The following quotation, attributed to St. John Chrysostom, is extremely popular in Catholic and Orthodox circles:
 
