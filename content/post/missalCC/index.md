@@ -12,6 +12,10 @@ view: 2
 header:  
   caption: "[The Catholic Commentator, October 11, 1963](https://thecatholicnewsarchive.org/?a=d&d=CAC19631011-01.2.2&srpos=49)"
   image: "TCCheader.jpg"
+
+tags:
+ - newspapers
+
 ---
 
 # Background 
