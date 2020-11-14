@@ -8,7 +8,7 @@ date: 2020-11-13
 #   3 = Card
 view: 2
 
-# Optional header image (relative to `static/img/` folder).
+# Optional header image (relative to `static/img/` folder)
 header:
   caption: "Greek Miniaturist, "Homilies of Ioannes Chrysostomos." c. 1078. Manuscript (Ms. Coislin 79) Bibliothèque Nationale, Paris"
   image: "chrysostomheader.jpg"
