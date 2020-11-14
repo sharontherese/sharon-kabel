@@ -2,7 +2,7 @@
 title: Family Archive
 summary: An ongoing preservation of family records
 tags:
-- More
+- 
 date: ""
 
 # Optional external URL for project (replaces project detail page).
