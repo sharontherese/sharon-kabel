@@ -10,7 +10,7 @@ summary: The Rite of Marriage was codified in the 1614–15 Rituale Romanum by t
   of Trent. The 1962 Rite of Marriage is identical to the one found in the 1615 Rituale
   and is spartan.
 tags:
-- Source Themes
+- weddings
 featured: false
 links:
 - name: View at OnePeterFive
