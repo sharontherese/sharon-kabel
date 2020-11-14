@@ -12,6 +12,10 @@ view: 2
 header:  
   caption: "[Shepherd of the Valley, June 7, 1851](https://thecatholicnewsarchive.org/?a=d&d=STL18510607-01.2.28.6&srpos=6)"
   image: "SOTVheader.png"
+
+tags:
+ - newspapers
+
 ---
 
 # About 
