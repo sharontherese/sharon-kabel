@@ -13,7 +13,8 @@ summary: Although active participation may have dissipated as a liturgical rally
   its importance is paramount, as it is a frequently cited justification for the 20th-century
   liturgical reforms.
 tags:
-- Source Themes
+- Vatican II
+- newspapers
 featured: false
 links:
 - name: View at OnePeterFive
