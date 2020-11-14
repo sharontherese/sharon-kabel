@@ -12,6 +12,7 @@ summary: Bible vigils were a Catholic phenomenon of the 1960s. They were called 
   used synonymously with Vespers.
 tags:
 - Vatican II
+- newspapers
 featured: false
 links:
 - name: View at NLM
