@@ -2,7 +2,7 @@
 title: Grand Jury Report
 summary: A summary and visualizations of the 2018 PA Grand Jury Report
 tags:
-- More
+- data
 date: ""
 
 # Optional external URL for project (replaces project detail page).
