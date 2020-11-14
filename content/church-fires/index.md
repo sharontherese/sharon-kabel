@@ -6,7 +6,7 @@ toggle = false
 
 +++
 
-_[The Catholic Telegraph, 18 December 1852](https://thecatholicnewsarchive.org/?a=d&d=TCT18521218-01.1.1&srpos=22)
+_The Catholic Telegraph, 18 December 1852](https://thecatholicnewsarchive.org/?a=d&d=TCT18521218-01.1.1&srpos=22)_
 
 This project started off as something entirely different than what it is now. 
 
