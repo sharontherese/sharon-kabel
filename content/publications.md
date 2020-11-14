@@ -6,13 +6,6 @@ toggle = false
 
 +++
 
-
-New Liturgical Movement, ["Bible Vigils: Guest Article by Sharon Kabel."](http://www.newliturgicalmovement.org/2019/10/bible-vigils-guest-article-by-sharon.html#.XiHozntOm70) October 18, 2019. 
-<br/>
-
-Catholic Herald, [“Meanwhile: Yes, Encyclicals Are Getting Longer.”](https://catholicherald.co.uk/magazine/meanwhile-yes-encyclicals-are-getting-longer/) April 18, 2019. 
-<br/>
-
 Liturgy Guy (Brian Williams), [“The Many, Many, Many Words of Pope Francis.”](https://liturgyguy.com/2019/04/12/the-many-many-many-words-of-pope-francis/) April 12, 2019.
 <br/>
 
