@@ -2,7 +2,7 @@
 title: Latin Mass Wedding
 summary: 
 tags:
-- More
+- weddings
 date: ""
 
 # Optional external URL for project (replaces project detail page).
