@@ -10,7 +10,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 header:
-  caption: "Greek Miniaturist, "Homilies of Ioannes Chrysostomos." c. 1078. Manuscript (Ms. Coislin 79) Bibliothèque Nationale, Paris"
+  caption: ""
   image: "chrysostomheader.jpg"
   
 tags:
@@ -42,7 +42,7 @@ Typically, old and foreign language materials are hard to source. In Patristics,
 Chrysostom’s complete works run to about 36 volumes, so it is possible that this quotation is buried in one of those volumes. However, I currently consider it unlikely, because: 
 
 * The quote’s existence springs from one source only, the On Living Simply book. It does not appear online before the publication of that book in 1997.
-* ...which is not thoroughly cited - i.e., we are not given any Greek, a volume number, an authentic sermon name, etc. to cross reference 
+* ...which is not convincingly cited - i.e., we are not given any Greek, a volume number, an authentic sermon name, etc. to cross reference 
 * It doesn't sound like anything else Chrysostom wrote
 * And no one else, across a whole internet of people who love fact-checking, has managed to find anything to verify that this is Chrysostom.
 
