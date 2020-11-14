@@ -8,7 +8,7 @@ publication: New Liturgical Movement
 publication_short: ''
 summary: In the fall of 1846, construction finished for Immaculate Conception Catholic Church in Spinkhill, Derbyshire, England. The event merited a nearly 2,500 word, 4-column write-up in the Catholic Telegraph.
 tags:
-- Source Themes
+- 
 featured: false
 links:
 - name: View at New Liturgical Movement
