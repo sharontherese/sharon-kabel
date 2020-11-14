@@ -10,7 +10,7 @@ summary: On March 25, the Congregation for the Doctrine of Faith issued Quo Magi
   which, among other things, added an optional preface (de Nuptiis) to the traditional
   wedding Mass (Missa pro Sponso et Sponsa).
 tags:
-- Source Themes
+- weddings
 featured: false
 links:
 - name: View at OnePeterFive
