@@ -13,6 +13,7 @@ summary: Although it is now frequently claimed that the traditional Latin Mass (
   a brief period of time.
 tags:
 - Vatican II
+- newspapers
 featured: false
 links:
 - name: View at OnePeterFive
