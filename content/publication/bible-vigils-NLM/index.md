@@ -11,7 +11,7 @@ summary: Bible vigils were a Catholic phenomenon of the 1960s. They were called 
   “ritual, service, devotion”, “celebration of the Word”, and most confusingly, sometimes
   used synonymously with Vespers.
 tags:
-- Source Themes
+- Vatican II
 featured: false
 links:
 - name: View at NLM
