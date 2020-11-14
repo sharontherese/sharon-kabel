@@ -12,6 +12,9 @@ view: 2
 header:
   caption: "[The Catholic Advocate, 30 August 1962](https://thecatholicnewsarchive.org/?a=d&d=ca19620830-01.2.42&srpos=2)"
   image: "windowsheader.png"
+
+tags:
+  - Catholic fact check
 ---
 
 Continuing the theme of Catholic fact-checking, today's exploration is of Pope St. John XXIII and fresh air. As the story goes, when Pope John XXIII was asked why he called for a council, he walked over to his window, threw it up, and said something like, "I want to throw open the windows of the Church so that we can see out and the people can see in." This is cited in the _Oxford Dictionary of Quotations_[^1] but it is the only quotation of his that has the dubious label "attributed." 
