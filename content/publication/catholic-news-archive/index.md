@@ -8,7 +8,7 @@ publication: The Charleston Advisor
 publication_short: ''
 summary: The Catholic News Archive (CNA) is a freely available unique digital collection of American Catholic Newspapers. With an impressive range of advanced search options and search filters, and a friendly mobile layout, it encourages serious research as well as easy browsing. Every newspaper page is scanned with optimal character recognition (OCR). The lack of export options is a serious hindrance to heavy-duty research, which is unfortunate given how extensive and interdisciplinary the content is. The uncorrected OCR is counterbalanced by powerful search options, diverse result display options, and user-corrected OCR.
 tags:
-- Source Themes
+- newspapers
 featured: false
 links:
 url_pdf: 
