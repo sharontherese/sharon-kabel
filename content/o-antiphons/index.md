@@ -14,10 +14,6 @@ I made a photo series that, for each image, combines one of the antiphons with o
 
 I am greatly indebted to the [Cantus Database](http://cantus.uwaterloo.ca/) for indexing so many beautiful manuscripts. 
 
-* View as a {{% staticref "files/Dies_Irae.pdf" %}}PDF{{% /staticref %}}
-* View as a [Flickr album](https://www.flickr.com/photos/186519630@N06/albums/72157712714245241)
-* View as a [Facebook album](https://www.facebook.com/pg/SharonKabel2/photos/?tab=album&album_id=2291020497875773)
-
 ![](/uploads/o-antiphons/oantiphon1.png)
 Manuscript: University of Michigan Library, Antiphonal B3971321 (15th century). http://quod.lib.umich.edu/s/sclib/x-b3971321/28863_0009
 
