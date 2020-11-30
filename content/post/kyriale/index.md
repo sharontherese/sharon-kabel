@@ -14,17 +14,17 @@ header:
   image: ""
 ---
 
-| Command           | Mass setting                    |
-| ------------------| ------------------------------ |
-| `Advent`          | XVII            |
-| `Christmas    `   | IX             |
-| `Time after Epiphany`            | XI            |
-| `Lent`   | XVII             |
-| `Easter`            | I            |
-| `Time after Pentecost`   | XI             |
-| `Feasts of Mary`            | IX, X            |
-| `Feasts of Apostles`   | IV             |
-| `Weddings`            | any            |
-| `Funerals`   | pro defunctis             |
+| Season                | Mass setting   | Creed setting |
+| ------------------    | -------------- | ------------- |
+| `Advent`              | XVII           | IV   |
+| `Christmas    `       | IX             | IV   | 
+| `Time after Epiphany` | XI             | I    |
+| `Lent`                | XVII           | IV   |
+| `Easter`              | I              | III  |
+| `Time after Pentecost'| XI             | I    |
+| `Feasts of Mary`      | IX, X          | IV   | 
+| `Feasts of Apostles`  | IV             | III  |
+| `Weddings`            | any            | none |
+| `Funerals`            | pro defunctis  | none | 
 
 
