@@ -1,5 +1,5 @@
 ---
-title: A Starter to the Kyriale
+title: Pairing Mass and Credo Settings
 date: 2020-11-30
 
 # View.
@@ -21,7 +21,7 @@ While there is some debate about the historical origins and uses of the Mass and
 | Season                | Mass setting   | Creed setting |
 | ------------------    | -------------- | ------------- |
 | `Advent`              | XVII           | IV   |
-| `Christmas    `       | IX             | IV   | 
+| `Christmas`           | IX             | IV   | 
 | `Time after Epiphany` | XI             | I    |
 | `Lent`                | XVII           | IV   |
 | `Easter`              | I              | III  |
