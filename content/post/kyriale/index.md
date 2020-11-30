@@ -10,8 +10,8 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:  
-  caption: ""
-  image: ""
+  caption: "Kyrie XI (Orbis Factor) from Mass for Sundays throughout the Year (folio 53, verso), University of Missouri-Kansas City. https://library.umkc.edu/exhibits/chantbook"
+  image: "kyrie-lg.jpg"
 ---
 
 The Kyriale contains all of the chants for the Ordinary of the Mass, including Mass and Credo settings for the entire liturgical year. 
