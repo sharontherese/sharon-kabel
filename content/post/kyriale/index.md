@@ -16,20 +16,22 @@ header:
 
 The Kyriale contains all of the chants for the Ordinary of the Mass. 
 
-While there is some debate about the historical origins and uses of the Mass and Credo settings, popular custom and tradition have given us several Mass and Credo pairings based on the season or feast. 
+While there is some debate about how consistent these pairings have been throughout history, popular custom and tradition have nevertheless recommended to us several Mass and Credo pairings based on the season or feast. 
 
-| Season                | Mass setting   | Creed setting |
-| ------------------    | -------------- | ------------- |
-| `Advent`              | XVII           | IV   |
-| `Christmas`           | IX             | IV   | 
-| `Time after Epiphany` | XI             | I    |
-| `Lent`                | XVII           | IV   |
-| `Easter`              | I              | III  |
-| `Time after Pentecost`| XI             | I    |
-| `Feasts of Mary`      | IX, X          | IV   | 
-| `Feasts of Apostles`  | IV             | III  |
-| `Weddings`            | any            | none |
-| `Funerals`            | pro defunctis  | none | 
+The chart and PDF below are intended as quick reference guides for singers or scholae chanting the Latin Mass. 
+
+| Season                 | Mass setting   | Creed setting |
+| ------------------     | -------------- | ------------- |
+| `Advent`               | XVII           | IV   |
+| `Christmas`            | IX             | IV   | 
+| `Time after Epiphany`  | XI             | I    |
+| `Lent`                 | XVII           | IV   |
+| `Easter`               | I              | III  |
+| `Time after Pentecost` | XI             | I    |
+| `Feasts of Mary`       | IX, X          | IV   | 
+| `Feasts of Apostles`   | IV             | III  |
+| `Weddings`             | any            | none |
+| `Funerals`             | pro defunctis  | none | 
 
 View the chart {{% staticref "files/Kyriale_chart.pdf" %}}as a color-coded PDF here{{% /staticref %}}.
 
