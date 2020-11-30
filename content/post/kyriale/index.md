@@ -12,6 +12,9 @@ view: 2
 header:  
   caption: "Kyrie XI (Orbis Factor) from Mass for Sundays throughout the Year (folio 53, verso), University of Missouri-Kansas City. https://library.umkc.edu/exhibits/chantbook"
   image: "kyrie-lg.jpg"
+  
+tags: 
+- music 
 ---
 
 The Kyriale contains all of the chants for the Ordinary of the Mass, including Mass and Credo settings for the entire liturgical year. 
