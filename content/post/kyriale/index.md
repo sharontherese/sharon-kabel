@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-The Kyriale contains all of the chants for the Ordinary of the Mass. 
+The Kyriale contains all of the chants for the Ordinary of the Mass, including Mass and Credo settings for the entire liturgical year. 
 
 While there is some debate about how consistent these pairings have been throughout history, popular custom and tradition have nevertheless recommended to us several Mass and Credo pairings based on the season or feast. 
 
