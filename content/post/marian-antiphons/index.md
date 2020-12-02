@@ -18,7 +18,7 @@ _Regina Caeli_ is sung throughout Easter.
 
 _Salve Regina_ is sung from Trinity Sunday to the first Sunday of Advent. 
 
-I made letter-sized (8.5x11) posters, one for each Marian antiphon. Included for each is a woodcut from Albrecht Durer's unfinished work _The Life of the Virgin. 
+I made letter-sized (8.5x11) posters, one for each Marian antiphon. Included for each is a woodcut from Albrecht Durer's unfinished work _Life of the Virgin_. 
 
 View as a {{% staticref "files/Marian_Antiphons.pdf" %}}PDF{{% /staticref %}}.
 
