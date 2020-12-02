@@ -6,6 +6,9 @@ header:
   caption: ''
   image: "almaheader.png"
 
+tags:
+- music
+
 ---
 
 There are four Marian antiphons that are sung, during the Divine Office and sometimes during Mass, throughout the year. 
