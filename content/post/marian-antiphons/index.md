@@ -25,7 +25,7 @@ I made letter-sized (8.5x11) posters, one for each Marian antiphon. Included for
 
 View as a {{% staticref "files/Marian_Antiphons.pdf" %}}PDF{{% /staticref %}}.
 
-![](/uploads/marian-antiphons/almaredemtoris.png)
+![](/uploads/marian-antiphons/almaredemptoris.png)
 
 ![](/uploads/marian-antiphons/averegina.png)
 
