@@ -23,6 +23,8 @@ While there is some debate about how consistent these pairings have been through
 
 The chart and PDF below are intended as quick reference guides for singers or scholae chanting the Latin Mass. 
 
+More information can be found at CCWatershed's Saint Antoine Daniel Kyriale: https://www.ccwatershed.org/kyriale/
+
 | Season                 | Mass setting   | Creed setting |
 | ------------------     | -------------- | ------------- |
 | `Advent`               | XVII           | IV   |
