@@ -1,5 +1,5 @@
 ---
-title: Catholic fact check: Jean Guitton, Pope Paul VI, and the liturgical reforms
+title: Catholic fact check - Jean Guitton, Pope Paul VI, and the liturgical reforms
 date: 2020-12-06
 
 # View.
