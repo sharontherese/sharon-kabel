@@ -1,5 +1,5 @@
 ---
-title: St. John Chrysostom on wifely obedience
+title: Catholic fact check: St. John Chrysostom on wifely obedience
 date: 2020-11-13
 
 # View.
