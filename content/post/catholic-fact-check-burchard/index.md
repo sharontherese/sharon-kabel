@@ -1,5 +1,5 @@
 ---
-title: St. Basil and St. Peter Damian on pedophilia and homosexuality
+title: Catholic fact check: St. Basil and St. Peter Damian on pedophilia and homosexuality
 date: 2020-04-19
 
 # View.
