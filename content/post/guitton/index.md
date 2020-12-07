@@ -137,7 +137,7 @@ One would think we were at a dead end, but there is one final, important twist t
 
 # The breakthrough: a full transcription
 
-By this point, I am reasonably sure that Guitton was on a Lumiere 101 program on December 19, 1993, broadcasted by Radio-Courtoisie. (Another mark in Lumiere’s favor is that one website said they only ran on Sundays. December 19, 1993 is a Sunday, and possibly got erroneously connected with the Apropos issue date.) 
+By this point, I am reasonably sure that Guitton was on a Lumiere 101 program on December 19, 1993, broadcast by Radio-Courtoisie. (Another mark in Lumiere’s favor is that one website said they only ran on Sundays. December 19, 1993 is a Sunday, and possibly got erroneously connected with the Apropos issue date.) 
 
 Further searching leads me to a French Aleteia article[^20], with the following citation:
 
@@ -176,7 +176,7 @@ At this point, sifting through typos and dead links and French internecine radio
 *	**December 1993**: An article in Apropos quoted Guitton.
 *	**October 1994**: An article in Christian Order quoted Guitton.
 *	**Winter 1995**: An article in Latin Mass Magazine quoted Cardinal Stickler’s word-of-mouth report.
-*	**2011**: Chiron published a full transcription of the1993  broadcast.
+*	**2011**: Chiron published a full transcription of the 1993  broadcast.
 
 At some point in that timeline, pieces of the interview with Guitton, Dreyfus, and Chiron, were translated by the SSPX. These snippets also made their way into several traditional Catholic magazines which have largely been lost to time. At some point, in this convoluted game of telephone, Cardinal Stickler said that he also heard the quotation – perhaps he was listening to the radio broadcast. 
 
