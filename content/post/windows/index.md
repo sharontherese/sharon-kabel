@@ -1,4 +1,5 @@
 ---
+
 title: Catholic fact check: Pope John XXIII and fresh air
 date: 2020-04-19
 
@@ -12,10 +13,6 @@ view: 2
 header:
   caption: "[The Catholic Advocate, 30 August 1962](https://thecatholicnewsarchive.org/?a=d&d=ca19620830-01.2.42&srpos=2)"
   image: "windowsheader.png"
-
-aliases = [
-    "/post/windows/"
-]
 
 tags:
   - Catholic fact check
