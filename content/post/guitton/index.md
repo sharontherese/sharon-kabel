@@ -101,7 +101,7 @@ Again, this is a thematically similar quote, which is good. It also gives us our
 
 I searched Lumiere 101 with the broadcast date, about found this in a forum post from Fish Eaters[^11]: 
 
-> (Jean Guitton, French philosopher, Lay Peritus (Expert) at Vatican II, and close friend of Giovanni Montini/Paul VI quoted in radio program “Ici Lumiere 101,” broadcasted by Radio-Courtoisie, Paris, December 19, 1993, translated by Adrian Davies in Latin Mass, Winter 1995 [IV, 1], pp. 10-11.) cited in Apropos, #17, pp. 8f; Christian Order, October, 1994.
+> (Jean Guitton, French philosopher, Lay Peritus (Expert) at Vatican II, and close friend of Giovanni Montini/Paul VI quoted in radio program “Ici Lumiere 101,” broadcasted [sic] by Radio-Courtoisie, Paris, December 19, 1993, translated by Adrian Davies in Latin Mass, Winter 1995 [IV, 1], pp. 10-11.) cited in Apropos, #17, pp. 8f; Christian Order, October, 1994.
 
 This confirms much of what we already know. The way this is phrased suggests that the three magazine citations (Apropos, Christian World, and Latin Mass Magazine) were all quoting Guitton from something else, rather than interviewing him or him writing directly. 
 
@@ -111,7 +111,7 @@ All of this points to the quotation source being on the radio program Lumiere 10
 
 Running a search now for Lumiere 101, not Radio-Courtoisie, yields more helpful results. 
 
-A citation in the book _Liturgy in the Twenty-First Century: Contemporary Issues and Perspectives_[^12] reveals that Francois-George Dreyfus, so I add his name to my search terms. 
+A citation in the book _Liturgy in the Twenty-First Century: Contemporary Issues and Perspectives_[^12] reveals that Francois-George Dreyfus was also on the radio broadcast, so I add his name to my search terms. 
 
 This link[^13] (the links are almost all French now, naturally, so I am relying on cognates, my high school French, and Google Translate) informs me that Lumiere 101 left R-C in 2006. That would explain why R-C hosts no archival content of Lumiere 101’s programs. 
 
