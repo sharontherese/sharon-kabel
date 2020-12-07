@@ -1,5 +1,5 @@
 ---
-title: Veterum Sapientia and High Altars
+title: Catholic fact check: Pope John XXIII, Veterum Sapientia, and high altars
 date: 2020-04-03
 
 # View.
