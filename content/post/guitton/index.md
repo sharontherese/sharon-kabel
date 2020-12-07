@@ -61,7 +61,7 @@ The Latin Mass Magazine article[^6] confirms that Cardinal Stickler did indeed s
 
 Stickler cites no one but Guitton himself, so while I can verify that Stickler said Guitton said this, this source is otherwise useless for my purposes. 
 
-# Source 4: Lumiere 101, on Radio-Courtoisie
+# Source 4: Radio-Courtoisie
 
 Now, things are going to get complicated. 
 
