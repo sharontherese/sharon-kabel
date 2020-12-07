@@ -177,6 +177,12 @@ At some point in that timeline, pieces of the interview with Guitton, Dreyfus, a
 
 With the increasing presence of traditional Catholics on the internet, the game of telephone went sideways, and the original source, the broadcast, was overshadowed by the citations to the three magazines (although there are references to the radio broadcast, if you already know to look for those words). 
 
+My Catholic fact-checking expeditions are not typically this long, but this had so many strange details and dead ends that I was more suspicious than usual. 
+
+This particular research adventure was an unusual case study in that many of the 'final answers' were in easily findable places, if you used the right words. The transcription of the broadcast was cited on Aleteia, which is hardly an obscure website. However, I had to make the painful journey from the original quotation, to the various magazines, to Radio-Courtoisie, to Lumiere 101, to the self-published transcription. 
+
+It's also a good example of the many problems that plague those interested in reconstructing semi-recent Catholic history: the oral tradition of many apocryphal anecdotes, the difficulty of finding a useful citation, the ensuing difficulty of requesting access to that material, library catalog errors, typos, link rot, content lost to time, how search engines decide what content to show or not show, and dots connected in the most unlikely places, like an ancient internet forum. 
+
 # Postlude: the publisher
 
 At some point during this research extravaganza, I started to see the name “Isabelle Chiron” appear with some regularity. 
