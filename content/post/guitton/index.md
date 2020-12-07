@@ -178,7 +178,7 @@ At this point, sifting through typos and dead links and French internecine radio
 *	**Winter 1995**: An article in Latin Mass Magazine quoted Cardinal Stickler’s word-of-mouth report.
 *	**2011**: Chiron published a full transcription of the 1993  broadcast.
 
-At some point in that timeline, pieces of the interview with Guitton, Dreyfus, and Chiron, were translated by the SSPX. These snippets also made their way into several traditional Catholic magazines which have largely been lost to time. At some point, in this convoluted game of telephone, Cardinal Stickler said that he also heard the quotation – perhaps he was listening to the radio broadcast. 
+Put another way: Parts of the interview with Guitton, Dreyfus, and Chiron, were translated, possibly by the SSPX. These snippets made their way into several traditional Catholic magazines which have largely been lost to time. At some point, in this convoluted game of telephone, Cardinal Stickler said that he also heard the quotation – perhaps he was listening to the radio broadcast. 
 
 With the increasing presence of traditional Catholics on the internet, the game of telephone went sideways, and the original source, the broadcast, was overshadowed by the citations to the three magazines (although there are references to the radio broadcast, if you already know to look for those words). 
 
@@ -187,6 +187,12 @@ My Catholic fact-checking expeditions are not typically this long, but this had 
 This particular research adventure was an unusual case study in that many of the 'final answers' were in easily findable places, if you used the right words. The transcription of the broadcast was cited on Aleteia, which is hardly an obscure website. However, I had to make the painful journey from the original quotation, to the various magazines, to Radio-Courtoisie, to Lumiere 101, to the self-published transcription. 
 
 It's also a good example of the many problems that plague those interested in reconstructing semi-recent Catholic history: the oral tradition of many apocryphal anecdotes, the difficulty of finding a useful citation, the ensuing difficulty of requesting access to that material, library catalog errors, typos, link rot, content lost to time, how search engines decide what content to show or not show, and dots connected in the most unlikely places, like an ancient internet forum. 
+
+# Did he say it? 
+
+If "he" is Jean Guitton, yes. He said (in French) the quotation at the top on Ici Lumiere 101 (a Sunday morning program on Radio-Courtoisie), December 19, 1993.
+
+If "he" is Pope Paul VI, we can only use our best guess. Guitton and the Pope were close friends, and the spirit of the quotation matches the sort of thing that was said at the time. If the quotation was said privately from the Pope to Guitton, we can only go by Guitton's word. 
 
 # Postlude: the publisher
 
