@@ -157,9 +157,9 @@ On a whim a few days later, I checked Abebooks again. Despite checking Google Bo
 
 The book finally arrived, and I found what I believe is the original quotation from Guitton on pages 27-28. 
 
-![](/uploads/guitton/IMG_0cover_small.tif)
-![](/uploads/guitton/IMG_27_small.tif)
-![](/uploads/guitton/IMG_28_small.tif)
+![](/uploads/guitton/IMG_0cover_small.png)
+![](/uploads/guitton/IMG_27_small.png)
+![](/uploads/guitton/IMG_28_small.png)
 
 Mr. Chiron himself was gracious enough to respond to my email, to confirm that, "Le texte est la transcription littérale du débat qui a été enregistré."
 
