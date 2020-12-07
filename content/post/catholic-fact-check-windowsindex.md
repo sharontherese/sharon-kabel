@@ -1,5 +1,5 @@
 ---
-title: Pope John XXIII and Fresh Air
+title: Catholic fact check: Pope John XXIII and fresh air
 date: 2020-04-19
 
 # View.
