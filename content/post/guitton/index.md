@@ -158,8 +158,13 @@ On a whim a few days later, I checked Abebooks again. Despite checking Google Bo
 The book finally arrived, and I found what I believe is the original quotation from Guitton on pages 27-28. 
 
 ![](/uploads/guitton/IMG_0cover_small.png)
+Cover page: Entretien Sur Paul VI
+
 ![](/uploads/guitton/IMG_27_small.png)
+Page 27: Entretien Sur Paul VI
+
 ![](/uploads/guitton/IMG_28_small.png)
+Page 28: Entretien Sur Paul VI
 
 Mr. Chiron himself was gracious enough to respond to my email, to confirm that, "Le texte est la transcription littérale du débat qui a été enregistré."
 
