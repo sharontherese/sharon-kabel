@@ -33,6 +33,11 @@ The following quotation is attributed to Pope Blessed Pius IX:
 
 ![](/uploads/wojtyla/wojtylacitation.jpeg)
 
+new york city news title confusion, newspaper strike
+type in JSTOR citation, visist
+
+https://www.commonwealmagazine.org/john-paul-ii-said-what-now
+
 # Sources
 
 [^1]: 
