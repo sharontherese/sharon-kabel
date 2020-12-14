@@ -63,7 +63,7 @@ While all of these quotations are obviously and unambiguously condemnatory, nowh
 
 In the very next chapter of Salvany's book, we find this: 
 
-> In his Brief to Mgr. de Segur in regard to the latter's well-known work Hommage Aux Catholiques Liberaux [Hommage to Liberal Catholics], the Pope calls it a "perfidious enemy",— in his allocution to the Bishop of Nevers, "the present real calamity"; in his letter to the Catholic Circle of St. Ambrose of Milan, "a compact between injustice and iniquity"; in the same document he speaks of it as "more fatal and dangerous than a declared enemy"; in his letter to the Bishop of Quimper, "a hidden poison"; in the brief to the Belgians, "a crafty and insidious error"; in another brief, to Mgr. Gaume, "a most pernicious pest." All these documents from which we quote may be found in full in Mgr. Segur's book, Hommage Aux Catholiques Liberaux.
+> In his Brief to Mgr. de Segur in regard to the latter's well-known work Hommage Aux Catholiques Liberaux [Hommage to Liberal Catholics] [sic], the Pope calls it a "perfidious enemy",— in his allocution to the Bishop of Nevers, "the present real calamity"; in his letter to the Catholic Circle of St. Ambrose of Milan, "a compact between injustice and iniquity"; in the same document he speaks of it as "more fatal and dangerous than a declared enemy"; in his letter to the Bishop of Quimper, "a hidden poison"; in the brief to the Belgians, "a crafty and insidious error"; in another brief, to Mgr. Gaume, "a most pernicious pest." All these documents from which we quote may be found in full in Mgr. Segur's book, Hommage Aux Catholiques Liberaux.
 
 Monsignor Segur's book, published 22 years earlier, is online for free.[^4] 
 
