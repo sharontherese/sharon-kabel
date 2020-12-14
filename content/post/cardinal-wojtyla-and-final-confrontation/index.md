@@ -31,8 +31,10 @@ The following quotation is attributed to Pope Blessed Pius IX:
 
 # Did he say it? 
 
+![](/uploads/wojtyla/wojtylacitation.jpeg)
+
 # Sources
 
-[^1]: Pope Pius X. Notre Charge Apostolique. 1910. https://www.papalencyclicals.net/pius10/p10notre.htm.
+[^1]: 
 
 
