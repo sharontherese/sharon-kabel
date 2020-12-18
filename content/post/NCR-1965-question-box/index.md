@@ -1,6 +1,6 @@
 ---
 title: "'You would not be heart-broken by these changes if you really understood the Church': A 1965 letter on the new Mass"
-date: 2020-11-13
+date: 2020-12-18
 
 # View.
 #   1 = List
