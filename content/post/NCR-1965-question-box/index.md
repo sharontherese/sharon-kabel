@@ -10,7 +10,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 header:
-  caption: ""
+  caption: "National Catholic Reporter, Volume 1, Number 32, 9 June 1965"
   image: "questionboxheader.jpg"
   
 tags:
