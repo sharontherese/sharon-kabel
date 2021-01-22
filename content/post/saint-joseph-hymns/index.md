@@ -1,5 +1,5 @@
 ---
-title: Hymns on Saint Joseph
+title: Hymns for Saint Joseph
 date: 2021-01-22
 
 # View.
