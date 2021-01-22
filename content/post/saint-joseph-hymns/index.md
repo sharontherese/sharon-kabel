@@ -13,7 +13,7 @@ header:
   caption: "St. Joseph with the Infant Jesus, by Guido Reni"
   image: "josephheader.jpg"
 
-Draft: true
+
   
 tags: 
 - music 
@@ -51,7 +51,7 @@ amissum Solymis quaeris et invenis,
 
 miscens gaudia fletibus.	
 
-Electos reliquos mors pia consecrat1
+Electos reliquos mors pia consecrati
 
 palmamque emeritos gloria suscipit;
 
@@ -79,7 +79,7 @@ quas tibi laeti canimus, benignus
 
 suscipe laudes.	
 
-Te, satum David, statuit Creator1
+Te, satum David, statuit Creator
 
 Virginis sponsum, voluitque Verbi
 
@@ -91,7 +91,7 @@ Tu, Redemptorem stabulo iacentem,
 
 quem chorus vatum cecinit futurum,
 
-aspicis gaudens, sociusque matris2
+aspicis gaudens, sociusque matris
 
 primus adoras.	
 
@@ -105,7 +105,7 @@ se tibi subdit.
 
 Laus sit excelsae Triadi perennis,
 
-quae, tibi insignes tribuens honores,3
+quae, tibi insignes tribuens honores,
 
 et tuis nobis meritis beatae
 
