@@ -27,12 +27,9 @@ Below are several traditional hymns and chants dedicated to Saint Joseph. About 
 
 The Liber Hymnarius attributes authorship to Hieronymus Casanate. Mode 1, Liber Usualis, 1961, p. 1447. This hymn is used for Vespers on March 19th, the Solemnity of St. Joseph, Spouse of the Blessed Virgin Mary, and May 1st, the Feast of St. Joseph the Worker. 
 
-Te, Joseph, celebrent agmina caelitum,
-
+Te, Joseph, celebrent agmina caelitum, <br>
 te cuncti resonent Christiadum chori,
-
 qui, clarus meritis, iunctus es inclitae,
-
 casto foedere Virgini.	
 
 Almo cum tumidam germine coniugem
