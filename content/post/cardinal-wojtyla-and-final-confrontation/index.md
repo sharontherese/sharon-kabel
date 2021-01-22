@@ -19,9 +19,23 @@ tags:
 draft: true 
 ---
 
-The following quotation is attributed to Pope Blessed Pius IX: 
+The following quotation is attributed to Cardinal Wojtyla, the future Pope St. John Paul II: 
+
+
 
 # Says who?
+
+Wall Street Journal, 
+
+Commonweal Magazine, as curious as I am, looked into the quotation: https://www.commonwealmagazine.org/john-paul-ii-said-what-now
+
+The author's conclusion is that the quotation is "thinly sourced" and "out of keeping." 
+
+![](/uploads/wojtyla/wojtylacitation.png)
+
+A few things make this quest difficult: 
+
+Firstly, I am looking for something that Pope John Paul said 
 
 # A first pass 
 
