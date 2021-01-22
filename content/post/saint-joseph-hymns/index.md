@@ -28,471 +28,316 @@ Below are several traditional hymns and chants dedicated to Saint Joseph. About 
 The Liber Hymnarius attributes authorship to Hieronymus Casanate. Mode 1, Liber Usualis, 1961, p. 1447. This hymn is used for Vespers on March 19th, the Solemnity of St. Joseph, Spouse of the Blessed Virgin Mary, and May 1st, the Feast of St. Joseph the Worker. 
 
 Te, Joseph, celebrent agmina caelitum, <br>
-te cuncti resonent Christiadum chori,
-qui, clarus meritis, iunctus es inclitae,
-casto foedere Virgini.	
+te cuncti resonent Christiadum chori, <br>
+qui, clarus meritis, iunctus es inclitae, <br>
+casto foedere Virgini. <br>
 
-Almo cum tumidam germine coniugem
+Almo cum tumidam germine coniugem <br>
+admirans dubio tangeris anxius, <br>
+afflatu superi Flaminis, Angelus <br>
+conceptum puerum docet.	<br>
 
-admirans dubio tangeris anxius,
+Tu natum Dominum stringis, ad exteras <br>
+Aegypti profugum tu sequeris plagas; <br>
+amissum Solymis quaeris et invenis, <br>
+miscens gaudia fletibus. <br>	
 
-afflatu superi Flaminis, Angelus
+Electos reliquos mors pia consecrati <br>
+palmamque emeritos gloria suscipit; <br>
+tu vivens, Superis par, frueris Deo, <br>
+mira sorte beatior. <br>	
 
-conceptum puerum docet.	
-
-Tu natum Dominum stringis, ad exteras
-
-Aegypti profugum tu sequeris plagas;
-
-amissum Solymis quaeris et invenis,
-
-miscens gaudia fletibus.	
-
-Electos reliquos mors pia consecrati
-
-palmamque emeritos gloria suscipit;
-
-tu vivens, Superis par, frueris Deo,
-
-mira sorte beatior.	
-
-Nobis, summa Trias, parce precantibus;
-
-da Ioseph meritis sidera scandere,
-
-ut tandem liceat nos tibi perpetim
-
-gratum promere canticum.	
+Nobis, summa Trias, parce precantibus; <br>
+da Ioseph meritis sidera scandere, <br>
+ut tandem liceat nos tibi perpetim <br>
+gratum promere canticum. Amen. <br>	
 
 # Caelitum, Joseph, decus
 
 Written by Fr. Juan Escollar (d. 1700), this hymn was formerly used at Matins for the feast of St. Joseph, Husband of the Blessed Virgin Mary (March 19). It is still used for this feast, but for Lauds instead. It is also the hymn for Lauds for the Feast of St. Joseph the Worker on May 1.
 
-Caelitum, Ioseph, decus, atque nostrae
+Caelitum, Ioseph, decus, atque nostrae <br>
+certa spes vitae, columenque mundi, <br>
+quas tibi laeti canimus, benignus <br>
+suscipe laudes. <br>	
 
-certa spes vitae, columenque mundi,
+Te, satum David, statuit Creator <br>
+Virginis sponsum, voluitque Verbi <br>
+te patrem dici, dedit et ministrum <br>
+esse salutis. <br>	
 
-quas tibi laeti canimus, benignus
+Tu, Redemptorem stabulo iacentem, <br>
+quem chorus vatum cecinit futurum, <br>
+aspicis gaudens, sociusque matris <br>
+primus adoras. <br>	
 
-suscipe laudes.	
+Rex Deus regum, dominator orbis, <br>
+cuius ad nutum tremit infernorum <br>
+turba, cui pronus famulatur aether, <br>
+se tibi subdit. <br>	
 
-Te, satum David, statuit Creator
-
-Virginis sponsum, voluitque Verbi
-
-te patrem dici, dedit et ministrum
-
-esse salutis.	
-
-Tu, Redemptorem stabulo iacentem,
-
-quem chorus vatum cecinit futurum,
-
-aspicis gaudens, sociusque matris
-
-primus adoras.	
-
-Rex Deus regum, dominator orbis,
-
-cuius ad nutum tremit infernorum
-
-turba, cui pronus famulatur aether,
-
-se tibi subdit.	
-
-Laus sit excelsae Triadi perennis,
-
-quae, tibi insignes tribuens honores,
-
-et tuis nobis meritis beatae
-
-gaudia vitae.	
+Laus sit excelsae Triadi perennis, <br>
+quae, tibi insignes tribuens honores, <br>
+et tuis nobis meritis beatae <br>
+gaudia vitae. <br>	
 
 # Iste, quem laeti
 
 Written by Fr. Juan Escollar (d. 1700), this hymn was formerly used at Lauds for the feast of St. Joseph, Husband of the Blessed Virgin Mary (March 19). It is still used for this feast, but for the Office of the Readings. It is also the hymn for the Office of the Readings for the Feast of St. Joseph the Worker on May 1.
 
-Iste, quem laeti colimus, fideles
+Iste, quem laeti colimus, fideles <br>
+cuius excelsos canimus triumphos, <br>
+hac die Ioseph meruit perennis <br>
+gaudia vitae.	<br>
 
-cuius excelsos canimus triumphos,
+O nimis felix, nimis o beatus, <br>
+cuius extremam vigiles ad horam <br>
+Christus et Virgo simul astiterunt <br>
+ore sereno. <br>	
 
-hac die Ioseph meruit perennis
+Iustus insignis, laqueo solutus <br> 
+carnis, ad sedes placido sopore <br>
+migrat aeternas, rutilisque cingit <br>
+tempora sertis. <br>	
 
-gaudia vitae.	
+Ergo regnantem, flagitemus omnes, <br>
+adsit ut nobis, veniamque nostris <br>
+obtinens culpis, tribuat supernae <br>
+munera pacis. <br>	
 
-O nimis felix, nimis o beatus,
-
-cuius extremam vigiles ad horam
-
-Christus et Virgo simul astiterunt
-
-ore sereno.	
-
-Iustus insignis, laqueo solutus 
-
-carnis, ad sedes placido sopore
-
-migrat aeternas, rutilisque cingit
-
-tempora sertis.	
-
-Ergo regnantem, flagitemus omnes,
-
-adsit ut nobis, veniamque nostris
-
-obtinens culpis, tribuat supernae
-
-munera pacis.	
-
-Sint tibi plausus, tibi sint honores,
-
-Trine qui regnas Deus, et coronas
-
-aureas servo tribuis fideli
-
-omne per aevum. Amen.	
+Sint tibi plausus, tibi sint honores, <br>
+Trine qui regnas Deus, et coronas <br>
+aureas servo tribuis fideli <br>
+omne per aevum. Amen. <br>	
 
 # Magne Joseph, Fili David
 
 This hymn is from the medieval Little Office of St. Joseph. 
 
-Magne Joseph, Fili David,
+Magne Joseph, Fili David, <br>
+custos date Virginis, <br>
+quem et Virgo nuncupavit <br>
+patrem Christi Domini; <br>
 
-custos date Virginis,
-
-quem et Virgo nuncupavit
-
-patrem Christi Domini;	
-
-Qui fidelis Servus Dei
-
-datus es familiae,
-
-precor velis curam mei
-
-tamquam Pater gerere.	
+Qui fidelis Servus Dei <br>
+datus es familiae, <br>
+precor velis curam mei <br>
+tamquam Pater gerere.	<br>
 
 # Joseph, fili David
 
 This is the (possibly medieval) Communion chant for March 19th in the Latin Mass. 
 
-Joseph, fili David, noli timere accipere Mariam
-
-conjugem tuam quod enim in ea natum est de Spiritu Sancto est.
+Joseph, fili David, noli timere accipere Mariam <br>
+conjugem tuam quod enim in ea natum est de Spiritu Sancto est. <br>
 
 # Salve Joseph, custos pie 
 
-Salve, Joseph, custos pie,
+Salve, Joseph, custos pie, <br>
+Sponse Virginis Mariae, <br>
+Educator oplimé. <br>
 
-Sponse Virginis Mariae,
+Tua prece salus data <br>
+Sit et culpa condonata <br>
+Peccatricis animae. <br>
 
-Educator oplimé.
+Per te cuncti liberemur <br>
+Omni poena, quam meremur <br>
+Nostris pro criminibus. <br>
 
-Tua prece salus data
+Per te nobis impertita <br>
+omnis gratia expedita <br>
+Sit, et salus animae. <br>
 
-Sit et culpa condonata
+Te precante, vita functi <br>
+Simus Angelis conjuncti <br>
+In coelesti Patria. <br>
 
-Peccatricis animae.
+Sint et omnes tribulati <br>
+Te pre cante liberati <br>
+cunctis ab angustiis. <br>
 
-Per te cuncti liberemur
+loseph fili David Regis <br>
+Recordare Christi gregis <br>
+ln die judicii <br>
 
-Omni poena, quam meremur
-
-Nostris pro criminibus.
-
-Per te nobis impertita
-
-omnis gratia expedita
-
-Sit, et salus animae.
-
-Te precante, vita functi
-
-Simus Angelis conjuncti
-
-In coelesti Patria.
-
-Sint et omnes tribulati
-
-Te pre cante liberati
-
-cunctis ab angustiis.
-
-loseph fili David Regis
-
-Recordare Christi gregis
-
-ln die judicii
-
-Salvatorem deprecare
-
-Ut nos velit liberare
-
-Nostrae mortis tempore
+Salvatorem deprecare <br>
+Ut nos velit liberare <br>
+Nostrae mortis tempore <br>
 
 # Salve Pater Salvatoris
 
 This is a 14th century hymn attributed to Adam of St. Victor. 
 
-Salve, pater Salvatoris, Joseph ter amabilis.
-
-Salve, custos Redemptoris, Joseph ter mirabilis.
-
-Salve, sponsa Matris Dei, Joseph vir angelice.
-
-Salve, hospes Jesu mei, Vir Joseph seraphice. 
+Salve, pater Salvatoris, Joseph ter amabilis. <br>
+Salve, custos Redemptoris, Joseph ter mirabilis. <br>
+Salve, sponsa Matris Dei, Joseph vir angelice. <br>
+Salve, hospes Jesu mei, Vir Joseph seraphice. <br>
 
 # St. Joseph honored from above 
 
 A 2012 hymn to the tune of Jesu, Dulcis Memoria, by Genevieve Glen, OSB.
 
-A just man honored from above,
+A just man honored from above, <br>
+A silent man, a man of love, <br>
+Saint Joseph served the Lord alone <br>
+On exile's road, in fam'ly home. <br>
 
-A silent man, a man of love,
+A man who acted on the word, <br>
+He carried out what he had heard: <br>
+He took the Mother and her Child <br>
+From scorner's stone and tyrant wild. <br>
 
-Saint Joseph served the Lord alone
+A man of faith, a man of trust, <br>
+He bore whatever loss he must <br>
+To keep the Mother and her Son <br>
+Until his life's great work was done. <br>
 
-On exile's road, in fam'ly home.
-
-A man who acted on the word,
-
-He carried out what he had heard:
-
-He took the Mother and her Child
-
-From scorner's stone and tyrant wild.
-
-A man of faith, a man of trust,
-
-He bore whatever loss he must
-
-To keep the Mother and her Son
-
-Until his life's great work was done.
-
-We praise you, God of majesty,
-
-One holy threefold Mystery;
-
-Be Father, Son, and Spirit blest
-
-By all who share in evening's rest.
+We praise you, God of majesty, <br>
+One holy threefold Mystery; <br>
+Be Father, Son, and Spirit blest <br>
+By all who share in evening's rest. <br>
 
 # Dear Husband Of Mary! Dear Nurse Of Her Child!
 
 A 19th century hymn of Father Frederick W. Faber. 
 
-Dear Husband of Mary! dear Nurse of her Child!
+Dear Husband of Mary! dear Nurse of her Child! <br>
+Life’s ways are full weary, the desert is wild; <br>
+Bleak sands are all round us, no home can we see; <br>
+Sweet Spouse of our Lady! we lean upon thee. <br>
 
-Life’s ways are full weary, the desert is wild;
+For thou to the pilgrim art Father and Guide, <br>
+And Jesus and Mary felt safe by thy side; <br>
+Ah! blessed Saint Joseph! how safe should I be, <br>
+Sweet Spouse of our Lady! if thou wert with me! <br>
 
-Bleak sands are all round us, no home can we see;
+O blessed Saint Joseph! how great was thy worth, <br>
+The one chosen shadow of God upon earth, <br>
+The Father of Jesus—ah! then wilt thou be, <br>
+Sweet Spouse of our Lady! a father to me? <br>
 
-Sweet Spouse of our Lady! we lean upon thee.
+Thou hast not forgotten the long dreary road, <br>
+When Mary took turns with thee, bearing thy God; <br>
+Yet light was that burden, none lighter could be: <br>
+Sweet Spouse of our Lady ! O canst thou bear me? <br>
 
-For thou to the pilgrim art Father and Guide,
+A cold thankless heart and a mean love of ease, <br>
+What weights, blessed Patron! more galling than these? <br>
+My life, my past life, thy clear vision may see; <br>
+Sweet Spouse of our Lady! O canst thou love me? <br>
 
-And Jesus and Mary felt safe by thy side ;
+Ah! give me thy Burden to bear for a while; <br>
+Let me kiss His warm lips, and adore His sweet smile; <br>
+With her Babe in my arms, surely Mary will be, <br>
+Sweet Spouse of our Lady! my pleader with thee! <br>
 
-Ah ! blessed Saint Joseph! how safe should I be,
+When the treasures of God were unsheltered on earth, <br>
+Safe keeping was found for them both in thy worth; <br>
+O Father of Jesus! be father to me, <br>
+Sweet Spouse of our Lady! and I will love thee. <br>
 
-Sweet Spouse of our Lady! if thou wert with me!
-
-O blessed Saint Joseph! how great was thy worth,
-
-The one chosen shadow of God upon earth,
-
-The Father of Jesus—ah! then wilt thou be,
-
-Sweet Spouse of our Lady! a father to me?
-
-Thou hast not forgotten the long dreary road,
-
-When Mary took turns with thee, bearing thy God;
-
-Yet light was that burden, none lighter could be:
-
-Sweet Spouse of our Lady ! O canst thou bear me?
-
-A cold thankless heart and a mean love of ease,
-
-What weights, blessed Patron! more galling than these?
-
-My life, my past life, thy clear vision may see;
-
-Sweet Spouse of our Lady! O canst thou love me?
-
-Ah! give me thy Burden to bear for a while;
-
-Let me kiss His warm lips, and adore His sweet smile;
-
-With her Babe in my arms, surely Mary will be,
-
-Sweet Spouse of our Lady! my pleader with thee!
-
-When the treasures of God were unsheltered on earth,
-
-Safe keeping was found for them both in thy worth;
-
-O Father of Jesus! be father to me,
-
-Sweet Spouse of our Lady! and I will love thee.
-
-God chose thee for Jesus and Mary—wilt thou
-
-Forgive a poor exile for choosing thee now ?
-
-There is no Saint in Heaven I worship like thee,
-
-Sweet Spouse of our Lady! O deign to love me!
+God chose thee for Jesus and Mary—wilt thou <br>
+Forgive a poor exile for choosing thee now? <br>
+There is no Saint in Heaven I worship like thee, <br>
+Sweet Spouse of our Lady! O deign to love me! <br>
 
 # Hail, Holy Joseph, Hail! 
 
 A 19th century hymn of Father Frederick W. Faber. 
 
-Hail, holy Joseph, hail!
+Hail, holy Joseph, hail! <br>
+Chaste spouse of Mary hail! <br>
+Pure as the lily flow'r <br>
+In Eden's peaceful vale. <br>
 
-Chaste spouse of Mary hail!
+Hail, holy Joseph, hail! <br>
+Prince of the house of God! <br>
+May His best graces be <br>
+By thy sweet hands bestowed. <br>
 
-Pure as the lily flow'r
+Hail, holy Joseph, hail! <br>
+Comrade of Angels, hail! <br>
+Cheer thou the hearts that faint, <br>
+And guide the steps that fail. <br>
 
-In Eden's peaceful vale.
+Hail, holy Joseph, hail! <br>
+God's choice wert thou alone! <br>
+To thee the Word made flesh, <br>
+Was subject as a Son. <br>
 
-Hail, holy Joseph, hail!
+Hail, holy Joseph, hail! <br>
+Teach us our flesh to tame, <br>
+And, Mary, keep the hearts <br>
+That love thy husband's name. <br>
 
-Prince of the house of God!
-
-May His best graces be
-
-By thy sweet hands bestowed.
-
-Hail, holy Joseph, hail!
-
-Comrade of Angels, hail!
-
-Cheer thou the hearts that faint,
-
-And guide the steps that fail.
-
-Hail, holy Joseph, hail!
-
-God's choice wert thou alone!
-
-To thee the Word made flesh,
-
-Was subject as a Son.
-
-Hail, holy Joseph, hail!
-
-Teach us our flesh to tame,
-
-And, Mary, keep the hearts
-
-That love thy husband's name.
-
-Mother of Jesus! bless,
-
-And bless, ye saints on high,
-
-All meek and simple souls
-
-That to Saint Joseph cry.
+Mother of Jesus! bless, <br>
+And bless, ye saints on high, <br>
+All meek and simple souls <br>
+That to Saint Joseph cry. <br>
 
 # O blessed St. Joseph
 
 A 19th century hymn of Father Frederick W. Faber. 
 
-O blessed Saint Joseph, how great was thy worth,
+O blessed Saint Joseph, how great was thy worth, <br>
+The one chosen shadow of God upon earth, <br>
+The father of Jesus! Ah then, wilt thou be, <br>
+Sweet spouse of our Lady! A father to me? <br>
 
-The one chosen shadow of God upon earth,
+For thou to the pilgrim art father and guide, <br>
+And Jesus and Mary felt safe by thy side; <br>
+Ah, blessed Saint Joseph, how safe I should be, <br>
+Sweet spouse of our Lady! If thou wert with me! <br>
 
-The father of Jesus! Ah then, wilt thou be,
-
-Sweet spouse of our Lady! A father to me?
-
-For thou to the pilgrim art father and guide,
-
-And Jesus and Mary felt safe by thy side;
-
-Ah, blessed Saint Joseph, how safe I should be,
-
-Sweet spouse of our Lady! If thou wert with me!
-
-When the treasures of God where unsheltered on earth,
-
-Safe keeping was found them both in thy worth;
-
-O father of Jesus, be father to me,
-
-Sweet spouse of our Lady! And I will love thee.
+When the treasures of God where unsheltered on earth, <br>
+Safe keeping was found them both in thy worth; <br>
+O father of Jesus, be father to me, <br>
+Sweet spouse of our Lady! And I will love thee. <br>
 
 # Dear Saint Joseph, pure and gentle
 
 An early 20th century hymn. 
 
-Dear St Joseph, pure and gentle,
+Dear St Joseph, pure and gentle, <br>
+guardian of the Saviour child, <br>
+Treading, with the virgin mother, <br>
+Egypt’s deserts rough and wild. <br>
 
-guardian of the Saviour child,
+Dear St Joseph, spouse of Mary, <br>
+blest above all saints on high, <br>
+When the death shades round us gather, <br>
+teach, O teach us how to die. <br>
 
-Treading, with the virgin mother,
+He who rested on thy bosoms <br>
+is by countless saints adored, <br>
+Prostrate angels in his presence <br>
+sing hosannahs to their Lord. <br>
 
-Egypt’s deserts rough and wild.
+Dear St Joseph, spouse of Mary, <br>
+blest above all saints on high, <br>
+When the death shades round us gather, <br>
+teach, O teach us how to die. <br>
 
-Dear St Joseph, spouse of Mary,
+Now to thee, no gift refusing, <br>
+Jesus stoops to hear thy prayer; <br>
+Then, dear saint, from thy fair dwelling, <br>
+give to us a father’s care. <br>
 
-blest above all saints on high,
+Dear St Joseph, spouse of Mary, <br>
+blest above all saints on high, <br>
+When the death shades round us gather, <br>
+teach, O teach us how to die. <br>
 
-When the death shades round us gather,
+Dear St Joseph, kind and loving, <br>
+stretch to us a helping hand; <br>
+Guide us through earth’s toils and sorrows, <br>
+Safely to the distant land. <br>
 
-teach, O teach us how to die. 
-
-He who rested on thy bosom
-
-is by countless saints adored,
-
-Prostrate angels in his presence
-
-sing hosannahs to their Lord.
-
-Dear St Joseph, spouse of Mary,
-
-blest above all saints on high,
-
-When the death shades round us gather,
-
-teach, O teach us how to die.
-
-Now to thee, no gift refusing,
-
-Jesus stoops to hear thy prayer;
-
-Then, dear saint, from thy fair dwelling,
-
-give to us a father’s care.
-
-Dear St Joseph, spouse of Mary,
-
-blest above all saints on high,
-
-When the death shades round us gather,
-
-teach, O teach us how to die.
-
-Dear St Joseph, kind and loving,
-
-stretch to us a helping hand;
-
-Guide us through earth’s toils and sorrows,
-
-Safely to the distant land.
-
-Dear St Joseph, spouse of Mary,
-
-blest above all saints on high,
-
-When the death shades round us gather,
-
-teach, O teach us how to die.
+Dear St Joseph, spouse of Mary, <br>
+blest above all saints on high, <br>
+When the death shades round us gather, <br>
+teach, O teach us how to die. <br>
 
 # Holy Joseph, dearest Father
 
@@ -500,51 +345,36 @@ A 19th century hymn of the Sisters of Notre Dame.
 
 Chorus:
 
-Holy Joseph, dearest father,
+Holy Joseph, dearest father, <br>
+To thy children’s prayer incline, <br>
+Whilst we sing Thy joys and sorrows, <br>
+And the glories which are thine. <br>
 
-To thy children’s prayer incline,
-
-Whilst we sing Thy joys and sorrows,
-
-And the glories which are thine.
-
-How to praise thee, how to thank thee,
-
-Blessed Saint, we cannot tell,
-
-Favours countless hast thou given,
-
-Can we choose but love thee well?
+How to praise thee, how to thank thee, <br>
+Blessed Saint, we cannot tell, <br>
+Favours countless hast thou given, <br>
+Can we choose but love thee well? <br>
 
 Chorus.
 
-Near to Jesus, near to Mary,
-
-And, kind Father, near to thee,
-
-Keep us while on earth we wander,
-
-And in death our helper be.
+Near to Jesus, near to Mary, <br>
+And, kind Father, near to thee, <br>
+Keep us while on earth we wander, <br>
+And in death our helper be. <br>
 
 Chorus.
 
-We have prayed and thou hast answered
-
-We have asked and thou hast given,
-
-Need we marvel, Jesus tells us,
-
-Joseph has the stores of heaven?
+We have prayed and thou hast answered <br>
+We have asked and thou hast given, <br>
+Need we marvel, Jesus tells us, <br>
+Joseph has the stores of heaven? <br>
 
 Chorus.
 
-One more favour we will ask thee,
-
-Thou of all canst grant it best,
-
-When we die be thou still near us,
-
-Bring us safe to endless rest.
+One more favour we will ask thee, <br>
+Thou of all canst grant it best, <br>
+When we die be thou still near us, <br>
+Bring us safe to endless rest. <br>
 
 Chorus.
 
