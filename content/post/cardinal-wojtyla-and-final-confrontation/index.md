@@ -71,7 +71,7 @@ This article is extremely helpful because it gives us some idea of what the Card
 
 Searching further with additional terms for July, August, or September pulls this selected bibliography of materials on the Cardinal[^5]: 
 
-![](/uploads/wojtyla/wojtylacitation.png)
+![](/uploads/wojtyla/wojtylacitation.jpeg)
 
 (Note the typo in 'visist', which I suspect was a conspiracy to annoy future researchers such as myself. 
 
