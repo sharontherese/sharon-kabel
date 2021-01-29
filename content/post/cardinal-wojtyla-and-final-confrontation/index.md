@@ -1,6 +1,6 @@
 ---
 title: "Catholic fact check: Cardinal Karol Wojtyla and the final confrontation"
-date: 2021-01-24
+date: 2021-01-29
 
 # View.
 #   1 = List
@@ -10,13 +10,13 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 header:
-  caption: ""
-  image: ""
+  caption: "The Catholic Transcript, Volume LXVIII, Number 45, 5 March 1976"
+  image: "wojtylaheader.png"
   
 tags:
  - Catholic fact check
  
-draft: true 
+
 ---
 
 The following quotation is attributed to Cardinal Karol Wojtyla, the future Pope St. John Paul II: 
