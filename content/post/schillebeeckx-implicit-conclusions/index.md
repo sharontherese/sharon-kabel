@@ -129,9 +129,13 @@ Schillebeeckx wrote an article for De Bazuin (“De waarheid over de laatste con
 
 ![](/uploads/schillebeeckx/bazuin_48_12_1.png)
 
+_Header from: Schillebeeckx, Father Edward. "De Waarheid over De Laatste Concilieweek." De Bazuin 48, no. 12 (1965): 4-6._
+
 Rather than clear the air, it provoked a firestorm among readers, prompting a response from Schillebeeckx a month later (“Wij denken gepassioneerd en in cliché's,” or “We speak passionately and in cliches,” De Bazuin 48 nr. 16 (Jan. 23rd, 1965), 4-6).[^3]
 
 ![](/uploads/schillebeeckx/bazuin_48_16_1.png)
+
+_Header from: Schillebeeckx, Father Edward. "Wij Denken Gepassioneerd En in Cliche's." De Bazuin 48, no. 16 (1965): 4-6._
 
 In broad strokes, Schillebeeckx defended the legality of Pope Paul’s actions, but considered his actions imprudent considering the already suspicious atmosphere. He airs some complaints that the minority (generally conservatives - he mentions Lefebvre by name) were treated better than progressives. He accuses newspapers of fanning the flames. 
 
@@ -155,6 +159,8 @@ One last, unintentionally hilarious quotation from Schillebeeckx in January[^3]:
 
 > I personally find it sad that I have to write two articles with all kinds of theological distinctions and explanations in order to provide some clarity. If necessary, it clearly indicates an opaque situation. And the believers are thoroughly tired of all this learned explanation. I can only agree with that. We also had to constantly make distinctions to Pope John. But his attitude was humanly overwhelming and liberating, which is why we made no spectacle when he promptly placed in the canon contrary to the council of "St. Joseph", even though the Church apparently had no explicit need for it. With the same nonchalance, John could have proclaimed Mary Mother of the Church. We would have smiled kindly.
 
+Desipte its minimal long-term effects, the event clearly stayed with Schillebeeckx, as he brought it up years later in interviews.[^18]
+
 # Conclusion 
 
 In a sense, it didn’t matter what Pope Paul’s note said, or what Lumen Gentium said. It mattered what people thought they said. 
@@ -170,12 +176,6 @@ Some factions (such as Schillebeeckx) saw this as proof positive that relying on
 Some factions believed Pope Paul had violated Council procedures and the rights’ of the bishops for the sake of a misguided minority. (He did not violate procedures or rights, nor would conservatives now consider Pope Paul as “one of them”. This goes to show how messy history is in the moment!) 
 
 The ‘progressives’ saw Pope Paul as too generous to the ‘conservatives’, and saw themselves as ambushed and ignored at turns. All their hard work had gone up in smoke! The ‘conservatives’, momentarily allied with Pope Paul, saw a moment of hope in the fight against modern machinations.
-
-In a later interview[^18], Schillebeeckx said: 
-
-> What was the most negative moment at the Council for you? 
-
-> I think the week that in the press was called "the black week of the Council." On November 16, 1964, the Nota praevia was published by "higher authorities"-not by the Council but imposed upon the Council. This document interpreted the collegiality of Lumen gentium in a much more tightened way than did the theological commission (according to its answers to the proposed amendments of the Council fathers). The commission explained what really is the meaning of the collegiality of the world episcopate in reciprocal relationship with the pope, who exercises the Petrine ministry within the college of the bishops. The General Assembly positively gave its votes in favor of this explanation. The Nota praevia, on the contrary, actually combined collegiality with the possibility that the pope himself could rule the church either alone or together with the world episcopacy. The monarchical papal regimen in earlier times was not disavowed; it could restore the extreme centralization of the Roman Curia as a power higher and above the episcopacy spread over the whole world. 
 
 For our purposes, the two takeaways are: 
 
