@@ -28,7 +28,7 @@ The citation given for the quote is almost always the same:
 
 # Says who?
 
-The quote has circulated for years now. Perhaps most famously, it was used in the book _Iota Unum_, by Romano Ameri[^1], and in Archbishop Lefebvre’s _Open Letter to Confused Catholics_[^2].
+The quote has circulated for years now. Perhaps most famously, it was used in the book _Iota Unum_, by Romano Amerio[^1], and in Archbishop Lefebvre’s _Open Letter to Confused Catholics_[^2].
 
 From Lefebvre: 
 
@@ -193,7 +193,7 @@ I defer to James Hitchcock[^22] for a closing summary:
 
 [^1]: Amerio, Romano. Iota Unum : A Study of Changes in the Catholic Church in the Xxth Century. Kansas City: Sarto House, 2004.
 
-[^2]: Lefebure, Archbishop Marcel. An Open Letter to Confused Catholics. [Manila]: Society of St. Pius, 1986.
+[^2]: Lefebvre, Archbishop Marcel. An Open Letter to Confused Catholics. [Manila]: Society of St. Pius, 1986.
 
 [^3]: Schillebeeckx, Father Edward. "Wij Denken Gepassioneerd En in Cliche's." De Bazuin 48, no. 16 (1965): 4-6.
 
