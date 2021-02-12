@@ -135,7 +135,7 @@ Rather than clear the air, it provoked a firestorm among readers, prompting a re
 
 In broad strokes, Schillebeeckx defended the legality of Pope Paul’s actions, but considered his actions imprudent considering the already suspicious atmosphere. He airs some complaints that the minority (generally conservatives - he mentions Lefebvre by name) were treated better than progressives. He accuses newspapers of fanning the flames. 
 
-In his own words from the December 1964article[^14]: 
+In his own words from the December 1964 article[^14]: 
 
 > Het enige verschil tussen de tekst zelf van de constitutie en de ,,verklarende nota" ligt hierin, dat de onbeslistheid van de conciliaire tekst veeleer in de richting van een reëel onderscheid tussen deze twee titels wordt verbogen...De constitutie op zich laat de openheid, om deze laatste visie een kans te geven. Door de ,,verklarende nota" wordt elke gedachte aan de bevordering van deze kans weggenomen, hoewel ondanks alles niet positief uitgesloten, want men zegt niet, hoe men dit ,,afzonderlijk" optreden van de Paus moet begrijpen.
 
