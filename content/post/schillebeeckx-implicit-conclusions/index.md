@@ -189,20 +189,6 @@ I defer to James Hitchcock[^22] for a closing summary:
 
 > Such was the euphoria of the conciliar years that it was scarcely possible at the time to understand the immense importance of the public relations triumphs which accompanied it. It is probable, for example, that in 1960 most Catholics had scarcely heard of the Roman Curia; still less did they regard it as a chief obstacle to progress in the Church, even in the unlikelihood that they considered such progress desirable.The media deliberately made famous such men as Cardinal Alfredo Ottaviani solely in order to establish him as the principal villain in a drama. They “educated” people on abstruse issues like collegiality solely in order to enlist their sympathies on one side of the struggle. Every discussion was cast relentlessly in terms of a conflict between “progressives” and “reactionaries.” Every vote was assessed as either a victory or a defeat for the respective forces of light and darkness. The immense subtleties of the questions at stake, and above all the call to spiritual renewal which was the Council’s chief exhortation to Catholics, did not lend themselves to effective media presentation and were passed over as irrelevant. 
 
-# Postlude 
-
-Right next to Fr. Schillebeeck's article in the December 1964 De Bazuin[^14], there is a short column advertising an encumenical symposium. Excerpts below: 
-
-> DE CRISIS IN HET AMBT
-
-> Onder het motto “Wat hebben we aan elkaar?" organiseerde bet vormingscentrum Kerk en Wereld te Driebergen een symposion voor protestanten en katholieken. Beide inleiders, pater A. Kreykamp en dr. J.M. van Veen, vonden de controverse niet zozeer tussen katholiek en protestant, maar bespraken vooral hoe de moderne mondig geworden wereld staat tegenover bet ambt dat en bij katholieken en bij protestanten een crisis doormaakt. Soms vraag je je af, aldus pater Kreykamp, worden de ambtsdragers niet overbodig?...Verder bewerkten het speciale zielzorgelijk jargon van vertaald latijn, zijn celibatair bestaan, zijn afgesloten opleiding, de verclericalisering van de liturgie een vervreemding van ambtsdrager en kerkvolk, reden van veel communicatiestoornissen...
-
-> THE CRISIS IN OFFICE 
-
-> Under the motto “What do we have in each other?”, The Kerk en Wereld training center in Driebergen organized a symposium for Protestants and Catholics. Both speakers, Father A. Kreykamp and Dr JM van Veen, did not think the controversy was so much between Catholic and Protestant, but mainly discussed how the modern empowered world stands towards the ministry that is going through a crisis among Catholics and Protestants. Sometimes you wonder, according to Father Kreykamp, ​​"Are the ministers not becoming superfluous?...Furthermore, the special counseling jargon of translated Latin, his celibate existence, his completed education, the literalization of the liturgy caused an alienation from the minister and the church people, the reason for many communication disorders...
-
-Fr. Kreykamp was one of the editors of De Bazuin. About a year after this ecumenical symposium on the potential uselessness of the priesthood, Fr. Kreykamp requested to be released from his vows.[^23] 
-
 # Sources
 
 [^1]: Amerio, Romano. Iota Unum : A Study of Changes in the Catholic Church in the Xxth Century. Kansas City: Sarto House, 2004.
@@ -248,5 +234,3 @@ Fr. Kreykamp was one of the editors of De Bazuin. About a year after this ecumen
 [^21]: Blanchard, Shaun London "Eighteenth-Century Forerunners of Vatican Ii: Early Modern Catholic Reform and the Synod of Pistoia." Degree of Doctor of Philosophy, Marquette University, 2018. https://epublications.marquette.edu/dissertations_mu/774 (774).
 
 [^22]: Hitchcock, James. Catholicism and Modernity : Confrontation or Capitulation? Ann Arbor, Mich.: Servant Books, 1979.
-
-[^23]: "Dutch Priest Seeks Leave of Priesthood." Pittsburgh Catholic, September 22 1966. https://thecatholicnewsarchive.org/?a=d&d=TPC19660922-01.1.7&srpos=3.
