@@ -38,7 +38,7 @@ From Lefebvre:
 
 Given the complexity of this particular saga, I will jump to the conclusion. 
 
-Schillebeeckx did not say it; he quoted someone else who said it, and he disagreed with the speaker. 
+**Schillebeeckx did not say it**; he quoted someone else who said it, and _he disagreed with the speaker_. 
 
 In the article, “Wij denken gepassioneerd en in cliche's” (“We speak passionately and in cliches”), published in Dutch Catholic weekly magazine De Bazuin, volume 48, number 16 (Jan. 23rd, 1965), pp. 4-6, Schillebeeckx said[^3]: 
 
