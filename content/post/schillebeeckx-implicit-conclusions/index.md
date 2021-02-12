@@ -113,7 +113,7 @@ In a radical act of self-care, I refuse to summarize the substance of the colleg
  
 Confining myself to the actions: 
 
-The Council Fathers were about to vote on Lumen Gentium, which had a chapter on collegiality. The ambiguity of this chapter had caused numerous fights between ‘conservatives’ worried about weakening the Pope’s authority, and ‘progressives’ who sought a more flexible definition of an outdated papalism. At the last minute, Pope St. Paul VI appended an “explanatory note” to LG. Archbishop Pericle Felici read the note at the Council without warning and without any time for debate. It was unclear at the time if Pope Paul had the authority to “intervene”, what the note really meant, and what authority it had in relation to LG. LG was passed by an overwhelming majority, and the session closed shortly thereafter. 
+The Council Fathers were about to vote on Lumen Gentium (LG), which had a chapter on collegiality. The ambiguity of this chapter had caused numerous fights between ‘conservatives’ worried about weakening the Pope’s authority, and ‘progressives’ who sought a more flexible definition of an outdated papalism. At the last minute, Pope St. Paul VI appended an “explanatory note” to LG. Archbishop Pericle Felici read the note at the Council without warning and without any time for debate. It was unclear at the time if Pope Paul had the authority to “intervene”, what the note really meant, and what authority it had in relation to LG. LG was passed by an overwhelming majority, and the session closed shortly thereafter. 
 
 # The fallout 
 
