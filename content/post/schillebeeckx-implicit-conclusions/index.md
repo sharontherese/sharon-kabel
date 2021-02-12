@@ -42,6 +42,8 @@ Schillebeeckx did not say it; he quoted someone else who said it, and he disagre
 
 In the article, “Wij denken gepassioneerd en in cliche's” (“We speak passionately and in cliches”), published in Dutch Catholic weekly magazine De Bazuin, volume 48, number 16 (Jan. 23rd, 1965), pp. 4-6, Schillebeeckx said[^3]: 
 
+![](/uploads/schillebeeckx/bazuin_48_16_2.jpg)
+
 > Een theoloog uit de leerstellige commissie aan wie ik reeds tijdens de tweede sessie klaagde over het “minimalisme” aan pauselijke collegialiteit in het nieuwe schema, zei me geruststellend: **“we zeggen het diplomatiek, maar na het concilie trekken we de geïmpliceerde conclusies”. Ik vond dit toen unfair en geloofde trouwens niet in zulk een concilieinterpretatie,** waarbij de ene categorie stemmers de pauselijke collegialiteit zou negeren en de andere categorie ze zou impliceren! Er had ofwel een duidelijke tekst moeten zijn waarin het maximalisme (wat de collegialiteit bewat treft) ondubbelzinnig werd geformuleerd, ofwel een duidelijke tekst waarin de eerder minimalistische opvatting (die het schema uitdrukkelijk formuleert) wordt ontdaan van haar dubbelzinnige vaagheid-door-verzwijging van het eigenlijke probleem.
 
 > A theologian from the doctrinal committee to whom I already complained during the second session about the "minimalism" of papal collegiality in the new scheme, said reassuringly, **"we say it diplomatically, but after the council we draw the implied conclusions." I found this unfair at the time, and by the way, did not believe in such a council interpretation,** where one category of voters would ignore papal collegiality and the other category would imply it! There should have been either a clear text in which maximalism (which affects the collegiality) was unambiguously formulated, or a clear text in which the rather minimalist view (which the scheme expressly formulates) is stripped of its ambiguous vagueness-by-concealment of the actual problem. (Google Translate; emphasis added)
@@ -125,11 +127,11 @@ _“Collegiality teaching accepted, but in a watered-down form”.  "Collegialit
 
 Schillebeeckx wrote an article for De Bazuin (“De waarheid over de laatste concilieweek,” or “the truth about the last council week,” De Bazuin 48 nr. 12 (Dec. 23th 1964), 4-6) to clear the air.[^14] 
 
-![](/uploads/schillebeeckx/bazuin_48_12.jpg)
+![](/uploads/schillebeeckx/bazuin_48_12_1.jpg)
 
 Rather than clear the air, it provoked a firestorm among readers, prompting a response from Schillebeeckx a month later (“Wij denken gepassioneerd en in cliché's,” or “We speak passionately and in cliches,” De Bazuin 48 nr. 16 (Jan. 23rd, 1965), 4-6).[^3]
 
-![](/uploads/schillebeeckx/bazuin_48_16.jpg)
+![](/uploads/schillebeeckx/bazuin_48_16_1.jpg)
 
 In broad strokes, Schillebeeckx defended the legality of Pope Paul’s actions, but considered his actions imprudent considering the already suspicious atmosphere. He airs some complaints that the minority (generally conservatives - he mentions Lefebvre by name) were treated better than progressives. He accuses newspapers of fanning the flames. 
 
