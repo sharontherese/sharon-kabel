@@ -12,3 +12,11 @@ title = "About"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
+
+# Education
+  - MS in Library Science
+    institution: Drexel University
+    year: 2016
+  - BA in Literature
+    institution: Belmont Abbey College
+    year: 2013
