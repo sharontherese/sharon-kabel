@@ -21,15 +21,15 @@ subtitle = ""
   description = "Project support, fact checks"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "pencil-alt"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Proofreading"
+  description = "Essays, papers, chapters, books"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "user-edit"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Thesis and Dissertation Editing"
+  description = "All style guides"
 
 +++
