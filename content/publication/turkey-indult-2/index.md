@@ -5,7 +5,7 @@ authors:
 date: 2021-02-22T00:00:00Z
 doi: ''
 publication: New Liturgical Movement
-summary: In November of last year, I shared a provocative hypothesis: thanks to the discovery of new evidence, it was possible for the first time to confirm that the long-rumored American 'Turkey Indult' directly from the Pope did in fact occur, although not quite the way we thought.
+summary: 'In November of last year, I shared a provocative hypothesis: thanks to the discovery of new evidence, it was possible for the first time to confirm that the long-rumored American 'Turkey Indult' directly from the Pope did in fact occur, although not quite the way we thought.'
 tags:
 - Turkey Indult
 - newspapers
