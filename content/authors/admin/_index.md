@@ -41,13 +41,9 @@ social:
 
 I am a Catholic librarian interested in finding high quality information, arranging it usefully, and aggressively citing my sources.
 
-I started a Wordpress site in March of 2016, as a way to keep track of interesting quotations from books and articles that I read (material that may still be under copyright is quoted sparingly). This site has morphed into my portfolio, as I either collate the many fascinating resources I encounter, or I make them when I can't find them. 
+My degrees are in Library Science (MS) and Literature (BA), so I am particularly interested in research methods, editing, and writing. Contact me for a quote if you need project help in any of these areas. 
 
-I have a MS in Library Science, and a BA in English, so I am particularly interested in research methods, and good writing. 
-
-I was voted “most likely to win the Nobel Peace Prize” and “most likely to make a sarcastic comment” by classmates.
-
-My first website name was _A Wild Sostenuto_, from Richard Wilbur’s poem, “For C.”
+My [first website](http://sharonkabel.wordpress.com/) name was _A Wild Sostenuto_, from Richard Wilbur’s poem, “For C.”
 
 > Still, there’s a certain scope in that long love <br/>
 > Which constant spirits are the keepers of, <br/>
