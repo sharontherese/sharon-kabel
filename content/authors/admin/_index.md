@@ -15,6 +15,22 @@ role: Librarian; Nuisance
 # Short bio (displayed in user profile at end of posts)
 bio: I like Catholic newspapers, amateur data visualizations, and walls of text.
 
+# Interests to show in About widget
+interests:
+- Metadata
+- Catholic research
+- FAct checking
+
+# Education to show in About widget
+education:
+  courses:
+  - course: MS in Library Science
+    institution: Drexel University
+    year: 2016
+  - course: BA in Literature
+    institution: Belmont Abbey College
+    year: 2013
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -53,15 +69,3 @@ My [first website](http://sharonkabel.wordpress.com/) name was _A Wild Sostenuto
 > Which has the quality of something made, <br/>
 > Like a good fiddle, like the rose’s scent, <br/>
 > Like a rose window or the firmament.
-
-# Education
-  - course: MS in Library Science
-    institution: Drexel University
-    year: 2016
-    icon: flickr
-    icon_pack: fab
-  - course: BA in Literature
-    institution: Belmont Abbey College
-    year: 2013
-    icon: flickr
-    icon_pack: fab
