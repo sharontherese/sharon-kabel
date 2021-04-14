@@ -12,13 +12,13 @@ subtitle = ""
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "book"
+  icon_pack = "fas"
+  name = "Research"
+  description = "Project support, fact checks"
   
 [[feature]]
   icon = "chart-line"
