@@ -14,9 +14,9 @@ author = "admin"
 +++
 
 # Education
-  - MS in Library Science
+  - course: MS in Library Science
     institution: Drexel University
     year: 2016
-  - BA in Literature
+  - course: BA in Literature
     institution: Belmont Abbey College
     year: 2013
