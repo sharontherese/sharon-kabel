@@ -22,7 +22,8 @@ I have experience with:
 * poetry
 * resumes
 * fiction books
-Thesis and Dissertation Editing
+
+# Thesis and Dissertation Editing
 This is a more advanced and specialized category than the previous one. Typically, a thesis or dissertation will have not one, but two style guides to follow: its discipline (such as Chicago or MLA) and its department (such as the institution’s Philosophy department). 
 
 # Wedding programs
