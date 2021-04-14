@@ -53,16 +53,3 @@ My [first website](http://sharonkabel.wordpress.com/) name was _A Wild Sostenuto
 > Which has the quality of something made, <br/>
 > Like a good fiddle, like the rose’s scent, <br/>
 > Like a rose window or the firmament.
-
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
