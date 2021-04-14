@@ -28,7 +28,8 @@ This is a more advanced and specialized category than the previous one. Typicall
 # Wedding programs
 One of the services I offer via latinmasswedding.com is custom wedding programs for traditional Catholic weddings. 
 My wedding program template is available free of charge; donations are welcome. Any custom editing or research will come with a fee. 
-Data visualization
+
+# Data visualization
 As a complement to some of the above services, I can generate a variety of data visualizations. 
 Examples include: 
 * bar charts: Papal citation sources 
