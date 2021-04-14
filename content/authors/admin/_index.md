@@ -19,7 +19,7 @@ bio: I like Catholic newspapers, amateur data visualizations, and walls of text.
 interests:
 - Metadata
 - Catholic research
-- FAct checking
+- Fact checking
 
 # Education to show in About widget
 education:
