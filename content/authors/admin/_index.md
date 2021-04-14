@@ -53,3 +53,15 @@ My [first website](http://sharonkabel.wordpress.com/) name was _A Wild Sostenuto
 > Which has the quality of something made, <br/>
 > Like a good fiddle, like the rose’s scent, <br/>
 > Like a rose window or the firmament.
+
+# Education
+  - course: MS in Library Science
+    institution: Drexel University
+    year: 2016
+    icon: flickr
+    icon_pack: fab
+  - course: BA in Literature
+    institution: Belmont Abbey College
+    year: 2013
+    icon: flickr
+    icon_pack: fab
