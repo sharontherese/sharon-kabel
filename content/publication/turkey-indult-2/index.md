@@ -1,5 +1,5 @@
 ---
-title: 'Follow-Up on the Turkey Indult'
+title: "Follow-Up on the Turkey Indult"
 authors:
 - admin
 date: 2021-02-22T00:00:00Z
