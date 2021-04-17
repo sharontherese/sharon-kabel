@@ -36,3 +36,7 @@ Examples include:
 * bar charts: Papal citation sources 
 * maps: weddings 
 * abuse crisis visualizations 
+
+# Testimonials 
+
+"Sharon is a delightful editor. She was attentive to the needs of me and my institution, in terms of both style and deadlines. Sharon’s work is top-notch, and her quick turnaround time and precision is well worth the cost! Excellent work on my dissertation." - James M. Kopf
