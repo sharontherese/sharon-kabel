@@ -1,6 +1,6 @@
 ---
-title: "Catholic fact check: Pope Pius XII and "
-date: 2021-01-29
+title: "Catholic fact check: Pope Pius XII, the universal tongue, and catacombs"
+date: 2021-04-19
 
 # View.
 #   1 = List
