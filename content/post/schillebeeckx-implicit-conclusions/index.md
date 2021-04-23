@@ -34,6 +34,18 @@ From Lefebvre:
 
 > Fr. Schillebeeckx admitted it. "We have used ambiguous terms during the Council and we know how we shall interpret them afterwards". Those people knew what they were doing. 
 
+# Update: 04/22/2021 
+
+The theology podcast, Reason and Theology, recently aired an episode on this very quotation. The host, Michael Lofton, and his guest, Riverrun, discussed both the quotation's context, and its implications. Most thrillingly (for me, usually reliant on Google Translate), Riverrun will be providing a recently-completed full translation of Fr. Schillebeeckx's article. 
+
+See the podcast here: 
+
+"Schillebeeckx and Accusations of "Weaponized Ambiguity" at Vatican II with Riverrun"
+
+On Reason and Theology: https://reasonandtheology.com/2021/04/21/schillebeeckx-and-accusations-of-weaponized-ambiguity-at-vatican-ii-with-riverrun/
+
+On YouTube: https://www.youtube.com/watch?v=Z4JbLTyBc5o
+
 # Did he say it?
 
 Given the complexity of this particular saga, I will jump to the conclusion. 
