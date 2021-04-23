@@ -1,5 +1,5 @@
 ---
-title: Surveying Sacraments: a Global Snapshot of Traditional Weddings
+title: Surveying Sacraments - a Global Snapshot of Traditional Weddings
 authors:
 - admin
 date: 2021-04-22T00:00:00Z
