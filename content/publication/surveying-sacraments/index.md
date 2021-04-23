@@ -6,7 +6,7 @@ date: 2021-04-22T00:00:00Z
 doi: ''
 publication: OnePeterFive
 publication_short: ''
-summary: 
+summary: Catholic with a small c, my catechism taught me, means universal. Our Faith’s long history, unique claim to the Truth, and geographic spread make it an ideal and never-ending source of visual projects...The increased availability of Latin Masses is undeniable; what is similarly consoling is the rise in other traditional sacraments, such as weddings. While it is impossible to do any comprehensive project on traditional weddings (for one thing, there is no central place where globally churches report sacramental data), social media makes it easier and easier to notice trends.
 tags:
 - weddings
 - data
