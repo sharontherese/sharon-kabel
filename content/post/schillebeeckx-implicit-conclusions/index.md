@@ -38,13 +38,11 @@ From Lefebvre:
 
 The theology podcast, Reason and Theology, recently aired an episode on this very quotation. The host, Michael Lofton, and his guest, Riverrun, discussed both the quotation's context, and its implications. Most thrillingly (for me, usually reliant on Google Translate), Riverrun will be providing a recently-completed full translation of Fr. Schillebeeckx's article. 
 
-See the podcast here: 
+See the translation by Gregory Arblaster here: https://drive.google.com/file/d/1aqttHiQPqQmQ5DxAXuaQ6GtUuVWS_kmJ/view
 
-"Schillebeeckx and Accusations of "Weaponized Ambiguity" at Vatican II with Riverrun"
+See the podcast's bibliography here: https://reasonandtheology.com/wp-content/uploads/2021/04/Bibliography-for-Schillebeeckx-and-Accusations-of-_Weaponized-Ambiguity_-at-Vatican-II-with-Riverrun.pdf
 
-On Reason and Theology: https://reasonandtheology.com/2021/04/21/schillebeeckx-and-accusations-of-weaponized-ambiguity-at-vatican-ii-with-riverrun/
-
-On YouTube: https://www.youtube.com/watch?v=Z4JbLTyBc5o
+See the podcast "Schillebeeckx and Accusations of "Weaponized Ambiguity" at Vatican II with Riverrun" here: https://reasonandtheology.com/2021/04/21/schillebeeckx-and-accusations-of-weaponized-ambiguity-at-vatican-ii-with-riverrun/
 
 # Did he say it?
 
@@ -58,7 +56,7 @@ In the article, “Wij denken gepassioneerd en in cliche's” (“We speak passi
 
 > Een theoloog uit de leerstellige commissie aan wie ik reeds tijdens de tweede sessie klaagde over het “minimalisme” aan pauselijke collegialiteit in het nieuwe schema, zei me geruststellend: **“we zeggen het diplomatiek, maar na het concilie trekken we de geïmpliceerde conclusies”. Ik vond dit toen unfair en geloofde trouwens niet in zulk een concilieinterpretatie,** waarbij de ene categorie stemmers de pauselijke collegialiteit zou negeren en de andere categorie ze zou impliceren! Er had ofwel een duidelijke tekst moeten zijn waarin het maximalisme (wat de collegialiteit bewat treft) ondubbelzinnig werd geformuleerd, ofwel een duidelijke tekst waarin de eerder minimalistische opvatting (die het schema uitdrukkelijk formuleert) wordt ontdaan van haar dubbelzinnige vaagheid-door-verzwijging van het eigenlijke probleem.
 
-> A theologian from the doctrinal committee to whom I already complained during the second session about the "minimalism" of papal collegiality in the new scheme, said reassuringly, **"we say it diplomatically, but after the council we draw the implied conclusions." I found this unfair at the time, and by the way, did not believe in such a council interpretation,** where one category of voters would ignore papal collegiality and the other category would imply it! There should have been either a clear text in which maximalism (which affects the collegiality) was unambiguously formulated, or a clear text in which the rather minimalist view (which the scheme expressly formulates) is stripped of its ambiguous vagueness-by-concealment of the actual problem. (Google Translate; emphasis added)
+> A theologian from the doctrinal commission to whom I'd already complained in the second session about the 'minimalism' of papal collegiality in the new schema, attempted to comfort me by saying, **"We say it diplomatically, but after the council, we will draw out an implied conclusion."** At the time, I found this unfair, and besides, I do not believe in such an interpretation of the council whereby one category of voters ignore papal collegiality and the other category implies it! There should have been either a clear text, wherein maximalism (regarding collegiality) was unambiguously formulated, or a clear text wherein a more minimalistic interpretation (which the schema explicitly formulates) is gutted of its ambiguous vagueness-through-silence of the actual problem. (Translation by Gregory Arblaster; emphasis added)
 
 (Oddly, one website[^4] got the attribution right.)
 
@@ -155,7 +153,7 @@ In his own words from the December 1964 article[^14]:
 
 > Het enige verschil tussen de tekst zelf van de constitutie en de ,,verklarende nota" ligt hierin, dat de onbeslistheid van de conciliaire tekst veeleer in de richting van een reëel onderscheid tussen deze twee titels wordt verbogen...De constitutie op zich laat de openheid, om deze laatste visie een kans te geven. Door de ,,verklarende nota" wordt elke gedachte aan de bevordering van deze kans weggenomen, hoewel ondanks alles niet positief uitgesloten, want men zegt niet, hoe men dit ,,afzonderlijk" optreden van de Paus moet begrijpen.
 
-> The only difference between the text itself of the Constitution and the "Explanatory Note" lies in the fact that the indecision of the Conciliar text is rather bent towards a real distinction between these two titles...The constitution itself leaves the openness to give this last vision a chance. The "explanatory note" removes any thought of promoting this opportunity, although not positively excluded despite everything, because it is not said how to understand this "separate" action of the Pope.
+> The only difference between the text itself of the Constitution and the "Explanatory Note" lies in the fact that the indecision of the Conciliar text is rather bent towards a real distinction between these two titles...The constitution itself leaves the openness to give this last vision a chance. The "explanatory note" removes any thought of promoting this opportunity, although not positively excluded despite everything, because it is not said how to understand this "separate" action of the Pope. (Google Translate)
 
 The “two titles” are “the Pope as Chief Pastor of the whole Church" and "the Pope as Head of the College.” The former was the “maximalist” title; the latter was the “minimalist” title.
 
@@ -163,13 +161,13 @@ Schillebeeckx clarifies in January 1965[^3]:
 
 > De vage openheid die het schema zelf opzettelijk had gelaten, werd door die nota blootgelegd. Bij herlezing van de twee teksten wordt het steeds evidenter: de nota onderlijnt datgene wat de Constitutie zelf zegt, maar dan zonder de diplomatieke vaagheid waarin de tekst was gehuld...De minderheid was niet tegen de collegialiteit zoals de tekst die letterlijk formuleerde, maar wel tegen het hoopvolle perspectief dat de meerderheid van de leerstellige commissie bewust vaag en wat al te diplomatiek erin wilde laten meeklinken, zonder het in de tekst le formuleren.  
 
-> The vague openness that the scheme itself had intentionally left was exposed by that note. When the two texts are reread, it becomes more and more evident: the memorandum underlines what the Constitution itself says, but without the diplomatic vagueness surrounding the text...The minority was not against collegiality as the text formulated it literally, but against the hopeful perspective that the majority of the doctrinal committee deliberately wanted to reflect in a vague and somewhat too diplomatic way, without formulating it in the text.
+> The vague openness intentionally left by the schema itself, was exposed by that note. At the rereading of the two texts, it becomes even more evident; the note underscores what the constitution itself says, but without the diplomatic vagueness in which the text was shrouded...The minority was not opposed to collegiality as was literally formulated in the text, but was against the hopeful perspective that the majority of the doctrinal commission wanted to resonate with using conscious vagueness, and all too diplomatic language, without formulating it as such in the text. (Translation by Gregory Arblaster)
 
 One last, unintentionally hilarious quotation from Schillebeeckx in January[^3]: 
 
 > Ik vind het zelf indroevig, dat ik twee artikelen moet schrijven met allerlei theologische distincties en uitleg om enigszins klaarheid te hrengen. Als zo iets nodig is, wijst dit duidelijk op een ondoorzichtige situatie. En de gelovigen zijn al deze geleerde uitleg grondig beu. Ik kan daarmee slechts instemmen. Ook hij paus Johannes moesten we voortdurend distincties maken. Maar zijn houding was menselijk overrompelend en bevrijdend, en daarom maakten we geen spektakel als hij dwars tegen het concilie in "St.-Jozef" prompt in de canon plaatste, ook al had de Kerk daar kennelijk geen uitgesproken behoefte aan. Johannes had met dezelfde nonchalance Maria tot Moeder van de Kerk kunnen proclameren. Goedmoedig zouden we geglimlacht hebben.
 
-> I personally find it sad that I have to write two articles with all kinds of theological distinctions and explanations in order to provide some clarity. If necessary, it clearly indicates an opaque situation. And the believers are thoroughly tired of all this learned explanation. I can only agree with that. We also had to constantly make distinctions to Pope John. But his attitude was humanly overwhelming and liberating, which is why we made no spectacle when he promptly placed in the canon contrary to the council of "St. Joseph", even though the Church apparently had no explicit need for it. With the same nonchalance, John could have proclaimed Mary Mother of the Church. We would have smiled kindly.
+> I myself find it depressing that I have to write two articles with all kinds of theological distinctions and explanations in order to bring some clarity. When such a thing is necessary, it clearly indicates an opaque situation and the faithful are thoroughly fed up with all these learned explanations. I can only agree with that. We also had to constantly make distinctions with Pope John, but his attitude was overwhelmingly humane and liberating which is why we did not make a spectacle when he suddenly placed St. Joseph in the canon at odds with the council, even though the church had no express need for it. John could have proclaimed Mary as Mother of the Church with the same nonchalance. We would have kindly smiled on. (Translation by Gregory Arblaster)
 
 Desipte its minimal long-term effects, the event clearly stayed with Schillebeeckx, as he brought it up years later in interviews.[^18]
 
