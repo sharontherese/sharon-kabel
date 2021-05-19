@@ -47,6 +47,26 @@ It is rare that I have this much information, down to the page number, so I init
 
 As I should have suspected, I ran into immediate problems. My husband speaks German, and had cast an eyebrow at the spelling and syntax of the journal title. I couldn't find anything promising, but Worldcat did suggest another journal: _Theologische Revue_. 
 
+I didn't have an article title. 
+
+I wasn't sure if I had an author - it's unclear if Ratzinger wrote or was simply quoted in the _Theologische Revue_.
+
+"Volume 20" was published in 1921, not 1990. Volume 86 would be the correct volume for 1990. 
+
+"February" helps me, but only if I have the correct journal - which I may not, as I'm already working with significant typos.
+
+I was not too confident about my interlibrary loan request, but I hoped that the page numbers would lead somewhere.
+
+I requested volume 86, pp. 103-104. Neither page, nor several surrounding pages, made any reference at all to Ratzinger, Gamber, or the liturgical reform. What the pages did tell me is that the journal, as its title suggests, focuses on book reviews.
+
+The journal isn't available online for free, but it is indexed in Google Books. On a hunch that maybe there was a review of Gamber's book that maybe quoted Ratzinger, I searched for Gamber's name in volumes 86 and 87. I submitted additional requests for pages with Gamber's name on them. All of those pages turned out to be irrelevant to my quest. 
+
+In between all of these requests, I constantly double-checked my work. Because so many pieces of the citation were wrong or suspect, I had no way of knowing if I was going in the right direction. Short of reading the entire run of _Theologische Revue_, this seemingly robust and assuring citation was a total dead end. 
+
+# A similar quotation 
+
+Those familiar with the quotation under review have possibly noticed that it bears a strong resemblance to another Ratzinger quotation: 
+
 # Timeline 
 
 1983: Gamber publishes book in German
