@@ -41,31 +41,40 @@ The identically-repeated attribution is:
 
 _Revue Theologisches_, Vol. 20, Feb. 1990, pgs. 103-104
 
-It is rare that I have this much information, down to the page number, so I initially assumed this quest would involve a quick interlibrary loan request. 
+# A strange echo 
+
+Those familiar with the quotation under review have possibly noticed that it bears a strong resemblance to another Ratzinger quotation: 
+
+> What happened after the Council was something else entirely: in the place of liturgy as the fruit of development came fabricated liturgy. We abandoned the organic, living process of growth and development over centuries, and replaced it – as in a manufacturing process – with a fabrication, a banal on-the-spot product.
+
+This quotation is also decently widely cited. It is discussed at length at Patheos.[^10] This particular citation is attributed to Ratzinger's foreword to the book La Reforme
+Liturgique en Question_ by Monsignor Klaus Gamber. The original German edition was published in 1983; the French and then the English in 1992. This quotation only ever appears in English. For now, we'll set aside this latter quotation (the Gamber Version) and focus on finding the former _Theologische_ Version.
 
 # Finding the journal 
 
-As I should have suspected, I ran into immediate problems. My husband speaks German, and had cast an eyebrow at the spelling and syntax of the journal title. I couldn't find anything promising, but Worldcat did suggest another journal: _Theologische Revue_. 
+It is rare that I have this much bibliographic information, down to the page number, so I initially assumed this quest would involve only a quick interlibrary loan request. 
 
-I didn't have an article title. 
-
-I wasn't sure if I had an author - it's unclear if Ratzinger wrote or was simply quoted in the _Theologische Revue_.
+I ran into immediate problems. My husband speaks German, and had cast an eyebrow at the spelling and syntax of the journal title. I couldn't find any journal called _Revue Theologisches_, but Worldcat did suggest another journal: _Theologische Revue_. Such a major mistake this early on is a bit concerning. 
 
 "Volume 20" was published in 1921, not 1990. Volume 86 would be the correct volume for 1990. 
 
 "February" helps me, but only if I have the correct journal - which I may not, as I'm already working with significant typos.
 
+I didn't have an article title. 
+
+I wasn't sure if I had an author - it's unclear if Ratzinger wrote or was simply quoted in the _Theologische Revue_.
+
 I was not too confident about my interlibrary loan request, but I hoped that the page numbers would lead somewhere.
 
 I requested volume 86, pp. 103-104. Neither page, nor several surrounding pages, made any reference at all to Ratzinger, Gamber, or the liturgical reform. What the pages did tell me is that the journal, as its title suggests, focuses on book reviews.
 
-The journal isn't available online for free, but it is indexed in Google Books. On a hunch that maybe there was a review of Gamber's book that maybe quoted Ratzinger, I searched for Gamber's name in volumes 86 and 87. I submitted additional requests for pages with Gamber's name on them. All of those pages turned out to be irrelevant to my quest. 
+The journal isn't available online for free, but it is indexed in Google Books. On a hunch that maybe there was a review of Gamber's book that maybe quoted Ratzinger, I searched for Gamber's name in volumes 86 and 87. I submitted additional requests for pages with Gamber's name on them. All of those pages turned out to be irrelevant. 
 
-In between all of these requests, I constantly double-checked my work. Because so many pieces of the citation were wrong or suspect, I had no way of knowing if I was going in the right direction. Short of reading the entire run of _Theologische Revue_, this seemingly robust and assuring citation was a total dead end. 
+In between all of these requests, I constantly double-checked my work. Because so many pieces of the citation were wrong or suspect, I had no way of knowing if I was going in the right direction. This seemingly robust and assuring citation was a total dead end. Short of reading the entire run of _Theologische Revue_, I had to rule it out and start from scratch. 
 
-# A similar quotation 
+# The SSPX 
 
-Those familiar with the quotation under review have possibly noticed that it bears a strong resemblance to another Ratzinger quotation: 
+In my online travels, I had encountered the _Theologische_ Version of the quotation in one other place: a 2002 article in the Angelus Online by Father Patrick de la Rocque, SSPX.[^11]
 
 # Timeline 
 
@@ -99,9 +108,6 @@ Fr. de la Rocque roasted here in 2006: http://www.traditio.com/comment/com0610.h
 
 Fr.'s bio: http://www.angelusonline.org/index.php/index.php?section=articles&subsection=print_article&article_id=2873
 
-https://www.patheos.com/blogs/davearmstrong/2015/12/trad-misuse-of-ratzinger-banal-quote.html
-About a different quote but it’s related 
-
 http://blog.yankehome.com/liturgy/getFile.php?file=postgate-2013-christmas&filetype=pdf
 Great compilation of sources
 
@@ -110,8 +116,6 @@ https://catalog.hathitrust.org/Record/100009081
 https://books.google.com/books?id=vmUwAAAAYAAJ&dq=editions%3AuyF605W087gC&focus=searchwithinvolume&q=banale 
 Google books snippet view 
 
-http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2130#3B
-2002
 Conference proceedings: http://www.worldcat.org/oclc/469164518 
 Or this?: http://www.worldcat.org/oclc/67715418 
 In English: http://www.worldcat.org/oclc/55538982 
@@ -140,4 +144,6 @@ In English: http://www.worldcat.org/oclc/55538982
 
 [^9]: https://onepeterfive.com/lectionary-antichrist/
 
-[^10]: 
+[^10]: https://www.patheos.com/blogs/davearmstrong/2015/12/trad-misuse-of-ratzinger-banal-quote.html 
+
+[^11]: http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2130#3B
