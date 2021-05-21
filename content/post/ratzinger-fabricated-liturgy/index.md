@@ -63,7 +63,7 @@ I have page numbers, but who knows if they're correct given that the volume numb
 
 I didn't have an article title. 
 
-I wasn't sure if I had an articke author - it's unclear if Ratzinger wrote or was simply quoted in the _Theologische Revue_.
+I wasn't sure if I had an article author - it's unclear if Ratzinger wrote or was simply quoted in the _Theologische Revue_.
 
 I was not too confident about my interlibrary loan request, but I took the plunge and requested volume 86, pp. 103-104. Neither page, nor several surrounding pages, made any reference at all to Ratzinger, Gamber, or the liturgical reform. What the pages did tell me is that the journal, as its title suggests, focuses on book reviews.
 
@@ -73,13 +73,13 @@ Because so many pieces of the citation were wrong or suspect, I had no way of kn
 
 # Father Patrick de la Rocque
 
-In my online travels, I had encountered the _Theologische_ Version of the quotation in one other place: a 2002 article in the Angelus Online by Father Patrick de la Rocque, SSPX.[^11] 
+In my online travels, I had encountered the _Theologische_ Version of the quotation in one other place: a 2002 article[^11] in the Angelus Online by Father Patrick de la Rocque, SSPX.
 
 (Fr. de la Rocque's biography can be found here[^12]. In a case study in 'nothing is ever Trad Enough, the good padre incurred the wrath of Traditio in 2006.[^13])
 
 In any case, Fr. de la Rocque's article, as Angelus tells us, was "Translated from Nouvelles de Chrétienté, No. 71, Jan. 2002." This article is the earliest example I can find online of the _Theologische_ Version and the erroneous _Revue Theologisches_ attribution. 
 
-The _Nouvelles de Chretiente_ appears to be a long-running newsletter of the SSPX. I contacted the SSPX's website to see if I could request a copy of the article, but unfortunately never heard back. I've been unable to track down this 2002 _Nouvelle de Chretiente_ article. Nevertheless, it gave me an important clue. 
+The _Nouvelles de Chrétienté_ appears to be a long-running newsletter of the SSPX. I contacted the SSPX's website to see if I could request a copy of the article, but unfortunately never heard back. I've been unable to track down this 2002 _Nouvelle de Chretiente_ article. Nevertheless, it gave me an important clue. 
 
 # A trip to Fontgombault Abbey
 
