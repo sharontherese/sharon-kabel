@@ -106,21 +106,19 @@ After considering all of these threads, I had an hypothesis.
 Here is what we know for sure:
 
 * 1983: MOnsignor Klaus Gamber publishes _Die Reform der Romischen Liturgie_.
-* 1992: _Die Reform_ is reprinted in French as _La Reforme Liturgique en Question_, with a foreword by Ratzinger. 
+* 1992: _Die Reform_ is reprinted in French as _La Reforme Liturgique en Question_, with a foreword by Ratzinger. {{% staticref "files/La réforme liturgique en question - Ratzinger.pdf" %}} View PDF here. {{% /staticref %}}
 * 1993: _La Reforme_ is reprinted in English as _The Reform of the Roman Liturgy: Its Problems and Background_. The French and English editions contain the Gamber Version of the quotation given above, which begins, "What happened after the Council...".
-* July 22-24, 2001: Fontgombault Abbey hosts a conference on the liturgy. Ratzinger speaks. 
+* July 22-24, 2001: Fontgombault Abbey hosts a conference on the liturgy. Ratzinger gives a talk called, "The Theology of the Liturgy." {{% staticref "files/Ratzinger - 2001 Fontgombault.pdf" %}} View PDF here. {{% /staticref %}}
 * 2002: Conference proceedings are published in French. 
 * 2002, January: Fr. Patrick de la Rocque of the SSPX writes an article for the SSPX newsletter about Ratzinger and the conference. Fr. de la Rocque gives the _Theologische_ Version of the quotation, citing as his source _Revue Theologisches_, Vol. 20, Feb. 1990, pgs. 103-104.
 * 2002, later: Fr. de la Rocque's article is translated and republished in Angelus, thus debuting the _Revue Theologisches_ dubious citation into the English-speaking works.
 * 2003: Conference proceedings are published in English.
 * 2008: The _Theologische_ Version appears on Fish Eaters, and begins making the copy/pasted rounds in article comments on numerous Catholic websites. 
 * 2013: Taylor Marshall uses it. 
-* 2017: Aleteia uses it.
-* 2019: Catholic World Report uses it.
-* In 2015, Musica Sacra forums[^6]
-* * In 2014, on Traditional Catholic Priest[^2]
-* In 2017, on Aleteia[^7]
-* In 2019, on Catholic World Report[^8] and One Peter Five[^9]
+* 2014: Traditional Catholic Priest uses it.[^2]
+* 2015: Musica Sacra forums uses it.[^6]
+* 2017: Aleteia uses it.[^7]
+* 2019: Catholic World Report[^8] and One Peter Five[^9] use it.
 
 What I suggest is that in 2002 Fr. de la Rocque was quoting Ratzinger's Gamber foreword from memory, gave his own English translation (or the translator for the Angelus did), and added a completely wrong citation. 
 
