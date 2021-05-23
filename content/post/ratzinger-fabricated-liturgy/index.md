@@ -1,6 +1,6 @@
 ---
 title: "Catholic fact check: Cardinal Joseph Ratzinger and the fabricated liturgy"
-date: 2021-05-18
+date: 2021-05-23
 draft: true
 
 # View.
@@ -11,11 +11,13 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 header:
-  caption: ""
-  image: ""
+  caption: "Photo found at The Leaven, the official newspaper of the Archdiocese of Kansas City in Kansas. Original caption: 'CNS PHOTO FROM KNA Father Joseph Ratzinger, right, talks with an unidentified prelate in this photo taken in 1962 during the Second Vatican Council. The future Pope Benedict XVI attended all four sessions of the council as a theological adviser to German Cardinal Joseph Frings of Cologne.'"
+  image: "header_ratzinger.jpg"
   
 tags:
  - Catholic fact check
+ - Pope Benedict XVI
+ - Vatican II
  
 ---
 
@@ -25,21 +27,19 @@ The following quotation is attributed to Cardinal Joseph Ratzinger, the future P
 
 # Says who?
 
-Many online sources cite this quotation to Ratzinger. The first 'mainstream' source is Dr. Taylor Marshall's website[^1], but by no means was he the first. The quotation has also appeared: 
+Many online sources attribute this to Ratzinger. The first 'mainstream' source is Dr. Taylor Marshall's website[^1] in 2013, but by no means was he the first. The quotation has also appeared: 
 
-* In 2013, on Latin Mass Society Chairman[^3]
-* In 2009, on Summorum Pontificum's blog[^5]
-* In 2008, on Fish Eaters[^4]
+* In 2013, on Latin Mass Society Chairman[^2]
+* In 2009, on The Gregorian Rite[^3]
+* In 2008, on FishEaters forums[^4]
 
-if any further attribution is given, it is always exactly the same. 
-
-The identically-repeated attribution is: 
+if any further attribution is given, it is always exactly the same:
 
 **_Revue Theologisches_, Vol. 20, Feb. 1990, pgs. 103-104**
 
-I tend to view this exacting consistency as a red flag, as humans are inconsistent over time. A quote from _Pride and Prejudice_ may be attributed to the author only, or the character, or author and book title, or author and book title and publication year, and so on.
+I tend to view this unerring consistency as a red flag. Humans are typically inconsistent with attribution. A quote from _Pride and Prejudice_ may be attributed to the author only, or the character, or author and book title, or author and book title and publication year, and so on. While the attribution may be perfectly legitimate, it could also be a sign of a poor game of Internet telephone, with endless copy-pasting without checking the original source.
 
-# A strange echo (the Gamber Version) 
+# A familiar echo (the Gamber Version) 
 
 Those familiar with the quotation under review have possibly noticed that it bears a strong resemblance to another Ratzinger quotation: 
 
@@ -47,13 +47,17 @@ Those familiar with the quotation under review have possibly noticed that it bea
 
 This quotation is also decently widely cited. It is discussed at length at Patheos,[^10] and is attributed to Ratzinger's foreword in the book _La Reforme Liturgique en Question_ by Monsignor Klaus Gamber. 
 
-For now, we'll set aside this latter quotation (the Gamber Version) and focus on finding the former _Theologische_ Version.
+For now, we'll set this aside. 
+
+For clarity's sake, I will refer to this quotation ("What happened after the Council..." as the **Gamber Version**. I'll refer to the quotation under review ("The liturgical reform...") as the **_Theologische_ Version**.
 
 # Finding the journal 
 
-It is rare that I have this much bibliographic information, down to the page number, so I initially assumed this quest would involve only a quick interlibrary loan request. 
+It is rare that I have this much bibliographic information, down to the page number, so I initially hoped this quest would involve only a quick interlibrary loan request. 
 
-I ran into immediate problems. My husband speaks German, and had cast an eyebrow at the spelling and syntax of the journal title. SUre enough, I couldn't find any journal called _Revue Theologisches_, but I did find a similarly titled journal: _Theologische Revue_. Such a major mistake this early on is a bit concerning. 
+I ran into immediate problems. My husband speaks German, and had already cast an eyebrow at the spelling and syntax of the journal title. SUre enough, I couldn't find any journal called _Revue Theologisches_. 
+
+I did find a similarly titled journal: _Theologische Revue_. Such a major mistake this early on is a bit concerning. 
 
 "Volume 20" was published in 1921, not 1990. Volume 86 would be the correct volume for 1990.[^15] 
 
@@ -138,36 +142,41 @@ Great compilation of sources
 
 # Sources
 
-[^1]: https://taylormarshall.com/2013/01/eleven-great-quotes-from-pope-benedict.html
+[^1]: Marshall, Taylor, "Eleven Great Quotes from Pope Benedict Xvi on Liturgy and the Holy Mass," Dr. Taylor Marshall, January, 2013, https://taylormarshall.com/2013/01/eleven-great-quotes-from-pope-benedict.html.
 
-[^2]: http://www.traditionalcatholicpriest.com/2014/03/15/traditional-catholics-canonical-sspx-and-sedevacantist-work-together/
+[^2]: Shaw, Joseph, "Is the Novus Ordo an Authentic Expression of the Tradition?," LMS Chairman, December 14, 2013, http://www.lmschairman.org/2013/12/is-novus-ordo-authentic-expression-of.html.
 
-[^3]: http://www.lmschairman.org/2013/
+[^3]: Kopp, Brian, "Archbishop Nichols Versus Cardinal Ratzinger," The Gregorian Rite, August 7, 2009, https://summorum--pontificum.blogspot.com/2009/08/archbishop-nichols-versus-cardinal.html.
 
-[^4]: https://www.fisheaters.com/forums/showthread.php?tid=23595
+[^4]: user Historian, "Ecumenism Returned," FishEaters Traditional Catholic Forums, December 13, 2008, https://www.fisheaters.com/forums/showthread.php?tid=23595.
 
-[^5]: https://summorum--pontificum.blogspot.com/2009/
+[^5]: Armstrong, Dave, "Traditionalist Misuse of the Ratzinger "Banal" Quote," Patheos, December 17, 2015, https://www.patheos.com/blogs/davearmstrong/2015/12/trad-misuse-of-ratzinger-banal-quote.html.
 
-[^6]: https://forum.musicasacra.com/forum/discussion/11978/msgr.-popes-article-about-the-1965-missal/p1 
+[^6]: Universität, Münster. "Theologische Revue."  (1902-2007). https://catalog.hathitrust.org/Record/100009081.
 
-[^7]: https://pt.aleteia.org/2017/04/17/a-devastacao-da-liturgia-em-10-declaracoes-do-cardeal-ratzinger/
+[^7]: "A “Devastação Da Liturgia” Em 10 Declarações Do Cardeal Ratzinger," Aleteia, April 17, 2017, https://pt.aleteia.org/2017/04/17/a-devastacao-da-liturgia-em-10-declaracoes-do-cardeal-ratzinger/.
 
 [^8]: https://www.catholicworldreport.com/2019/02/04/revisiting-the-spirit-of-the-liturgy/
 
-[^9]: https://onepeterfive.com/lectionary-antichrist/
+[^9]: Kwasniewski, Peter, "How the New Lectionary Treats (or Doesn’t) the Antichrist," OnePeterFive, November 6, 2019, https://onepeterfive.com/lectionary-antichrist/.
 
-[^10]: https://www.patheos.com/blogs/davearmstrong/2015/12/trad-misuse-of-ratzinger-banal-quote.html 
+[^10]: 
 
-[^11]: http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2130#3B
 
-[^12]: http://www.angelusonline.org/index.php/index.php?section=articles&subsection=print_article&article_id=2873
+user JulieColl, "Msgr. Pope's Article About the 1965 Missal," Musica Sacra Forum, February, 2015, https://forum.musicasacra.com/forum/discussion/11978/msgr.-popes-article-about-the-1965-missal/p1 
 
-[^13]: http://www.traditio.com/comment/com0610.htm
+Carota, Father, "Traditional Catholics, Canonical, Sspx and Sedevacantist Pray, Work Together," Traditional Catholic Priest, March 15, 2014, http://www.traditionalcatholicpriest.com/2014/03/15/traditional-catholics-canonical-sspx-and-sedevacantist-work-together/.
 
-[^14]: https://books.google.com/books?id=vmUwAAAAYAAJ
+[^11]: de la Rocque, Father Patrick. "Considerations on Cardinal Ratzinger." Angelus, April, 2002. http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2130#3B.
 
-[^15]: https://catalog.hathitrust.org/Record/100009081
+[^12]: "Doctrinal Discussions in Rome." Angelus, May, 2010. http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2873.
 
-[^16]: http://www.worldcat.org/oclc/469164518
+[^13]: "SSPX Prior Publicly Embrances a Novus Ordo Service; Accepts Benedict-Ratzinger's Idea to Create a More Traditional "New Mass"," Traditio, October 26, 2006, http://www.traditio.com/comment/com0610.htm.
 
-[^17]: http://www.worldcat.org/oclc/55538982 
+[^14]: Universität Münster, and Katholisch-Theologische Fakultät. Theologische Revue. Aschendorff, 1990. https://books.google.com/books?id=vmUwAAAAYAAJ.
+
+[^15]: 
+
+[^16]: Journées liturgiques, and Abbaye Notre-Dame de Fontgombault. "Autour De La Question Liturgique : Avec Le Cardinal Ratzinger: Actes Des Journées Liturgiques De Fontgombault, 22-24 Juillet 2001." Fontgombault, France, 2001. http://www.worldcat.org/oclc/469164518
+
+[^17]: Fontgombault Liturgical Conference, Pope Benedict XVI, and Alcuin Reid. "Looking Again at the Question of the Liturgy with Cardinal Ratzinger: Proceedings of the July 2001 Fontgombault Liturgical Conference." Fontgombault, France, 2003. http://www.worldcat.org/oclc/55538982 
