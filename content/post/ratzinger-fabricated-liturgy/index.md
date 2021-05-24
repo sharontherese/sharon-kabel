@@ -54,7 +54,7 @@ For clarity's sake, I will refer to this quotation ("What happened after the Cou
 
 It is rare that I have this much bibliographic information, down to the page number, so I initially hoped this quest would involve only a quick interlibrary loan request. 
 
-I ran into immediate problems. My husband speaks German, and had already cast an eyebrow at the spelling and syntax of the journal title. SUre enough, I couldn't find any journal called _Revue Theologisches_. 
+I ran into immediate problems. My husband speaks German, and had already cast an eyebrow at the spelling and syntax of the journal title. Sure enough, I couldn't find any journal called _Revue Theologisches_. 
 
 I did find a similarly titled journal: _Theologische Revue_. Such a major mistake this early on is a bit concerning. 
 
@@ -90,7 +90,7 @@ Ratzinger's speech directly referenced a book published by the SSPX:
 
 _The Problem of the Liturgical Reform_ was edited by de la Rocque[^14], so it is quite possible that de la Rocque and Ratzinger were aware of each other. 
 
-At this point, I had no clues as to where my _Theologische_ Version quotation might be. I'd requested the 1990 and 1991 _Theologische Revue_ journal issues, which yielded nothing. I'd requested de la Rocque's 2002 French article reprinted in the Angelus, which did not get a response. Ratzinger's speech from the 2001 Fontgombault conference, While thought-provoking, it did not have my quotation either.
+At this point, I had no clues as to where my _Theologische_ Version quotation might be. I'd requested the 1990 and 1991 _Theologische Revue_ journal issues, which yielded nothing. I'd requested de la Rocque's 2002 French article reprinted in the Angelus, which did not get a response. Ratzinger's speech from the 2001 Fontgombault conference, while thought-provoking, did not have my quotation either.
 
 # A return to Monsignor Gamber 
 
