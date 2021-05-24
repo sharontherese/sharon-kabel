@@ -112,14 +112,13 @@ After considering all of these threads, I had an hypothesis.
 
 Here is what we know for sure:
 
-* 1983: MOnsignor Klaus Gamber publishes _Die Reform der Romischen Liturgie_.
-* 1992: _Die Reform_ is reprinted in French as _La Reforme Liturgique en Question_, with a foreword by Ratzinger. 
-* 1993: _La Reforme_ is reprinted in English as _The Reform of the Roman Liturgy: Its Problems and Background_. The French and English editions contain the Gamber Version of the quotation, which begins, "What happened after the Council...".
+* 1983: Monsignor Klaus Gamber publishes _Die Reform der Romischen Liturgie_.
+* 1992: _Die Reform_ is reprinted in French as _La Reforme Liturgique en Question_, with a foreword by Ratzinger.[^15] 
+* 1993: _La Reforme_ is reprinted in English as _The Reform of the Roman Liturgy: Its Problems and Background_.[^5] The French and English editions contain the Gamber Version of the quotation, which begins, "What happened after the Council...".
 * July 22-24, 2001: Fontgombault Abbey hosts a conference on the liturgy. Ratzinger gives a talk called, "The Theology of the Liturgy." 
-* 2002: Fontgombault conference proceedings are published in French. 
-* 2002, January: Fr. Patrick de la Rocque of the SSPX writes an article for the SSPX newsletter about Ratzinger and the conference. Fr. de la Rocque gives the _Theologische_ Version of the quotation, citing as his source _Revue Theologisches_, Vol. 20, Feb. 1990, pgs. 103-104.
-* 2002, later: Fr. de la Rocque's article is translated and republished in Angelus, thus debuting the dubious _Revue Theologisches_ attribution into the English-speaking world.
-* 2003: Fontgombault conference proceedings are published in English.
+* 2002, January: Fr. Patrick de la Rocque of the SSPX writes an article for the SSPX newsletter about Ratzinger and the conference. Fr. de la Rocque gives the _Theologische_ Version of the quotation, citing as his source _Revue Theologisches_, Vol. 20, Feb. 1990, pgs. 103-104. Fr. de la Rocque's article is translated and republished in Angelus, thus debuting the dubious _Revue Theologisches_ attribution into the English-speaking world.
+* 2002: Fontgombault conference proceedings are published in French.[^12] 
+* 2003: Fontgombault conference proceedings are published in English.[^13]
 * 2008: The _Theologische_ Version appears on FishEaters forums[^4], and begins making the copy/pasted rounds in article comments on numerous Catholic websites. 
 * 2013: Taylor Marshall uses it.[^1]
 * 2014: Traditional Catholic Priest uses it.[^16]
@@ -146,7 +145,7 @@ In the Gamber Version, Ratzinger's subject is the liturgical reform, and said "w
 
 In the _Theologische_ Version, Fr. de la Rocque changed the subject to the Second Vatican Council, and "they," as in "They have deserted...". 
 
-These differences are crucial. The more correct version, the Gamber Version clearly suggests that Ratzinger saw himself as part of a movement that misunderstood the liturgical reforms. In the _Theologische_ Version, de la Rocque's wording separates Ratzinger from the erring reformers, and speaks in much harsher language. 
+These differences are crucial. The Gamber Version, the quotation that we know Ratzinger said, clearly suggests that Ratzinger saw himself as part of a movement that misunderstood the liturgical reforms. The _Theologische_ Version, re-worded by de la Rocque, Ratzinger is separated from the erring reformers, and speaks in much harsher language. 
 
 # Sources
 
