@@ -1,7 +1,6 @@
 ---
 title: "Catholic fact check: Cardinal Joseph Ratzinger and the fabricated liturgy"
 date: 2021-05-23
-draft: true
 
 # View.
 #   1 = List
@@ -43,13 +42,13 @@ I tend to view this unerring consistency as a red flag. Humans are typically inc
 
 Those familiar with the quotation under review have possibly noticed that it bears a strong resemblance to another Ratzinger quotation: 
 
-> What happened after the Council was something else entirely: in the place of liturgy as the fruit of development came fabricated liturgy. We abandoned the organic, living process of growth and development over centuries, and replaced it – as in a manufacturing process – with a fabrication, a banal on-the-spot product.
+> What happened after the Council was something else entirely: in the place of liturgy as the fruit of development came fabricated liturgy. We abandoned the organic, living process of growth and development over centuries, and replaced it – as in a manufacturing process – with a fabrication, a banal on-the-spot product.[^5]
 
-This quotation is also decently widely cited. It is discussed at length at Patheos,[^10] and is attributed to Ratzinger's foreword in the book _La Reforme Liturgique en Question_ by Monsignor Klaus Gamber. 
+This quotation is also decently widely cited. It is discussed at length at Patheos,[^6] and is attributed to Ratzinger's foreword in the book _The Reform of the Roman Liturgy_ by Monsignor Klaus Gamber. 
 
 For now, we'll set this aside. 
 
-For clarity's sake, I will refer to this quotation ("What happened after the Council..." as the **Gamber Version**. I'll refer to the quotation under review ("The liturgical reform...") as the **_Theologische_ Version**.
+For clarity's sake, I will refer to this quotation ("What happened after the Council...") as the **Gamber Version**. I'll refer to the quotation under review ("The liturgical reform...") as the **_Theologische_ Version**.
 
 # Finding the journal 
 
@@ -59,49 +58,53 @@ I ran into immediate problems. My husband speaks German, and had already cast an
 
 I did find a similarly titled journal: _Theologische Revue_. Such a major mistake this early on is a bit concerning. 
 
-"Volume 20" was published in 1921, not 1990. Volume 86 would be the correct volume for 1990.[^15] 
+"Volume 20" was published in 1921, not 1990. Volume 86 would be the correct volume for 1990.[^7] 
 
-"February" helps me, but only if I have the correct journal - which I may not, as I'm already working with significant typos.
+I have page numbers and a month, but who knows if they're correct given that the volume number is wrong? 
 
-I have page numbers, but who knows if they're correct given that the volume number is wrong? 
-
-I didn't have an article title. 
-
-I wasn't sure if I had an article author - it's unclear if Ratzinger wrote or was simply quoted in the _Theologische Revue_.
+I wasn't sure if I had an article author - it's unclear if Ratzinger wrote or was simply quoted in the _Theologische Revue_ - and I didn't have an article title. 
 
 I was not too confident about my interlibrary loan request, but I took the plunge and requested volume 86, pp. 103-104. Neither page, nor several surrounding pages, made any reference at all to Ratzinger, Gamber, or the liturgical reform. What the pages did tell me is that the journal, as its title suggests, focuses on book reviews.
 
-The journal isn't available online for free, but it is indexed in Google Books[^14]. On a hunch that maybe there was a review of Gamber's book that maybe quoted Ratzinger, I searched for Gamber's and Ratzinger's names in volumes 86 and 87. I submitted additional requests for those pages, all of which turned out to be irrelevant. 
+The journal isn't available online for free, but it is indexed in Google Books[^8]. On a hunch that maybe there was a review of Gamber's book that maybe quoted Ratzinger, I searched for Gamber's and Ratzinger's names in volumes 86 and 87. I submitted additional requests for those pages, all of which turned out to be irrelevant. 
 
-Because so many pieces of the citation were wrong or suspect, I had no way of knowing if I was going in the right direction. This seemingly robust and assuring citation was a total dead end. Short of reading the entire run of _Theologische Revue_, I had to rule it out and start from scratch. 
+This seemingly robust citation was a total dead end. Short of reading the entire run of _Theologische Revue_, I had to rule it out and start from scratch. 
 
-# Father Patrick de la Rocque
+# Father Patrick de la Rocque and the SSPX
 
-In my online travels, I had encountered the _Theologische_ Version of the quotation in one other place: a 2002 article[^11] in the Angelus Online by Father Patrick de la Rocque, SSPX.
+In my online travels, I had encountered the _Theologische_ Version of the quotation in one other place: a 2002 article[^9] in the Angelus by Father Patrick de la Rocque, SSPX.
 
-(Fr. de la Rocque's biography can be found here[^12]. In a case study in 'nothing is ever Trad Enough, the good padre incurred the wrath of Traditio in 2006.[^13])
+(Two profiles of Fr. de la Rocque can be found at Angelus[^10] and Traditio, the latter of which is a case study in 'nothing is ever Trad Enough.[^11])
 
-In any case, Fr. de la Rocque's article, as Angelus tells us, was "Translated from Nouvelles de Chrétienté, No. 71, Jan. 2002." This article is the earliest example I can find online of the _Theologische_ Version and the erroneous _Revue Theologisches_ attribution. 
+In any case, Fr. de la Rocque's article, as Angelus tells us, was "Translated from _Nouvelles de Chrétienté_, No. 71, Jan. 2002." This article is the earliest example I can find online of the _Theologische_ Version, both the quotation and the erroneous _Revue Theologisches_ attribution. 
 
-The _Nouvelles de Chrétienté_ appears to be a long-running newsletter of the SSPX. I contacted the SSPX's website to see if I could request a copy of the article, but unfortunately never heard back. I've been unable to track down this 2002 _Nouvelle de Chretiente_ article. Nevertheless, it gave me an important clue. 
+The _Nouvelles de Chrétienté_ is a newsletter of the SSPX. I contacted the SSPX's website to see if I could request a copy of the article, but unfortunately never heard back. I've been unable to track down this 2002 _Nouvelle de Chretiente_ article. Nevertheless, it gave me an important clue. 
 
 # A trip to Fontgombault Abbey
 
-Fr. de la Rocque's article was a discussion on some recent events; namely, a conference on the liturgy at Fontgombault Abbey, July 22-24, 2001. Cardinal Ratzinger was one of the speakers, and his remarks appeared in conference proceedings (published in 2002[^16] and translated into English in 2003[^17]). It is unclear if Fr. de la Rocque attended the conference himself, but he definitely read the proceedings. 
+Fr. de la Rocque's article was a discussion on some recent events; namely, a conference on the liturgy at Fontgombault Abbey, July 22-24, 2001. Cardinal Ratzinger, as prefect of the Congregation of the Doctrine of Faith, was one of the speakers. His remarks, "The Theology of the Liturgy," appeared in conference proceedings (published in 2002[^12] and translated into English in 2003[^13] by Margaret McHugh and Father John Parsons). It is unclear if Fr. de la Rocque attended the conference himself, but he definitely read the proceedings. 
 
-It is clear that de la Rocque and Ratzinger were aware of each other; in Ratzinger's speech, he alludes to a book published by the SSPX in which de la Rocque played a major role. Some articles I skimmed online suggested that Ratzinger and de la Rocque had been in communication during one of the many chapters between Rome and the SSPX. 
+Ratzinger's speech directly referenced a book published by the SSPX: 
 
-At this point, I had no clues as to where my _Theologische_ Version quotation might be. I'd requested the 1990 and 1991 journal issues, which yielded nothing. I'd requested Fr. de la Rocque's 2002 French article for the SSPX, which did not get a response. So, I requested Ratzinger's speech from this 2001 conference. While a thought-provoking speech, it did not have my quotation, Gamber or _Theologische_ Editions. 
+> I mention this strange opposition between the Passover and sacrifice because it represents the architectonic principle of a book recently published by the Society of St Pius X, claiming that a dogmatic rupture exists between the new Liturgy of Paul VI and the preceding Catholic liturgical tradition.5 [/.../] [Footnote] 5. Cf. The Society of Saint Pius X, The Problem of the Liturgical Reform, Angelus Press, Kansas City 2001.[^13]
 
-# Gamber 
+_The Problem of the Liturgical Reform_ was edited by de la Rocque[^14], so it is quite possible that de la Rocque and Ratzinger were aware of each other. 
 
-I was nearly out of leads, but I wanted to check everything I could since this had been such an odd quest. I requested a copy of Ratzinger's Gamber foreword, in the original French. Call me untrusting. I received the foreword, and did indeed find the Gamber quotation in its French glory. 
+At this point, I had no clues as to where my _Theologische_ Version quotation might be. I'd requested the 1990 and 1991 _Theologische Revue_ journal issues, which yielded nothing. I'd requested de la Rocque's 2002 French article reprinted in the Angelus, which did not get a response. Ratzinger's speech from the 2001 Fontgombault conference, While thought-provoking, it did not have my quotation either.
+
+# A return to Monsignor Gamber 
+
+Because I was out of leads, I decided to check the similar-sounding quotation, the Gamber Version. I requested a copy of Ratzinger's Gamber foreword, in the original French. Call me untrusting. I received the foreword, and did indeed find the Gamber Version in its French glory: 
+
+> Ce qui s'est passé après le Concile signifie tout autre chose: à la place de la liturgie fruit d'un développement continu, on a mis une liturgie fabriquée. On est sorti du processus vivant de croissance et de devenir pour entrer dans la fabrication. On n'a plus voulu continuer le devenir et la maturation organiques du vivant à travers les siècles, et on les a remplacés-à la manière de la production technique- par une fabrication, produit banal de l'instant.[^15]
 
 At this point, it would be instructive to set our quotations - the original French, the Gamber Edition, and the _Theologische_ Edition - side-by-side. 
 
-I added green highlights to exact (or near-exact) matches, yellow to analogous matches, and red to major differences. 
+I added green highlights to exact (or near-exact) matches, and red to major differences. 
 
-It finally dawned on me how remarkably similar these two English quotations were. In the now-verified Gamber Edition, Ratzinger is discussing the liturgical reform, and continually says "we." In the currently unverified _Theologische_ Edition, Ratzinger says Vatican II and "they." Besides that, the quotations are clearly nearly identical.
+![](/uploads/ratzinger-fabricated/ratzinger_comparison.png)
+
+It finally dawned on me how remarkably similar these two English quotations were. 
 
 After considering all of these threads, I had an hypothesis. 
 
@@ -110,35 +113,40 @@ After considering all of these threads, I had an hypothesis.
 Here is what we know for sure:
 
 * 1983: MOnsignor Klaus Gamber publishes _Die Reform der Romischen Liturgie_.
-* 1992: _Die Reform_ is reprinted in French as _La Reforme Liturgique en Question_, with a foreword by Ratzinger. {{% staticref "files/La réforme liturgique en question - Ratzinger.pdf" %}} View PDF here. {{% /staticref %}}
-* 1993: _La Reforme_ is reprinted in English as _The Reform of the Roman Liturgy: Its Problems and Background_. The French and English editions contain the Gamber Version of the quotation given above, which begins, "What happened after the Council...".
-* July 22-24, 2001: Fontgombault Abbey hosts a conference on the liturgy. Ratzinger gives a talk called, "The Theology of the Liturgy." {{% staticref "files/Ratzinger - 2001 Fontgombault.pdf" %}} View PDF here. {{% /staticref %}}
-* 2002: Conference proceedings are published in French. 
+* 1992: _Die Reform_ is reprinted in French as _La Reforme Liturgique en Question_, with a foreword by Ratzinger. 
+* 1993: _La Reforme_ is reprinted in English as _The Reform of the Roman Liturgy: Its Problems and Background_. The French and English editions contain the Gamber Version of the quotation, which begins, "What happened after the Council...".
+* July 22-24, 2001: Fontgombault Abbey hosts a conference on the liturgy. Ratzinger gives a talk called, "The Theology of the Liturgy." 
+* 2002: Fontgombault conference proceedings are published in French. 
 * 2002, January: Fr. Patrick de la Rocque of the SSPX writes an article for the SSPX newsletter about Ratzinger and the conference. Fr. de la Rocque gives the _Theologische_ Version of the quotation, citing as his source _Revue Theologisches_, Vol. 20, Feb. 1990, pgs. 103-104.
-* 2002, later: Fr. de la Rocque's article is translated and republished in Angelus, thus debuting the _Revue Theologisches_ dubious citation into the English-speaking works.
-* 2003: Conference proceedings are published in English.
-* 2008: The _Theologische_ Version appears on Fish Eaters, and begins making the copy/pasted rounds in article comments on numerous Catholic websites. 
-* 2013: Taylor Marshall uses it. 
-* 2014: Traditional Catholic Priest uses it.[^2]
-* 2015: Musica Sacra forums uses it.[^6]
-* 2017: Aleteia uses it.[^7]
-* 2019: Catholic World Report[^8] and One Peter Five[^9] use it.
+* 2002, later: Fr. de la Rocque's article is translated and republished in Angelus, thus debuting the dubious _Revue Theologisches_ attribution into the English-speaking world.
+* 2003: Fontgombault conference proceedings are published in English.
+* 2008: The _Theologische_ Version appears on FishEaters forums[^4], and begins making the copy/pasted rounds in article comments on numerous Catholic websites. 
+* 2013: Taylor Marshall uses it.[^1]
+* 2014: Traditional Catholic Priest uses it.[^16]
+* 2017: Aleteia uses it.[^17]
+* 2019: Catholic World Report[^18] and One Peter Five[^19] use it.
 
-What I suggest is that in 2002 Fr. de la Rocque was quoting Ratzinger's Gamber foreword from memory, gave his own English translation (or the translator for the Angelus did), and added a completely wrong citation. 
-
-This is not implausible, considering how similar the two versions of the quotations are, the foment and activity of the time, and the fact that we have seen misquotations from the French SSPX before. 
+What I suggest is that in 2002 Fr. de la Rocque quoted Ratzinger's Gamber foreword from memory, in somewhat different wording. For reasons mysterious to me, he attributed the quotation to the non-existent _Revue Theologisches_ and a jumble of mismatched volume metadata.
 
 # Did he say it? 
 
-Yes and no. 
+Well, yes and no. 
 
-# Do I need these
+We know for sure that Ratzinger said the Gamber Version: 
 
-![](/uploads/wojtyla/newsletter1.png)
-The Kosciuszko Foundation Newsletter XXXI, no. 2 (1976-77), page 1
+> Ce qui s'est passé après le Concile signifie tout autre chose: à la place de la liturgie fruit d'un développement continu, on a mis une liturgie fabriquée. On est sorti du processus vivant de croissance et de devenir pour entrer dans la fabrication. On n'a plus voulu continuer le devenir et la maturation organiques du vivant à travers les siècles, et on les a remplacés-à la manière de la production technique- par une fabrication, produit banal de l'instant.[^15]
 
-http://blog.yankehome.com/liturgy/getFile.php?file=postgate-2013-christmas&filetype=pdf
-Great compilation of sources 
+> What happened after the Council was something else entirely: in the place of liturgy as the fruit of development came fabricated liturgy. We abandoned the organic, living process of growth and development over centuries, and replaced it – as in a manufacturing process – with a fabrication, a banal on-the-spot product.[^5]
+
+The _Theologische_ Version, at the top of this article, appears to come only from Father Patrick de la Rocque in 2002.[^9] 
+
+While the Gamber Version and the _Theologische_ Version are quite similar, there are several important differences. 
+
+In the Gamber Version, Ratzinger's subject is the liturgical reform, and said "we," as in "We abandoned...". 
+
+In the _Theologische_ Version, Fr. de la Rocque changed the subject to the Second Vatican Council, and "they," as in "They have deserted...". 
+
+These differences are crucial. The more correct version, the Gamber Version clearly suggests that Ratzinger saw himself as part of a movement that misunderstood the liturgical reforms. In the _Theologische_ Version, de la Rocque's wording separates Ratzinger from the erring reformers, and speaks in much harsher language. 
 
 # Sources
 
@@ -150,33 +158,32 @@ Great compilation of sources
 
 [^4]: user Historian, "Ecumenism Returned," FishEaters Traditional Catholic Forums, December 13, 2008, https://www.fisheaters.com/forums/showthread.php?tid=23595.
 
-[^5]: Armstrong, Dave, "Traditionalist Misuse of the Ratzinger "Banal" Quote," Patheos, December 17, 2015, https://www.patheos.com/blogs/davearmstrong/2015/12/trad-misuse-of-ratzinger-banal-quote.html.
+[^5]: Gamber, Klaus. The Reform of the Roman Liturgy: Its Problems and Background. San Juan Capistrano, Calif.; Harrison, N.Y.: Una Voce Press ; Foundation for Catholic Reform, 1993.
 
-[^6]: Universität, Münster. "Theologische Revue."  (1902-2007). https://catalog.hathitrust.org/Record/100009081.
+[^6]: Armstrong, Dave, "Traditionalist Misuse of the Ratzinger "Banal" Quote," Patheos, December 17, 2015, https://www.patheos.com/blogs/davearmstrong/2015/12/trad-misuse-of-ratzinger-banal-quote.html.
 
-[^7]: "A “Devastação Da Liturgia” Em 10 Declarações Do Cardeal Ratzinger," Aleteia, April 17, 2017, https://pt.aleteia.org/2017/04/17/a-devastacao-da-liturgia-em-10-declaracoes-do-cardeal-ratzinger/.
+[^7]: Universität, Münster. "Theologische Revue."  (1902-2007). https://catalog.hathitrust.org/Record/100009081.
 
-[^8]: https://www.catholicworldreport.com/2019/02/04/revisiting-the-spirit-of-the-liturgy/
+[^8]: Universität Münster, and Katholisch-Theologische Fakultät. Theologische Revue. Aschendorff, 1990. https://books.google.com/books?id=vmUwAAAAYAAJ.
 
-[^9]: Kwasniewski, Peter, "How the New Lectionary Treats (or Doesn’t) the Antichrist," OnePeterFive, November 6, 2019, https://onepeterfive.com/lectionary-antichrist/.
+[^9]: de la Rocque, Father Patrick. "Considerations on Cardinal Ratzinger." Angelus, April, 2002. http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2130#3B.
 
-[^10]: 
+[^10]: "Doctrinal Discussions in Rome." Angelus, May, 2010. http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2873.
 
+[^11]: "SSPX Prior Publicly Embrances a Novus Ordo Service; Accepts Benedict-Ratzinger's Idea to Create a More Traditional "New Mass"," Traditio, October 26, 2006, http://www.traditio.com/comment/com0610.htm.
 
-user JulieColl, "Msgr. Pope's Article About the 1965 Missal," Musica Sacra Forum, February, 2015, https://forum.musicasacra.com/forum/discussion/11978/msgr.-popes-article-about-the-1965-missal/p1 
+[^12]: Journées liturgiques, and Abbaye Notre-Dame de Fontgombault. "Autour De La Question Liturgique: Avec Le Cardinal Ratzinger: Actes Des Journées Liturgiques De Fontgombault, 22-24 Juillet 2001." Fontgombault, France, 2001. http://www.worldcat.org/oclc/469164518
 
-Carota, Father, "Traditional Catholics, Canonical, Sspx and Sedevacantist Pray, Work Together," Traditional Catholic Priest, March 15, 2014, http://www.traditionalcatholicpriest.com/2014/03/15/traditional-catholics-canonical-sspx-and-sedevacantist-work-together/.
+[^13]: Fontgombault Liturgical Conference, Pope Benedict XVI, and Alcuin Reid. "The Theology of the Liturgy." In _Looking Again at the Question of the Liturgy with Cardinal Ratzinger: Proceedings of the July 2001 Fontgombault Liturgical Conference._ Fontgombault, France, 2003. http://www.worldcat.org/oclc/55538982 
 
-[^11]: de la Rocque, Father Patrick. "Considerations on Cardinal Ratzinger." Angelus, April, 2002. http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2130#3B.
+[^14]: "Leader of Fraternity of St. Pius X Names Theological Commission to Study Vatican Ii." Catholic News Agency, October 16 2007. https://www.catholicnewsagency.com/news/10682/leader-of-fraternity-of-st-pius-x-names-theological-commission-to-study-vatican-ii.
 
-[^12]: "Doctrinal Discussions in Rome." Angelus, May, 2010. http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2873.
+[^15]: Ratzinger, Cardinal Joseph. "Klaus Gamber: "L'intrépidité D'un Vrai Témoin"." In La Réforme Liturgique En Question, edited by Klaus Gamber, 6-8. Caromb: Éd. Sainte-Madelaine, 1992.
 
-[^13]: "SSPX Prior Publicly Embrances a Novus Ordo Service; Accepts Benedict-Ratzinger's Idea to Create a More Traditional "New Mass"," Traditio, October 26, 2006, http://www.traditio.com/comment/com0610.htm.
+[^16]: Carota, Father, "Traditional Catholics, Canonical, Sspx and Sedevacantist Pray, Work Together," Traditional Catholic Priest, March 15, 2014, http://www.traditionalcatholicpriest.com/2014/03/15/traditional-catholics-canonical-sspx-and-sedevacantist-work-together/.
 
-[^14]: Universität Münster, and Katholisch-Theologische Fakultät. Theologische Revue. Aschendorff, 1990. https://books.google.com/books?id=vmUwAAAAYAAJ.
+[^17]: "A “Devastação Da Liturgia” Em 10 Declarações Do Cardeal Ratzinger," Aleteia, April 17, 2017, https://pt.aleteia.org/2017/04/17/a-devastacao-da-liturgia-em-10-declaracoes-do-cardeal-ratzinger/.
 
-[^15]: 
+[^18]: Stravinskas, Peter M. J. "Revisiting “the Spirit of the Liturgy”." Catholic World Report, February 4 2019. https://www.catholicworldreport.com/2019/02/04/revisiting-the-spirit-of-the-liturgy/.
 
-[^16]: Journées liturgiques, and Abbaye Notre-Dame de Fontgombault. "Autour De La Question Liturgique : Avec Le Cardinal Ratzinger: Actes Des Journées Liturgiques De Fontgombault, 22-24 Juillet 2001." Fontgombault, France, 2001. http://www.worldcat.org/oclc/469164518
-
-[^17]: Fontgombault Liturgical Conference, Pope Benedict XVI, and Alcuin Reid. "Looking Again at the Question of the Liturgy with Cardinal Ratzinger: Proceedings of the July 2001 Fontgombault Liturgical Conference." Fontgombault, France, 2003. http://www.worldcat.org/oclc/55538982 
+[^19]: Kwasniewski, Peter, "How the New Lectionary Treats (or Doesn’t) the Antichrist," OnePeterFive, November 6, 2019, https://onepeterfive.com/lectionary-antichrist/.
