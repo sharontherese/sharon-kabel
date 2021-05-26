@@ -70,7 +70,7 @@ The journal isn't available online for free, but it is indexed in Google Books[^
 
 This seemingly robust citation was a total dead end. Short of reading the entire run of _Theologische Revue_, I had to rule it out and start from scratch. 
 
-# Father Patrick de la Rocque and the SSPX
+# The SSPX and Angelus Press
 
 In my online travels, I had encountered the _Theologische_ Version of the quotation in one other place: a 2002 article[^9] in the Angelus by Father Patrick de la Rocque, SSPX.
 
@@ -82,7 +82,7 @@ The _Nouvelles de Chrétienté_ is a newsletter of the SSPX. I contacted the SSP
 
 # A trip to Fontgombault Abbey
 
-Fr. de la Rocque's article was a discussion on some recent events; namely, a conference on the liturgy at Fontgombault Abbey, July 22-24, 2001. Cardinal Ratzinger, as prefect of the Congregation of the Doctrine of Faith, was one of the speakers. His remarks, "The Theology of the Liturgy," appeared in conference proceedings (published in 2002[^12] and translated into English in 2003[^13] by Margaret McHugh and Father John Parsons). It is unclear if Fr. de la Rocque attended the conference himself, but he definitely read the proceedings. 
+Fr. de la Rocque's article was a discussion on some recent events; namely, a conference on the liturgy at Fontgombault Abbey, July 22-24, 2001. Cardinal Ratzinger, as prefect of the Congregation of the Doctrine of Faith, was one of the speakers. His remarks, "The Theology of the Liturgy," appeared in conference proceedings (published in 2002[^12] and translated into English in 2003[^13] by Margaret McHugh and Father John Parsons). It is unclear if Fr. de la Rocque attended the conference himself, but he seems to have read the proceedings. 
 
 Ratzinger's speech directly referenced a book published by the SSPX: 
 
@@ -125,7 +125,9 @@ Here is what we know for sure:
 * 2017: Aleteia uses it.[^17]
 * 2019: Catholic World Report[^18] and One Peter Five[^19] use it.
 
-What I suggest is that in 2002 Fr. de la Rocque quoted Ratzinger's Gamber foreword from memory, in somewhat different wording. For reasons mysterious to me, he attributed the quotation to the non-existent _Revue Theologisches_ and a jumble of mismatched volume metadata. The word order swap for the journal title could be because of the languages involved; German is usually Adjective Noun (_Theologisches Revue_) and French is usually Noun Adjective (_Revue Theologisches_, although the latter word isn't French). 
+What I suggest is that in 2002 Fr. de la Rocque quoted Ratzinger's Gamber foreword from memory, in somewhat different wording. The _Revue Theologische_ mystery citation is either wrong, from a journal I have yet to discover, or in the _Theologisches Revue_ journal in a different volume and issue (perhaps in 1992, not 1990, as part of a book review of Gamber's latest edition). 
+
+Another idea is that the word order swap for the journal title could be because of the languages involved; German is usually Adjective Noun (_Theologisches Revue_) and French is usually Noun Adjective (_Revue Theologisches_, although the latter word isn't French). 
 
 # Did he say it? 
 
