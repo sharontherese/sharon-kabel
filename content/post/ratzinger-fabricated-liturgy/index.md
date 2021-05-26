@@ -125,7 +125,7 @@ Here is what we know for sure:
 * 2017: Aleteia uses it.[^17]
 * 2019: Catholic World Report[^18] and One Peter Five[^19] use it.
 
-What I suggest is that in 2002 Fr. de la Rocque quoted Ratzinger's Gamber foreword from memory, in somewhat different wording. For reasons mysterious to me, he attributed the quotation to the non-existent _Revue Theologisches_ and a jumble of mismatched volume metadata.
+What I suggest is that in 2002 Fr. de la Rocque quoted Ratzinger's Gamber foreword from memory, in somewhat different wording. For reasons mysterious to me, he attributed the quotation to the non-existent _Revue Theologisches_ and a jumble of mismatched volume metadata. The word order swap for the journal title could be because of the languages involved; German is usually Adjective Noun (_Theologisches Revue_) and French is usually Noun Adjective (_Revue Theologisches_, although the latter word isn't French). 
 
 # Did he say it? 
 
