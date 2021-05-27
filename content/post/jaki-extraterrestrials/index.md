@@ -12,7 +12,6 @@ view: 2
 header:  
   caption: "'The Ambassadors,' Hans Holbein the Younger"
   image: "holbeinheader"
-draft: true
 
 tags:
  - Stanley Jaki
@@ -94,12 +93,5 @@ THe following quotation is excerpted from: Stanley L Jaki, OSB. _The savior of s
 > (4) _Biology and the Exploration of Mars_, ed. C. S. Pittendrigh and others (Washington DC: National Academic of Sciences Research Council, 1966), p. 8 and _Time_ Sept. 20, 1976, p. 87. 
 > 
 > (5) S. Dick, _Plurality of Worlds: The Origins of Extraterrestrial Life: Debate from Democritus to Kant_ (New York: Cambridge University Press, 1982), p. 89.
-(6) E. Purcell, “Radioastronomy and Communication through Space” (Brookhaven Lecture Series, Number 1, November 16, 1960), p. 11.
-
-
-
-# Sources
-
-[^1]: 
-[^2]: 
-[^3]: 
+> 
+> (6) E. Purcell, “Radioastronomy and Communication through Space” (Brookhaven Lecture Series, Number 1, November 16, 1960), p. 11.
