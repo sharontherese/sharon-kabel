@@ -10,8 +10,8 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:  
-  caption: ""
-  image: "vaticaniiheader.png"
+  caption: "'The Ambassadors,' Hans Holbein the Younger"
+  image: "holbeinheader"
 draft: true
 
 tags:
@@ -19,13 +19,13 @@ tags:
  - science
 ---
 
-# Results
+Father Stanley L. Jaki, OSB (1924-2009) was an Hungarian Benedictine priest and one of the most decorated and well-respected scientists of his generation. For more information on his life and works, please see: http://www.sljaki.com/. 
 
-![](/uploads/vaticaniidocuments/vaticanii.png)
+Below are two excerpts from Fr. Jaki on the likelihood of extraterrestrial life. 
 
-# Limits of a Limitless Science? Extraterrestrials, or Better Be Moonstruck?
+# Limits of a Limitless Science
 
-_An enlarged form of an article that first appeared in National Catholic Register, Feb. 15-21, 1998._
+The following quotation is excerpted from the chapter "Extraterrestrials, or Better Be Moonstruck?" in: Stanley L Jaki, OSB, _The limits of a limitless science: and other essays._ Wilmington, Del: ISI Books, 2000.
 
 > "Are we alone? ... Statistically, there is every likelihood that life has evolved elsewhere in the universe." So it was claimed in the "Millennium Notebook" about "questions that stump scientists," in _Newsweek_'s January 19 (1998) issue. 
 > 
@@ -79,6 +79,22 @@ _An enlarged form of an article that first appeared in National Catholic Registe
 > 
 > (1) See the 1879 English edition, vol. 1, p. 276.
 
+# The Savior of Science 
+
+THe following quotation is excerpted from: Stanley L Jaki, OSB. _The savior of science._ Grand Rapids, Mich: W.B. Eerdmans, 2000.
+
+> Biological evolution is widely assumed to result ultimately in the formation of intelligent organic beings such as man. No less widespread is the assumption that a planet with an environmental fitness similar to that of earth is a most likely occurrence in planetary systems that are expected to arise around a certain class of stars. 
+> 
+> This is not to suggest that recognition, through the anthropic principle, of the fitness of the cosmos for intelligent life prompted in the first place the search for extraterrestrial intelligence (SETI). The confidence of the promoters of that search had its chief source in what should be called – and right at the outset – integral Darwinism. According to this, life and intelligence are the necessary and inevitable outcome in a world in which particles of matter and their physical characteristics (forces) are producing ever new situations and configurations in immense varities whose succession is a limitless flux. Within this strictly materialistic perspective nothing is more natural than to claim that “we are not alone”3 and to look, if not for advanced civilizations, at least for evidences of lower forms of life even in our own planetary backyard. Contrary to the preliminary assurances given by a blue-ribbon committee of the National Academy of Sciences, no lichens and no mosses were afterwards found on Mars. Its surface-soil was found to contain not even the traces of death. (4) The quarantining of astronauts for three days after their first return from the moon, lest they release “lunar” bacteria with a possible threat to all life on earth, proved to be wholly unnecessary. 
+> 
+> Although only a few diehards are still looking for traces of life outside the earth within our planetary system, the prospect of detecting radio messages from other planetary systems still exhilarates many. One source of their undisguised joy is that the mere likelihood, to say nothing of a concrete sign, of SETI would discredit more than anything else the most concrete form of belief in purpose, which is the belief in the Incarnation of the Son of God on this very earth. It was in a context relating to the history of SETI that the image of a planet-hopping savior was evoked, and with an ill-concealed grin, to be sure. (5) Addicts of SETI research hardly ever think of the dark lining behind the silvery façade of their expectations. The most frightful of those dark hues is not that, instead of distant cousins ready to fraternize with us, we might contact an alien species that would take our bodies for a convenient protein reservoir and live up thereby to the Darwinian principle of universal struggle. Fortunately, all good physics supports so far that Nobel Laureate E. Purcell, who in 1961 concluded that space travel would forever remain in its hallowed place: the cover of cereal boxes. (6)
+> 
+> (3) W. Sullivan, _We are Not Alone: The Search for Intelligent Life on Other Worlds_ (New York: McGraw Gill, 1964). 
+> 
+> (4) _Biology and the Exploration of Mars_, ed. C. S. Pittendrigh and others (Washington DC: National Academic of Sciences Research Council, 1966), p. 8 and _Time_ Sept. 20, 1976, p. 87. 
+> 
+> (5) S. Dick, _Plurality of Worlds: The Origins of Extraterrestrial Life: Debate from Democritus to Kant_ (New York: Cambridge University Press, 1982), p. 89.
+(6) E. Purcell, “Radioastronomy and Communication through Space” (Brookhaven Lecture Series, Number 1, November 16, 1960), p. 11.
 
 
 
