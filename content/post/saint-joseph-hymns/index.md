@@ -21,7 +21,7 @@ tags:
 
 Pope Francis declared 2021 to be the year of Saint Joseph, husband of the Blessed Virgin Mother and foster father of Our Lord. 
 
-Below are several traditional hymns and chants dedicated to Saint Joseph. About half of the songs are from the Divine OFfice or the Mass, and about half are devotional hymns. 
+Below are several traditional hymns and chants dedicated to Saint Joseph. About half of the songs are from the Divine Office or the Mass, and about half are devotional hymns. 
 
 # Te Joseph Celebrant
 
