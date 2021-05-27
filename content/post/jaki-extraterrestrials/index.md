@@ -24,7 +24,7 @@ Below are two excerpts from Fr. Jaki on the likelihood of extraterrestrial life.
 
 # Limits of a Limitless Science
 
-Stanley L. Jaki, OSB, "Extraterrestrials, or Better Be Moonstruck?" in: _The limits of a limitless science: and other essays._ Wilmington, Del: ISI Books, 2000.
+Stanley L. Jaki, OSB. "Extraterrestrials, or Better Be Moonstruck?" in: _The limits of a limitless science: and other essays._ Wilmington, Del: ISI Books, 2000.
 
 > "Are we alone? ... Statistically, there is every likelihood that life has evolved elsewhere in the universe." So it was claimed in the "Millennium Notebook" about "questions that stump scientists," in _Newsweek_'s January 19 (1998) issue. 
 > 
@@ -44,7 +44,7 @@ Stanley L. Jaki, OSB, "Extraterrestrials, or Better Be Moonstruck?" in: _The lim
 > 
 > Today astronomers dealing with the origin of the moon accept the unlikely scenario of a glancing collision between the earth and a hypothetical celestial body called X. This scenario contains at least five independent factors, all rather unlikely. The body X had to have a mass ten times the mass of Mars (1). The direction (2), the velocity (3), and the plane (4) of the motion of X had to be within very narrow margins so that our moon and our earth-moon system might be the result. Moreover, the collision had to occur within a narrow period of the formation of the Earth itself (5)!
 > 
-> If one now takes the probability of each of those factors for one in ten, or 10^-1, which is a most conservative estimate, their combined probability is one hundred thousandth, or 10-5. Actually, it would be more accurate to say one in a million, or 10-6, because factor 5 can hardly be given a greater probability than one in a hundred. The figure 10-6 would alone undermine the likelihood that it is reasonable to look for radio messages sent out from other technological civilizations towards the earth.
+> If one now takes the probability of each of those factors for one in ten, or 10<sup>-1</sup>, which is a most conservative estimate, their combined probability is one hundred thousandth, or 10-5. Actually, it would be more accurate to say one in a million, or 10-6, because factor 5 can hardly be given a greater probability than one in a hundred. The figure 10-6 would alone undermine the likelihood that it is reasonable to look for radio messages sent out from other technological civilizations towards the earth.
 > 
 > Ten thousand, or 104, is the typical figure given by supporters of SETI as the number of technological civilizations in our galaxy. This is the figure which Frank Drake supports in his latest evaluation of the Drake equation which he first proposed in 1961. This figure is based on taking the number of stars similar to our sun in our galaxy. Obviously only a fraction of such stars would have a planetary system around them. Only a fraction of such systems would have an earthlike planet. Only on some of such planets would life evolve and evolve in turn into higher organisms. And only a few types of these would reach high intellectual and technological levels.
 > 
@@ -80,7 +80,7 @@ Stanley L. Jaki, OSB, "Extraterrestrials, or Better Be Moonstruck?" in: _The lim
 
 # The Savior of Science 
 
-THe following quotation is excerpted from: Stanley L Jaki, OSB. _The savior of science._ Grand Rapids, Mich: W.B. Eerdmans, 2000.
+Stanley L. Jaki, OSB. _The savior of science._ Grand Rapids, Mich: W.B. Eerdmans, 2000.
 
 > Biological evolution is widely assumed to result ultimately in the formation of intelligent organic beings such as man. No less widespread is the assumption that a planet with an environmental fitness similar to that of earth is a most likely occurrence in planetary systems that are expected to arise around a certain class of stars. 
 > 
