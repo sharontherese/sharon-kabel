@@ -22,7 +22,27 @@ tags:
 
 The following quotation is attributed to Cardinal Joseph Ratzinger, the future Pope Benedict XVI: 
 
-> The liturgical reform, in its concrete realization, has distanced itself even more from its origin. The result has not been a reanimation, but devastation. In place of the liturgy, fruit of a continual development, they have placed a fabricated liturgy. They have deserted a vital process of growth and becoming in order to substitute a fabrication. They did not want to continue the development, the organic maturing of something living through the centuries, and they replaced it, in the manner of technical production, by a fabrication, a banal product of the moment. 
+> The liturgical reform, in its concrete realization, has distanced itself even more from its origin. The result has not been a reanimation, but devastation. In place of the liturgy, fruit of a continual development, they have placed a fabricated liturgy. They have deserted a vital process of growth and becoming in order to substitute a fabrication. They did not want to continue the development, the organic maturing of something living through the centuries, and they replaced it, in the manner of technical production, by a fabrication, a banal product of the moment.[^20] 
+
+# Update: 05/28/2021
+
+In a thrilling turn of events, I have not one, but _two_ updates from readers. 
+
+The first update concerns the quotation itself. The first update is an alternative English translation, from Ignatius Press:
+
+> What happened to a great extent after the Council has quite a different significance: instead of the developed liturgy, some have set up their self-made liturgy. They have stepped out of the living process of growing and becoming and gone over to making. They no longer wanted to continue the organic becoming and maturing of something that had been alive down through the centuries, and instead they replaced it—according to the model of technical production— with making, the insipid product of the moment.[^20]
+
+This translation has a few key differences - I am most interested in the subject changes from "we" to "they." As the original French quotation uses the subject "on," I leave that particular debate to the French experts among us. 
+
+The second update concerns the **attribution**: _Revue Theologisches_, volume 20, February 1990, pp. 103-4. My initial conclusion was that it was wrong, because there's no journal with that name. There is a _Theologische Revue_, which has as of this morning proven to be a red herring! I must extend my gratitude to Jorgen Vijgen, who informed me that in fact the correct journal title is _Theologisches_! Sans the word _Revue_, the attribution is otherwise correct. _Theologisches_ is available online; the direct link to the correct volume is here: http://www.theologisches.net/files/20_Nr.2.pdf
+
+Pages 103-4 are a book review of _Simandron, der Wachklopfer: Gedenkschrift für Klaus Gamber (1919-1989)_[^21], a collection of essays in honor of Monsignor Gamber. The reviewer quotes extensively from Cardinal Ratzinger's contribution to the book. The quotation is long, and quite strongly worded, but here are the important excerpts:  
+
+> Die liturgische Reform hat sich in ihrer konkreten Ausführung von diesem Ursprung immer mehr entfernt. Das Ergebnis ist nicht Wiederbelebung, sondern Verwüstung. [...]  Was nach dem Konzil weithin geschehen ist, bedeutet etwas ganz anderes: An die Stelle der gewordenen Liturgie hat man die gemachte Liturgie gesetzt. Man ist aus dem lebendigen Prozeß des Wachsens und Werdens heraus umgestiegen in das Machen. Man wollte nicht mehr das organische Werden und Reifen des durch die Jahrhunderte hin Lebendigen fortführen, sondern setzte an dessen Stelle - nach dem Muster technischer Produktion - das Machen, das platte Produkt des Augenblicks. 
+
+This is quite clearly the quotation we're looking for, and as this book was published in 1989, predates everything else I've found. So indeed, as I should have suspected given the quote's author, the first occurrence of the quote is not English, not French, but German. (Likely unsurprising to some of you, but I have a knack for complicating things.) 
+
+I will make a few edits to the original post below, but in the name of transparency I intend to keep most of it as is. Let it be a lesson to both the complexity and the unexpected simplicity of these quotation adventures. 
 
 # Says who?
 
@@ -188,3 +208,7 @@ These differences are crucial. The Gamber Version, the quotation that we know Ra
 [^18]: Stravinskas, Peter M. J. "Revisiting “the Spirit of the Liturgy”." Catholic World Report, February 4 2019. https://www.catholicworldreport.com/2019/02/04/revisiting-the-spirit-of-the-liturgy/.
 
 [^19]: Kwasniewski, Peter, "How the New Lectionary Treats (or Doesn’t) the Antichrist," OnePeterFive, November 6, 2019, https://onepeterfive.com/lectionary-antichrist/.
+
+[^20]: Pope Benedict XVI, and Gerhard Ludwig Müller. 2014. Collected works, volume 1. San Francisco: Ignatius Press.
+
+[^21]: Gamber, Klaus, and Wilhelm Nyssen. 1989. Simandron, der Wachklopfer: Gedenkschrift für Klaus Gamber (1919-1989).
