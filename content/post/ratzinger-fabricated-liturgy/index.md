@@ -22,27 +22,33 @@ tags:
 
 The following quotation is attributed to Cardinal Joseph Ratzinger, the future Pope Benedict XVI: 
 
-> The liturgical reform, in its concrete realization, has distanced itself even more from its origin. The result has not been a reanimation, but devastation. In place of the liturgy, fruit of a continual development, they have placed a fabricated liturgy. They have deserted a vital process of growth and becoming in order to substitute a fabrication. They did not want to continue the development, the organic maturing of something living through the centuries, and they replaced it, in the manner of technical production, by a fabrication, a banal product of the moment.[^20] 
+> The liturgical reform, in its concrete realization, has distanced itself even more from its origin. The result has not been a reanimation, but devastation. In place of the liturgy, fruit of a continual development, they have placed a fabricated liturgy. They have deserted a vital process of growth and becoming in order to substitute a fabrication. They did not want to continue the development, the organic maturing of something living through the centuries, and they replaced it, in the manner of technical production, by a fabrication, a banal product of the moment.
 
-# Update: 05/28/2021
+# Did he say it? 
 
-In a thrilling turn of events, I have not one, but _two_ updates from readers. 
+(With extra-strange fact checks, I like to put this section near the top, rather than at the bottom.) 
 
-The first update concerns the quotation itself. The first update is an alternative English translation, from Ignatius Press:
+Yes! The translations vary, but Ratzinger did indeed say the quotation in German, which later was translated into French[^15] and English[^5]. The attribution to the journal  _Theologische_ got a bit garbled over the years, but that is of interest only to nitpickers such as myself. Below are all of the iterations I found: 
+
+## Ratzinger in the book _Simandron, der Wachklopfer: Gedenkschrift für Klaus Gamber (1919-1989)_ (1989) 
+
+(to be included - I am waiting on a copy of Ratzinger's chapter, just to be sure.) 
+
+## Ratzinger as quoted in the journal _Theologisches_ (February 1990)
+
+> Die liturgische Reform hat sich in ihrer konkreten Ausführung von diesem Ursprung immer mehr entfernt. Das Ergebnis ist nicht Wiederbelebung, sondern Verwüstung. [...]  Was nach dem Konzil weithin geschehen ist, bedeutet etwas ganz anderes: An die Stelle der gewordenen Liturgie hat man die gemachte Liturgie gesetzt. Man ist aus dem lebendigen Prozeß des Wachsens und Werdens heraus umgestiegen in das Machen. Man wollte nicht mehr das organische Werden und Reifen des durch die Jahrhunderte hin Lebendigen fortführen, sondern setzte an dessen Stelle - nach dem Muster technischer Produktion - das Machen, das platte Produkt des Augenblicks.[^21] [^22] 
+
+## Ratzinger in his foreword to Monsignor Klaus Gamber's _La Réforme Liturgique En Question_ (1992)
+
+> Ce qui s'est passé après le Concile signifie tout autre chose: à la place de la liturgie fruit d'un développement continu, on a mis une liturgie fabriquée. On est sorti du processus vivant de croissance et de devenir pour entrer dans la fabrication. On n'a plus voulu continuer le devenir et la maturation organiques du vivant à travers les siècles, et on les a remplacés-à la manière de la production technique- par une fabrication, produit banal de l'instant.[^15]
+
+## Ratzinger as quoted by Father Patrick de la Rocque in "Considerations on Cardinal Ratzinger," _Angelus_ (April 2002)
+
+> The liturgical reform, in its concrete realization, has distanced itself even more from its origin. The result has not been a reanimation, but devastation. In place of the liturgy, fruit of a continual development, they have placed a fabricated liturgy. They have deserted a vital process of growth and becoming in order to substitute a fabrication. They did not want to continue the development, the organic maturing of something living through the centuries, and they replaced it, in the manner of technical production, by a fabrication, a banal product of the moment.[^9] 
+
+## Ratzinger in his _Collected Works_, published by Ignatius Press (2014)
 
 > What happened to a great extent after the Council has quite a different significance: instead of the developed liturgy, some have set up their self-made liturgy. They have stepped out of the living process of growing and becoming and gone over to making. They no longer wanted to continue the organic becoming and maturing of something that had been alive down through the centuries, and instead they replaced it—according to the model of technical production— with making, the insipid product of the moment.[^20]
-
-This translation has a few key differences - I am most interested in the subject changes from "we" to "they." As the original French quotation uses the subject "on," I leave that particular debate to the French experts among us. 
-
-The second update concerns the **attribution**: _Revue Theologisches_, volume 20, February 1990, pp. 103-4. My initial conclusion was that it was wrong, because there's no journal with that name. There is a _Theologische Revue_, which has as of this morning proven to be a red herring! I must extend my gratitude to Jorgen Vijgen, who informed me that in fact the correct journal title is _Theologisches_! Sans the word _Revue_, the attribution is otherwise correct. _Theologisches_ is available online; the direct link to the correct volume is here: http://www.theologisches.net/files/20_Nr.2.pdf
-
-Pages 103-4 are a book review of _Simandron, der Wachklopfer: Gedenkschrift für Klaus Gamber (1919-1989)_[^21], a collection of essays in honor of Monsignor Gamber. The reviewer quotes extensively from Cardinal Ratzinger's contribution to the book. The quotation is long, and quite strongly worded, but here are the important excerpts:  
-
-> Die liturgische Reform hat sich in ihrer konkreten Ausführung von diesem Ursprung immer mehr entfernt. Das Ergebnis ist nicht Wiederbelebung, sondern Verwüstung. [...]  Was nach dem Konzil weithin geschehen ist, bedeutet etwas ganz anderes: An die Stelle der gewordenen Liturgie hat man die gemachte Liturgie gesetzt. Man ist aus dem lebendigen Prozeß des Wachsens und Werdens heraus umgestiegen in das Machen. Man wollte nicht mehr das organische Werden und Reifen des durch die Jahrhunderte hin Lebendigen fortführen, sondern setzte an dessen Stelle - nach dem Muster technischer Produktion - das Machen, das platte Produkt des Augenblicks. 
-
-This is quite clearly the quotation we're looking for, and as this book was published in 1989, predates everything else I've found. So indeed, as I should have suspected given the quote's author, the first occurrence of the quote is not English, not French, but German. (Likely unsurprising to some of you, but I have a knack for complicating things.) 
-
-I will make a few edits to the original post below, but in the name of transparency I intend to keep most of it as is. Let it be a lesson to both the complexity and the unexpected simplicity of these quotation adventures. 
 
 # Says who?
 
@@ -72,7 +78,7 @@ For clarity's sake, I will refer to this quotation ("What happened after the Cou
 
 # Finding the journal 
 
-**Update from 05/28: This section ended up pursuing a red herring; the correct journal is _Theologische_, not _Theologische Revue_. Please enjoy the agonized research methods below.** 
+**Update from 05/28: This section ended up pursuing a red herring; the correct journal is _Theologische_, not _Theologische Revue_. Please enjoy the now-useless agonized research methods below.** 
 
 It is rare that I have this much bibliographic information, down to the page number, so I initially hoped this quest would involve only a quick interlibrary loan request. 
 
@@ -80,11 +86,7 @@ I ran into immediate problems. My husband speaks German, and had already cast an
 
 I did find a similarly titled journal: _Theologische Revue_. Such a major mistake this early on is a bit concerning. 
 
-"Volume 20" was published in 1921, not 1990. Volume 86 would be the correct volume for 1990.[^7] 
-
-I have page numbers and a month, but who knows if they're correct given that the volume number is wrong? 
-
-I wasn't sure if I had an article author - it's unclear if Ratzinger wrote or was simply quoted in the _Theologische Revue_ - and I didn't have an article title. 
+"Volume 20" was published in 1921, not 1990. Volume 86 would be the correct volume for 1990.[^7] I have page numbers and a month, but who knows if they're correct given that the volume number is wrong? I wasn't sure if I had an article author - it's unclear if Ratzinger wrote or was simply quoted in the _Theologische Revue_ - and I didn't have an article title. 
 
 I was not too confident about my interlibrary loan request, but I took the plunge and requested volume 86, pp. 103-104. Neither page, nor several surrounding pages, made any reference at all to Ratzinger, Gamber, or the liturgical reform. What the pages did tell me is that the journal, as its title suggests, focuses on book reviews.
 
@@ -149,9 +151,21 @@ Here is what we know for sure:
 * 2017: Aleteia uses it.[^17]
 * 2019: Catholic World Report[^18] and One Peter Five[^19] use it.
 
-# Did he say it? 
+# Update: 05/28/2021
 
-Yes! The translations vary, but Ratzinger did indeed say the quotation in German, which later was translated into French[^15] and English[^5]. The attribution to _Theologische_ got a bit garbled over the years, but that is of interest only to nitpickers such as myself. 
+In a thrilling turn of events, I have not one, but _two_ updates from readers. 
+
+The first update concerns the quotation itself, by way of an alternative English translation, from Ignatius Press.
+
+This translation has a few key differences - I am most interested in the subject changes from "we" to "they." As the original French quotation uses the subject "on," I leave that particular debate to the French experts among us. 
+
+The second update concerns the **attribution**: _Revue Theologisches_, volume 20, February 1990, pp. 103-4. My initial conclusion was that it was wrong, because there's no journal with that name. There is a _Theologische Revue_, which has as of this morning proven to be a red herring! I must extend my gratitude to Jorgen Vijgen, who informed me that in fact the correct journal title is _Theologisches_! Sans the word _Revue_, the attribution is otherwise correct. _Theologisches_ is available online; the direct link to the correct volume is here: http://www.theologisches.net/files/20_Nr.2.pdf
+
+Pages 103-4 are a book review of _Simandron, der Wachklopfer: Gedenkschrift für Klaus Gamber (1919-1989)_[^21], a collection of essays in honor of Monsignor Gamber. The reviewer quotes extensively from Cardinal Ratzinger's contribution to the book. The quotation is long, and quite strongly worded, but it is indeed there.  
+
+As this book was published in 1989, predates everything else I've found. So indeed, as I should have suspected given the quote's author, the first occurrence of the quote is not English, not French, but German. (Likely unsurprising to some of you, but I have a knack for complicating things.) 
+
+I will make a few edits to the original post, but in the name of transparency I intend to keep most of it as is. Let it be a lesson to both the complexity and the unexpected simplicity of these quotation adventures. 
 
 # Sources
 
@@ -196,3 +210,5 @@ Yes! The translations vary, but Ratzinger did indeed say the quotation in German
 [^20]: Pope Benedict XVI, and Gerhard Ludwig Müller. 2014. Collected works, volume 1. San Francisco: Ignatius Press.
 
 [^21]: Gamber, Klaus, and Wilhelm Nyssen. 1989. Simandron, der Wachklopfer: Gedenkschrift für Klaus Gamber (1919-1989).
+
+[^22]: "Simandron - Der Wachklopfer. Gedenkschrift für Klaus Gamber (1919-1989). Hrsgg. von Wilhelm Nyssen. Luthe- Verlag Köln 1989, 347 Seiten. Schriftenreihe des Zentrums patristischer Spiritualität KOINONIA-ORIENS im Erzbistum Köln, herausgg. von Wilhelm Nyssen, XXX." _Theologisches_, Vol. 20, No. 2, Feb. 1990, pp. 103-104. http://www.theologisches.net/files/20_Nr.2.pdf
