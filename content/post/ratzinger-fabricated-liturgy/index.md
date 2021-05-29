@@ -36,7 +36,7 @@ Yes! The translations vary, but Ratzinger did indeed say the quotation in German
 
 ## Ratzinger as quoted in the journal _Theologisches_ (February 1990)
 
-> Die liturgische Reform hat sich in ihrer konkreten Ausführung von diesem Ursprung immer mehr entfernt. Das Ergebnis ist nicht Wiederbelebung, sondern Verwüstung. [...]  Was nach dem Konzil weithin geschehen ist, bedeutet etwas ganz anderes: An die Stelle der gewordenen Liturgie hat man die gemachte Liturgie gesetzt. Man ist aus dem lebendigen Prozeß des Wachsens und Werdens heraus umgestiegen in das Machen. Man wollte nicht mehr das organische Werden und Reifen des durch die Jahrhunderte hin Lebendigen fortführen, sondern setzte an dessen Stelle - nach dem Muster technischer Produktion - das Machen, das platte Produkt des Augenblicks.[^21] [^22] 
+> Die liturgische Reform hat sich in ihrer konkreten Ausführung von diesem Ursprung immer mehr entfernt. Das Ergebnis ist nicht Wiederbelebung, sondern Verwüstung. [...]  Was nach dem Konzil weithin geschehen ist, bedeutet etwas ganz anderes: An die Stelle der gewordenen Liturgie hat man die gemachte Liturgie gesetzt. Man ist aus dem lebendigen Prozeß des Wachsens und Werdens heraus umgestiegen in das Machen. Man wollte nicht mehr das organische Werden und Reifen des durch die Jahrhunderte hin Lebendigen fortführen, sondern setzte an dessen Stelle - nach dem Muster technischer Produktion - das Machen, das platte Produkt des Augenblicks.[^22] 
 
 ## Ratzinger in his foreword to Monsignor Klaus Gamber's _La Réforme Liturgique En Question_ (1992)
 
