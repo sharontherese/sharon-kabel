@@ -72,6 +72,8 @@ For clarity's sake, I will refer to this quotation ("What happened after the Cou
 
 # Finding the journal 
 
+**Update from 05/28: This section ended up pursuing a red herring; the correct journal is _Theologische_, not _Theologische Revue_. Please enjoy the agonized research methods below.** 
+
 It is rare that I have this much bibliographic information, down to the page number, so I initially hoped this quest would involve only a quick interlibrary loan request. 
 
 I ran into immediate problems. My husband speaks German, and had already cast an eyebrow at the spelling and syntax of the journal title. Sure enough, I couldn't find any journal called _Revue Theologisches_. 
@@ -126,15 +128,17 @@ I added green highlights to exact (or near-exact) matches, and red to major diff
 
 It finally dawned on me how remarkably similar these two English quotations were. 
 
-After considering all of these threads, I had an hypothesis. 
+# A proposed timeline 
 
-# A timeline and a proposed explanation
+**Update from 05/28: I have added 1989 and 1990 to the timeline, and revised several other points.**
 
 Here is what we know for sure:
 
 * 1983: Monsignor Klaus Gamber publishes _Die Reform der Romischen Liturgie_.
+* 1989: A collection of essays, mostly German, is published in honor of Gamber.[^21] Ratzinger's quote about the fabricated liturgy appears here, possibly for the first time. 
+* 1990: The journal _Theologische_ reviews the essay collection in its February 1990 issue, and quotes Ratzinger at length. 
 * 1992: _Die Reform_ is reprinted in French as _La Reforme Liturgique en Question_, with a foreword by Ratzinger.[^15] 
-* 1993: _La Reforme_ is reprinted in English as _The Reform of the Roman Liturgy: Its Problems and Background_.[^5] The French and English editions contain the Gamber Version of the quotation, which begins, "What happened after the Council...".
+* 1993: _La Reforme_ is reprinted in English as _The Reform of the Roman Liturgy: Its Problems and Background_.[^5] The French and English editions contain the Gamber Version.
 * July 22-24, 2001: Fontgombault Abbey hosts a conference on the liturgy. Ratzinger gives a talk called, "The Theology of the Liturgy." 
 * 2002, January: Fr. Patrick de la Rocque of the SSPX writes an article for the SSPX newsletter about Ratzinger and the conference. Fr. de la Rocque gives the _Theologische_ Version of the quotation, citing as his source _Revue Theologisches_, Vol. 20, Feb. 1990, pgs. 103-104. Fr. de la Rocque's article is translated and republished in Angelus, thus debuting the dubious _Revue Theologisches_ attribution into the English-speaking world.
 * 2002: Fontgombault conference proceedings are published in French.[^12] 
@@ -145,29 +149,9 @@ Here is what we know for sure:
 * 2017: Aleteia uses it.[^17]
 * 2019: Catholic World Report[^18] and One Peter Five[^19] use it.
 
-What I suggest is that in 2002 Fr. de la Rocque quoted Ratzinger's Gamber foreword from memory, in somewhat different wording. The _Revue Theologische_ mystery citation is either wrong, from a journal I have yet to discover, or in the _Theologisches Revue_ journal in a different volume and issue (perhaps in 1992, not 1990, as part of a book review of Gamber's latest edition). 
-
-Another idea is that the word order swap for the journal title could be because of the languages involved; German is usually Adjective Noun (_Theologisches Revue_) and French is usually Noun Adjective (_Revue Theologisches_, although the latter word isn't French). 
-
 # Did he say it? 
 
-Well, yes and no. 
-
-We know for sure that Ratzinger said the Gamber Version: 
-
-> Ce qui s'est passé après le Concile signifie tout autre chose: à la place de la liturgie fruit d'un développement continu, on a mis une liturgie fabriquée. On est sorti du processus vivant de croissance et de devenir pour entrer dans la fabrication. On n'a plus voulu continuer le devenir et la maturation organiques du vivant à travers les siècles, et on les a remplacés-à la manière de la production technique- par une fabrication, produit banal de l'instant.[^15]
-
-> What happened after the Council was something else entirely: in the place of liturgy as the fruit of development came fabricated liturgy. We abandoned the organic, living process of growth and development over centuries, and replaced it – as in a manufacturing process – with a fabrication, a banal on-the-spot product.[^5]
-
-The _Theologische_ Version, at the top of this article, appears to come only from Father Patrick de la Rocque in 2002.[^9] 
-
-While the Gamber Version and the _Theologische_ Version are quite similar, there are several important differences. 
-
-In the Gamber Version, Ratzinger's subject is the liturgical reform, and said "we," as in "We abandoned...". 
-
-In the _Theologische_ Version, Fr. de la Rocque changed the subject to the Second Vatican Council, and "they," as in "They have deserted...". 
-
-These differences are crucial. The Gamber Version, the quotation that we know Ratzinger said, clearly suggests that Ratzinger saw himself as part of a movement that misunderstood the liturgical reforms. The _Theologische_ Version, re-worded by de la Rocque, Ratzinger is separated from the erring reformers, and speaks in much harsher language. 
+Yes! The translations vary, but Ratzinger did indeed say the quotation in German, which later was translated into French[^15] and English[^5]. The attribution to _Theologische_ got a bit garbled over the years, but that is of interest only to nitpickers such as myself. 
 
 # Sources
 
