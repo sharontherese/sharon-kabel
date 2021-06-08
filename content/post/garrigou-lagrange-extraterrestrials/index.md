@@ -12,7 +12,6 @@ view: 2
 header:  
   caption: "Fra Filippo Lippi, 'The Annunciation'"
   image: "lippi_annunciation.jpg"
-draft: true
 
 tags:
  - science
