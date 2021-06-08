@@ -1,5 +1,5 @@
 ---
-title: Reginald Garrigou-Langrange on extraterrestrial life 
+title: Reginald Garrigou-Langrange, OP, on extraterrestrial life 
 date: 2021-06-08
 
 # View.
@@ -18,7 +18,7 @@ tags:
  - extraterrestrial life
 ---
 
-# Reginald Garrigou-Lagrange. _Christ the Savior: A Commentary on the Third Part of St. Thomas' Theological Summa_. United States: Herder Book Company, 1950.
+Quotation taken from: Reginald Garrigou-Lagrange. _Christ the Savior: A Commentary on the Third Part of St. Thomas' Theological Summa_. United States: Herder Book Company, 1950.
 
 > We may also say: 2. We do not know whether there are any other heavenly bodies suitable for human habitation, which are inhabited.
 > 
