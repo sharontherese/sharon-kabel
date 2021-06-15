@@ -23,13 +23,26 @@ subtitle = ""
 [[feature]]
   icon = "pencil-alt"
   icon_pack = "fas"
-  name = "Proofreading"
-  description = "Essays, papers, chapters, books"  
+  name = "[Proofreading](https://sharonkabel.com/services)"
+  description = "Essays, papers, chapters, books, poetry"  
   
 [[feature]]
   icon = "user-edit"
   icon_pack = "fas"
-  name = "Thesis and Dissertation Editing"
+  name = "[Thesis and Dissertation Editing](https://sharonkabel.com/services)"
   description = "All style guides"
+  
+[[feature]]
+  icon = "book-open"
+  icon_pack = "fas"
+  name = "[Wedding Programs](https://sharonkabel.com/services)"
+  description = "for Catholic weddings"  
+  
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "[Data Visualizations](https://sharonkabel.com/services)"
+  description = "bar charts, maps, timelines"    
 
 +++
