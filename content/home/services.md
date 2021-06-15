@@ -17,8 +17,9 @@ subtitle = ""
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "Research"
+  name = "Reference and Research"
   description = "Project support, fact checks"
+  url = "https://sharonkabel.com/services"
   
 [[feature]]
   icon = "pencil-alt"
