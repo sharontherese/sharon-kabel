@@ -9,7 +9,7 @@ draft = true
 
 # Reference and Research
 
-I can help you answer questions, find resources, and collate information. 
+Need to get to the bottom of something and don't know where to start? I can help you answer questions, find resources, and collate information. 
 
 Examples of reference and research projects I have done: 
 
@@ -19,35 +19,33 @@ Examples of reference and research projects I have done:
 
 # Proofreading 
 
-I can help you edit your work. 
+Spellcheck not cutting it? I can help you edit your work. 
 
 Examples of reference and research projects I have done: 
 
 * high school and college papers
 * poetry
-* resumes
+* resumés
 * fiction books
 
 # Thesis and Dissertation Editing
 
-I can help you edit your thesis or dissertation, so that it is in compliance with both your preferred citation style, and your department's formatting requirements. 
+Need a second set eyes on your thesis because all you see is a blur? I can help you edit your thesis or dissertation to be in compliance with both your preferred citation style and your department's formatting requirements. 
+
+> "Sharon is a delightful editor. She was attentive to the needs of me and my institution, in terms of both style and deadlines. Sharon’s work is top-notch, and her quick turnaround time and precision is well worth the cost! Excellent work on my dissertation." - James M. Kopf
 
 # Wedding programs
 
-I can create custom wedding programs for your traditional Catholic wedding. 
+Getting hitched? I can create custom wedding programs for your traditional Catholic wedding. 
 
 [My wedding program](https://www.latinmasswedding.com/programs/) template is available free of charge; [donations are welcome.](https://www.paypal.me/Sharon071794) 
 
 # Data visualization
 
-I can create data visualizations to complement your work. 
+Telling a story that's just… missing something? I can create data visualizations to complement your work. 
 
 Examples include: 
 
 * bar charts: [Papal citation sources](https://sharonkabel.com/papal-documents/) 
 * maps: [weddings](https://onepeterfive.com/surveying-sacraments-a-global-snapshot-of-traditional-weddings/)
 * [abuse crisis visualizations](https://sharonkabel.com/credibly-accused/) 
-
-# Testimonials 
-
-"Sharon is a delightful editor. She was attentive to the needs of me and my institution, in terms of both style and deadlines. Sharon’s work is top-notch, and her quick turnaround time and precision is well worth the cost! Excellent work on my dissertation." - James M. Kopf
