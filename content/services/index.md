@@ -14,7 +14,7 @@ Examples of reference and research projects I have done:
 
 * fact checks: Did Pope St. John XXIII say that he wanted the Second Vatican Council to ["let fresh air into the Church"?](https://sharonkabel.com/post/windows/)
 * literature reviews: Can you collect resources on health outcomes of solitary confinement? 
-* research questions: [What is the history of the Catholic participation in Seder meals?](https://sharonkabel.com/post/seder/_
+* research questions: [What is the history of the Catholic participation in Seder meals?](https://sharonkabel.com/post/seder/)
 
 # Proofreading 
 
@@ -46,5 +46,5 @@ Telling a story that's just… missing something? I can create data visualizatio
 Examples include: 
 
 * bar charts: [Papal citation sources](https://sharonkabel.com/papal-documents/) 
-* maps: [weddings](https://onepeterfive.com/surveying-sacraments-a-global-snapshot-of-traditional-weddings/)
-* [abuse crisis visualizations](https://sharonkabel.com/credibly-accused/) 
+* maps: [Weddings](https://onepeterfive.com/surveying-sacraments-a-global-snapshot-of-traditional-weddings/)
+* word clouds and more: [The abuse crisis](https://sharonkabel.com/credibly-accused/) 
