@@ -12,9 +12,9 @@ Need to get to the bottom of something and don't know where to start? I can help
 
 Examples of reference and research projects I have done: 
 
-* fact checks: Did St. John Chrysostom really say this quote on wifely submission?  
+* fact checks: Did Pope St. John XXIII say that he wanted the Second Vatican Council to ["let fresh air into the Church"?](https://sharonkabel.com/post/windows/)
 * literature reviews: Can you collect resources on health outcomes of solitary confinement? 
-* research questions: What is the history of the celebration of Hanukkah? 
+* research questions: [What is the history of the Catholic participation in Seder meals?](https://sharonkabel.com/post/seder/_
 
 # Proofreading 
 
@@ -25,13 +25,13 @@ Examples of reference and research projects I have done:
 * high school and college papers
 * poetry
 * resumés
-* fiction books
+* fiction books and short stories
 
 # Thesis and Dissertation Editing
 
 Need a second set eyes on your thesis because all you see is a blur? I can help you edit your thesis or dissertation to be in compliance with both your preferred citation style and your department's formatting requirements. 
 
-> "Sharon is a delightful editor. She was attentive to the needs of me and my institution, in terms of both style and deadlines. Sharon’s work is top-notch, and her quick turnaround time and precision is well worth the cost! Excellent work on my dissertation." - James M. Kopf
+> "Sharon is a delightful editor. She was attentive to the needs of me and my institution, in terms of both style and deadlines. Sharon’s work is top-notch, and her quick turnaround time and precision is well worth the cost! Excellent work on my dissertation." - James M. Kopf, PhD
 
 # Wedding programs
 
