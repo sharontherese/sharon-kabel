@@ -8,34 +8,45 @@ draft = true
 +++
 
 # Reference and Research
-In the library world, the typical distinction between these similar services is that Reference is quicker; Research is more involved. 
-In practice, the line can be blurry. 
-Types of reference and research projects I have been asked to do: 
+
+I can help you answer questions, find resources, and collate information. 
+
+Examples of reference and research projects I have done: 
+
 * fact checks: Did St. John Chrysostom really say this quote on wifely submission?  
 * literature reviews: Can you collect resources on health outcomes of solitary confinement? 
 * research questions: What is the history of the celebration of Hanukkah? 
 
-# Proofreading and Copy editing
-I have experience with both from the past 8 years. 
-I have experience with: 
+# Proofreading 
+
+I can help you edit your work. 
+
+Examples of reference and research projects I have done: 
+
 * high school and college papers
 * poetry
 * resumes
 * fiction books
 
 # Thesis and Dissertation Editing
-This is a more advanced and specialized category than the previous one. Typically, a thesis or dissertation will have not one, but two style guides to follow: its discipline (such as Chicago or MLA) and its department (such as the institution’s Philosophy department). 
+
+I can help you edit your thesis or dissertation, so that it is in compliance with both your preferred citation style, and your department's formatting requirements. 
 
 # Wedding programs
-One of the services I offer via latinmasswedding.com is custom wedding programs for traditional Catholic weddings. 
-My wedding program template is available free of charge; donations are welcome. Any custom editing or research will come with a fee. 
+
+I can create custom wedding programs for your traditional Catholic wedding. 
+
+[My wedding program](https://www.latinmasswedding.com/programs/) template is available free of charge; [donations are welcome.](https://www.paypal.me/Sharon071794) 
 
 # Data visualization
-As a complement to some of the above services, I can generate a variety of data visualizations. 
+
+I can create data visualizations to complement your work. 
+
 Examples include: 
-* bar charts: Papal citation sources 
-* maps: weddings 
-* abuse crisis visualizations 
+
+* bar charts: [Papal citation sources](https://sharonkabel.com/papal-documents/) 
+* maps: [weddings](https://onepeterfive.com/surveying-sacraments-a-global-snapshot-of-traditional-weddings/)
+* [abuse crisis visualizations](https://sharonkabel.com/credibly-accused/) 
 
 # Testimonials 
 
