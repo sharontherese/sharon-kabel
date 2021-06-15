@@ -2,8 +2,7 @@
 gallery1 = [""]
 text = ""
 title = "Services"
-toggle = false
-draft = true 
+toggle = false 
 
 +++
 
