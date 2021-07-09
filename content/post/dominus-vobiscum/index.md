@@ -1,6 +1,6 @@
 ---
 title: The Seven Dominus Vobiscums in the Mass
-date: 
+date: 2021-07-09
 
 # View.
 #   1 = List
@@ -11,8 +11,7 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:  
   caption: ""
-  image: "vaticaniiheader.png"
-draft: true
+  image: "dominusvobiscum.jpeg"
 
 tags:
  - infographic
@@ -25,4 +24,4 @@ The text for this infographic was taken from The Rev. James W. Jackson, FSSP, _N
 
 # Results
 
-![](/uploads/vaticaniidocuments/vaticanii.png)
+![](/uploads/dominusvobiscum.jpeg)
