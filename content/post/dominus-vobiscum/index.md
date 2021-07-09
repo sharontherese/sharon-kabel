@@ -21,7 +21,4 @@ tags:
 
 The text for this infographic was taken from The Rev. James W. Jackson, FSSP, _Nothing Superfluous_ (2016)
 
-
-# Results
-
 ![](/uploads/dominusvobiscum.jpeg)
