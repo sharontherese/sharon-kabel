@@ -19,6 +19,6 @@ tags:
  - liturgy 
 ---
 
-The text for this infographic was taken from The Rev. James W. Jackson, FSSP, _Nothing Superfluous_ (2016)
+The text for this infographic was taken from The Rev. James W. Jackson, FSSP, _Nothing Superfluous_ (2016).
 
 ![](/uploads/dominusvobiscum.jpeg)
