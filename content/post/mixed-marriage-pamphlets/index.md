@@ -38,14 +38,6 @@ Below is a collection of pamphlets of wide circulation for Catholics on the topi
 
 Caveats: Some publication information might be incorrect. Pamphlets can be notoriously difficult to catalog. I occasionally link to active listings of these pamphlets, because the sellers have allowed me to reuse their photos. 
 
-# Instructions for Mixed Marriages (1959)
-
-![](/uploads/mixedmarriage/instructionsformixed.JPG)
-
-Banahan, John S. Instructions for Mixed Marriages. Milwaukee, 1959.
-
-* Photo and listing: https://www.abebooks.com/servlet/BookDetailsPL?bi=10102843830
-
 # A Factual Study of Mixed Marriages With Certain Corrolaries (1943)
 
 ![](/uploads/mixedmarriage/afactualstudy.png)
