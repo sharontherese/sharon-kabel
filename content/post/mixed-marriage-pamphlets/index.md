@@ -11,8 +11,8 @@ draft: true
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "The Catholic Standard and Times, Volume 62, Number 39, 21 June 1957"
-  image: "dontdoit.jpg"
+  caption: ""
+  image: "mixedmarriageheader.png"
 
 ---
 
