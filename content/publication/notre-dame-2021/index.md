@@ -1,5 +1,5 @@
 ---
-title: 'What’s Happening with the Notre Dame restoration? An Advent 2021 Update'
+title: What’s Happening with the Notre Dame restoration? An Advent 2021 Update
 authors:
 - admin
 date: 2021-12-09T00:00:00Z
