@@ -57,9 +57,7 @@ social:
 
 I am a Catholic librarian interested in finding high quality information, arranging it usefully, and aggressively citing my sources.
 
-My degrees are in Library Science (MS) and Literature (BA), so I am particularly interested in research methods, editing, and writing. Contact me for a quote if you need project help in any of these areas. 
-
-My [first website](http://sharonkabel.wordpress.com/) name was _A Wild Sostenuto_, from Richard Wilbur’s poem, “For C.”
+I study and write about traditional Catholic weddings, Catholic fact checks, newspapers, and research methods.
 
 > Still, there’s a certain scope in that long love <br/>
 > Which constant spirits are the keepers of, <br/>
@@ -69,3 +67,5 @@ My [first website](http://sharonkabel.wordpress.com/) name was _A Wild Sostenuto
 > Which has the quality of something made, <br/>
 > Like a good fiddle, like the rose’s scent, <br/>
 > Like a rose window or the firmament.
+
+Richard Wilbur, “For C.”
