@@ -23,7 +23,13 @@ tags:
 
 In 2017, a Catholic parish's website published a document, making numerous and detailed claims about the Vatican's condemnation of dancing.
 
-> “What is the Church’s official position on dances? Believe it or not, the Church does have an official position on it. [...] ]T]he unmarried morally cannot have a part in dances that have bodily contact."
+> “What is the Church’s official position on dances? Believe it or not, the Church does have an official position on it. [...] ]T]he unmarried morally cannot have a part in dances that have bodily contact." 
+
+# Short answer
+
+To argue that you have "the Church's official position" on anything is a grave claim, and should be relatively simple to defend. 
+
+A poorly translated Old Testament verse, selectively edited letters from Rome, and unsourced quotations from saints do not make a persuasive argument about the inherent immorality of dancing.
 
 # Says who?
 
@@ -57,11 +63,7 @@ I will link to the document below[^1], and for completeness' sake I'll post the 
 > 
 > Once Ven. Mari Carmen Gonzalez was going to a party as a little girl and she didn’t want to wear the sleeveless dress her mother gave her because it wasn’t modest enough. When the mother started insisting, Ven. Mari Carmen’s grandmother stopped the mother saying, “You don’t have a right to destroy the God-given sense of modesty that your girl has.” How many parents have helped their children destroy this sense, such that now both children and mother see no problem with the unmarried dancing in contact together? 
 > 
-> Let’s close with one last story. In a prairie parish in the Midwest in the 1800’s… “I have had to put an end to dancing in the parish due to the sins of impurity that they were causing.” Ars, France once had a problem with impurity and paganism. By targeting vice & esp. dances, after putting an end to the dances in his parish St John Vianney was able to boast once, proud of his parishioners as he showed a visitor to Ars the Catholic cemetery – “here is my collection of relics!” This sanctity is what I wish for you also. (emphasis added)
-
-# Short answer
-
-To argue that you have "the Church's official position" on anything is a grave claim, and should be relatively simply to defend. 
+> Let’s close with one last story. In a prairie parish in the Midwest in the 1800’s… “I have had to put an end to dancing in the parish due to the sins of impurity that they were causing.” Ars, France once had a problem with impurity and paganism. By targeting vice & esp. dances, after putting an end to the dances in his parish St John Vianney was able to boast once, proud of his parishioners as he showed a visitor to Ars the Catholic cemetery – “here is my collection of relics!” This sanctity is what I wish for you also. (emphasis added) 
 
 # Examining the sources
 
