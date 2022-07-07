@@ -119,6 +119,12 @@ The AAS is the official gazette of the Vatican, and has been in circulation sinc
  
 (As usual, chalk up any errors to Google Translate.)
 
+## Source 3: 
+
+DOCUMENT also alludes to or quotes from the New York Times (June 16, 1916), Saint John Vianney, St Frances de Sales, St Augustine, St Ambrose, St Charles Borromeo, St Anthony Mary Claret, Pope Benedict XIV, and Ven. Mari Carmen Gonzalez. The words of saints should always be taken seriously and given due consideration, 
+
+# Conclusion 
+
 A fair reading of this letter will notice that the prohibition against dancing is not founded in morality but in prudence, and that this prohibition is for priests, not laity. 
 
 # Sources
