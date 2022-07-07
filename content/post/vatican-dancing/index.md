@@ -59,15 +59,77 @@ I will link to the document below[^1], and for completeness' sake I'll post the 
 > 
 > Let’s close with one last story. In a prairie parish in the Midwest in the 1800’s… “I have had to put an end to dancing in the parish due to the sins of impurity that they were causing.” Ars, France once had a problem with impurity and paganism. By targeting vice & esp. dances, after putting an end to the dances in his parish St John Vianney was able to boast once, proud of his parishioners as he showed a visitor to Ars the Catholic cemetery – “here is my collection of relics!” This sanctity is what I wish for you also. (emphasis added)
 
+# Short answer
+
+To argue that you have "the Church's official position" on anything is a grave claim, and should be relatively simply to defend. 
+
 # Examining the sources
 
 Most of the sources cited are quotations from saints or secondhand anecdotes. Although saints should always be taken seriously, neither of these categories constitute Church teaching, to say nothing of how common it is for saints to be misquoted. 
 
-![](/uploads/pius-xii-latin-catacombs/CTR19580731.jpg)
+The two sources worth exploring are Scripture, and the Acta Apostolicae Sedis.
 
-> Pope Pius XII, in an Apostolic Letter, said Latin is not a dead language and must be "preserved in its force and in its clarity.” He stressed that the fact that Latin is "**not** covered by the dust of centuries” does not justify calling it a dead language. The Pontiff said it especially deserved to be preserved because it is an instrument which serves to provide understanding of the wisdom of the teachings of the Catholic Church.[^7]
+## Source 1: Ecclesiasticus 9:4 
+
+The following verse from Scripture is used to justify the anti-dancing position: 
+
+> Ecclesiasticus 9:4 “Use not much the company of her that is a **dancer**, and do not listen to her.” 
+
+This exact translation appears to be the King James Version, an unusual choice for a traditional Catholic argument. 
+
+The Vulgate Latin reads:
+
+> cum **psaltrice** ne adsiduus sis nec audias illam ne forte pereas in efficacia illius[^3]
+
+The Greek reads:
+
+> μετὰ **ψαλλούσης** μὴ ἐνδελέχιζε, μή ποτε ἁλῷς ἐν τοῖς ἐπιχειρήμασιν αὐτῆς[^4]
+
+and the original Hebrew reads:
+
+The Haydock Biblical Commentary also has a note about this particular verse:
+
+> Dancer. Greek, “musician, lest,” &c. (Haydock) — The same person is often given to both music and dancing, (Menochius) and these arts are very dangerous. ([Ovid?] Met. xiv. 6.) — The dances in the East were more licentious than ours.[^2]
+
+## Source 2: Acta Apostolicae Sedis, March 31, 1916
+
+The AAS is the official gazette of the Vatican, and has been in circulation since 1908. It is in Latin, and freely available online. DOCUMENT correctly cites A.A.S., 8 (1916), p. 147-149.[^5]
+
+> CIRCA QUASDAM CHOREAS IN STATIBUS FOEDERATIS AMERICAE SEPTENTRIONALIS  ET IN REGIONE CANADENSI. 
+> 
+> Elapso saeculo, in foederatis Americae septentrionalis Statibus usus incoeperat catholicas familias convocandi ad choreas quae per multas noctis hora s cum conviviis aliisque solatiis protrahi consueverant. Cuius rei ea dabatur ratio et causa, quo scilicet catholici se mutuo cognoscerent et amoris caritatisque vinculis intimius unirentur, simulque ut subsidia pro hoc illove pio opere necessaria compararentur. Qui autem conventus indicere eisque praesidere solebant, praesides plerumque erant alicuius pii operis, et non raro ipsi ecclesiarum rectores vel parochi. 
+> 
+> Verum Ordinarii locorum, quamvis de recto fine eorum qui has choreas promovebant non dubitarent, nihilominus damna et pericula inolitae praxis perspicientes, sui officii esse censuerunt eas proscribere : et ideo in can. 290 plenarii Concilii III Baltimorensis haec statuerunt: « Mandamus quoque ut sacerdotes illum abusum, quo convivía parantur « cum choreis (balls) ad opera pia promovenda, omnino tollendum  « curent ». 
+> 
+> Ast, ut in humanis saepe accidit, quae iustissime sapienterque ab initio iussa fuerant, paullatim in oblivionem venire coeperunt, et chorearum usus denuo invalescere, imo et in proximam Canadensis dominii regionem diffundi. 
+> 
+> Quae cognoscentes Emi S. C. Consistorialis Patres, auditis pluribus  locorum Ordinariis, et re multo cum studio examini subiecta, censuerunt, standum omnino esse sanctionibus a Concilio Baitimorensi III statutis: et, probante SSmo D.*N. Benedicto PP. XV, decreverunt, sacerdotes quoslibet sive saeculares sive regulares aliosque clericos prorsus prohiberi, quominus memoratas choreas promoveant et foveant, etiamsi in piorum operum levamen et subsidium, vel ad alium quemlibet pium finem; et insuper clericos omnes vetari, quominus hisce choréis intersint, si forte a laicis viris promoveantur. 
+
+> ABOUT SOME DANCES IN THE UNITED STATES OF NORTH AMERICA AND IN THE REGION OF CANADA.
+> 
+> By the end of the century, the United States of North America had begun using Catholic families to convene dances that had been used during many of the night's nighttime banquets and other consolations. The reason and reason for this was given, by which Catholics would know one another and were more intimately united by the bonds of love and charity, and at the same time that they might be procured under the support necessary for this or that pious work. But those who were wont to summon the wind and preside over them, were generally presidents of some pious work, and not uncommonly the rectors or pastors of churches themselves.
+> 
+> But the local ordinary, although they had no hesitation about the correct end of those who promoted these dances, nevertheless, perceiving the losses and dangers of a chronic practice, thought that it was their duty to proscribe them; and therefore in can. 290 The Third Plenary Council of Baltimore stated: "We also mandate that priests take steps to completely remove the abuse by which banquets are prepared "with dances (balls) to promote pious works."
+> 
+> But, as is often the case in human affairs, those things which had been most justly and wisely ordered from the beginning began to come little by little into oblivion.
+> 
+> Knowing that the Fathers of S. C. Consistory, having heard many of the local Ordinaries, and subjected to the examination with much enthusiasm, it was decided that they must abide by the sanctions of the Third Council of Baitimore, and stand protected by the approval of the SSmo D.N. Pope Benedict 15, they decreed that any priests, whether secular or regular, and other clergy, should be altogether prohibited from promoting and fostering the aforementioned dances, even though they be the relief and support of pious works, or for any other pious purpose; and furthermore, that all clerics are forbidden from taking part in these choirs, if they may be promoted by laymen. 
+ 
+(As usual, chalk up any errors to Google Translate.)
+
+A fair reading of this letter will notice that the prohibition against dancing is not founded in morality but in prudence, and that this prohibition is for priests, not laity. 
 
 # Sources
 
 [^1]: Saint Joan of Arc, A Traditional Latin Mass Parish in the Diocese of Boise served by the FSSP.2017. https://www.stjoanarc.com/wp-content/uploads/2017/10/The-Official-Position-of-the-Church-on-Dances.pdf 
+
+[^2]: https://haydockcommentary.com/ecclesiasticus-9 
+
+[^3]: https://vulgate.org/ot/ecclesiasticus_9.htm
+
+[^4]: http://www.katapi.org.uk/katapiNSBunix/Lxx/LxxByBC.php?B=105&C=9&version=&version2=
+
+[^5]: https://www.vatican.va/archive/aas/documents/AAS-08-1916-ocr.pdf
+
+![](/uploads/pius-xii-latin-catacombs/CTR19580731.jpg)
 
