@@ -1,5 +1,5 @@
 ---
-title: "Catholic fact check: Does the Vatican condemn dancing?"
+title: "Catholic fact check: Did the Vatican condemn dancing?"
 date: 2027-07-07
 draft: true 
 
@@ -11,83 +11,63 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 header:
-  caption: "The Catholic World in Pictures, 31 December 1948: In a solemn state visit, Luigi Einaudi, President of Italy, and His Holiness Pope Pius XII converse in Latin, the traditional solemn language of the Holy See."
-  image: "piusxiicatacombsheader.png"
+  caption: "Anders Zorn, _Midsummer's Day Dance_"
+  image: "zorn_daydance.jpg"
   
 tags:
  - Catholic fact check
- - Pius XII
+ - dancing
  
 
 ---
 
-The following quotation is attributed to Pope Pius XII: 
+In 2017, a Catholic parish's website published a document, making numerous and detailed claims about the Vatican's condemnation of dancing.
 
-> The day the Church abandons her universal tongue [Latin] is the day before she returns to the catacombs.
+> “What is the Church’s official position on dances? Believe it or not, the Church does have an official position on it. [...] ]T]he unmarried morally cannot have a part in dances that have bodily contact."
 
 # Says who?
 
-A few notable uses of the quotation online are: 
+I will link to the document below[^1], and for completeness' sake I'll post the full text here:
 
-* Cream City Catholic in 2013, in a fact check article (that does not source any of its quotations)[^1]
-* Tridentine Catholic Website, in their header image[^2]
-* Praying Latin, who source the quotation as "days before his death"[^3]
-* and Traditio in 2005, the earliest instance I can find of the quotation online, who source it as "Mediator Dei"[^4]
+> The Church’s Official Position on Dances 
+> 
+> The situation in France in the 19th Century was horrible. In many areas of France, the people were totally lacking in both faith and morals. People were not getting married… they missed Mass, worked on Sundays and had the habit of blaspheming. Drunkenness was common. There was even the widespread worshipping of a false ‘goddess of reason’. The inhabitants of many regions in France were pagans in practice, and there was little faith left, if any at all. In the mentality of the time, the world held the foremost place before God. It was to this village that a parish priest was sent to return these people from absolute paganism. Now, of all the things that this priest could have preached about in this pagan society, and he preached on many issues, it can seem remarkable to us that he focused in especially on one. It may surprise us how much of this priest’s energies (in this absolutely pagan society) were devoted to preaching against dances. This priest was later named the patron saint of parish priests by Pope Pius XI – the saint who we know as St John Vianney, the Cure of Ars. 
+> 
+> What is the Church’s official position on dances? Believe it or not, the Church does have an official position on it, it even addresses America by name in a decree on the issue, and you can find it today on the Vatican’s website. (I accessed it yesterday – it’s there.) On March 31, 1916 a decree of the Vatican (the Sacred Consistorial Congregation, with the approval of Benedict XV), decreed as follows: “In the century just passed, in the states of North America, the custom began whereby Catholic families would gather at dances… The reason and justification for this was given that Catholics might get to know each other and be united more intimately in the bonds of charity and love, and at the same time they would serve as a fundraiser for some pious works.” The decree went on to say that “all priests… and other clerics (that means seminarians) are absolutely forbidden from promoting and supporting dances, even if they are held to aid pious works or for some other holy purpose. Moreover, all clerics (that is, priests and tonsured seminarians) are forbidden to attend such dances, should they be given by lay people.” A.A.S., 8 (1916), p. 147-149 (http://www.vatican.va/archive/aas/documents/AAS%2008%20[1916]%20-%20ocr.pdf, accessed May 31, 2014) 
+> 
+> A year after this decree came out, an American bishop, pushed the issue by asking the Vatican: "Are dances given in the daytime, or at night but not protracted to a late hour, or not accompanied by a dinner, but conducted in the manner commonly called a picnic, included in the condemnation of March 31, 1916?" The reply, dated December 10, 1917, and again approved by the Pope himself, stated that yes, such dances, even if done during the daytime or at a picnic are indeed included in the Vatican’s condemnation. (Notice – the Vatican’s condemnation – this isn’t a priest imposing his own idea of what is moral and foisting it on his parish.) As a result, all priests are forbidden from promoting or supporting dances, even in the circumstances mentioned (that is, even if it is a church fundraiser), and priests and seminarians are forbidden to attend them if they are promoted by others. In other words, even if done for a church fundraiser… even if done at a picnic, and not protracted into the late hours of the night, dances cannot be supported by the Church [AAS, X (1918), 17 (http://www.vatican.va/archive/aas/documents/AAS%2010%20[1918]%20- %20ocr.pdf, accessed May 31, 2014)]. But the Pope wouldn’t forbid priests from supporting dances if there were not moral issues with them. 
+> 
+> **Now, what is the moral issue here? The moral problem is unmarried young men and women dancing together in bodily contact, though the Vatican decree did not even make this distinction.** Married couples dancing with their own spouses is not a moral issue, but the unmarried morally cannot have a part in dances that have bodily contact. Most sins begin with an image in the imagination – bad thoughts – have you ever had a bad thought that was hard to push away? When there is also a physical image before the eyes, sin is even more likely. And when one can touch and handle that physical image, sin is very likely. This is what happens in dancing. 
+> 
+> Now, there is a ban on priests promoting, attending or supporting any dances. Are there decrees against the laity partaking in dances? The First 3 Councils of Baltimore and the 10th Council protest against dances. The Second Council of Baltimore (1868) says: "We consider it to be our duty to warn our people against those amusements which may easily become to them an occasion of sin, and especially against those fashionable dances, which, as at present carried on… are fraught with the greatest dangers to morals." Keep in mind ‘those fashionable dances’ were waltzes – dances that required bodily contact. 
+> 
+> In a New York Times article dated June 16, 1916, which you can still read on the internet, the headline reads, “Pope’s Dancing Ban Sent to Churches”. The article opens, “Dancing has been forbidden at all Catholic entertainments.” In New York, Cardinal Farley had the priests of his diocese read the decree from every pulpit. The Cardinal’s letter promulgating the ban on dances noted the growing tendency in our day toward the material at the expense of the spiritual. “The [Vatican’s] decree… is a natural protest to the spirit of the worldliness which finds full expression in the modern dances.” He said that it is “imperative for us to offset the moral danger that threatens our young people and to positively prohibit the holding of entertainments of any kind whose principal feature is dancing.” What is the reason? He states it: “evidence that the moral dangers from this form of pleasure not only existed but [are] rapidly increasing.” However, though this was promulgated in New York, the decree was quickly ignored and forgotten – and when the Catholic Church neglects enforcing what is moral, the world reaps the lack of grace that results. 
+> 
+> St John Vianney said this: “There is not a commandment of God which dancing does not cause men to break… Mothers may indeed say: ‘Oh, I keep an eye on my daughters.’ You keep an eye on their dress; you cannot keep guard over their heart. Go, you wicked parents, go down to hell where the wrath of God awaits you, because of your conduct when you gave free scope to your children; go! It will not be long before they join you, seeing that you have shown them the way so well… Then you will see whether your pastor was right in forbidding those hellish amusements… the dance… is the rope by which the devil drags the greatest number of souls into the abyss of hell.” The following is an excerpt from the priest who wrote the definitive work on the Life of St John Vianney, drawn from the notes used in his canonization: “On certain points M. Vianney may have been less exacting with strangers than with his own people, but as regards dancing he was ever absolutely unyielding… He never wavered. He would not allow anyone to take part in society dances, even in the role of a simple spectator. All his life M. Vianney remained steadfast in his attitude towards dancing… He said to the parents, “You must answer for their souls as you will answer for your own… what I do know is that if your children lose their souls whilst they are as yet under your care, it is to be feared that your lack of watchfulness may be the cause of your own damnation.” (pp. 150-151) St John went so far as to have an altar in honor of St John the Baptist built in his church with the inscription over the altar: ‘his head was the price of a dance.’ 
+> 
+> **Is there anything in Scripture about dancing? Ecclesiasticus 9:4 “Use not much the company of her that is a dancer, and do not listen to her.”** 
+> 
+> “Oh, but Father, I can find other traditional priests who support dancing – at least swing dancing.” Here is a list of traditional priests who did not support dances: St Frances de Sales, St Augustine, St Ambrose, St Charles Borromeo, St Anthony Mary Claret, Pope Benedict XIV. These priests & doctors of the Church opposed dances that were even more modest than swing dancing, because the phenomena of men and women dancing together in any bodily contact was virtually unheard of before the 17th Century. If we do find priests who allow the unmarried to dance with each other, we should believe that they are unaware of the teaching of the Church in this area. To remedy this the District Superior of the Fraternity of St Peter sent the information about the Vatican’s forgotten decree to every priest in the North American District of the Fraternity. Do you know that the Council of Baltimore (the same Council that gave us the Baltimore Catechism which so many traditional Catholics use) condemned the holding of dances and did not make a distinction in the types of dances? It said the following: “We command therefore that priests take care to completely remove that abuse whereby feasts are planned with dances to promote pious works,” You might even find churches where they host dances for church fundraisers, and they might even claim to be traditional – but this is not traditional. 
+> 
+> A person might ask, just as the people of Ars, France, might have asked, “Father, there are so many issues out there, why are you picking this one when we are trying not to lose our children by being too severe?” Let’s remember that the people in St John Vianney’s parish were just as pagan as our society today, yet he still took up this campaign against dancing - anything that broke down the physical barriers between the unmarried he opposed. If the parents in St John Vianney’s parish couldn’t understand why he took up this issue, they should have kept in mind that the only person’s confession they had ever heard was their own. St John Vianney heard the things in confession that the children would never tell their parents, and he knew what made them sin. Let’s keep in mind that a mortal sin against purity can be committed right in one’s mind. If one cuts off only the visible part of the weed, but then waters the root that is left, can we be surprised if the weed grows back? Likewise, if he only targeted the sins against purity that were externally noticeable, do we realize how many internal mortal sins would have gone unaddressed? Finally, if we have to worry that by suggesting that Catholic morality be followed by our children we’ll lose some of them – then we’ve already lost those children. 
+> 
+> Once, a mother who favored dances tried to explain to me why I shouldn’t oppose dances. This was her reason why she thought dancing among the youth was a good thing – she said, “Dancing breaks down the physical barriers between young men and women without involving the marital act.” She is right about this – dancing does break down the physical barriers between young men and women. Let me ask you: do you think that is a good thing? If we break down the physical barriers between men and women, what act do you think will be next? With society trying with all its might to make sure there are no physical barriers left between young men and women, is it a good idea to help that process along in any way? 
+> 
+> You fathers out there: just imagine that you saw a young man walk up to your teenage daughter and just start holding your daughter in the same way he might in a waltz. What makes it okay when there’s music and he’s actually moving around with her? 
+> 
+> Once Ven. Mari Carmen Gonzalez was going to a party as a little girl and she didn’t want to wear the sleeveless dress her mother gave her because it wasn’t modest enough. When the mother started insisting, Ven. Mari Carmen’s grandmother stopped the mother saying, “You don’t have a right to destroy the God-given sense of modesty that your girl has.” How many parents have helped their children destroy this sense, such that now both children and mother see no problem with the unmarried dancing in contact together? 
+> 
+> Let’s close with one last story. In a prairie parish in the Midwest in the 1800’s… “I have had to put an end to dancing in the parish due to the sins of impurity that they were causing.” Ars, France once had a problem with impurity and paganism. By targeting vice & esp. dances, after putting an end to the dances in his parish St John Vianney was able to boast once, proud of his parishioners as he showed a visitor to Ars the Catholic cemetery – “here is my collection of relics!” This sanctity is what I wish for you also. (emphasis added)
 
-# Mediator Dei and Pius on Latin 
+# Examining the sources
 
-Pius' encyclical _Mediator Dei_ is the source that is most commonly given for this quotation, but one will search in vain for the quotation in that document. 
-
-Pius did, of course, discuss Latin in _Mediator Dei_ with the famous quotation: 
-
-> 60. The use of the Latin language, customary in a considerable portion of the Church, is a manifest and beautiful sign of unity, as well as an effective antidote for any corruption of doctrinal truth. 
-
-So the sentiment of the original quotation about catacombs is not implausible; it's simply not confirmed. It's not in _Mediator Dei_, and checking something said, "days before his death" is above my pay grade and time-traveling abilities. 
-
-# Looking elsewhere 
-
-In the course of checking my usual sources and databases for any relevant keywords, I found several unrelated but interesting uses of the phrase "returns to the catacombs": 
-
-![](/uploads/pius-xii-latin-catacombs/Ward1893.png)
-
-> 'Now it is not too much to say that the one key of this normal state was civil intolerance of heresy. It was the civil ruler s highest function to co-operate with the Church in preserving unshaken the firm conviction of Catholic truth, and in preserving unsullied the purity and unearthliness of Catholic sentiment.' This state of things, never adequately realised, but effectively approached in the Middle Ages, has gone. The result is, not that the Catholic spirit is gone, but that it becomes the property of individual persons and small communities. It returns to the catacombs. It ceases to have the force of an elevating and sustaining public opinion. Faith becomes again, in a sense, more personal and less corporate. The surrounding atmosphere is unhealthy. The bracing oxygen of the mediaeval Church is supplanted by a climate not even neutral but poisonous. And this change is, he explains, the destruction of that state of things which Catholics recognise as " normal."[^5] 
-
-![](/uploads/pius-xii-latin-catacombs/StMichaelsCollege1936.png)
-
-> "Man is man all the time, and not only in his spare time. In an industrial state, men, 'working-men,' the majority, are only fully responsible when they are not working. In such a state, Catholicism returns to the catacombs. Thence she will emerge when the orgasm of industrial triumph has spent itself." Those who have read Eric Gill's Money and Morals may recognize this quotation.[^6]
-
-Otherwise, I could find no quotation from Pope Pius XII that used any of the exact keywords (catacombs, universal tongue, returns to, etc.). 
-
-# Did he say it? 
-
-I can't confirm that Pope Pius XII ever said, "The day the Church abandons her universal tongue [Latin] is the day before she returns to the catacombs." There is no evidence he said it, but it is not completely unlikely. 
-
-What I did find is a related quotation that has not made its way into any mainstream outlet, as far as I can see. 
+Most of the sources cited are quotations from saints or secondhand anecdotes. Although saints should always be taken seriously, neither of these categories constitute Church teaching, to say nothing of how common it is for saints to be misquoted. 
 
 ![](/uploads/pius-xii-latin-catacombs/CTR19580731.jpg)
 
 > Pope Pius XII, in an Apostolic Letter, said Latin is not a dead language and must be "preserved in its force and in its clarity.” He stressed that the fact that Latin is "**not** covered by the dust of centuries” does not justify calling it a dead language. The Pontiff said it especially deserved to be preserved because it is an instrument which serves to provide understanding of the wisdom of the teachings of the Catholic Church.[^7]
 
-I couldn't find any hits for those exact phrases mentioned in the newspaper clipping, so I checked the Acta Apostolicae Sedis. The closest match that I found was from a letter in May 1958, "De Latina Lingua Rite Excolenda." 
-
-> Ex omnis aetatis igitur viris litteratis exemplum simul et incitamentum capiant discipuli, qui hac ratione certis innixam argumentis hanc detegent veritatem: linguam Latinam non esse mortuum quiddam vel exsangue saeculorum pulvere contectum ideoque ad vitae disciplinam prorsus inutile, sed instrumentum atque sapientiae humanitàtisque vehiculum, quibus, Ecclesia duce et magistra, noster civilis cultus effictus et conformatus est: eam igitur iure meritoque firmam etiam hodie servare vim et efficacitatem.[^8]
-
-I asked a classicist friend to focus on phrases that I thought used "dust" and "clarity". He translated two relevant phrases as, "that Latin is certainly not dead or buried in the lifeless dust of ages", and "therefore rightfully and deservedly to keep this force and power enduring even today." Given the nearly identical keywords and the date of this letter, it seems reasonable to think that this May 1958 letter from Pius (as yet untranslated in full) is the closest both to the newspaper clipping above, and perhaps may have inspired the alleged catacombs quotation. 
-
 # Sources
 
-[^1]: Berry, James. "Vatican II Fact Check: Latin and Liturgy." Cream City Catholic (09/09/2013). https://creamcitycatholic.com/2013/09/09/vatican-ii-fact-check-latin-liturgy/?v=7516fd43adaa
+[^1]: Saint Joan of Arc, A Traditional Latin Mass Parish in the Diocese of Boise served by the FSSP.2017. https://www.stjoanarc.com/wp-content/uploads/2017/10/The-Official-Position-of-the-Church-on-Dances.pdf 
 
-[^2]: Home page. Tridentine Catholic Website. https://www.tridentinecatholic.com/index.html
-
-[^3]: "Papal Teachings on Latin." Praying Latin: Prayer in the Sacred Latin Language. https://www.prayinglatin.com/papal-teachings-on-latin/
-
-[^4]: Kurt. "That Old Vernacularist Heresy Again." Traditio (02/2005). http://www.traditio.com/comment/com0502.htm
-
-[^5]: Ward, Wilfrid Philip. 1893. William George Ward and the Catholic Revival. London-New York: Macmillan. https://archive.org/details/williamgeorgewar00warduoft/page/n233/mode/2up?q=%22returns+to+the+catacombs%22
-
-[^6]: Koerner, George. "Back to the Catacombs." 1936. The Thurible: a Student-Alumni Review. St. Michael's College: Toronto, Canada.  https://archive.org/details/stmthuriblestudenta1936testuoft/page/22/mode/2up?q=%22returns+to+the+catacombs%22
-
-[^7]: "Pontiff Says Latin Must Be Preserved." The Catholic Transcript, Volume LXI, Number 13, 31 July 1958. https://thecatholicnewsarchive.org/?a=d&d=CTR19580731-01.2.70&srpos=60
-
-[^8]: Pope Pius XII. "De Latina Lingua Rite Excolenda." Acta Apostolicae Sedis, Annus L, Series II, Volume XXV, Page 295. (05/1958). http://www.vatican.va/archive/aas/documents/AAS-50-1958-ocr.pdf
