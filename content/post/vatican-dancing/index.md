@@ -29,13 +29,13 @@ In 2017, a Catholic parish's website published a document, making numerous and d
 
 To argue that you have "the Church's official position" on anything is a grave claim, and should be relatively simple to defend. 
 
-A poorly translated Old Testament verse, selectively edited letters from Rome, and unsourced quotations from saints do not make a persuasive argument about the inherent immorality of dancing.
+A poorly translated Old Testament verse, selectively edited letters from Rome, and unsourced quotations from saints do not make a persuasive argument about the inherent immorality of dancing. Statements like "the phenomena of men and women dancing together in any bodily contact was virtually unheard of before the 17th Century" are so beyond the pale that they are not even worth addressing. 
 
-# Says who?
+# Long answer
 
-I will link to the document below[^1], and for completeness' sake I'll post the full text here:
+I will link to the anti-dancing document below, and for completeness' sake I'll post the full text here:
 
-> The Church’s Official Position on Dances 
+> The Church’s Official Position on Dances[^1]
 > 
 > The situation in France in the 19th Century was horrible. In many areas of France, the people were totally lacking in both faith and morals. People were not getting married… they missed Mass, worked on Sundays and had the habit of blaspheming. Drunkenness was common. There was even the widespread worshipping of a false ‘goddess of reason’. The inhabitants of many regions in France were pagans in practice, and there was little faith left, if any at all. In the mentality of the time, the world held the foremost place before God. It was to this village that a parish priest was sent to return these people from absolute paganism. Now, of all the things that this priest could have preached about in this pagan society, and he preached on many issues, it can seem remarkable to us that he focused in especially on one. It may surprise us how much of this priest’s energies (in this absolutely pagan society) were devoted to preaching against dances. This priest was later named the patron saint of parish priests by Pope Pius XI – the saint who we know as St John Vianney, the Cure of Ars. 
 > 
@@ -65,47 +65,41 @@ I will link to the document below[^1], and for completeness' sake I'll post the 
 > 
 > Let’s close with one last story. In a prairie parish in the Midwest in the 1800’s… “I have had to put an end to dancing in the parish due to the sins of impurity that they were causing.” Ars, France once had a problem with impurity and paganism. By targeting vice & esp. dances, after putting an end to the dances in his parish St John Vianney was able to boast once, proud of his parishioners as he showed a visitor to Ars the Catholic cemetery – “here is my collection of relics!” This sanctity is what I wish for you also. (emphasis added) 
 
-# Examining the sources
+# Examining the sources: Ecclesiasticus 9:4 
 
 Most of the sources cited are quotations from saints or secondhand anecdotes. Although saints should always be taken seriously, neither of these categories constitute Church teaching, to say nothing of how common it is for saints to be misquoted. 
 
 The two sources worth exploring are Scripture, and the Acta Apostolicae Sedis.
 
-## Source 1: Ecclesiasticus 9:4 
+The following verse from Scripture, Ecclesiasticus or Sirach 9:4, is used to justify the anti-dancing position: 
 
-The following verse from Scripture is used to justify the anti-dancing position: 
+> Use not much the company of her that is a **dancer**, and do not listen to her
 
-> Ecclesiasticus 9:4 “Use not much the company of her that is a **dancer**, and do not listen to her.” 
-
-This exact translation appears to be the King James Version, an unusual choice for a traditional Catholic argument. 
+This exact translation appears to be the King James Version, an unusual choice for a traditional Catholic argument. Let's look at earlier translations:
 
 The Vulgate Latin reads:
 
-> cum **psaltrice** ne adsiduus sis nec audias illam ne forte pereas in efficacia illius[^3]
-
-The Greek reads:
-
-> μετὰ **ψαλλούσης** μὴ ἐνδελέχιζε, μή ποτε ἁλῷς ἐν τοῖς ἐπιχειρήμασιν αὐτῆς[^4]
-
-and the original Hebrew reads:
+* Vultage Latin: cum **psaltrice** ne adsiduus sis nec audias illam ne forte pereas in efficacia illius[^3] (harpist, lutist, musician)
+* Greek: μετὰ **ψαλλούσης** μὴ ἐνδελέχιζε, μή ποτε ἁλῷς ἐν τοῖς ἐπιχειρήμασιν αὐτῆς[^4] (musician)
+* Hebrew: browse here[^6] - the translator also uses the word "musician"
 
 The Haydock Biblical Commentary also has a note about this particular verse:
 
 > Dancer. Greek, “musician, lest,” &c. (Haydock) — The same person is often given to both music and dancing, (Menochius) and these arts are very dangerous. ([Ovid?] Met. xiv. 6.) — The dances in the East were more licentious than ours.[^2]
 
-## Source 2: Acta Apostolicae Sedis, March 31, 1916
+## Examining the sources: Acta Apostolicae Sedis, March 31, 1916
 
 The AAS is the official gazette of the Vatican, and has been in circulation since 1908. It is in Latin, and freely available online. DOCUMENT correctly cites A.A.S., 8 (1916), p. 147-149.[^5]
 
 > CIRCA QUASDAM CHOREAS IN STATIBUS FOEDERATIS AMERICAE SEPTENTRIONALIS  ET IN REGIONE CANADENSI. 
 > 
-> Elapso saeculo, in foederatis Americae septentrionalis Statibus usus incoeperat catholicas familias convocandi ad choreas quae per multas noctis hora s cum conviviis aliisque solatiis protrahi consueverant. Cuius rei ea dabatur ratio et causa, quo scilicet catholici se mutuo cognoscerent et amoris caritatisque vinculis intimius unirentur, simulque ut subsidia pro hoc illove pio opere necessaria compararentur. Qui autem conventus indicere eisque praesidere solebant, praesides plerumque erant alicuius pii operis, et non raro ipsi ecclesiarum rectores vel parochi. 
+> Elapso saeculo, in foederatis Americae septentrionalis Statibus usus incoeperat catholicas familias convocandi ad choreas quae per multas noctis horas cum conviviis aliisque solatiis protrahi consueverant. Cuius rei ea dabatur ratio et causa, quo scilicet catholici se mutuo cognoscerent et amoris caritatisque vinculis intimius unirentur, simulque ut subsidia pro hoc illove pio opere necessaria compararentur. Qui autem conventus indicere eisque praesidere solebant, praesides plerumque erant alicuius pii operis, et non raro ipsi ecclesiarum rectores vel parochi. 
 > 
 > Verum Ordinarii locorum, quamvis de recto fine eorum qui has choreas promovebant non dubitarent, nihilominus damna et pericula inolitae praxis perspicientes, sui officii esse censuerunt eas proscribere : et ideo in can. 290 plenarii Concilii III Baltimorensis haec statuerunt: « Mandamus quoque ut sacerdotes illum abusum, quo convivía parantur « cum choreis (balls) ad opera pia promovenda, omnino tollendum  « curent ». 
 > 
 > Ast, ut in humanis saepe accidit, quae iustissime sapienterque ab initio iussa fuerant, paullatim in oblivionem venire coeperunt, et chorearum usus denuo invalescere, imo et in proximam Canadensis dominii regionem diffundi. 
 > 
-> Quae cognoscentes Emi S. C. Consistorialis Patres, auditis pluribus  locorum Ordinariis, et re multo cum studio examini subiecta, censuerunt, standum omnino esse sanctionibus a Concilio Baitimorensi III statutis: et, probante SSmo D.*N. Benedicto PP. XV, decreverunt, sacerdotes quoslibet sive saeculares sive regulares aliosque clericos prorsus prohiberi, quominus memoratas choreas promoveant et foveant, etiamsi in piorum operum levamen et subsidium, vel ad alium quemlibet pium finem; et insuper clericos omnes vetari, quominus hisce choréis intersint, si forte a laicis viris promoveantur. 
+> Quae cognoscentes Emi S. C. Consistorialis Patres, auditis pluribus  locorum Ordinariis, et re multo cum studio examini subiecta, censuerunt, standum omnino esse sanctionibus a Concilio Baitimorensi III statutis: et, probante SSmo D.N. Benedicto PP. XV, decreverunt, sacerdotes quoslibet sive saeculares sive regulares aliosque clericos prorsus prohiberi, quominus memoratas choreas promoveant et foveant, etiamsi in piorum operum levamen et subsidium, vel ad alium quemlibet pium finem; et insuper clericos omnes vetari, quominus hisce choréis intersint, si forte a laicis viris promoveantur. 
 
 > ABOUT SOME DANCES IN THE UNITED STATES OF NORTH AMERICA AND IN THE REGION OF CANADA.
 > 
@@ -119,13 +113,15 @@ The AAS is the official gazette of the Vatican, and has been in circulation sinc
  
 (As usual, chalk up any errors to Google Translate.)
 
-## Source 3: 
+## Examining the sources: assorted
 
 DOCUMENT also alludes to or quotes from the New York Times (June 16, 1916), Saint John Vianney, St Frances de Sales, St Augustine, St Ambrose, St Charles Borromeo, St Anthony Mary Claret, Pope Benedict XIV, and Ven. Mari Carmen Gonzalez. The words of saints should always be taken seriously and given due consideration, 
 
 # Conclusion 
 
-A fair reading of this letter will notice that the prohibition against dancing is not founded in morality but in prudence, and that this prohibition is for priests, not laity. 
+The scriptural quotation is difficult to use in the argument against dancing. The noun in question has been translated as dancer, musician, harpist, and other nouns. We know that singing and playing musical instruments are not inherently sinful, ergo any prohibitions against them are ones based in prudence, one's local authority, and the needs, customs, and expectations of the particular era. 
+
+The AAS quotation concerns priests, not the laity, and further admits that dancing is not inherently sinful and that the intentions of the dances were good. Again, it is a question of prudence and occasions of sin. 
 
 # Sources
 
@@ -138,6 +134,8 @@ A fair reading of this letter will notice that the prohibition against dancing i
 [^4]: http://www.katapi.org.uk/katapiNSBunix/Lxx/LxxByBC.php?B=105&C=9&version=&version2=
 
 [^5]: https://www.vatican.va/archive/aas/documents/AAS-08-1916-ocr.pdf
+
+[^6]: https://www.bensira.org/navigator.php?Manuscript=A&PageNum=6
 
 ![](/uploads/pius-xii-latin-catacombs/CTR19580731.jpg)
 
