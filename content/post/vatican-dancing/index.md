@@ -21,19 +21,17 @@ tags:
 
 ---
 
-In 2017, a Catholic parish's website published a document, making numerous and detailed claims about the Vatican's condemnation of dancing.
+In 2017, a Catholic parish's website published a document, "The Church’s Official Position on Dances," which stated (among other things):
 
-> “What is the Church’s official position on dances? Believe it or not, the Church does have an official position on it. [...] ]T]he unmarried morally cannot have a part in dances that have bodily contact." 
+> “What is the Church’s official position on dances? Believe it or not, the Church does have an official position on it. [...] ]T]he unmarried morally cannot have a part in dances that have bodily contact."[^1]
 
 # Short answer
 
-To argue that you have "the Church's official position" on anything is a grave claim, and should be relatively simple to defend. 
+To argue that you have "the Church's official position" on anything is a grave claim, and should be relatively straightforward to defend. 
 
-A poorly translated Old Testament verse, selectively edited letters from Rome, and unsourced quotations from saints do not make a persuasive argument about the inherent immorality of dancing. Statements like "the phenomena of men and women dancing together in any bodily contact was virtually unheard of before the 17th Century" are so beyond the pale that they are not even worth addressing. 
+The sources - an ambiguously translated Old Testament verse, selectively edited letters from Rome, and several quotations from saints - do not convince. They do not make a cogent or coherent argument for the inherent immorality of dances for unmarried people, and statements like "the phenomena of men and women dancing together in any bodily contact was virtually unheard of before the 17th Century"[^1] are so beyond the pale that for once, I do not feel the need to address them.
 
-# Long answer
-
-I will link to the anti-dancing document below, and for completeness' sake I'll post the full text here:
+# The full text of "The Church’s Official Position on Dances"
 
 > The Church’s Official Position on Dances[^1]
 > 
@@ -43,7 +41,7 @@ I will link to the anti-dancing document below, and for completeness' sake I'll 
 > 
 > A year after this decree came out, an American bishop, pushed the issue by asking the Vatican: "Are dances given in the daytime, or at night but not protracted to a late hour, or not accompanied by a dinner, but conducted in the manner commonly called a picnic, included in the condemnation of March 31, 1916?" The reply, dated December 10, 1917, and again approved by the Pope himself, stated that yes, such dances, even if done during the daytime or at a picnic are indeed included in the Vatican’s condemnation. (Notice – the Vatican’s condemnation – this isn’t a priest imposing his own idea of what is moral and foisting it on his parish.) As a result, all priests are forbidden from promoting or supporting dances, even in the circumstances mentioned (that is, even if it is a church fundraiser), and priests and seminarians are forbidden to attend them if they are promoted by others. In other words, even if done for a church fundraiser… even if done at a picnic, and not protracted into the late hours of the night, dances cannot be supported by the Church [AAS, X (1918), 17 (http://www.vatican.va/archive/aas/documents/AAS%2010%20[1918]%20- %20ocr.pdf, accessed May 31, 2014)]. But the Pope wouldn’t forbid priests from supporting dances if there were not moral issues with them. 
 > 
-> **Now, what is the moral issue here? The moral problem is unmarried young men and women dancing together in bodily contact, though the Vatican decree did not even make this distinction.** Married couples dancing with their own spouses is not a moral issue, but the unmarried morally cannot have a part in dances that have bodily contact. Most sins begin with an image in the imagination – bad thoughts – have you ever had a bad thought that was hard to push away? When there is also a physical image before the eyes, sin is even more likely. And when one can touch and handle that physical image, sin is very likely. This is what happens in dancing. 
+> **Now, what is the moral issue here? The moral problem is unmarried young men and women dancing together in bodily contact, though the Vatican decree did not even make this distinction. Married couples dancing with their own spouses is not a moral issue, but the unmarried morally cannot have a part in dances that have bodily contact.** Most sins begin with an image in the imagination – bad thoughts – have you ever had a bad thought that was hard to push away? When there is also a physical image before the eyes, sin is even more likely. And when one can touch and handle that physical image, sin is very likely. This is what happens in dancing. 
 > 
 > Now, there is a ban on priests promoting, attending or supporting any dances. Are there decrees against the laity partaking in dances? The First 3 Councils of Baltimore and the 10th Council protest against dances. The Second Council of Baltimore (1868) says: "We consider it to be our duty to warn our people against those amusements which may easily become to them an occasion of sin, and especially against those fashionable dances, which, as at present carried on… are fraught with the greatest dangers to morals." Keep in mind ‘those fashionable dances’ were waltzes – dances that required bodily contact. 
 > 
@@ -51,7 +49,7 @@ I will link to the anti-dancing document below, and for completeness' sake I'll 
 > 
 > St John Vianney said this: “There is not a commandment of God which dancing does not cause men to break… Mothers may indeed say: ‘Oh, I keep an eye on my daughters.’ You keep an eye on their dress; you cannot keep guard over their heart. Go, you wicked parents, go down to hell where the wrath of God awaits you, because of your conduct when you gave free scope to your children; go! It will not be long before they join you, seeing that you have shown them the way so well… Then you will see whether your pastor was right in forbidding those hellish amusements… the dance… is the rope by which the devil drags the greatest number of souls into the abyss of hell.” The following is an excerpt from the priest who wrote the definitive work on the Life of St John Vianney, drawn from the notes used in his canonization: “On certain points M. Vianney may have been less exacting with strangers than with his own people, but as regards dancing he was ever absolutely unyielding… He never wavered. He would not allow anyone to take part in society dances, even in the role of a simple spectator. All his life M. Vianney remained steadfast in his attitude towards dancing… He said to the parents, “You must answer for their souls as you will answer for your own… what I do know is that if your children lose their souls whilst they are as yet under your care, it is to be feared that your lack of watchfulness may be the cause of your own damnation.” (pp. 150-151) St John went so far as to have an altar in honor of St John the Baptist built in his church with the inscription over the altar: ‘his head was the price of a dance.’ 
 > 
-> **Is there anything in Scripture about dancing? Ecclesiasticus 9:4 “Use not much the company of her that is a dancer, and do not listen to her.”** 
+> Is there anything in Scripture about dancing? Ecclesiasticus 9:4 “Use not much the company of her that is a dancer, and do not listen to her.”
 > 
 > “Oh, but Father, I can find other traditional priests who support dancing – at least swing dancing.” Here is a list of traditional priests who did not support dances: St Frances de Sales, St Augustine, St Ambrose, St Charles Borromeo, St Anthony Mary Claret, Pope Benedict XIV. These priests & doctors of the Church opposed dances that were even more modest than swing dancing, because the phenomena of men and women dancing together in any bodily contact was virtually unheard of before the 17th Century. If we do find priests who allow the unmarried to dance with each other, we should believe that they are unaware of the teaching of the Church in this area. To remedy this the District Superior of the Fraternity of St Peter sent the information about the Vatican’s forgotten decree to every priest in the North American District of the Fraternity. Do you know that the Council of Baltimore (the same Council that gave us the Baltimore Catechism which so many traditional Catholics use) condemned the holding of dances and did not make a distinction in the types of dances? It said the following: “We command therefore that priests take care to completely remove that abuse whereby feasts are planned with dances to promote pious works,” You might even find churches where they host dances for church fundraisers, and they might even claim to be traditional – but this is not traditional. 
 > 
@@ -67,39 +65,39 @@ I will link to the anti-dancing document below, and for completeness' sake I'll 
 
 # Examining the sources: Ecclesiasticus 9:4 
 
-Most of the sources cited are quotations from saints or secondhand anecdotes. Although saints should always be taken seriously, neither of these categories constitute Church teaching, to say nothing of how common it is for saints to be misquoted. 
+Most of the sources cited are quotations from saints or secondhand anecdotes. Although saints should always be taken seriously, neither of these categories constitutes Church teaching, to say nothing of how common it is for saints to be misquoted. We are concerned here only with sources that would remotely qualify as universally binding Church teaching.
 
 The two sources worth exploring are Scripture, and the Acta Apostolicae Sedis.
 
-The following verse from Scripture, Ecclesiasticus or Sirach 9:4, is used to justify the anti-dancing position: 
+First, Ecclesiasticus or Sirach 9:4:
 
 > Use not much the company of her that is a **dancer**, and do not listen to her
 
 This exact translation appears to be the King James Version, an unusual choice for a traditional Catholic argument. Let's look at earlier translations:
 
-The Vulgate Latin reads:
-
-* Vultage Latin: cum **psaltrice** ne adsiduus sis nec audias illam ne forte pereas in efficacia illius[^3] (harpist, lutist, musician)
-* Greek: μετὰ **ψαλλούσης** μὴ ἐνδελέχιζε, μή ποτε ἁλῷς ἐν τοῖς ἐπιχειρήμασιν αὐτῆς[^4] (musician)
+* Latin: cum **psaltrice** ne adsiduus sis nec audias illam ne forte pereas in efficacia illius[^2] (harpist, lutist, musician)
+* Greek: μετὰ **ψαλλούσης** μὴ ἐνδελέχιζε, μή ποτε ἁλῷς ἐν τοῖς ἐπιχειρήμασιν αὐτῆς[^3] (musician)
 * Hebrew: browse here[^6] - the translator also uses the word "musician"
 
 The Haydock Biblical Commentary also has a note about this particular verse:
 
-> Dancer. Greek, “musician, lest,” &c. (Haydock) — The same person is often given to both music and dancing, (Menochius) and these arts are very dangerous. ([Ovid?] Met. xiv. 6.) — The dances in the East were more licentious than ours.[^2]
+> Dancer. Greek, “musician, lest,” &c. (Haydock) — The same person is often given to both music and dancing, (Menochius) and these arts are very dangerous. ([Ovid?] Met. xiv. 6.) — The dances in the East were more licentious than ours.[^5]
+
+Clearly, the noun in question has not ever exclusively been translated as "dancer." Given that we know singing is not inherently morally sinful, it is reasonable to think dancing is not either. 
 
 ## Examining the sources: Acta Apostolicae Sedis, March 31, 1916
 
-The AAS is the official gazette of the Vatican, and has been in circulation since 1908. It is in Latin, and freely available online. DOCUMENT correctly cites A.A.S., 8 (1916), p. 147-149.[^5]
+The AAS is the official gazette of the Vatican, and has been in circulation since 1908. It is in Latin, and freely available online. "The Church's Official Position on Dancing" quotes a letter from 1969. The full Latin (pardon any OCR issues) and English (pardon the Google Translate) is below:
 
-> CIRCA QUASDAM CHOREAS IN STATIBUS FOEDERATIS AMERICAE SEPTENTRIONALIS  ET IN REGIONE CANADENSI. 
+> CIRCA QUASDAM CHOREAS IN STATIBUS FOEDERATIS AMERICAE SEPTENTRIONALIS  ET IN REGIONE CANADENSI[^6]
 > 
-> Elapso saeculo, in foederatis Americae septentrionalis Statibus usus incoeperat catholicas familias convocandi ad choreas quae per multas noctis horas cum conviviis aliisque solatiis protrahi consueverant. Cuius rei ea dabatur ratio et causa, quo scilicet catholici se mutuo cognoscerent et amoris caritatisque vinculis intimius unirentur, simulque ut subsidia pro hoc illove pio opere necessaria compararentur. Qui autem conventus indicere eisque praesidere solebant, praesides plerumque erant alicuius pii operis, et non raro ipsi ecclesiarum rectores vel parochi. 
+> Elapso saeculo, in foederatis Americae septentrionalis Statibus usus incoeperat catholicas familias convocandi ad choreas quae per multas noctis horas cum conviviis aliisque solatiis protrahi consueverant. Cuius rei ea dabatur ratio et causa, quo scilicet catholici se mutuo cognoscerent et amoris caritatisque vinculis intimius unirentur, simulque ut subsidia pro hoc illove pio opere necessaria compararentur. Qui autem conventus indicere eisque praesidere solebant, praesides plerumque erant alicuius pii operis, et non raro ipsi ecclesiarum rectores vel parochi. 
 > 
 > Verum Ordinarii locorum, quamvis de recto fine eorum qui has choreas promovebant non dubitarent, nihilominus damna et pericula inolitae praxis perspicientes, sui officii esse censuerunt eas proscribere : et ideo in can. 290 plenarii Concilii III Baltimorensis haec statuerunt: « Mandamus quoque ut sacerdotes illum abusum, quo convivía parantur « cum choreis (balls) ad opera pia promovenda, omnino tollendum  « curent ». 
 > 
-> Ast, ut in humanis saepe accidit, quae iustissime sapienterque ab initio iussa fuerant, paullatim in oblivionem venire coeperunt, et chorearum usus denuo invalescere, imo et in proximam Canadensis dominii regionem diffundi. 
+> Ast, ut in humanis saepe accidit, quae iustissime sapienterque ab initio iussa fuerant, paullatim in oblivionem venire coeperunt, et chorearum usus denuo invalescere, imo et in proximam Canadensis dominii regionem diffundi. 
 > 
-> Quae cognoscentes Emi S. C. Consistorialis Patres, auditis pluribus  locorum Ordinariis, et re multo cum studio examini subiecta, censuerunt, standum omnino esse sanctionibus a Concilio Baitimorensi III statutis: et, probante SSmo D.N. Benedicto PP. XV, decreverunt, sacerdotes quoslibet sive saeculares sive regulares aliosque clericos prorsus prohiberi, quominus memoratas choreas promoveant et foveant, etiamsi in piorum operum levamen et subsidium, vel ad alium quemlibet pium finem; et insuper clericos omnes vetari, quominus hisce choréis intersint, si forte a laicis viris promoveantur. 
+> Quae cognoscentes Emi S. C. Consistorialis Patres, auditis pluribus  locorum Ordinariis, et re multo cum studio examini subiecta, censuerunt, standum omnino esse sanctionibus a Concilio Baitimorensi III statutis: et, probante SSmo D.N. Benedicto PP. XV, decreverunt, sacerdotes quoslibet sive saeculares sive regulares aliosque clericos prorsus prohiberi, quominus memoratas choreas promoveant et foveant, etiamsi in piorum operum levamen et subsidium, vel ad alium quemlibet pium finem; et insuper clericos omnes vetari, quominus hisce choréis intersint, si forte a laicis viris promoveantur. 
 
 > ABOUT SOME DANCES IN THE UNITED STATES OF NORTH AMERICA AND IN THE REGION OF CANADA.
 > 
@@ -111,47 +109,45 @@ The AAS is the official gazette of the Vatican, and has been in circulation sinc
 > 
 > Knowing that the Fathers of S. C. Consistory, having heard many of the local Ordinaries, and subjected to the examination with much enthusiasm, it was decided that they must abide by the sanctions of the Third Council of Baitimore, and stand protected by the approval of the SSmo D.N. Pope Benedict 15, they decreed that any priests, whether secular or regular, and other clergy, should be altogether prohibited from promoting and fostering the aforementioned dances, even though they be the relief and support of pious works, or for any other pious purpose; and furthermore, that all clerics are forbidden from taking part in these choirs, if they may be promoted by laymen. 
  
-(As usual, chalk up any errors to Google Translate.)
+This letter is quite clear - and clearly referring only to priests, and to the problems of a particular era and dance. 
 
 ## Examining the sources: assorted
 
-DOCUMENT also alludes to or quotes from the New York Times (June 16, 1916), Saint John Vianney, St Frances de Sales, St Augustine, St Ambrose, St Charles Borromeo, St Anthony Mary Claret, Pope Benedict XIV, and Ven. Mari Carmen Gonzalez. The words of saints should always be taken seriously and given due consideration, 
+"The Church's Official Position on Dances" also alludes to or quotes from the New York Times (June 16, 1916), Saint John Vianney, Saint Frances de Sales, Saint Augustine, Saint Ambrose, Saint Charles Borromeo, Saint Anthony Mary Claret, Pope Benedict XIV, and Venerable Mari Carmen Gonzalez. The words of saints should always be taken seriously and given due consideration, but not every saintly quotation is Church teaching. Several of those saints were famously scrupulous, overcorrecting because of a hedonistic past. 
 
 # Conclusion 
 
-The scriptural quotation is difficult to use in the argument against dancing. The noun in question has been translated as dancer, musician, harpist, and other nouns. We know that singing and playing musical instruments are not inherently sinful, ergo any prohibitions against them are ones based in prudence, one's local authority, and the needs, customs, and expectations of the particular era. 
+It is without question that the Church and some of her saints have issues warnings against certain kinds of dances. The question is, "Is the official Church teaching that dancing between unmarried persons is inherently immoral?" The sources point to "No."
 
-The AAS quotation concerns priests, not the laity, and further admits that dancing is not inherently sinful and that the intentions of the dances were good. Again, it is a question of prudence and potential occasions of sin. 
+The scriptural quotation is difficult to justify in the argument against dancing. The word "dancer" has also been translated as musician, harpist, lutist, and other nouns. We know that singing and playing musical instruments are not inherently sinful, and that the Old Testament is not necessarily current Church teaching. We can also point to positive references to dance throughout the Bible.
 
-Religions have always had an uneasy relationship with dancing. And dancing, ever-changing and adjusting to its times and cultures, can be quite difficult to define. It's clear from even just the sources cited here that there have been stern warnings about the risks of dancing. 
+The AAS quotation concerns priests, not the laity, and acknowledges the good and pious intentions of those running the dances. The issue is partly moral, but mostly prudential: "although they had no hesitation about the correct end of those who promoted these dances, nevertheless, perceiving the losses and dangers..."[^5]
 
-To reduce all of this to the claim that "official Church teaching" forbids dancing does a disservice to the sources, and to the readers - as it deprives them of an opportunity for exercising prudence and reason. 
+To reduce all of this to the claim that "official Church teaching" forbids dancing does a disservice to the sources, and to the readers - as it deprives them of an opportunity for exercising the gifts of prudence and logic. 
 
-A great example of the turbulent relationship between Catholicism and dance is Reformation Era England. Dancing was frequently considered a papist frivolity to be condemned in all forms; King James' Book of Sports, allowing dance on Sundays, was deeply unpopular with Puritans, and overturned once King James had left the scene. 
+We also miss an opportunity to discuss the uneasy relationship religion has always with dancing. A great example of the turbulent relationship between Catholicism and dance is Reformation Era England. Dancing was frequently considered a papist frivolity to be condemned in all forms; King James' Book of Sports, allowing dance on Sundays, was deeply unpopular with Puritans, and overturned once King James had left the scene. (See footnotes 7-11 for more reading.) 
 
 # Sources
 
 [^1]: Saint Joan of Arc, A Traditional Latin Mass Parish in the Diocese of Boise served by the FSSP.2017. https://www.stjoanarc.com/wp-content/uploads/2017/10/The-Official-Position-of-the-Church-on-Dances.pdf 
 
-[^2]: https://haydockcommentary.com/ecclesiasticus-9 
+[^2]: The latin Vulgate Old Testament Bible. https://vulgate.org/ot/ecclesiasticus_9.htm
 
-[^3]: https://vulgate.org/ot/ecclesiasticus_9.htm
+[^3]: katapi New Study Bible - OLD TESTAMENT in Greek || English (Brenton-Revised Standard Version). http://www.katapi.org.uk/katapiNSBunix/Lxx/LxxByBC.php?B=105&C=9&version=&version2=
 
-[^4]: http://www.katapi.org.uk/katapiNSBunix/Lxx/LxxByBC.php?B=105&C=9&version=&version2=
+[^4]: The Book of Ben Sira. https://www.bensira.org/navigator.php?Manuscript=A&PageNum=6
 
-[^5]: https://www.vatican.va/archive/aas/documents/AAS-08-1916-ocr.pdf
+[^5]: Haydock Commentary Online. https://haydockcommentary.com/ecclesiasticus-9 
 
-[^6]: https://www.bensira.org/navigator.php?Manuscript=A&PageNum=6
+[^6]: Acta Apostolicae Sedis, vol. 8 (1916), pp. 147-149.https://www.vatican.va/archive/aas/documents/AAS-08-1916-ocr.pdf 
 
-Emily F. Winerock. "Reformation and Revelry: the Practices and Politics of Dancing in Early Modern England, c.1550-c.1640." PhD diss., University of Toronto, 2012. https://tspace.library.utoronto.ca/bitstream/1807/34965/3/Winerock_Emily_F_201211_PhD_thesis.pdf
+[7]: Emily F. Winerock. "Reformation and Revelry: the Practices and Politics of Dancing in Early Modern England, c.1550-c.1640." PhD diss., University of Toronto, 2012. https://tspace.library.utoronto.ca/bitstream/1807/34965/3/Winerock_Emily_F_201211_PhD_thesis.pdf
 
-Kathryn Dickason. 2021. Ringleaders of redemption: how medieval dance became sacred. New York (N.Y.): Oxford University Press.
+[8]: Kathryn Dickason. 2021. Ringleaders of redemption: how medieval dance became sacred. New York (N.Y.): Oxford University Press.
 
-Constant J. Mews. “Liturgists and Dance in the Twelfth Century: The Witness of John Beleth and Sicard of Cremona.” Church History 78, no. 3 (2009): 512–48. doi:10.1017/S0009640709990412.
+[9]: Constant J. Mews. “Liturgists and Dance in the Twelfth Century: The Witness of John Beleth and Sicard of Cremona.” Church History 78, no. 3 (2009): 512–48. doi:10.1017/S0009640709990412.
 
-Ann Louise Wagner. 1997. Adversaries of dance: from the Puritans to the present. Urbana: University of Illinois Press.
+[10]: Ann Louise Wagner. 1997. Adversaries of dance: from the Puritans to the present. Urbana: University of Illinois Press.
 
-https://brewminate.com/ancient-and-medieval-dance-its-death-during-the-christian-reformation-and-its-revival/
-
-![](/uploads/pius-xii-latin-catacombs/CTR19580731.jpg)
+[11]: Kathryn Dickason. "Ancient and Medieval Dance, It’s Death during the Christian Reformation, and It’s Revival." Brewminate (blog). April 11, 2021. https://brewminate.com/ancient-and-medieval-dance-its-death-during-the-christian-reformation-and-its-revival/
 
