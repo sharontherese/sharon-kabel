@@ -121,7 +121,13 @@ DOCUMENT also alludes to or quotes from the New York Times (June 16, 1916), Sain
 
 The scriptural quotation is difficult to use in the argument against dancing. The noun in question has been translated as dancer, musician, harpist, and other nouns. We know that singing and playing musical instruments are not inherently sinful, ergo any prohibitions against them are ones based in prudence, one's local authority, and the needs, customs, and expectations of the particular era. 
 
-The AAS quotation concerns priests, not the laity, and further admits that dancing is not inherently sinful and that the intentions of the dances were good. Again, it is a question of prudence and occasions of sin. 
+The AAS quotation concerns priests, not the laity, and further admits that dancing is not inherently sinful and that the intentions of the dances were good. Again, it is a question of prudence and potential occasions of sin. 
+
+Religions have always had an uneasy relationship with dancing. And dancing, ever-changing and adjusting to its times and cultures, can be quite difficult to define. It's clear from even just the sources cited here that there have been stern warnings about the risks of dancing. 
+
+To reduce all of this to the claim that "official Church teaching" forbids dancing does a disservice to the sources, and to the readers - as it deprives them of an opportunity for exercising prudence and reason. 
+
+A great example of the turbulent relationship between Catholicism and dance is Reformation Era England. Dancing was frequently considered a papist frivolity to be condemned in all forms; King James' Book of Sports, allowing dance on Sundays, was deeply unpopular with Puritans, and overturned once King James had left the scene. 
 
 # Sources
 
@@ -136,6 +142,16 @@ The AAS quotation concerns priests, not the laity, and further admits that danci
 [^5]: https://www.vatican.va/archive/aas/documents/AAS-08-1916-ocr.pdf
 
 [^6]: https://www.bensira.org/navigator.php?Manuscript=A&PageNum=6
+
+Emily F. Winerock. "Reformation and Revelry: the Practices and Politics of Dancing in Early Modern England, c.1550-c.1640." PhD diss., University of Toronto, 2012. https://tspace.library.utoronto.ca/bitstream/1807/34965/3/Winerock_Emily_F_201211_PhD_thesis.pdf
+
+Kathryn Dickason. 2021. Ringleaders of redemption: how medieval dance became sacred. New York (N.Y.): Oxford University Press.
+
+Constant J. Mews. “Liturgists and Dance in the Twelfth Century: The Witness of John Beleth and Sicard of Cremona.” Church History 78, no. 3 (2009): 512–48. doi:10.1017/S0009640709990412.
+
+Ann Louise Wagner. 1997. Adversaries of dance: from the Puritans to the present. Urbana: University of Illinois Press.
+
+https://brewminate.com/ancient-and-medieval-dance-its-death-during-the-christian-reformation-and-its-revival/
 
 ![](/uploads/pius-xii-latin-catacombs/CTR19580731.jpg)
 
