@@ -1,7 +1,6 @@
 ---
 title: "Catholic fact check: Did the Vatican condemn dancing?"
 date: 2027-07-07
-draft: true 
 
 # View.
 #   1 = List
