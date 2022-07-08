@@ -1,6 +1,6 @@
 ---
 title: "Catholic fact check: Did the Vatican condemn dancing?"
-date: 2027-07-07
+date: 2022-07-07
 
 # View.
 #   1 = List
