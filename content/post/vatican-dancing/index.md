@@ -122,9 +122,9 @@ The scriptural quotation is difficult to justify in the argument against dancing
 
 The AAS quotation concerns priests, not the laity, and acknowledges the good and pious intentions of those running the dances. The issue is partly moral, but mostly prudential: "although they had no hesitation about the correct end of those who promoted these dances, nevertheless, perceiving the losses and dangers..."[^5]
 
-To reduce all of this to the claim that "official Church teaching" forbids dancing does a disservice to the sources, and to the readers - as it deprives them of an opportunity for exercising the gifts of prudence and logic. 
+To reduce all of this to the claim that "official Church teaching forbids dancing for the unmarried" is an unfair treatment of the sources in question, and unfair to the readers; it deprives them of an opportunity for exercising the gifts of prudence and logic. 
 
-We also miss an opportunity to discuss the uneasy relationship religion has always with dancing. A great example of the turbulent relationship between Catholicism and dance is Reformation Era England. Dancing was frequently considered a papist frivolity to be condemned in all forms; King James' Book of Sports, allowing dance on Sundays, was deeply unpopular with Puritans, and overturned once King James had left the scene. (See footnotes 7-11 for more reading.) 
+We also miss an opportunity to discuss the complex and frequently uneasy relationship religion has always with dancing. Occasions of sin must always be taken seriously, but we are not Manicheans. A great example of the turbulent relationship between Catholicism and dance is Reformation Era England. Dancing was frequently considered a papist frivolity to be condemned in all forms; King James' Book of Sports, allowing dance on Sundays, was deeply unpopular with Puritans, and overturned once King James had left the scene. (See footnotes 7-11 for more reading.) 
 
 # Sources
 
