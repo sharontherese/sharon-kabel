@@ -140,13 +140,13 @@ We also miss an opportunity to discuss the uneasy relationship religion has alwa
 
 [^6]: Acta Apostolicae Sedis, vol. 8 (1916), pp. 147-149.https://www.vatican.va/archive/aas/documents/AAS-08-1916-ocr.pdf 
 
-[7]: Emily F. Winerock. "Reformation and Revelry: the Practices and Politics of Dancing in Early Modern England, c.1550-c.1640." PhD diss., University of Toronto, 2012. https://tspace.library.utoronto.ca/bitstream/1807/34965/3/Winerock_Emily_F_201211_PhD_thesis.pdf
+[^7]: Emily F. Winerock. "Reformation and Revelry: the Practices and Politics of Dancing in Early Modern England, c.1550-c.1640." PhD diss., University of Toronto, 2012. https://tspace.library.utoronto.ca/bitstream/1807/34965/3/Winerock_Emily_F_201211_PhD_thesis.pdf
 
-[8]: Kathryn Dickason. 2021. Ringleaders of redemption: how medieval dance became sacred. New York (N.Y.): Oxford University Press.
+[^8]: Kathryn Dickason. 2021. Ringleaders of redemption: how medieval dance became sacred. New York (N.Y.): Oxford University Press.
 
-[9]: Constant J. Mews. “Liturgists and Dance in the Twelfth Century: The Witness of John Beleth and Sicard of Cremona.” Church History 78, no. 3 (2009): 512–48. doi:10.1017/S0009640709990412.
+[^9]: Constant J. Mews. “Liturgists and Dance in the Twelfth Century: The Witness of John Beleth and Sicard of Cremona.” Church History 78, no. 3 (2009): 512–48. doi:10.1017/S0009640709990412.
 
-[10]: Ann Louise Wagner. 1997. Adversaries of dance: from the Puritans to the present. Urbana: University of Illinois Press.
+[^10]: Ann Louise Wagner. 1997. Adversaries of dance: from the Puritans to the present. Urbana: University of Illinois Press.
 
-[11]: Kathryn Dickason. "Ancient and Medieval Dance, It’s Death during the Christian Reformation, and It’s Revival." Brewminate (blog). April 11, 2021. https://brewminate.com/ancient-and-medieval-dance-its-death-during-the-christian-reformation-and-its-revival/
+[^11]: Kathryn Dickason. "Ancient and Medieval Dance, It’s Death during the Christian Reformation, and It’s Revival." Brewminate (blog). April 11, 2021. https://brewminate.com/ancient-and-medieval-dance-its-death-during-the-christian-reformation-and-its-revival/
 
