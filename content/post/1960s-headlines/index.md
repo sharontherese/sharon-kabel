@@ -17,6 +17,9 @@ tags:
  - newspapers
 ---
 
+![](/uploads/headlines/ca19581114.jpg)
+The Catholic Advocate, Volume 7, Number 46, 14 November 1958. https://thecatholicnewsarchive.org/?a=d&d=ca19581114-01.2.109&srpos=43
+
 ![](/uploads/headlines/CTR19600908.jpg)
 The Catholic Transcript, Volume LXIII, Number 19, 8 September 1960. https://thecatholicnewsarchive.org/?a=d&d=CTR19600908-01.2.2&srpos=4
 
