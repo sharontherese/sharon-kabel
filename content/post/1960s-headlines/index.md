@@ -10,7 +10,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 header:
-  caption: ""
+  caption: "The Catholic Commentator, Volume 3, Number 38, 29 October 1965. https://thecatholicnewsarchive.org/?a=d&d=CAC19651029-01.2.47&srpos=184"
   image: "CAC19651029.jpg"
   
 tags:
