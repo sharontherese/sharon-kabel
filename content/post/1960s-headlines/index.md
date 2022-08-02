@@ -1,5 +1,5 @@
 ---
-title: "Catholic Newspaper Headlines from the 1960s"
+title: "Catholic newspaper headlines from the 1950s and 1960s about the liturgical reforms"
 date: 2022-07-30
 
 # View.
@@ -10,12 +10,18 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 header:
-  caption: "The Catholic Commentator, Volume 3, Number 38, 29 October 1965. https://thecatholicnewsarchive.org/?a=d&d=CAC19651029-01.2.47&srpos=184"
+  caption: "The Catholic Commentator, Volume 3, Number 38, 29 October 1965."
   image: "CAC19651029.jpg"
   
 tags:
  - newspapers
 ---
+
+![](/uploads/headlines/tmon19600812.jpg)
+The Monitor, Volume CIII, Number 19, 12 August 1960. https://thecatholicnewsarchive.org/?a=d&d=tmon19600812-01.2.22&srpos=6
+
+CTR19601006.jpg
+The Catholic Transcript, Volume LXIII, Number 23, 6 October 1960. https://thecatholicnewsarchive.org/?a=d&d=CTR19601006-01.2.100&srpos=8
 
 ![](/uploads/headlines/ca19581114.jpg)
 The Catholic Advocate, Volume 7, Number 46, 14 November 1958. https://thecatholicnewsarchive.org/?a=d&d=ca19581114-01.2.109&srpos=43
@@ -25,6 +31,9 @@ The Catholic Transcript, Volume LXIII, Number 19, 8 September 1960. https://thec
 
 ![](/uploads/headlines/ca19621025.jpg)
 The Catholic Advocate, Volume 11, Number 44, 25 October 1962. https://thecatholicnewsarchive.org/?a=d&d=ca19621025-01.2.6&srpos=45
+
+![](/uploads/headlines/ca19631107.jpg)
+The Catholic Advocate, Volume 12, Number 46, 7 November 1963. https://thecatholicnewsarchive.org/?a=d&d=ca19631107-01.2.185.4&srpos=6
 
 ![](/uploads/headlines/CTR19631226.jpg)
 The Catholic Transcript, Volume LXVI, Number 35, 26 December 1963. https://thecatholicnewsarchive.org/?a=d&d=CTR19631226-01&e=------196-en-20--21--txt-txIN-%22latin+liturgy%22~15-ARTICLE------
@@ -52,3 +61,6 @@ The Catholic Commentator, Volume 3, Number 38, 29 October 1965. https://thecatho
 
 ![](/uploads/headlines/ca19651125.jpg)
 The Catholic Advocate, Volume 14, Number 49, 25 November 1965. https://thecatholicnewsarchive.org/?a=d&d=ca19651125-01.2.42&e=-------en-20--1--txt-txIN--------
+
+![](/uploads/headlines/ncr19680626.jpg)
+National Catholic Reporter, Volume 4, Number 35, 26 June 1968. https://thecatholicnewsarchive.org/?a=d&d=ncr19680626-01.2.47&srpos=19
