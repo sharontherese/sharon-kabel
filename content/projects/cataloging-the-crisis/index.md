@@ -2,8 +2,7 @@
 title: Cataloging the Crisis
 summary: Exploring lesser-known people and events within modern Catholic reforms
 tags:
-- abuse
-- abuse crisis
+- reforms
 - cataloging the crisis
 - all
 date: ""
