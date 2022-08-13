@@ -2,7 +2,7 @@
 title: Church Fires
 summary: A report on American Catholic church fires and the Catholic News Archive
 tags:
-- data
+- Data
 - all
 date: ""
 
