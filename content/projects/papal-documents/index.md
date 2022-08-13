@@ -2,7 +2,8 @@
 title: Papal Documents
 summary: An ongoing series of charts that visualize papal and curial documents
 tags:
-- data
+- Data
+- all
 date: ""
 
 # Optional external URL for project (replaces project detail page).
