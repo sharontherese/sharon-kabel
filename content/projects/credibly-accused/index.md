@@ -2,8 +2,8 @@
 title: Credibly Accused
 summary: A visual data project about the lists of credibly accused clergy released by American Roman Catholic dioceses
 tags:
-- data
-- abuse
+- Data
+- Abuse
 - all
 date: ""
 
