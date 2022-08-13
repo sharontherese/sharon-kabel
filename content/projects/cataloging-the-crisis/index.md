@@ -5,7 +5,7 @@ tags:
 - abuse
 - abuse crisis
 - cataloging the crisis
-- *
+- all
 date: ""
 
 # Optional external URL for project (replaces project detail page).
