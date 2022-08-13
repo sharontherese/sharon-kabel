@@ -39,7 +39,7 @@ subtitle = ""
 
   [[content.filter_button]]
      name = "All"
-     tag = "*"
+     tag = "all"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
