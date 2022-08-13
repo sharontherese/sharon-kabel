@@ -2,7 +2,8 @@
 title: Pre-1955 Holy Week
 summary: A collection of commentaries on aspects of the pre-1955 Holy Week
 tags:
-- 
+- Reforms
+- all
 date: ""
 
 # Optional external URL for project (replaces project detail page).
