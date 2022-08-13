@@ -3,7 +3,7 @@ title: Church Fires
 summary: A report on American Catholic church fires and the Catholic News Archive
 tags:
 - data
-- *
+- all
 date: ""
 
 # Optional external URL for project (replaces project detail page).
