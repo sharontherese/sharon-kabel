@@ -2,7 +2,8 @@
 title: O Antiphons
 summary: A walk through the O Antiphons with Dom Gueranger
 tags:
-- music
+- Music
+- all
 date: ""
 
 # Optional external URL for project (replaces project detail page).
