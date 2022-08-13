@@ -21,17 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
+[[content.filter_button]]
+     name = "Music"
+     tag = "Music"  
+  
   [[content.filter_button]]
      name = "Data"
      tag = "Data"
   
   [[content.filter_button]]
      name = "Liturgical Reforms"
-     tag = "Reforms"
-     
-[[content.filter_button]]
-     name = "Music"
-     tag = "Music"   
+     tag = "Reforms"   
      
  [[content.filter_button]]
      name = "Abuse Crisis"
