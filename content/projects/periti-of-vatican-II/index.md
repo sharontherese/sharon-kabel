@@ -17,7 +17,7 @@ external_link: ""
 # url_video: ""
 links:
   - icon_pack: fab
-    icon: books
+    icon: fa-thin fa-books
     name: References
     url: 'https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library'
     
