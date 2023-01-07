@@ -1,12 +1,19 @@
 +++
-gallery1:
-  - ''
-text: ''
-title: The Periti of Vatican II
-toggle: false
-draft: false
+gallery1 = [""]
+text = ""
+title = "The Periti of Vatican II"
+toggle = false
+draft = false 
 
-
+links:
+  - icon_pack: fab
+    icon: 'fa-brands fa-google-drive'
+    name: All periti
+    url: 'https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library'  
+  - icon_pack: ai
+    icon: 'zotero'
+    name: All references
+    url: 'https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library'   
 +++
 
 _Periti_ were priests invited by the Vatican to assist the Second Vatican Council as theological experts. 
