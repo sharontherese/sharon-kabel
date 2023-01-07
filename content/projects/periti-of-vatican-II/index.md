@@ -15,11 +15,18 @@ external_link: ""
 # url_pdf: "https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library"
 # url_slides: ""
 # url_video: ""
+
 links:
   - icon_pack: fab
     icon: 'fa-brands fa-google-drive'
-    name: See all periti
+    name: All periti
     url: 'https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library'
+    
+links:
+  - icon_pack: fab
+    icon: 'fa-light fa-books'
+    name: All references
+    url: 'https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library'    
     
 # Slides (optional).
 #   Associate this project with Markdown slides.
