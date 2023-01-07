@@ -1,9 +1,11 @@
 +++
-gallery1 = [""]
-text = ""
-title = "The Periti of Vatican II"
-toggle = false
-draft = true 
+gallery1:
+  - ''
+text: ''
+title: The Periti of Vatican II
+toggle: false
+draft: false
+
 
 +++
 
