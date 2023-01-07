@@ -15,7 +15,12 @@ url_code: "https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_
 url_pdf: "https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library"
 url_slides: ""
 url_video: ""
-
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+    
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
