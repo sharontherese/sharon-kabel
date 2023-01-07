@@ -20,7 +20,7 @@ links:
   - icon_pack: fab
     icon: 'fa-brands fa-google-drive'
     name: All periti
-    url: 'https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library'  
+    url: 'https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit?usp=share_link'  
   - icon_pack: ai
     icon: 'zotero'
     name: All references
@@ -54,3 +54,6 @@ Both the spreadsheet and the reference library are freely downloadable; I encour
 
 Contact me with any corrections, suggestions, or requests. 
 
+# About 
+
+test
