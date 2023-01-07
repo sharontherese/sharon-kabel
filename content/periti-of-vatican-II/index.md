@@ -9,7 +9,7 @@ draft = false
 icon_pack = "fab"
 icon = "fa-brands fa-google-drive"
 name = "All periti"
-url = "https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library"
+url = "https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit"
 
 [[links]]
 icon_pack = "ai"
