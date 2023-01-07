@@ -7,7 +7,7 @@ tags:
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.sharonkabel.com/dies-irae"
+external_link: "/dies-irae"
 
 url_code: ""
 url_pdf: ""
