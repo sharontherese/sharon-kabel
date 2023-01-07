@@ -20,14 +20,10 @@ links:
   - icon_pack: fab
     icon: 'fa-brands fa-google-drive'
     name: All periti
-    url: 'https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library'
-  - icon_pack: fas
-    icon: 'fa-light fa-books'
-    name: All references
-    url: 'https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library'    
+    url: 'https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library'  
   - icon_pack: ai
     icon: 'zotero'
-    name: Zotero
+    name: All references
     url: 'https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library'    
     
 # Slides (optional).
