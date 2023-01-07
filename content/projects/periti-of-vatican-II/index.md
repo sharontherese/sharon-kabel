@@ -4,6 +4,7 @@ summary: The Periti of Vatican II is an open source project cataloging the theol
 tags:
 - Reforms
 - cataloging the crisis
+- new
 - all
 date: ""
 
