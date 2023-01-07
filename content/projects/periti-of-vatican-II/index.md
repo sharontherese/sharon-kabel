@@ -11,7 +11,7 @@ date: ""
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-url_spreadsheet: "https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit?usp=share_link"
+url_code: "https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit?usp=share_link"
 url_pdf: "https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library"
 url_slides: ""
 url_video: ""
