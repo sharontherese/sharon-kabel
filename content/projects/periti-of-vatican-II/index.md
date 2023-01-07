@@ -17,8 +17,8 @@ external_link: ""
 # url_video: ""
 links:
   - icon_pack: fab
-    icon: "fa-thin fa-books"
-    name: References
+    icon: 'fa-brands fa-google-drive'
+    name: See all periti
     url: 'https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library'
     
 # Slides (optional).
