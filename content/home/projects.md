@@ -22,8 +22,8 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-     name = "All"
-     tag = "all"
+     name = "New"
+     tag = "new"
 
 [[content.filter_button]]
      name = "Music"
@@ -41,6 +41,10 @@ subtitle = ""
      name = "Abuse Crisis"
      tag = "Abuse"      
 
+  [[content.filter_button]]
+     name = "All"
+     tag = "all"
+     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
