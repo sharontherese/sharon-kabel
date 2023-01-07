@@ -3,9 +3,7 @@ gallery1 = [""]
 text = ""
 title = "The Periti of Vatican II"
 toggle = false
-aliases = [
-    "",
-]
+
 
 +++
 
