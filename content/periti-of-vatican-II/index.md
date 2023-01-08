@@ -13,7 +13,7 @@ The [Google spreadsheet](https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7
 
 The Periti of Vatican II  was created and is managed by Sharon Kabel, librarian and independent researcher. 
 
-{{< cta cta_text="See all periti" cta_link="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaSXWa7qzK9H6NjfR2K_qzPuIG7Skz0k8VTSSGPhZg0cyeHjX_ra-tv7ghOhAC40hJKsy4OyLXYLQ8/pubhtml?gid=0&single=true/" cta_new_tab="true" >}}
+{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
 
 # Backstory 
 
