@@ -27,7 +27,7 @@ The Periti of Vatican II  was created and is managed by Sharon Kabel, librarian 
 
 # The Periti 
 
-<iframe width="100%" height="300"src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaSXWa7qzK9H6NjfR2K_qzPuIG7Skz0k8VTSSGPhZg0cyeHjX_ra-tv7ghOhAC40hJKsy4OyLXYLQ8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="300"allowfullscreen=true style="border:1px solid black;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaSXWa7qzK9H6NjfR2K_qzPuIG7Skz0k8VTSSGPhZg0cyeHjX_ra-tv7ghOhAC40hJKsy4OyLXYLQ8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 # Backstory 
 
