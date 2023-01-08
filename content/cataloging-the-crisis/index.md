@@ -6,6 +6,9 @@ toggle = false
 
 +++
 
+{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+
+
 This project is dedicated to cataloging minor vignettes within the modern crisis of the Catholic Church. 
 
 By "modern crisis," I mean the series of reforms and attempted reforms of the liturgy, of theology, and of customs and practices that snowballed from (roughly) the 1800s until the 1980s. 
