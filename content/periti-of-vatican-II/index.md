@@ -5,10 +5,6 @@ title = "The Periti of Vatican II"
 toggle = false
 draft = false 
 
-{{< icon name="terminal" pack="fas" >}} Terminal  
-{{< icon name="python" pack="fab" >}} Python  
-{{< icon name="r-project" pack="fab" >}} R
-
 +++ 
 
 **The Periti of Vatican II** is an open source project cataloging the theological experts (periti) who advised the Second Vatican Council. Using the list of 479 council periti as published in the _Acta synodalia Sacrosancti Concilii Oecumenici Vaticani II_ as a foundation, **The Periti of Vatican II** is a spreadsheet of all known periti, conciliar and private, with over 30 data points to prove their identity, their connection to the Council, and their influence in the Church. Complementing the spreadsheet is a Zotero library, with references for most spreadsheet links, and the results of many literature searches I conducted. 
