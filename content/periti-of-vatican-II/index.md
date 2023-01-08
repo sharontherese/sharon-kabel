@@ -5,16 +5,6 @@ title = "The Periti of Vatican II"
 toggle = false
 draft = false 
 
-[[links]]
-icon_pack = "fab"
-icon = "fa-brands fa-google-drive"
-name = "All periti"
-url = "https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit"
-icon_pack = "ai"
-icon = "zotero"
-name = "All references"
-url = "https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library"
-
 +++
 
 {{< icon name="fa-brands fa-google-drive" pack="fab" >}} Periti  
