@@ -3,10 +3,8 @@ gallery1 = [""]
 text = ""
 title = "Cataloging the Crisis"
 toggle = false
-
+draft = true
 +++
-
-{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
 
 
 This project is dedicated to cataloging minor vignettes within the modern crisis of the Catholic Church. 
