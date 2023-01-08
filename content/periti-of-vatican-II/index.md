@@ -25,10 +25,6 @@ The [Google spreadsheet](https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7
 
 The Periti of Vatican II  was created and is managed by Sharon Kabel, librarian and independent researcher. 
 
-# The Periti 
-
-<iframe width="100%" height="300" allowfullscreen=true src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaSXWa7qzK9H6NjfR2K_qzPuIG7Skz0k8VTSSGPhZg0cyeHjX_ra-tv7ghOhAC40hJKsy4OyLXYLQ8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
 # Backstory 
 
 _Periti_ were priests invited by the Vatican to assist the Second Vatican Council as theological experts. 
@@ -68,29 +64,29 @@ The project started very simply. As it stood, the Vatican’s 1980 Acta list was
 As I retyped the names and noted typos (which were depressingly frequent), the scope grew and grew and grew. I cataloged the original data points from the Vatican’s list (1-7), author identifiers (8-14), and information on their life, influence, and connection to the Council (15-33). 
 
 1. Last name 
-2.  Latinized first name 
-3.  Order (if applicable)
-4.  Attended Session I?
-5.  Attended Session II?
-6.  Attended Session III?
-7.  Attended Session IV?
-8.  Wikipedia
-9.  Wikidata
-10.  Virtual International Authority File (VIAF)
-11.  Worldcat Identities 
-12.  Catholic-Hierarchy
-13.  Find a Grave
-14.  Selected mention (a non-standardized reference to the peritus that confirmed their existence, name, and connection to the Council, such as a newspaper article, obituary, or book review) 
-15.  Status (council or private peritus?)
-16.  Number of Wikipedia pages (captured in December 2022)
-17.  Country represented/country of origin (For example, some American periti were not American-born. They represented America at the Council, so I counted them as American. When I was unsure, I defaulted to country of origin, and the name of the country at the time of the peritus’ birth. I regret I may not have been perfectly consistent with this data point.)
-18.  Birth year 
-19.  Death year 
-20.  Age at start of Council
-21.  Age at death 
-22.  Highest episcopal title (I looked for Superior General, Bishop, Cardinal, and Pope. A Cardinal-Deacon was counted as a Cardinal. An Archbishop was counted as a Bishop.) 
-23.  Important (I have two definitions of “important”: was a peritus well known, or was their work highly influential even if they were not a household name?)
-24.  Photo no reuse (a link to a photo of the peritus, with unclear copyright status)
+2. Latinized first name 
+3. Order (if applicable)
+4. Attended Session I?
+5. Attended Session II?
+6. Attended Session III?
+7. Attended Session IV?
+8. Wikipedia
+9. Wikidata
+10. Virtual International Authority File (VIAF)
+11. Worldcat Identities 
+12. Catholic-Hierarchy
+13. Find a Grave
+14. Selected mention (a non-standardized reference to the peritus that confirmed their existence, name, and connection to the Council, such as a newspaper article, obituary, or book review) 
+15. Status (council or private peritus?)
+16. Number of Wikipedia pages (captured in December 2022)
+17. Country represented/country of origin (For example, some American periti were not American-born. They represented America at the Council, so I counted them as American. When I was unsure, I defaulted to country of origin, and the name of the country at the time of the peritus’ birth. I regret I may not have been perfectly consistent with this data point.)
+18. Birth year 
+19. Death year 
+20. Age at start of Council
+21. Age at death 
+22. Highest episcopal title (I looked for Superior General, Bishop, Cardinal, and Pope. A Cardinal-Deacon was counted as a Cardinal. An Archbishop was counted as a Bishop.) 
+23. Important (I have two definitions of “important”: was a peritus well known, or was their work highly influential even if they were not a household name?)
+24. Photo no reuse (a link to a photo of the peritus, with unclear copyright status)
 25. Photo reuse (a link to a photo of the peritus, in the public domain)
 26. Change during Council (did the peritus become a bishop or die during the Council?)
 27. Memoir on the Council (did the peritus write a book or article about their time as a peritus? I generally did not count autobiographies unless there was a chapter/section on the Council.) 
@@ -101,3 +97,9 @@ As I retyped the names and noted typos (which were depressingly frequent), the s
 32. Notes (was there any other fact about the peritus that I thought was important to highlight?)
 
 I owe a great debt to the Catholic News Archive, for making it so simple to find the first names of so many periti. 
+
+# Send me data! 
+
+Periti with "nodata" as their first name are council periti whose identity I could not verify with online resources. 
+
+[Contact me](/#contact) with suggestions, corrections, or questions about the mystery periti. 
