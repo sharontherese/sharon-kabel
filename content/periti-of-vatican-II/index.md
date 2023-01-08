@@ -10,12 +10,10 @@ icon_pack = "fab"
 icon = "fa-brands fa-google-drive"
 name = "All periti"
 url = "https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit"
-new_tab = true
 icon_pack = "ai"
 icon = "zotero"
 name = "All references"
 url = "https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library"
-new_tab = true
 
 +++ 
 
