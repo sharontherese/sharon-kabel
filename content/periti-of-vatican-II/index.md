@@ -11,9 +11,7 @@ draft = false
 
 The [Google spreadsheet](https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit) and [Zotero reference library](https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library) are freely available to download. 
 
-The Periti of Vatican II  was created and is managed by Sharon Kabel, librarian and independent researcher. 
-
-{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+The Periti of Vatican II  was created and is managed by Sharon Kabel, librarian and independent researcher.
 
 # Backstory 
 
