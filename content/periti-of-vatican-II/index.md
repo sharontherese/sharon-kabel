@@ -100,6 +100,6 @@ I owe a great debt to the Catholic News Archive, for making it so simple to find
 
 # Send me data! 
 
-Periti with "nodata" as their first name are council periti whose identity I could not verify with online resources. 
+Periti work is never done! Periti with "nodata" as their first name are council periti whose identity I could not verify with online resources. There are more private periti out there, waiting to be cataloged. 
 
-[Contact me](/#contact) with suggestions, corrections, or questions about the mystery periti. 
+[Contact me](/#contact) with suggestions, corrections, or questions. 
