@@ -25,6 +25,10 @@ The [Google spreadsheet](https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7
 
 The Periti of Vatican II  was created and is managed by Sharon Kabel, librarian and independent researcher. 
 
+# The Periti 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaSXWa7qzK9H6NjfR2K_qzPuIG7Skz0k8VTSSGPhZg0cyeHjX_ra-tv7ghOhAC40hJKsy4OyLXYLQ8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 # Backstory 
 
 _Periti_ were priests invited by the Vatican to assist the Second Vatican Council as theological experts. 
