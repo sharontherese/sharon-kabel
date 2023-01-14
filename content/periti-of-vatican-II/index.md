@@ -20,11 +20,13 @@ url = "https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library"
 +++ 
 
 
-**The Periti of Vatican II** is an open source project cataloging the theological experts (periti) who advised the Second Vatican Council. Using the list of 479 council periti as published in the _Acta synodalia Sacrosancti Concilii Oecumenici Vaticani II_ as a foundation, **The Periti of Vatican II** is a spreadsheet of all known periti, conciliar and private, with over 30 data points to prove their identity, their connection to the Council, and their influence in the Church. Complementing the spreadsheet is a Zotero library, with references for most spreadsheet links, and the results of many literature searches I conducted. 
+**The Periti of Vatican II** is an open source project cataloging the theological experts (periti) who advised the Second Vatican Council. 
+
+Using the list of 479 council periti as published in the _Acta synodalia Sacrosancti Concilii Oecumenici Vaticani II_ (1980) as a foundation, **The Periti of Vatican II** is a spreadsheet of all known periti, conciliar and private, with over 30 data points to prove their identity, connection to the Council, and influence in the Church. Complementing the spreadsheet is a Zotero library, with research by and about the periti. 
 
 The [Google spreadsheet](https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit) and [Zotero reference library](https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library) are freely available to download. 
 
-The Periti of Vatican II  was created and is managed by Sharon Kabel, librarian and independent researcher.
+**The Periti of Vatican II**  was created and is managed by Sharon Kabel, librarian and independent researcher.
 
 # Backstory 
 
@@ -34,13 +36,19 @@ _Periti_ were priests invited by the Vatican to assist the Second Vatican Counci
 > 
 > Pyne, Tricia T. “The Archives of the Second Vatican Council Fathers Project: A Report from the United States.” U.S. Catholic Historian 30, no. 3 (2012): 51–63.
 
-The periti wielded surprising influence before, during, and after the Council. The periti served almost every conceivable role: translating, drafting, revising, advising, correcting, conferring, discussing. They worked with other periti, established daily panels and briefings for the press, and about 5% of periti became bishops during the Council. 
+The periti wielded surprising influence on all stages of the Council. 
 
-After the Council, they went home and ran parishes,  seminaries, radio stations, publishing houses, workshops, conferences, retreats, newspapers, missions, and universities. Some wrote hundreds of volumes; some wrote nothing. Some faced criminal charges, some are on the path to sainthood, some left the Church. One became pope! 
+Before the Council, they debated and drafted, working with other periti and Council Fathers. 
 
-Despite being the most important religious event of the last century, the Council remains curiously under-documented regarding its actual participants. To date, there is no publicly available list of all council periti.
+During the Council, they revised and interpreted, established daily press briefings, and about 5% of periti became bishops during the Council. 
 
-This project fills that gap.
+Then they went home and promulgated and implemented the Council. They ran parishes, seminaries, radio stations, publishing houses, workshops, conferences, retreats, newspapers, missions, and universities. 
+
+Some wrote hundreds of volumes; some wrote nothing. Some faced criminal charges, some are on the path to sainthood, some left the Church. One became pope! 
+
+Despite being the most important religious event of the last century, the Council remains curiously under-documented in certain aspects. To date, there is no open access list of all known periti.
+
+This project fills that gap, and hopes to shed light on a group of men whose influence can still be felt, inside and outside of the Catholic Church.
 
 # My sources 
 
@@ -93,14 +101,15 @@ As I retyped the names and noted typos (which were depressingly frequent), the s
 27. Memoir on the Council (did the peritus write a book or article about their time as a peritus? I generally did not count autobiographies unless there was a chapter/section on the Council.) 
 28. Typo (did the Vatican’s list have a typo?)
 29. Credibly accused (Was the peritus credibly accused of child sexual abuse? This is only applicable to American periti, because I lack access to or awareness of lists/databases of clerical abuse in other countries.) 
-30. Ethics Watch (did the peritus take a public position on something contrary to Church teaching? Were they accused of a crime other than child sexual abuse?) 
-31. Left priesthood (did the peritus leave the priesthood and/or marry?) 
-32. Notes (was there any other fact about the peritus that I thought was important to highlight?)
+30. Humanae Vitae: where did the peritus stand on Humanae Vitae/artificial birth control?
+31. Ethics Watch (did the peritus take a public position on something contrary to Church teaching? Were they accused of a crime other than child sexual abuse?) 
+32. Left priesthood (did the peritus leave the priesthood and/or marry?) 
+33. Notes (was there any other fact about the peritus that I thought was important to highlight?)
 
 I owe a great debt to the Catholic News Archive, for making it so simple to find the first names of so many periti. 
 
 # Send me data! 
 
-Periti work is never done! Periti with "nodata" as their first name are council periti whose identity I could not verify with online resources. There are more private periti out there, waiting to be cataloged. 
+Periti work is never done! Periti with "null" as their first name are council periti whose identity I could not verify with online resources. There are more private periti out there, waiting to be cataloged. 
 
 [Contact me](/#contact) with suggestions, corrections, or questions. 
