@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sharon Kabel
+title: Sharon Kabel
 
 # Username (this should match the folder name)
 authors:
