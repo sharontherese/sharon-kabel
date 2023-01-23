@@ -5,7 +5,15 @@ title = "The Periti of Vatican II"
 toggle = false
 draft = false 
 
+[links]
+icon_pack = "ai"
+icon = "zotero"
+name = "All references"
+url = "https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library"
+
 +++ 
+
+
 
 {{< cta cta_text="See the periti spreadsheet" cta_link="https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit/" cta_new_tab="false" >}}
 
