@@ -6,6 +6,12 @@ toggle = false
 draft = false 
 
 [[links]]
+icon_pack = "fab"
+icon = "fa-brands fa-google-drive"
+name = "All periti"
+url = "https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit"
+
+[[links]]
 icon_pack = "ai"
 icon = "zotero"
 name = "All references"
