@@ -5,7 +5,7 @@ title = "The Periti of Vatican II"
 toggle = false
 draft = false 
 
-[links]
+[[links]]
 icon_pack = "ai"
 icon = "zotero"
 name = "All references"
