@@ -9,11 +9,7 @@ draft = false
 
 |   |   |
 |---|---|
-|{{< cta cta_text="Browse the reference library" cta_link="https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library/" cta_new_tab="false" >}}   |{{< cta cta_text="See the periti spreadsheet" cta_link="https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit/" cta_new_tab="false" >}}    |
-
-{{< cta cta_text="See the periti spreadsheet" cta_link="https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit/" cta_new_tab="false" >}} 
-
-{{< cta cta_text="Browse the reference library" cta_link="https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library/" cta_new_tab="false" >}}
+|{{< cta cta_text="See the periti" cta_link="https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit/" cta_new_tab="false" >}} | {{< cta cta_text="Browse the references" cta_link="https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library/" cta_new_tab="false" >}} |
 
 **The Periti of Vatican II** is an open source project cataloging the theological experts (periti) who advised the Second Vatican Council. 
 
@@ -45,7 +41,7 @@ Despite being the most important religious event of the last century, the Counci
 
 This project fills that gap, and hopes to shed light on a group of men whose influence can still be felt, inside and outside of the Catholic Church.
 
-# My sources 
+# My primary sources 
 
 For council periti, my sole source was: 
 
@@ -100,6 +96,20 @@ As I retyped the names and noted typos (which were depressingly frequent), the s
 31. Ethics Watch (did the peritus take a public position on something contrary to Church teaching? Were they accused of a crime other than child sexual abuse?) 
 32. Left priesthood (did the peritus leave the priesthood and/or marry?) 
 33. Notes (was there any other fact about the peritus that I thought was important to highlight?)
+
+# My secondary sources 
+
+I used a wide variety of search engines and databases. The most useful and important are: 
+
+* Catholic News Archive
+* Catholic Portal
+* Wikipedia
+* Wikidata
+* VIAF
+* Worldcat Identities 
+* Catholic-Hierarchy
+* Find A Grave
+* Pro Publica's "Credibly Accused"
 
 I owe a great debt to the Catholic News Archive, for making it so simple to find the first names of so many periti. 
 
