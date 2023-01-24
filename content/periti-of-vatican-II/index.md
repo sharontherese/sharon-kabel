@@ -5,23 +5,15 @@ title = "The Periti of Vatican II"
 toggle = false
 draft = false 
 
-[[links]]
-icon_pack = "fab"
-icon = "fa-brands fa-google-drive"
-name = "All periti"
-url = "https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit"
-
-[[links]]
-icon_pack = "ai"
-icon = "zotero"
-name = "All references"
-url = "https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library"
-
 +++ 
 
+|   |   |
+|---|---|
+|{{< cta cta_text="Browse the reference library" cta_link="https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library/" cta_new_tab="false" >}}   |{{< cta cta_text="See the periti spreadsheet" cta_link="https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit/" cta_new_tab="false" >}}    |
 
+{{< cta cta_text="See the periti spreadsheet" cta_link="https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit/" cta_new_tab="false" >}} 
 
-{{< cta cta_text="See the periti spreadsheet" cta_link="https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit/" cta_new_tab="false" >}} {{< cta cta_text="Browse the reference library" cta_link="https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library/" cta_new_tab="false" >}}
+{{< cta cta_text="Browse the reference library" cta_link="https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library/" cta_new_tab="false" >}}
 
 **The Periti of Vatican II** is an open source project cataloging the theological experts (periti) who advised the Second Vatican Council. 
 
