@@ -7,6 +7,10 @@ draft = false
 
 +++ 
 
+{{< icon name="google-drive" pack="fab" >}} [Browse the periti](https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit/)
+
+{{< icon name="zotero" pack="ai" >}} [Browse the references](https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library/)
+
 |   |   |
 |---|---|
 |{{< cta cta_text="See the periti" cta_link="https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit/" cta_new_tab="false" >}} | {{< cta cta_text="Browse the references" cta_link="https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library/" cta_new_tab="false" >}} |
