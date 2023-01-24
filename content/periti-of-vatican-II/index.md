@@ -9,7 +9,7 @@ draft = false
 
 **The Periti of Vatican II** is an open source project cataloging the theological experts (periti) who advised the Second Vatican Council. 
 
-{{< icon name="google-drive" pack="fab" >}} [**Browse the periti**](https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit/)
+{{< icon name="google-drive" pack="fab" >}} [**Browse the periti**](https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit?usp=share_link)
 
 {{< icon name="zotero" pack="ai" >}} [**Browse the references**](https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library/)
 
