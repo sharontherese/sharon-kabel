@@ -17,6 +17,9 @@ tags:
  - art
  - weddings
 ---
+_Entrance of the newlyweds, Ferdinand Georg Waldmuller (1859)_
+
+
 
 ![](/uploads/art-weddings/sorolla_happy.jpg)
 "The happy day," Joaquin Sorolla (1892)
