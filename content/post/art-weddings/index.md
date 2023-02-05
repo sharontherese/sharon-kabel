@@ -10,7 +10,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 header:
-  caption: "Entrance of the newlyweds, Ferdinand Georg Waldmuller (1859)"
+  caption: 'Entrance of the newlyweds, Ferdinand Georg Waldmuller (1859)'
   image: "waldmuller_entrance.jpg"
   
 tags:
