@@ -119,6 +119,4 @@ Periti work is never done! Periti with "null" as their first name are council pe
 
 [Contact me](/#contact) with suggestions, corrections, or questions. 
 
-|   |   |
-|---|---|
-|{{< cta cta_text="Browse the periti" cta_link="https://docs.google.com/spreadsheets/d/1H4_HUtAuLCoIyo7pOnmTLSg5bv4K_adLuo98Yx-yW3A/edit/" cta_new_tab="false" >}} | {{< cta cta_text="Browse the references" cta_link="https://www.zotero.org/groups/4887272/the_periti_of_vatican_ii/library/" cta_new_tab="false" >}} |
+![](/uploads/periti/cc_by.png)
