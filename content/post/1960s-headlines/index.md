@@ -1,7 +1,6 @@
 ---
 title: "Catholic newspaper headlines from the 1950s and 1960s about the liturgical reforms"
 date: 2022-07-30
-draft: true 
 
 # View.
 #   1 = List
