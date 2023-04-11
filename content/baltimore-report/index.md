@@ -1,20 +1,6 @@
 ---
 title: "Report on Child Sexual Abuse in the Archdiocese of Baltimore"
-date: 2023-04-10
-
-# Cover image
-# To use, place an image named `featured.jpg/png` in your page's folder.
-# Otherwise, specify the `filename` option to load an image from your `assets/media/` folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-# Set `preview_only` to `true` to just use the image for thumbnails.
-image:
-  placement: 1
-  caption: "By Croberto68 - Base map used: File:Maryland Locator Map with US.PNG, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9031255"
-  focal_point: "Center"
-  preview_only: false
-  # alt_text: An optional description of the image for screen readers.
-  # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
+date: 2023-04-11
 
 
 # View.
@@ -26,6 +12,8 @@ tags:
  - data
  - abuse
 ---
+
+_Header image: By Croberto68 - Base map used: File:Maryland Locator Map with US.PNG, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9031255_
 
 The Attorney General's Report on Child Sexual Abuse in the Archdiocese of Baltimore, released April 2023, listed 156 Catholic clergy, deacons, seminarians, religious, and laity accused of child sexual abuse. 
 
