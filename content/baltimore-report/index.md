@@ -19,6 +19,8 @@ The Attorney General's Report on Child Sexual Abuse in the Archdiocese of Baltim
 
 The charts below focus on the 148 names of priests, deacons, seminarians, and male religious. The 8 names of women religious and laity are not included. (10 names on the list are redacted, but the details of their case make their status clear.)
 
+See my data [here](https://drive.google.com/drive/folders/1M-W18vWzA5DlAXhVJlNtjqCQABsDXUKw?usp=sharing). 
+
 # Age of youngest victim
 
 Cases included in the chart: 136 priests, deacons, seminarians, and male religious
