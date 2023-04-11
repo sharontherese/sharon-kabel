@@ -16,6 +16,6 @@ The Attorney General's Report on Child Sexual Abuse in the Archdiocese of Baltim
 
 The charts below focus on the 148 names of priests, deacons, seminarians, and male religious. The eight names of women religious and laity are not included. (10 names on the list are redacted, but the details of their case make their status clear.)
 
-![](/uploads/dies-irae/Gender_Baltimore.png)
+![](/uploads/baltimore-report/Gender_Baltimore.png)
 
 ![](/uploads/baltimore-report/Age_Baltimore.png)
