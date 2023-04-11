@@ -20,4 +20,6 @@ The charts below focus on the 148 names of priests, deacons, seminarians, and ma
 
 ![](/uploads/baltimore-report/Gender_Baltimore2.png)
 
+![](/uploads/baltimore-report/Gender_Baltimore3.png)
+
 ![](/uploads/baltimore-report/Age_Baltimore.png)
