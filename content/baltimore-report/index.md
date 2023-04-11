@@ -9,7 +9,7 @@ date: 2023-04-10
 view: 2
 tags:
  - data
- - abuse crisis
+ - abuse
 ---
 
 The Attorney General's Report on Child Sexual Abuse in the Archdiocese of Baltimore, released April 2023, listed 156 Catholic clergy, deacons, seminarians, religious, and laity accused of child sexual abuse. 
