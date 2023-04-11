@@ -10,19 +10,32 @@ view: 2
 tags:
  - data
  - abuse
-draft: true
 ---
 
 The Attorney General's Report on Child Sexual Abuse in the Archdiocese of Baltimore, released April 2023, listed 156 Catholic clergy, deacons, seminarians, religious, and laity accused of child sexual abuse. 
 
-The charts below focus on the 148 names of priests, deacons, seminarians, and male religious. The eight names of women religious and laity are not included. (10 names on the list are redacted, but the details of their case make their status clear.)
+The charts below focus on the 148 names of priests, deacons, seminarians, and male religious. The 8 names of women religious and laity are not included. (10 names on the list are redacted, but the details of their case make their status clear.)
 
-![](/uploads/baltimore-report/Gender_Baltimore.png)
+# Age of youngest victim
 
-![](/uploads/baltimore-report/Gender_Baltimore2.png)
+Cases included in the chart: 136 priests, deacons, seminarians, and male religious
 
-![](/uploads/baltimore-report/Gender_Baltimore3.png)
+Cases not included in the chart: 
 
-![](/uploads/baltimore-report/Gender_Baltimore4.png)
+* 12 of the cases did not have clear ages included. The victim was typically described as a teenager, minor, or under 18.
+* 8 of the cases concerned a woman religious or member of the laity.
+
+26 of the cases had educational grades listed, rather than ages. I translated those grades to ages: Kindergarten = 5 years old, 1st grade = 6 years old, and so on. 
 
 ![](/uploads/baltimore-report/Age_Baltimore.png)
+
+# Gender of the victims 
+
+Cases included in the chart: 146 priests, deacons, seminarians, and male religious
+
+Cases not included in the chart: 
+
+* 2 of the cases did not include the gender of the victims. 
+* 8 of the cases concerned a woman religious or member of the laity.
+
+![](/uploads/baltimore-report/Gender_Baltimore.png)
