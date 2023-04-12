@@ -3,7 +3,6 @@ gallery1 = [""]
 text = ""
 title = "Cataloging the Crisis"
 toggle = false
-draft = true
 +++
 
 
