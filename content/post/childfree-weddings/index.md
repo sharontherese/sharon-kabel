@@ -22,7 +22,7 @@ view: 2
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: ""
+  caption: "“Penny wedding,” David Wilkie (1818)"
   focal_point: "Center"
   preview_only: false
 #  alt_text: An optional description of the image for screen readers.
@@ -34,13 +34,13 @@ tags:
 
 As surely as the sun rises in the east and sets in the west can we expect to see debates about whether or not children belong at weddings. 
 
-Of course, some say, you should have children at weddings. They are the point of weddings, after all! As someone who had over 20 babies and children at her wedding reception, I am very sympathetic to this argument. 
+Of course, some say, you should have children at weddings. They are the point of weddings, after all! As someone who had over 20 babies and children at her Catholic wedding reception, I am very sympathetic to this argument. 
 
 For fun, let’s explore the claim that it is traditional to have children at weddings. 
 
 # Defining terms 
 
-By “children,” I mean small people who are roughly between the ages of “eating solids” and “teenagers.” Babies, particularly breastfed babies, go where the parents go.
+By “children,” I mean small people who are roughly between the ages of “eating solids” and “teenagers.” 
 
 And by “weddings,” I primarily mean “wedding receptions.” While I do touch on children at Mass (she said demurely, nudging the hornet’s nest a bit more), I am most interested in the reception. 
 
@@ -50,9 +50,11 @@ So to keep this study useful, I will limit myself to roughly the last 150 years 
 
 # American Catholic Etiquette (1961-1965)
 
-The Catholic Herald, 6 June 1963
+![](/uploads/childfree-weddings/clarionherald_fenner.png)
 
-Kay Toy Fenner wrote her encyclopedic work American Catholic Etiquette  in 1961, with subsequent editions through 1965. Her book bore an imprimatur from Francis Patrick Keough, Archbishop of Baltimore. Here is one review published in the Catholic Transcript, shortly after the book was published. 
+[The Catholic Herald, 6 June 1963](https://thecatholicnewsarchive.org/?a=d&d=cher19630606-01.1.29&srpos=8)
+
+Kay Toy Fenner wrote her encyclopedic work _American Catholic Etiquette_  in 1961, with subsequent editions through 1965. Her book bore an imprimatur from Francis Patrick Keough, Archbishop of Baltimore. Here[^1] is one review published in the Catholic Transcript, shortly after the book was published. 
 
 Here is what Fenner said: 
 
@@ -66,6 +68,8 @@ Verdict: well-behaved children at the ceremony, no children under 14 at the rece
 
 # Emily Post’s Etiquette (1922)
 
+![](/uploads/childfree-weddings/post_etiquette.png)
+
 Ah, say the naysayers, but that was the 1960’s. Can anything good come from that time? Where are our reliable pre-55 wedding customs? Let us look further afield. 
 
 Emily Post needs no introduction. Post’s first blue book of Etiquette was published in 1922, and has no specific section for children at weddings. Indeed, there is no mention of children at all at weddings. In Chapter 21, she does mention separate invitations for the church ceremony and the reception. In Chapter 22, the presumption is that the ceremony is at the church, and the reception is at home. One may be inclined to think a domestic reception would favor children, but the reception she described is quite formal, which would suggest no children. 
@@ -78,11 +82,13 @@ Verdict: no children until 1997, even then, never assume
 
 # The Correct Thing for Catholics (1892)
 
-The Catholic Telegraph, Volume 61, Number 3, 21 January 1892
+![](/uploads/childfree-weddings/catholictranscript_bugg.png)
+
+[The Catholic Telegraph, Volume 61, Number 3, 21 January 1892](https://thecatholicnewsarchive.org/?a=d&d=TCT18920121-01.2.27.1&srpos=4)
 
 The crowd grows restless. The cry goes round the battlements: Emily Post is not Catholic! Your sources are inapplicable! 
 
-The point is well taken. As recompense, I offer Lelia Hardin Bugg’s wildly popular The Correct Thing for Catholics, published in 1891 and on its twelfth edition by 1892. The authoress’ deserving biography remains to be written, but one curious fact is that she “was placed in the care of Right Reverend Bishop Hennessy.” Excerpts of her book were printed in the Catholic Telegraph in the 1900s and 1910s (here and here and here as examples). As with many good things, she would be forgotten then later rediscovered in the mid to late twentieth century. 
+The point is well taken. As recompense, I offer Lelia Hardin Bugg’s wildly popular The Correct Thing for Catholics, published in 1891 and on its twelfth edition by 1892. The authoress’ deserving biography remains to be written, but one curious fact is that she “was placed in the care of Right Reverend Bishop Hennessy.”[^2] Excerpts of her book were printed in the Catholic Telegraph in the 1900s and 1910s[^3]. As with many good things, she would be forgotten then later rediscovered in the mid to late twentieth century.[^4] 
 
 Buggs does not mention children at weddings, but she makes no bones about children at Mass: a resounding no! It is highly unlikely Buggs would so definitively recommend no children at Mass, but recommend children at weddings.
 
@@ -93,6 +99,8 @@ She said:
 > “It is not the correct thing…To take babies and crying children to church.”
 
 Verdict: inferred no children 
+
+![](/uploads/childfree-weddings/bugg_children.png)
 
 # Conclusion 
 
@@ -106,18 +114,36 @@ So these five sources, ranging from the late nineteenth century through the 1960
 
 What to make of all of this? The easy answer - that the world went insane in the mid-twentieth century - gives us no solace, because etiquette discouraging children at receptions (even Mass!) can be traced back much earlier. This reluctance to include children may seem deeply strange to traditionalists today. 
 
-Here are a few ideas which may help potentially explain this odd tradition.
+Here are two ideas which may help potentially explain this odd tradition.
 
 **The shift of wedding receptions from a domestic occasion to a formal event.** It used to be much more common for weddings to take place at home. In some liturgical books, the rite of blessing the bedchamber (benedictio thalami) immediately followed the nuptial ceremonies. This suggests that the priest was in or near the married couple’s home already, celebrating the wedding. After the Industrial Revolution, weddings went through amazingly rapid developments. Advertisements, especially the rise of visual and not just text advertisements, fueled wedding receptions as a formal, highly material event. A wedding and a meal at home would likely have children. A wedding at church and a formal brunch or dinner at a club would be less likely to have children. 
 
-**The time of day for weddings.** Wedding breakfasts used to be more common, because weddings themselves used to happen earlier in the day (and not always on Saturdays!). The Council of Baltimore condemned afternoon and evening weddings (one reason why is poignantly illustrated in this 1918 short story; see more admonitions here and here. Time of day makes a big difference both in the formality of the event, and the ease of involving children. 
+**The time of day for weddings.** Wedding breakfasts[^5] used to be more common, because weddings themselves used to happen earlier in the day (and not always on Saturdays!). The Council of Baltimore condemned afternoon and evening weddings (one reason why is poignantly illustrated in this 1918 short story[^6]; see more admonitions here and here[^7]. Time of day makes a big difference both in the formality of the event, and the ease of involving children. 
 
-All of that said, it would be naive to write on this topic without acknowledging the **rife antinatalism** these days. One active ‘childfree’ forum currently boasts over one million members, and the disdain (or even hostility) toward babies and children can be felt everywhere. While adults-only ceremonies have historical precedent and can be wonderful, it’s no wonder that our current culture makes us traditional Catholics push back. 
+All of that said, it would be naive to write on this topic without acknowledging the rife antinatalism these days. OThe disdain (or even hostility) toward babies and children can be felt everywhere. While adults-only ceremonies have historical precedent and can be wonderful, it’s no wonder that our current culture makes us traditional Catholics push back and invite children.
 
-For a final verdict? I take comfort in the safe answer: There’s precedent for both childfree and child-filled receptions! It’s up to the couple. and the type of reception that they want. 
+Some would argue that the rife antinatalism, which can be felt everywhere now, urgently outweighs some old etiquette books. Bring on the children and let it be a witness! Some others, perhaps some parents, would argue that leaving the children at home is a blessing for everyone involved, and the children will be more able to appreciate weddings when they're a little older. 
 
-![](/uploads/periti-visualizations/1_BirthYearHistogram.png)
+For a final verdict? The science, as they say, is not settled. There’s precedent for both childfree and child-filled receptions. Etiquette will tell the guests never to assume that their children are included. It’s up to the couple, and the type of reception that they want. 
 
-![](/uploads/periti-visualizations/2_BirthYearHistogramSmooth.png)
+# Sources
 
+[^1]: https://thecatholicnewsarchive.org/?a=d&d=CTR19611130-01.2.44&srpos=1&e=-------en-20--1-byDA-img-txIN-%22american+catholic+etiquette%22-------
 
+[^2]: https://www.google.com/books/edition/Immortelles_of_Catholic_Columbian_Litera/HSATAAAAIAAJ?hl=en&gbpv=1&bsq=lelia
+
+[^3]: https://thecatholicnewsarchive.org/?a=d&d=TCT19050216-01.2.12&srpos=27&e=-------en-20--21-byDA-txt-txIN-%22correct+thing+for+Catholics%22-------
+
+https://thecatholicnewsarchive.org/?a=d&d=TCT19050330-01.2.20&srpos=28&e=-------en-20--21-byDA-txt-txIN-%22correct+thing+for+Catholics%22-------
+
+https://thecatholicnewsarchive.org/?a=d&d=TCT19150304-01.2.57&srpos=35&e=-------en-20--21-byDA-txt-txIN-%22correct+thing+for+Catholics%22-------
+
+[^4]: https://thecatholicnewsarchive.org/?a=d&d=ncr19660302-01.2.2&srpos=39&e=-------en-20--21-byDA-txt-txIN-%22correct+thing+for+Catholics%22-------
+
+[^5]: https://www.bredenburycourt.co.uk/wedding-breakfast/#:~:text=The%20term%20%E2%80%9Cwedding%20breakfast%E2%80%9D%20is,it%20really%20was%20your%20breakfast!
+
+[^6]: https://thecatholicnewsarchive.org/?a=d&d=OSV19180331-01.2.13&srpos=12&e=-------en-20--1-byDA-txt-txIN-%22evening+wedding%22~2-------
+
+[^7]: https://thecatholicnewsarchive.org/?a=d&d=TCT18820302-01.1.2&srpos=15&e=------188-en-20--1-byDA-txt-txIN-%22wedding+mass%22+OR+%22nuptial+mass%22-------
+
+https://thecatholicnewsarchive.org/?a=d&d=TCT18960604-01.2.22&srpos=6&e=-------en-20--1-byDA-txt-txIN-%22evening+wedding%22~2-------
