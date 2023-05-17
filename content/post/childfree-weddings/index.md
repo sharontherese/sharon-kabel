@@ -41,15 +41,18 @@ By “children,” I mean small people who are roughly between the ages of “ea
 
 And by “weddings,” I primarily mean “wedding receptions.” While I do mention children at Mass (she said demurely, nudging the hornet’s nest a bit more), I am most interested in the reception. 
 
-Weddings are dictated far more by custom and etiquette than by liturgical and canonical strictures. As such, they are extremely variable events, it’s rare that anyone thinks to write anything down, and there are frequent divergences between what was written down and what actually happened. 
+Weddings are dictated far more by custom and etiquette than by liturgical and canonical strictures. They are extremely variable events, it’s rare that anyone thinks to write anything down, and there are frequent divergences between what was written down and what actually happened. 
 
-So to keep this study useful, I will limit myself to roughly the last 150 years in America. Pre-industrial society had a different approach to weddings, and generally speaking, most of the nuptial events took place in the home. 
+So to keep this study useful, I will limit myself to roughly the last 150 years in America. Pre-industrial society had a different approach to weddings, and very generally speaking, nuptial events were more likely to place in the home. 
 
 # American Catholic Etiquette (1961-1965)
 
 ![](/uploads/childfree-weddings/clarionherald_fenner.png)
 
 [The Catholic Herald, 6 June 1963](https://thecatholicnewsarchive.org/?a=d&d=cher19630606-01.1.29&srpos=8)
+
+![The Catholic Herald, 6 June 1963](/uploads/childfree-weddings/clarionherald_fenner.png "The Catholic Herald, 6 June 1963")
+
 
 Kay Toy Fenner wrote her encyclopedic work _American Catholic Etiquette_  in 1961, with subsequent editions through 1965. Her book bore an imprimatur from Francis Patrick Keough, Archbishop of Baltimore. Here[^1] is one review published in the Catholic Transcript, shortly after the book was published. 
 
@@ -107,9 +110,9 @@ She said:
 
 ![](/uploads/childfree-weddings/bugg_excerpt.png)
 
-**Verdict: inferred no children** 
-
 ![](/uploads/childfree-weddings/bugg_children.png)
+
+**Verdict: inferred no children** 
 
 # Conclusion 
 
