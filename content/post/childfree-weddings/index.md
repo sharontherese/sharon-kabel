@@ -127,9 +127,11 @@ Here are two ideas which may help potentially explain this odd tradition.
 
 All of that said, it would be naive to write on this topic without acknowledging the rife antinatalism these days. OThe disdain (or even hostility) toward babies and children can be felt everywhere. While adults-only ceremonies have historical precedent and can be wonderful, it’s no wonder that our current culture makes us traditional Catholics push back and invite children.
 
-Some would argue that the rife antinatalism, which can be felt everywhere now, urgently outweighs some old etiquette books. Bring on the children and let it be a witness! Some others, perhaps some parents, would argue that leaving the children at home is a blessing for everyone involved, and the children will be more able to appreciate weddings when they're a little older. 
+Some would argue that the rife antinatalism, which can be felt everywhere now, urgently outweighs some old, materialistic etiquette books. Bring on the children and let it be a witness! 
 
-For a final verdict? The science, as they say, is not settled. There’s precedent for both childfree and child-filled receptions. Etiquette will tell the guests never to assume that their children are included. It’s up to the couple, and the type of reception that they want. 
+Some others, perhaps some parents, would argue that one can be pro-family without bringing children to every occasion. Leaving the children at home may be more pleasant for everyone involved, children included. 
+
+For a final verdict? Etiquette will tell the guests not to assume that their children are included. There’s precedent for both childfree and child-filled receptions; it’s up to the couple, and the type of reception that they want. 
 
 # Sources
 
