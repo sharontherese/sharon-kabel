@@ -31,7 +31,7 @@ tags:
  - weddings
 ---
 
-> One of the most hotly debated issues in planning a wedding is whether or ont to invite children. Some people feel that having children at a wedding can be an intrusion or a distraction for guests intent on participating in and honoring a very grown-up ritual. Others can't imagine a wedding celebration without children. One undeniable factor is the additional financial burden inviting a number of kids can incur. - _Emily Post's Wedding Etiquette, 2001_
+> One of the most hotly debated issues in planning a wedding is whether or not to invite children. Some people feel that having children at a wedding can be an intrusion or a distraction for guests intent on participating in and honoring a very grown-up ritual. Others can't imagine a wedding celebration without children. One undeniable factor is the additional financial burden inviting a number of kids can incur. - _Emily Post's Wedding Etiquette, 2001_
 
 For fun, let’s explore the claim that it is traditional to have children at Catholic weddings. 
 
