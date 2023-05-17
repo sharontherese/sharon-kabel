@@ -121,11 +121,11 @@ Here are two ideas which may help potentially explain this odd tradition.
 
 **The shift of wedding receptions from a domestic occasion to a formal event.** It used to be much more common for weddings to take place at home. In some liturgical books, the rite of blessing the bedchamber (benedictio thalami) immediately followed the nuptial ceremonies. This suggests that the priest was in or near the married couple’s home already, celebrating the wedding. After the Industrial Revolution, weddings went through amazingly rapid developments. Advertisements, especially the rise of visual and not just text advertisements, fueled wedding receptions as a formal, highly material event. A wedding and a meal at home would likely have children. A wedding at church and a formal brunch or dinner at a club would be less likely to have children. 
 
-**The time of day for weddings.** Wedding breakfasts[^4] used to be more common, because weddings themselves used to happen earlier in the day (and not always on Saturdays!). The Council of Baltimore condemned afternoon and evening weddings (one reason why is poignantly illustrated in this 1918 short story[^5]. Time of day makes a big difference both in the formality of the event, and the ease of involving children. 
+**The time of day for weddings.** Wedding breakfasts[^4] used to be more common, because weddings themselves used to happen earlier in the day (and not always on Saturdays!). The Council of Baltimore condemned afternoon and evening weddings (one reason why is poignantly illustrated in this 1918 short story[^5]). Time of day makes a big difference both in the formality of the event, and the ease of involving children. 
 
 ![Our Sunday Visitor, 31 March 1918](/uploads/childfree-weddings/osv_1918.png "Our Sunday Visitor, 31 March 1918")
 
-All of that said, it would be naive to write on this topic without acknowledging the rife antinatalism these days. OThe disdain (or even hostility) toward babies and children can be felt everywhere. While adults-only ceremonies have historical precedent and can be wonderful, it’s no wonder that our current culture makes us traditional Catholics push back and invite children.
+All of that said, it would be naive to write on this topic without acknowledging the rife antinatalism these days. The disdain (or even hostility) toward babies and children can be felt everywhere. While adults-only ceremonies have historical precedent and can be wonderful, it’s no wonder that our current culture makes us traditional Catholics push back and invite children.
 
 Some would argue that the rife antinatalism, which can be felt everywhere now, urgently outweighs some old, materialistic etiquette books. Bring on the children and let it be a witness! 
 
