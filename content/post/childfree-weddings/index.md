@@ -113,7 +113,7 @@ So these five sources, ranging from the late nineteenth century through the 1960
 * Don’t bring children to Mass.
 * Nothing on the subject of children at weddings. (To my mind, if an etiquette book is silent on a custom, that is evidence the custom was not common. One could argue the opposite: the custom was so common that no one thought to write it down.)
 
-There is broad consensus that one should never assume that children are invited, unless the invitation includes the names of the childre, or says "and family." In the same breath, brides are admonished not to add "no children" on the invitation, because it is unnecessary (if you know etiquette) and it sounds cold. 
+There is broad consensus that one should never assume that children are invited, unless the invitation includes the names of the children, or says "and family." In the same breath, brides are admonished not to add "no children" on the invitation, because it is unnecessary (if you know etiquette) and it sounds cold. 
 
 What to make of all of this? The easy answer - that the world went insane in the mid-twentieth century - gives us no solace, because etiquette discouraging children at receptions (even Mass!) can be traced back much earlier. This reluctance to include children may seem deeply strange to traditionalists today. 
 
