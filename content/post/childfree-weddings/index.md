@@ -47,12 +47,7 @@ So to keep this study useful, I will limit myself to roughly the last 150 years 
 
 # American Catholic Etiquette (1961-1965)
 
-![](/uploads/childfree-weddings/clarionherald_fenner.png)
-
-[The Catholic Herald, 6 June 1963](https://thecatholicnewsarchive.org/?a=d&d=cher19630606-01.1.29&srpos=8)
-
 ![The Catholic Herald, 6 June 1963](/uploads/childfree-weddings/clarionherald_fenner.png "The Catholic Herald, 6 June 1963")
-
 
 Kay Toy Fenner wrote her encyclopedic work _American Catholic Etiquette_  in 1961, with subsequent editions through 1965. Her book bore an imprimatur from Francis Patrick Keough, Archbishop of Baltimore. Here[^1] is one review published in the Catholic Transcript, shortly after the book was published. 
 
@@ -84,9 +79,7 @@ In later editions of Post’s _Etiquette_, children at weddings were still barel
 
 # The Correct Thing for Catholics (1892)
 
-![](/uploads/childfree-weddings/catholictranscript_bugg.png)
-
-[The Catholic Telegraph, Volume 61, Number 3, 21 January 1892](https://thecatholicnewsarchive.org/?a=d&d=TCT18920121-01.2.27.1&srpos=4)
+![The Catholic Telegraph, Volume 61, Number 3, 21 January 1892](/uploads/childfree-weddings/catholictranscript_bugg.png "The Catholic Telegraph, Volume 61, Number 3, 21 January 1892")
 
 The crowd grows restless. The cry goes round the battlements: Emily Post is not Catholic! Your sources are inapplicable! 
 
@@ -94,9 +87,7 @@ The point is well taken. As recompense, I offer Lelia Hardin Bugg’s wildly pop
 
 Excerpts of her book were printed in the Catholic Telegraph in the 1900s and 1910s. 
 
-![](/uploads/childfree-weddings/catholictelegraph_1914.png)
-
-_The Catholic Telegraph, Volume LXXXIII, Number 35, 27 August 1914_
+![The Catholic Telegraph, Volume 61, Number 3, 21 January 1892](/uploads/childfree-weddings/catholictelegraph_1914.png "The Catholic Telegraph, Volume LXXXIII, Number 35, 27 August 1914")
 
 As with many good things, she would be forgotten then later rediscovered in the mid to late twentieth century.[^3] 
 
@@ -109,8 +100,6 @@ She said:
 > “It is not the correct thing…To take babies and crying children to church.”
 
 ![](/uploads/childfree-weddings/bugg_excerpt.png)
-
-![](/uploads/childfree-weddings/bugg_children.png)
 
 **Verdict: inferred no children** 
 
@@ -134,9 +123,7 @@ Here are two ideas which may help potentially explain this odd tradition.
 
 **The time of day for weddings.** Wedding breakfasts[^4] used to be more common, because weddings themselves used to happen earlier in the day (and not always on Saturdays!). The Council of Baltimore condemned afternoon and evening weddings (one reason why is poignantly illustrated in this 1918 short story[^5]. Time of day makes a big difference both in the formality of the event, and the ease of involving children. 
 
-![](/uploads/childfree-weddings/osv_1918.png)
-
-_Our Sunday Visitor, 31 March 1918_
+![Our Sunday Visitor, 31 March 1918](/uploads/childfree-weddings/osv_1918.png "Our Sunday Visitor, 31 March 1918")
 
 All of that said, it would be naive to write on this topic without acknowledging the rife antinatalism these days. OThe disdain (or even hostility) toward babies and children can be felt everywhere. While adults-only ceremonies have historical precedent and can be wonderful, it’s no wonder that our current culture makes us traditional Catholics push back and invite children.
 
