@@ -51,48 +51,33 @@ tags:
 
 # Processions in Europe
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_austria_1895.jpg "Fronleichnam in Wien. Osterreichische Nationalbibliothek. https://onb.digital/result/10BE2778")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_austria_karl.jpg "Fronleichnamsprozession der Hofburgpfarre mit dem Kaiserpaar Karl I. und Zita. Osterreichische Nationalbibliothek. https://onb.digital/result/10DD986C")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_belgium.jpg "Photograph. 1915.The Illustrated War News, Aug 04, 7.")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_england.jpg "Gloucester Journal, Saturday,  June 29, 1946. Page 12.")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_germany.jpg "Illustrated London News, June 30, 1945, 704.")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_hungary_1956.jpg "Fronleichnamsprozession in Kalosca, 31. Mai 1956. Österreichischen Nationalbibliothek. https://onb.digital/result/10C6A135")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_hungary_undated.jpg "Fronleichnamsprozession in Kalocsa. Undated. Österreichischen Nationalbibliothek. https://onb.digital/result/10C6A12C")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_italy.jpg "Thirty-five tons of flowers for Genzano’s floral carpet brilliant patterns at the Corpus Christi festival. 1950.The Sphere 201 (2679) (Jun 24): 459.")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_lithuania.jpg "Famous cities of the old Baltic states. 1939.The Sphere 159 (2075) (Oct 28): 121-121, 120.")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_poland.jpg "The Sphere surveys the world. 1927.The Sphere 110 (1432) (Jul 02): 30.")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_slovenia.jpg "Fronleichnamsprozess in Dornberk (Dornberg), dem Kommando des 16. Korps. Osterreichische Nationalbibliothek. https://onb.digital/result/11067CDE")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_switzerland.jpg "The festival of Corpus Christi at Lugano. 1911.The Graphic 83 (2168) (Jun 17): 942.")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
+![](/uploads/corpus-christi/EUROPE_wales.jpg "The Illustrated London News, Saturday,  July 2, 1960")
 
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
-
-EUROPE_austria_1895.jpg
-EUROPE_austria_karl.jpg
-EUROPE_belgium.jpg
-EUROPE_england.jpg
-EUROPE_germany.jpg
-EUROPE_hungary_1956.jpg
-EUROPE_hungary_undated.jpg
-EUROPE_italy.jpg
-EUROPE_lithuania.jpg
-EUROPE_poland.jpg
-EUROPE_slovenia.jpg
-EUROPE_switzerland.jpg
-EUROPE_wales.jpg
-EUROPE_yugoslavia.jpg
+![](/uploads/corpus-christi/EUROPE_yugoslavia.jpg "The Catholic Transcript, Volume LXVIII, Number 7, 10 June 1965. https://thecatholicnewsarchive.org/?a=d&d=CTR19650610-01.2.97&srpos=152")
 
 # Processions in North America
 
@@ -127,14 +112,14 @@ https://digital.iai.spk-berlin.de/viewer/image/1002902592/22/LOG_0023/")
 
 ![](/uploads/corpus-christi/boat_AUSTRIA_Hallstat_1966.jpg "Fronleichnam auf dem Hallstätter See, Menschen in festlich geschmückten Booten, Pfarrer, Musik-kapelle, Touristen. Osterreichische Nationalbibliothek. https://onb.digital/result/10E96E57")
 
-![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_1928.jpg "1928. Fronleichnamsprozession am Traunsee. Österreichischen Nationalbibliothek. 
+![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_1928.jpg "Fronleichnamsprozession am Traunsee. 1928. Österreichischen Nationalbibliothek. 
 https://onb.digital/result/10EF2798")
 
-![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_1930_a.jpg "1930. Traunkirchen. Österreichischen Nationalbibliothek. https://onb.digital/result/10B9A333")
+![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_1930_a.jpg "Traunkirchen. 1930. Österreichischen Nationalbibliothek. https://onb.digital/result/10B9A333")
 
-![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_1930_b.jpg "1930. Traunkirchen. Österreichischen Nationalbibliothek. https://onb.digital/result/10BA4372")
+![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_1930_b.jpg "Traunkirchen. 1930. Österreichischen Nationalbibliothek. https://onb.digital/result/10BA4372")
 
-![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_undated.jpg "Fronleichnamsprozession am Traunsee. Österreichischen Nationalbibliothek. https://onb.digital/result/10C67ACB")
+![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_undated.jpg "Fronleichnamsprozession am Traunsee. Undated. Österreichischen Nationalbibliothek. https://onb.digital/result/10C67ACB")
 
 ![](/uploads/corpus-christi/boat_GERMANY_Frauenchiemsee.jpg "A German Corpus Christi Procession by Water: Religious Pageantry on a Bavarian Lake. Illustrated London News, June 24, 1933, 930-931.")
 
