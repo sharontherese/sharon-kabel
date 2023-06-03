@@ -32,5 +32,50 @@ tags:
  - weddings
 ---
 
-
 ![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+# Processions
+
+AFRICA_burkina.jpg
+AFRICA_congo.jpg
+AFRICA_madagascar.jpg
+ASIA_china.jpg
+ASIA_japan_hiroshima.jpg
+ASIA_japan_tokyo.jpg
+ASIA_vietnam.jpg
+EUROPE_austria_1895.jpg
+EUROPE_austria_karl.jpg
+EUROPE_belgium.jpg
+EUROPE_england.jpg
+EUROPE_germany.jpg
+EUROPE_hungary_1956.jpg
+EUROPE_hungary_undated.jpg
+EUROPE_italy.jpg
+EUROPE_lithuania.jpg
+EUROPE_poland.jpg
+EUROPE_slovenia.jpg
+EUROPE_switzerland.jpg
+EUROPE_wales.jpg
+EUROPE_yugoslavia.jpg
+NORTHAMERICA_california.jpg
+NORTHAMERICA_canada.jpg
+NORTHAMERICA_newmexico.jpg
+OCEANIA_Australia.jpg
+OCEANIA_papua.jpg
+SOUTHAMERICA_argentina.jfif
+SOUTHAMERICA_colombia.jfif
+SOUTHAMERICA_peru.jpg
+SOUTHAMERICA_uruguay.png
+
+# Boat Processions
+
+boat_AUSTRIA_Hallstat_1937.jpeg
+boat_AUSTRIA_Hallstat_1966.jpg
+boat_AUSTRIA_traunsee_1928.jpg
+boat_AUSTRIA_traunsee_1930_a.jpg
+boat_AUSTRIA_traunsee_1930_b.jpg
+boat_AUSTRIA_traunsee_undated.jpg
+boat_GERMANY_Frauenchiemsee.jpg
+boat_GERMANY_rhine_1959.jpg
+boat_GERMANY_rhine_1967.jpg
+boat_GERMANY_Staffelsee.jpg
