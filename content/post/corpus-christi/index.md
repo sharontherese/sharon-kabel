@@ -1,7 +1,6 @@
 ---
 title: "Corpus Christi processions around the world"
 date: 2023-05-16
-draft: true
 
 # View.
 #   1 = List
@@ -44,10 +43,13 @@ tags:
 
 # Processions in Asia 
 
-ASIA_china.jpg
-ASIA_japan_hiroshima.jpg
-ASIA_japan_tokyo.jpg
-ASIA_vietnam.jpg
+![](/uploads/corpus-christi/ASIA_china.jpg ""Holy Procession in Macao." 1965.South China Morning Post (1946-), Jun 22, 8.")
+
+![](/uploads/corpus-christi/ASIA_japan_hiroshima.jpg ""Corpus Christi at Hiroshima," Southern Cross, July 11, 1947. https://trove.nla.gov.au/newspaper/article/167715926")
+
+![](/uploads/corpus-christi/ASIA_japan_tokyo.jpg "Festival of Corpus Christi, Tokyo, Japan, ca.1920-1940. IMP/YDS/RG101/043/0000/0082 (file), International Mission Photography Archive, ca.1860-ca.1960 (collection), Mission Photographs: Yale Divinity School Library (subcollection). https://doi.org/10.25549/impa-c123-84069")
+
+![](/uploads/corpus-christi/ASIA_vietnam.jpg "“Hanoi prays as Reds approach city.” The Catholic times. [volume] (Columbus, Ohio), 16 July 1954. Chronicling America: Historic American Newspapers. Lib. of Congress. https://chroniclingamerica.loc.gov/lccn/sn83007243/1954-07-16/ed-1/seq-8/")
 
 # Processions in Europe
 
