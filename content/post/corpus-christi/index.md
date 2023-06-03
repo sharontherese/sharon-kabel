@@ -1,6 +1,6 @@
 ---
-title: "Corpus Christi processions around the world"
-date: 2023-05-16
+title: "Corpus Christi processions in newspapers around the world"
+date: 2023-06-03
 
 # View.
 #   1 = List
@@ -28,10 +28,8 @@ image:
   # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
   
 tags:
- - weddings
+ - newspapers
 ---
-
-![](/uploads/corpus-christi/clarionherald_fenner.png "")
 
 # Processions in Africa
 
@@ -53,6 +51,34 @@ tags:
 
 # Processions in Europe
 
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
+![](/uploads/corpus-christi/clarionherald_fenner.png "")
+
 EUROPE_austria_1895.jpg
 EUROPE_austria_karl.jpg
 EUROPE_belgium.jpg
@@ -70,9 +96,11 @@ EUROPE_yugoslavia.jpg
 
 # Processions in North America
 
-NORTHAMERICA_california.jpg
-NORTHAMERICA_canada.jpg
-NORTHAMERICA_newmexico.jpg
+![](/uploads/corpus-christi/NORTHAMERICA_california.jpg "San Francisco Call, Volume 86, Number 5, 5 June 1899. https://cdnc.ucr.edu/?a=d&d=SFC18990605")
+
+![](/uploads/corpus-christi/NORTHAMERICA_canada.jpg "Corpus Christi procession parading the streets of Montreal. 1918.Canadian Daily Record, Jul 27, 1.")
+
+![](/uploads/corpus-christi/NORTHAMERICA_newmexico.jpg "New-York tribune. [volume] (New York [N.Y.]), 07 April 1912. Chronicling America: Historic American Newspapers. Lib. of Congress. https://chroniclingamerica.loc.gov/lccn/sn83030214/1912-04-07/ed-1/seq-47/")
 
 # Processions in Oceania
 
@@ -82,20 +110,36 @@ NORTHAMERICA_newmexico.jpg
 
 # Processions in South America
 
-SOUTHAMERICA_argentina.jfif
-SOUTHAMERICA_colombia.jfif
-SOUTHAMERICA_peru.jpg
-SOUTHAMERICA_uruguay.png
+![](/uploads/corpus-christi/SOUTHAMERICA_argentina.jfif "Año. 15.1930=Nr. 170. 1930. 
+https://digital.iai.spk-berlin.de/viewer/image/787262579/37/LOG_0030/")
 
-# Boat Processions
+![](/uploads/corpus-christi/SOUTHAMERICA_colombia.jfif "Sábado. 1.1921,5. 1921. Berlin: Ibero-Amerikanisches Institut - Preußischer Kulturbesitz. 
+https://digital.iai.spk-berlin.de/viewer/image/894707914/13/LOG_0020/")
 
-boat_AUSTRIA_Hallstat_1937.jpeg
-boat_AUSTRIA_Hallstat_1966.jpg
-boat_AUSTRIA_traunsee_1928.jpg
-boat_AUSTRIA_traunsee_1930_a.jpg
-boat_AUSTRIA_traunsee_1930_b.jpg
-boat_AUSTRIA_traunsee_undated.jpg
-boat_GERMANY_Frauenchiemsee.jpg
-boat_GERMANY_rhine_1959.jpg
-boat_GERMANY_rhine_1967.jpg
-boat_GERMANY_Staffelsee.jpg
+![](/uploads/corpus-christi/SOUTHAMERICA_peru.jpg "Corpus Christi Parade, Cuzco, Peru. Cuzco Peru, 1957. Peru: Organization of American States. Photograph. https://www.loc.gov/item/2021669808/")
+
+![](/uploads/corpus-christi/SOUTHAMERICA_uruguay.png "Ku-ku. 1.1911=Nr. 3. n.d. Berlin: Ibero-Amerikanisches Institut - Preußischer Kulturbesitz.
+https://digital.iai.spk-berlin.de/viewer/image/1002902592/22/LOG_0023/")
+
+# Boat Processions in Austria and Germany
+
+![](/uploads/corpus-christi/boat_AUSTRIA_Hallstat_1937.jpeg "Paris-soir. 1937-06-01. http://catalogue.bnf.fr/ark:/12148/cb34519208g")
+
+![](/uploads/corpus-christi/boat_AUSTRIA_Hallstat_1966.jpg "Fronleichnam auf dem Hallstätter See, Menschen in festlich geschmückten Booten, Pfarrer, Musik-kapelle, Touristen. Osterreichische Nationalbibliothek. https://onb.digital/result/10E96E57")
+
+![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_1928.jpg "1928. Fronleichnamsprozession am Traunsee. Österreichischen Nationalbibliothek. 
+https://onb.digital/result/10EF2798")
+
+![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_1930_a.jpg "1930. Traunkirchen. Österreichischen Nationalbibliothek. https://onb.digital/result/10B9A333")
+
+![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_1930_b.jpg "1930. Traunkirchen. Österreichischen Nationalbibliothek. https://onb.digital/result/10BA4372")
+
+![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_undated.jpg "Fronleichnamsprozession am Traunsee. Österreichischen Nationalbibliothek. https://onb.digital/result/10C67ACB")
+
+![](/uploads/corpus-christi/boat_GERMANY_Frauenchiemsee.jpg "A German Corpus Christi Procession by Water: Religious Pageantry on a Bavarian Lake. Illustrated London News, June 24, 1933, 930-931.")
+
+![](/uploads/corpus-christi/boat_GERMANY_rhine_1959.jpg "The Catholic Advocate, Volume 8, Number 23, 5 June 1959. https://thecatholicnewsarchive.org/?a=d&d=ca19590605-01.2.13&srpos=130")
+
+![](/uploads/corpus-christi/boat_GERMANY_rhine_1967.jpg "The St. Louis Review, Volume 27, Number 36, 8 September 1967. https://thecatholicnewsarchive.org/?a=d&d=SLR19670908-01.2.61&srpos=157")
+
+![](/uploads/corpus-christi/boat_GERMANY_Staffelsee.jpg "Sacred and secular: religious occasions and May Day celebrations. 1958.The Sphere 233 (3038) (Jun 21): 440-441.")
