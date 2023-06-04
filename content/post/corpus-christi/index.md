@@ -21,7 +21,7 @@ view: 2
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: ""
+  caption: "Festival of Corpus Christi, Tokyo, Japan, ca.1920-1940. Yale Divinity School Library"
   focal_point: "Center"
   preview_only: false
 #  alt_text: An optional description of the image for screen readers.
