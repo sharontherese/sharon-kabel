@@ -67,8 +67,6 @@ tags:
 
 ![](/uploads/corpus-christi/NORTHAMERICA_california.jpg "UNITED STATES. San Francisco Call, Volume 86, Number 5, 5 June 1899. https://cdnc.ucr.edu/?a=d&d=SFC18990605")
 
-![](/uploads/corpus-christi/NORTHAMERICA_canada.jpg "CANADA. Corpus Christi procession parading the streets of Montreal. 1918.Canadian Daily Record, Jul 27, 1.")
-
 ![](/uploads/corpus-christi/NORTHAMERICA_newmexico.jpg "UNITED STATES. New-York tribune. [volume] (New York [N.Y.]), 07 April 1912. Chronicling America: Historic American Newspapers. Lib. of Congress. https://chroniclingamerica.loc.gov/lccn/sn83030214/1912-04-07/ed-1/seq-47/")
 
 # Processions in Oceania
