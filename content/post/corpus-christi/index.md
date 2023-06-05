@@ -41,8 +41,6 @@ tags:
 
 # Processions in Asia 
 
-![](/uploads/corpus-christi/ASIA_china.jpg "CHINA. Holy Procession in Macao. 1965.South China Morning Post (1946-), Jun 22, 8.")
-
 ![](/uploads/corpus-christi/ASIA_japan_hiroshima.jpg "JAPAN. Corpus Christi at Hiroshima, Southern Cross, July 11, 1947. https://trove.nla.gov.au/newspaper/article/167715926")
 
 ![](/uploads/corpus-christi/ASIA_japan_tokyo.jpg "JAPAN. Festival of Corpus Christi, Tokyo, Japan, ca.1920-1940. IMP/YDS/RG101/043/0000/0082 (file), International Mission Photography Archive, ca.1860-ca.1960 (collection), Mission Photographs: Yale Divinity School Library (subcollection). https://doi.org/10.25549/impa-c123-84069")
@@ -55,27 +53,13 @@ tags:
 
 ![](/uploads/corpus-christi/EUROPE_austria_karl.jpg "AUSTRIA. Fronleichnamsprozession der Hofburgpfarre mit dem Kaiserpaar Karl I. und Zita. Osterreichische Nationalbibliothek. https://onb.digital/result/10DD986C")
 
-![](/uploads/corpus-christi/EUROPE_belgium.jpg "BELGIUM. Photograph. 1915.The Illustrated War News, Aug 04, 7.")
-
-![](/uploads/corpus-christi/EUROPE_england.jpg "ENGLAND. Gloucester Journal, Saturday,  June 29, 1946. Page 12.")
-
-![](/uploads/corpus-christi/EUROPE_germany.jpg "GERMANY. Illustrated London News, June 30, 1945, 704.")
+![](/uploads/corpus-christi/EUROPE_france_1916.jpeg "FRANCE. Procession à la Fête-Dieu devant le mont Kellerman sur le plateau de Valmy : photographie de presse / Agence Meurisse. 1916. https://gallica.bnf.fr/ark:/12148/btv1b9044653v.r=fete-dieu%20procession?rk=2489282;4#")
 
 ![](/uploads/corpus-christi/EUROPE_hungary_1956.jpg "HUNGARY. Fronleichnamsprozession in Kalosca, 31. Mai 1956. Österreichischen Nationalbibliothek. https://onb.digital/result/10C6A135")
 
 ![](/uploads/corpus-christi/EUROPE_hungary_undated.jpg "HUNGARY. Fronleichnamsprozession in Kalocsa. Undated. Österreichischen Nationalbibliothek. https://onb.digital/result/10C6A12C")
 
-![](/uploads/corpus-christi/EUROPE_italy.jpg "ITALY. Thirty-five tons of flowers for Genzano’s floral carpet brilliant patterns at the Corpus Christi festival. 1950.The Sphere 201 (2679) (Jun 24): 459.")
-
-![](/uploads/corpus-christi/EUROPE_lithuania.jpg "LITHUANIA. Famous cities of the old Baltic states. 1939.The Sphere 159 (2075) (Oct 28): 121-121, 120.")
-
-![](/uploads/corpus-christi/EUROPE_poland.jpg "POLAND. The Sphere surveys the world. 1927.The Sphere 110 (1432) (Jul 02): 30.")
-
 ![](/uploads/corpus-christi/EUROPE_slovenia.jpg "SLOVENIA. Fronleichnamsprozess in Dornberk (Dornberg), dem Kommando des 16. Korps. Osterreichische Nationalbibliothek. https://onb.digital/result/11067CDE")
-
-![](/uploads/corpus-christi/EUROPE_switzerland.jpg "SWITZERLAND. The festival of Corpus Christi at Lugano. 1911.The Graphic 83 (2168) (Jun 17): 942.")
-
-![](/uploads/corpus-christi/EUROPE_wales.jpg "WALES. The Illustrated London News, Saturday,  July 2, 1960")
 
 ![](/uploads/corpus-christi/EUROPE_yugoslavia.jpg "YUGOSLAVIA. The Catholic Transcript, Volume LXVIII, Number 7, 10 June 1965. https://thecatholicnewsarchive.org/?a=d&d=CTR19650610-01.2.97&srpos=152")
 
@@ -121,10 +105,6 @@ https://onb.digital/result/10EF2798")
 
 ![](/uploads/corpus-christi/boat_AUSTRIA_traunsee_undated.jpg "AUSTRIA, TRAUNSEE. Fronleichnamsprozession am Traunsee. Undated. Österreichischen Nationalbibliothek. https://onb.digital/result/10C67ACB")
 
-![](/uploads/corpus-christi/boat_GERMANY_Frauenchiemsee.jpg "GERMANY, FRAUENCHIEMSEE. A German Corpus Christi Procession by Water: Religious Pageantry on a Bavarian Lake. Illustrated London News, June 24, 1933, 930-931.")
-
 ![](/uploads/corpus-christi/boat_GERMANY_rhine_1959.jpg "GERMANY, THE RHINE. The Catholic Advocate, Volume 8, Number 23, 5 June 1959. https://thecatholicnewsarchive.org/?a=d&d=ca19590605-01.2.13&srpos=130")
 
 ![](/uploads/corpus-christi/boat_GERMANY_rhine_1967.jpg "GERMANY, THE RHINE. The St. Louis Review, Volume 27, Number 36, 8 September 1967. https://thecatholicnewsarchive.org/?a=d&d=SLR19670908-01.2.61&srpos=157")
-
-![](/uploads/corpus-christi/boat_GERMANY_Staffelsee.jpg "GERMANY, STAFFELSEE. Sacred and secular: religious occasions and May Day celebrations. 1958.The Sphere 233 (3038) (Jun 21): 440-441.")
