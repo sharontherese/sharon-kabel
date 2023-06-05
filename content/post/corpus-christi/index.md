@@ -61,6 +61,8 @@ tags:
 
 ![](/uploads/corpus-christi/EUROPE_hungary_undated.jpg "HUNGARY. Fronleichnamsprozession in Kalocsa. Undated. Österreichischen Nationalbibliothek. https://onb.digital/result/10C6A12C")
 
+![](/uploads/corpus-christi/EUROPE_italy_1950.jpg "ITALY. Holy Father in Corpus Christi procession. The Catholic World in Pictures, 19 June 1950. https://thecatholicnewsarchive.org/?a=d&d=cwp19500619-01.2.12&srpos=24")
+
 ![](/uploads/corpus-christi/EUROPE_slovenia.jpg "SLOVENIA. Fronleichnamsprozess in Dornberk (Dornberg), dem Kommando des 16. Korps. Osterreichische Nationalbibliothek. https://onb.digital/result/11067CDE")
 
 ![](/uploads/corpus-christi/EUROPE_yugoslavia.jpg "YUGOSLAVIA. The Catholic Transcript, Volume LXVIII, Number 7, 10 June 1965. https://thecatholicnewsarchive.org/?a=d&d=CTR19650610-01.2.97&srpos=152")
@@ -76,6 +78,8 @@ tags:
 ![](/uploads/corpus-christi/OCEANIA_Australia.jpg "AUSTRALIA. The feast of the Corpus Christi, Manly, Sunday, June 1, 1902. The Sydney Mail and New South Wales Advertiser. June 7, 1902. https://trove.nla.gov.au/newspaper/article/163815139")
 
 ![](/uploads/corpus-christi/OCEANIA_papua.jpg "PAPUA NEW GUINEA. The Church in Papua. The Advocate (Melbourne, Vic.). August 24, 1912. https://trove.nla.gov.au/newspaper/article/170953115")
+
+![](/uploads/corpus-christi/OCEANIA_newzealand.jpg "NEW ZEALAND. Roman Catholic religious ceremony. Evening Star, issue 22800, 8 November 1937, page 7. https://paperspast.natlib.govt.nz/newspapers/ESD19371108.2.49.2")
 
 # Processions in South America
 
