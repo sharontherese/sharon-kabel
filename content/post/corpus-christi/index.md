@@ -65,6 +65,8 @@ tags:
 
 ![](/uploads/corpus-christi/EUROPE_slovenia.jpg "SLOVENIA. Fronleichnamsprozess in Dornberk (Dornberg), dem Kommando des 16. Korps. Osterreichische Nationalbibliothek. https://onb.digital/result/11067CDE")
 
+![](/uploads/corpus-christi/EUROPE_switzerland_1903.jpg "SWITZERLAND. Picturesque procession on Corpus Christi Day, approaching cathedral of Lucerne. Switzerland, 1903. Photograph. https://www.loc.gov/item/2022647944/.")
+
 ![](/uploads/corpus-christi/EUROPE_yugoslavia.jpg "YUGOSLAVIA. The Catholic Transcript, Volume LXVIII, Number 7, 10 June 1965. https://thecatholicnewsarchive.org/?a=d&d=CTR19650610-01.2.97&srpos=152")
 
 # Processions in North America
