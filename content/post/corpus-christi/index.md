@@ -55,6 +55,8 @@ tags:
 
 ![](/uploads/corpus-christi/EUROPE_france_1916.jpeg "FRANCE. Procession à la Fête-Dieu devant le mont Kellerman sur le plateau de Valmy : photographie de presse / Agence Meurisse. 1916. https://gallica.bnf.fr/ark:/12148/btv1b9044653v.r=fete-dieu%20procession?rk=2489282;4#")
 
+![](/uploads/corpus-christi/EUROPE_france_1916.jpeg "FRANCE. 17-6-28, procession de la Fête-Dieu à Caen : photographie de presse / Agence Rol. 1928. https://gallica.bnf.fr/ark:/12148/btv1b53201948r.r=fete-dieu%20procession?rk=2467823;2#)
+
 ![](/uploads/corpus-christi/EUROPE_hungary_1956.jpg "HUNGARY. Fronleichnamsprozession in Kalosca, 31. Mai 1956. Österreichischen Nationalbibliothek. https://onb.digital/result/10C6A135")
 
 ![](/uploads/corpus-christi/EUROPE_hungary_undated.jpg "HUNGARY. Fronleichnamsprozession in Kalocsa. Undated. Österreichischen Nationalbibliothek. https://onb.digital/result/10C6A12C")
