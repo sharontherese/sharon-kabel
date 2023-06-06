@@ -53,11 +53,11 @@ tags:
 
 ![](/uploads/corpus-christi/EUROPE_austria_karl.jpg "AUSTRIA. Fronleichnamsprozession der Hofburgpfarre mit dem Kaiserpaar Karl I. und Zita. Osterreichische Nationalbibliothek. https://onb.digital/result/10DD986C")
 
-![](/uploads/corpus-christi/EUROPE_france_1900.jpg "FRANCE. Procession à la Fête-Dieu devant le mont Kellerman sur le plateau de Valmy : photographie de presse / Agence Meurisse. 1916. https://gallica.bnf.fr/ark:/12148/btv1b9044653v.r=fete-dieu%20procession?rk=2489282;4#")
+![](/uploads/corpus-christi/EUROPE_france_1900.jpg "FRANCE. Bayonne. Fête-Dieu Carrefour des cinq cantons. ca 1900. Médiathèque de Bayonne. https://bilketa.bibliomondo.com/ark:/27020/B641026201_PHO330")
 
 ![](/uploads/corpus-christi/EUROPE_france_1916.jpeg "FRANCE. Procession à la Fête-Dieu devant le mont Kellerman sur le plateau de Valmy : photographie de presse / Agence Meurisse. 1916. https://gallica.bnf.fr/ark:/12148/btv1b9044653v.r=fete-dieu%20procession?rk=2489282;4#")
 
-![](/uploads/corpus-christi/EUROPE_france_1928.jpeg "FRANCE. Bayonne. Fête-Dieu Carrefour des cinq cantons. ca 1900. Médiathèque de Bayonne. https://bilketa.bibliomondo.com/ark:/27020/B641026201_PHO330")
+![](/uploads/corpus-christi/EUROPE_france_1928.jpeg "FRANCE. 17-6-28, procession de la Fête-Dieu à Caen : photographie de presse / Agence Rol. 1928. https://gallica.bnf.fr/ark:/12148/btv1b53201948r.r=fete-dieu%20procession?rk=2467823;2#")
 
 ![](/uploads/corpus-christi/EUROPE_germany_munich.jpg "GERMANY. Dickenson County herald. [volume] (Clintwood, Va.), 28 June 1945. Chronicling America: Historic American Newspapers. Lib. of Congress. https://chroniclingamerica.loc.gov/lccn/sn95079130/1945-06-28/ed-1/seq-2/")
 
