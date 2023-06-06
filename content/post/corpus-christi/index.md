@@ -119,7 +119,7 @@ https://onb.digital/result/10EF2798")
 
 ![](/uploads/corpus-christi/boat_GERMANY_rhine_1967.jpg "GERMANY, THE RHINE. The St. Louis Review, Volume 27, Number 36, 8 September 1967. https://thecatholicnewsarchive.org/?a=d&d=SLR19670908-01.2.61&srpos=157")
 
-# See more photographs! 
+# See more photographs
 
 These photographs can't be reused without permission, but I can link out/cite them! 
 
