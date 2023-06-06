@@ -53,9 +53,11 @@ tags:
 
 ![](/uploads/corpus-christi/EUROPE_austria_karl.jpg "AUSTRIA. Fronleichnamsprozession der Hofburgpfarre mit dem Kaiserpaar Karl I. und Zita. Osterreichische Nationalbibliothek. https://onb.digital/result/10DD986C")
 
+![](/uploads/corpus-christi/EUROPE_france_1900.jpg "FRANCE. Procession à la Fête-Dieu devant le mont Kellerman sur le plateau de Valmy : photographie de presse / Agence Meurisse. 1916. https://gallica.bnf.fr/ark:/12148/btv1b9044653v.r=fete-dieu%20procession?rk=2489282;4#")
+
 ![](/uploads/corpus-christi/EUROPE_france_1916.jpeg "FRANCE. Procession à la Fête-Dieu devant le mont Kellerman sur le plateau de Valmy : photographie de presse / Agence Meurisse. 1916. https://gallica.bnf.fr/ark:/12148/btv1b9044653v.r=fete-dieu%20procession?rk=2489282;4#")
 
-![](/uploads/corpus-christi/EUROPE_france_1928.jpeg "FRANCE. 17-6-28, procession de la Fête-Dieu à Caen: photographie de presse - Agence Rol. 1928. https://gallica.bnf.fr/ark:/12148/btv1b53201948r.r=fete-dieu%20procession?rk=2467823;2#")
+![](/uploads/corpus-christi/EUROPE_france_1928.jpeg "FRANCE. Bayonne. Fête-Dieu Carrefour des cinq cantons. ca 1900. Médiathèque de Bayonne. https://bilketa.bibliomondo.com/ark:/27020/B641026201_PHO330")
 
 ![](/uploads/corpus-christi/EUROPE_germany_munich.jpg "GERMANY. Dickenson County herald. [volume] (Clintwood, Va.), 28 June 1945. Chronicling America: Historic American Newspapers. Lib. of Congress. https://chroniclingamerica.loc.gov/lccn/sn95079130/1945-06-28/ed-1/seq-2/")
 
@@ -116,3 +118,59 @@ https://onb.digital/result/10EF2798")
 ![](/uploads/corpus-christi/boat_GERMANY_rhine_1959.jpg "GERMANY, THE RHINE. The Catholic Advocate, Volume 8, Number 23, 5 June 1959. https://thecatholicnewsarchive.org/?a=d&d=ca19590605-01.2.13&srpos=130")
 
 ![](/uploads/corpus-christi/boat_GERMANY_rhine_1967.jpg "GERMANY, THE RHINE. The St. Louis Review, Volume 27, Number 36, 8 September 1967. https://thecatholicnewsarchive.org/?a=d&d=SLR19670908-01.2.61&srpos=157")
+
+# See more photographs! 
+
+These photographs can't be reused without permission, but I can link out/cite them! 
+
+## Maryknoll Mission Archives
+
+Maryknoll students in Corpus Christi procession at Fushun, China, 1938. Maryknoll Mission Archives. https://doi.org/10.25549/impa-m5213
+
+## Google Arts and Culture
+
+BRAZIL. Corpus Christi Procession. 1920. Secretaria da Agricultura, Comércio e Obras Públicas Collection / Centro de Memória-Unicamp. https://artsandculture.google.com/asset/corpus-christi-procession-unidentified/4AGMZM0e5ueWnA
+
+GERMANY. Oberammagau. 1947-06. LIFE. https://artsandculture.google.com/asset/oberammagau/-QGRyufocMEzQw
+
+INDIA. Corpus Christi procession at the Valivade settlement. 195. The Polish History Museum in Warsaw. https://artsandculture.google.com/asset/corpus-christi-procession-at-the-valivade-settlement/YgFDdtRd8wM2uQ
+
+PERU. Chambi, Martin. 'Corpus Christi' procession in the village of Andahuaylillas. 1932. Comune di Milano, Mudec - Museo delle Culture. https://artsandculture.google.com/asset/corpus-christi-procession-in-the-village-of-andahuaylillas-mart%C3%ADn-chambi/HgE-nrsjO9nZ7w
+
+UNITED STATES. Brown, William Henry. Street Altar during procession of Corpus Christi, Sante Fe, N.M. (Full Front). 1870-1875. The J. Paul Getty Museum, Los Angeles. https://artsandculture.google.com/asset/full-front/dgEd7IAnqafvLQ?childassetid=1QGWP6wS3U_R1A
+
+## JSTOR
+
+CANADA. Bayard, Hippolyte, 1801-1887. Corpus Christi Day Procession in the Rue Des Batignolles. 1842. Salted paper print, 16.3x11.7cm. https://jstor.org/stable/community.13725846.
+
+IRELAND. Henri Cartier-Bresson. IRELAND. 1952. IRELAND. Munster. County Kerry. Tralee. 1952. Corpus Christi Procession. 1952. https://jstor.org/stable/community.9850890.
+
+## Assorted 
+
+BELGIUM. Photograph. 1915.The Illustrated War News, Aug 04, 7.
+
+CANADA. Corpus Christi procession parading the streets of Montreal. 1918.Canadian Daily Record, Jul 27, 1.
+
+CHINA. Holy Procession in Macao. 1965.South China Morning Post (1946-), Jun 22, 8.
+
+ENGLAND. Gloucester Journal, Saturday,  June 29, 1946. Page 12.
+
+FRANCE. Huard, Benjamin. Bayonne - Procession de la Fête Dieu. Ville de Bayonne - Médiathèque de Bayonne. https://bilketa.bibliomondo.com/ark:/27020/go637971.locale=fr
+
+FRANCE. Taupenot, Jean-Marie. Procession de la Fête Dieu dans la Cour d'honneur du Prytanée impérial militaire. ABES - Muséum national d'histoire naturelle. http://www.calames.abes.fr/pub/ms/Calames-2017125111166971117
+
+GERMANY. Illustrated London News, June 30, 1945, 704.
+
+GERMANY, BOATS. A German Corpus Christi Procession by Water: Religious Pageantry on a Bavarian Lake. Illustrated London News, June 24, 1933, 930-931.
+
+GERMANY, BOATS. Sacred and secular: religious occasions and May Day celebrations. 1958.The Sphere 233 (3038) (Jun 21): 440-441.
+
+ITALY. Thirty-five tons of flowers for Genzano’s floral carpet brilliant patterns at the Corpus Christi festival. 1950.The Sphere 201 (2679) (Jun 24): 459.
+
+LITHUANIA. Famous cities of the old Baltic states. 1939.The Sphere 159 (2075) (Oct 28): 121-121, 120.
+
+POLAND. The Sphere surveys the world. 1927.The Sphere 110 (1432) (Jul 02): 30.
+
+SWITZERLAND. The festival of Corpus Christi at Lugano. 1911.The Graphic 83 (2168) (Jun 17): 942.
+
+WALES. The Illustrated London News, Saturday,  July 2, 1960
