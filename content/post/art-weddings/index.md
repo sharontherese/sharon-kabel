@@ -50,7 +50,7 @@ tags:
 
 ![](/uploads/art-weddings/waldmuller_farewell2.jpeg "Abschied der Braut von den Eltern, or Farewell to the bride by the parents, by Ferdinand Georg Waldmuller, 1863")
 
-![](/uploads/art-weddings/waldmuller_farewell.jpg "Abschied der Braut" or The Farewell of the Bride from Her Parents Home, by Ferdinand Georg Waldmuller, 1860")
+![](/uploads/art-weddings/waldmuller_farewell.jpg "Abschied der Braut or The Farewell of the Bride from Her Parents Home, by Ferdinand Georg Waldmuller, 1860")
 
 ![](/uploads/art-weddings/waldmuller_departing.jpg "Coming home after the wedding, the bride parting from her playmates, by Ferdinand Georg Waldmuller")
 
