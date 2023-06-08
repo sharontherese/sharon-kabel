@@ -51,7 +51,7 @@ tags:
 
 ![](/uploads/corpus-christi/EUROPE_austria_1895.jpg "AUSTRIA. Fronleichnam in Wien. Osterreichische Nationalbibliothek. https://onb.digital/result/10BE2778")
 
-![](/uploads/corpus-christi/EUROPE_austria_karl.jpg "AUSTRIA. Fronleichnamsprozession der Hofburgpfarre mit dem Kaiserpaar Karl I. und Zita. Osterreichische Nationalbibliothek. https://onb.digital/result/10DD986C")
+![](/uploads/corpus-christi/EUROPE_austria_karl.jpg "AUSTRIA. Fronleichnamsprozession der Hofburgpfarre mit dem Kaiserpaar Karl I. und Zita. Osterreichische Nationalbibliothek. https://onb.digital/result/10DD986C. Karl and Zita Habsburg are underneat the tent on the left. This may have been the last Corpus Christi procession they led in Vienna.")
 
 ![](/uploads/corpus-christi/EUROPE_france_1900.jpg "FRANCE. Bayonne. Fête-Dieu Carrefour des cinq cantons. ca 1900. Médiathèque de Bayonne. https://bilketa.bibliomondo.com/ark:/27020/B641026201_PHO330")
 
