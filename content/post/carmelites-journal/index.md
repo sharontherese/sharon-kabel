@@ -1,7 +1,6 @@
   ---
 title: "The Carmelites of Compiegne (and Robespierre) in the 1794 Journal de Paris"
 date: 2023-07-06
-draft: true 
 
 # View.
 #   1 = List
@@ -41,7 +40,7 @@ Of interest to us is the section Tribunale Revolutionnaire, which recorded the n
 
 On July 18, 1794, the Journal de Paris published the names of those executed on July 17. Included in this list are the 16 Carmelites, listed not by their religious names (to be expected) but by their birth names. The list ended with "dernieres ex-Carmelites a Compiegne." 
 
-![](/uploads/carmelites-journal/carmelites.png "Carmelites death")
+![](/uploads/carmelites-journal/carmelites.png "Journal de Paris, 18 July 1794")
 
 # List of Carmelites
 
@@ -79,6 +78,6 @@ I borrowed Wikipedia's list of the Carmelites, and added a few notes. I reordere
 
 10 days after the Carmelites were killed (as William Bush pointed out, exactly 1 revolutionary week), Maximilian Robespierre was executed in the same way. His arrest and death are recorded in the July 27 and 28 issues of the Journal de Paris. 
 
-![](/uploads/carmelites-journal/robespierre_arrest.png "Robespierre arrest")
+![](/uploads/carmelites-journal/robespierre_arrest.png "Robespierre's arrest, Journal de Paris, 28 July 1794")
 
-![](/uploads/carmelites-journal/robespierre_death.png "Robespierre death")
+![](/uploads/carmelites-journal/robespierre_death.png "Robespierre's execution, Journal de Paris, 29 July 1794")
