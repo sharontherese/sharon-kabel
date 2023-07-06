@@ -33,13 +33,15 @@ tags:
  - carmelites
 ---
 
-# Processions in Africa
+# Journal de Paris
 
-![](/uploads/corpus-christi/AFRICA_burkina.jpg "BURKINA FASO. Crowd watches Corpus Christi processional, Ouagadougou, Burkina Faso, ca.1900-1930. International Mission Photography Archive, ca.1860-ca.1960 (collection), Mission Photographs: Yale Divinity School Library (subcollection), YDS/RG101/007/0000/0036 (file). https://doi.org/10.25549/impa-m12896")
+![](/uploads/carmelites-journal/carmelites.png "Carmelites death")
 
-![](/uploads/corpus-christi/AFRICA_congo.jpg "MADAGASCAR. Corpus Christi procession, Fianarantsoa, Madagascar, ca.1900-1930. International Mission Photography Archive, ca.1860-ca.1960 (collection), Mission Photographs: Yale Divinity School Library (subcollection), YDS/RG101/005/0000/0073 (file). https://doi.org/10.25549/impa-m12520")
+![](/uploads/carmelites-journal/robespierre_arrest.png "Robespierre arrest")
 
-![](/uploads/corpus-christi/AFRICA_madagascar.jpg "CONGO. Celebrating the Feast of Corpus Christi, Lubumbashi, Congo, ca.1920-1940. IMP/YDS/RG101/045/0000/0098 (file), International Mission Photography Archive, ca.1860-ca.1960 (collection), Mission Photographs: Yale Divinity School Library (subcollection). https://doi.org/10.25549/impa-c123-84381 ")
+![](/uploads/carmelites-journal/robespierre_death.png "Robespierre death")
+
+# List of Carmelites
 
 1. Mother Henriette of Jesus, ex-prioress for two terms, elected by the community in 1779 and 1782; novice mistress (Marie-Françoise Gabrielle de **Croissy/Croisy**). Born in Paris, 18 June 1745. 
 2. Sister Teresa of St. Ignatius (Marie-Gabrielle Trézel) Born in Compiègne, 4 April 1743. 
