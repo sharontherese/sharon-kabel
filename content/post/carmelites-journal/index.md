@@ -32,7 +32,7 @@ tags:
  - carmelites
 ---
 
-Each year, I run searches for the Carmelite martyrs of Compiegne to see if I can find them in 18th century art, newspapers, pamphlets, etc. This year's finding was an issue of the Journal de Paris. 
+Each year, I run searches for the Carmelite martyrs of Compiegne to see where I can find them in the historical record.[^1] This year's finding was an issue of the Journal de Paris.[^2] 
 
 The Journal de Paris was a long-running daily newspaper in Paris. During the French Revolution, Journal issues typically began with the section "Convention Nationale," with summaries of the sessions (seances) from the day before. There were also occasional sections for Musique, Variete, Commune de Paris, and Municipalite de Paris. 
 
@@ -79,5 +79,12 @@ I borrowed Wikipedia's list of the Carmelites, and added a few notes. I reordere
 10 days after the Carmelites were killed (as William Bush pointed out, exactly 1 revolutionary week), Maximilian Robespierre was executed in the same way. His arrest and death are recorded in the July 27 and 28 issues of the Journal de Paris. 
 
 ![](/uploads/carmelites-journal/robespierre_arrest.png "Robespierre's arrest, Journal de Paris, 28 July 1794")
+
+# Sources
+
+[^1]: "What did the Carmelites of Compiegne sing?" https://sharonkabel.com/post/compiegne/. "The Final Days of the Carmelites of Compiegne," July 17, 2020. OnePeterFive. https://onepeterfive.com/the-final-days-of-the-carmelites-of-compiegne/
+
+[^2]: Much of the Journal de Paris is currently available on Hathitruth. I reference three issues from 1794: July 18, July 27, and July 28. All of those issues can be found in the following volume: Journal De Paris National. (Paris, France): Impr. du Journal de Paris, 1792-1795. https://catalog.hathitrust.org/Record/011570293
+
 
 ![](/uploads/carmelites-journal/robespierre_death.png "Robespierre's execution, Journal de Paris, 29 July 1794")
