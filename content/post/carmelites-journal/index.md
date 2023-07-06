@@ -47,26 +47,33 @@ On July 18, 1794, the Journal de Paris published the names of those executed on 
 
 I borrowed Wikipedia's list of the Carmelites, and added a few notes. I reordered the names, to match how they appear in the Journal. There are a few discrepancies with name spellings and ages. 
 
-* Mother Henriette of Jesus, ex-prioress for two terms, elected by the community in 1779 and 1782; novice mistress (Marie-Françoise Gabrielle de **Croissy**). Born in Paris, 18 June 1745.
-** Journal: Croisy
-* Sister Teresa of St. Ignatius (Marie-Gabrielle Trézel) Born in Compiègne, 4 April 1743.
-* Sister Teresa of the Sacred Heart of Mary (Marie-Antoniette **Hanisset**). Born in Rheims in 1740 or 1742.
-** Journal: Hannisset
-** Journal: 52 years old, which would make her birth year 1742.  
-* Mother Teresa of St. Augustine, prioress (Madeleine-Claudine **Ledoine**). Born in Paris, 22 September 1752.
-** Journal: Lidoine
-* Sister Mary-Henrietta of Providence (Anne **Petras/Pellerat**). Born in Cajarc, 17 June 1760.
-* Sister Charlotte of the Resurrection, ex-sub-prioress (1764 and 1778) and sacristan (Anne-Marie-Madeleine **Thouret/Tourret**). Born in Mouy, 16 September 1715.
-* Sister Mary of Jesus Crucified (Marie-Anne Piedcourt). Born 1715, professed 1737.
-* Mother St. Louis, sub-prioress (Marie-Anne Brideau). Born in Belfort, 7 December 1752. **No age given in Journal**
-* Sister Euphrasia of the Immaculate Conception (Marie-Claude **Cyprienne/Brard**). Born in 1736 in Bourth.
-* Sister Julie Louise of Jesus, widow (Rose-Chrétien de la Neuville). Born in Loreau (or Évreux), in 1741.
-* Sister St. Martha, lay sister (Marie Dufour). Born in Beaune, 1 October or 2, 1742. **No age given in Journal**
-* Sister Mary of the Holy Spirit, lay sister (Angélique Roussel). Born in Fresnes, 4 August 1742.
-* Sister St. Francis Xavier (Julie **Vérolot/Verolat**), lay sister. Born in Laignes or Lignières, 11 January 1764.
-* Sister Constance of St. Denis, novice (Marie-Geneviève Meunier). Born in Saint-Denis, 28 May 1765 or 1766.
-* Catherine Soiron, extern, born in 1742. **Aged 55 in Journal, but should be 52**
-* Thérèse Soiron, extern, born in 1748. 
+- Mother Henriette of Jesus (Marie-Françoise Gabrielle de **Croissy**). Born in Paris, 18 June 1745.
+  - Journal: Croisy
+- Sister Teresa of St. Ignatius (Marie-Gabrielle **Trézel**) Born in Compiègne, 4 April 1743.
+- Sister Teresa of the Sacred Heart of Mary (Marie-Antoniette **Hanisset**). Born in Rheims in 1740 or 1742.
+  - Journal: Hannisset
+  - Journal: 52 years old, which would make her birth year 1742.  
+- Mother Teresa of St. Augustine (Madeleine-Claudine **Ledoine**). Born in Paris, 22 September 1752.
+  - Journal: Lidoine
+- Sister Mary-Henrietta of Providence (Anne **Petras**). Born in Cajarc, 17 June 1760.
+  - Journal: Pellerat
+- Sister Charlotte of the Resurrection (Anne-Marie-Madeleine **Thouret**). Born in Mouy, 16 September 1715.
+  - Journal: Tourret
+- Sister Mary of Jesus Crucified (Marie-Anne **Piedcourt**). Born 1715, professed 1737.
+- Mother St. Louis (Marie-Anne **Brideau**). Born in Belfort, 7 December 1752.
+  - Journal: No age given
+- Sister Euphrasia of the Immaculate Conception (Marie-Claude **Cyprienne**). Born in 1736 in Bourth.
+  - Journal: Brard
+- Sister Julie Louise of Jesus (Rose-**Chrétien** de la Neuville). Born in Loreau (or Évreux), in 1741.
+- Sister St. Martha (Marie **Dufour**). Born in Beaune, 1 October or 2, 1742. 
+  - Journal: No age given
+- Sister Mary of the Holy Spirit (Angélique **Roussel**). Born in Fresnes, 4 August 1742.
+- Sister St. Francis Xavier (Julie **Vérolot**), lay sister. Born in Laignes or Lignières, 11 January 1764.
+  - Journal: Verolat
+- Sister Constance of St. Denis (Marie-Geneviève **Meunier**). Born in Saint-Denis, 28 May 1765 or 1766.
+- Catherine Soiron, born in 1742.
+  - Journal: 55 years old, but a birth year of 1742 would be 52 years old.
+- Thérèse Soiron, born in 1748
 
 # Bonus
 
