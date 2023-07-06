@@ -33,29 +33,45 @@ tags:
  - carmelites
 ---
 
-# Journal de Paris
+Each year, I run searches for the Carmelite martyrs of Compiegne to see if I can find them in 18th century art, newspapers, pamphlets, etc. This year's finding was an issue of the Journal de Paris. 
+
+The Journal de Paris was a long-running daily newspaper in Paris. During the French Revolution, Journal issues typically began with the section "Convention Nationale," with summaries of the sessions (seances) from the day before. There were also occasional sections for Musique, Variete, Commune de Paris, and Municipalite de Paris. 
+
+Of interest to us is the section Tribunale Revolutionnaire, which recorded the names, ages, and birth towns of the people sentenced to death the day before. Because sentences were frequently carried out the same day that they were handed down, this list can also be seen as a list of the previous day's executions. 
+
+On July 18, 1794, the Journal de Paris published the names of those executed on July 17. Included in this list are the 16 Carmelites, listed not by their religious names (to be expected) but by their birth names. The list ended with "dernieres ex-Carmelites a Compiegne." 
 
 ![](/uploads/carmelites-journal/carmelites.png "Carmelites death")
+
+# List of Carmelites
+
+I borrowed Wikipedia's list of the Carmelites, and added a few notes. I reordered the names, to match how they appear in the Journal. There are a few discrepancies with name spellings and ages. 
+
+* Mother Henriette of Jesus, ex-prioress for two terms, elected by the community in 1779 and 1782; novice mistress (Marie-Françoise Gabrielle de **Croissy**). Born in Paris, 18 June 1745.
+** Journal: Croisy
+* Sister Teresa of St. Ignatius (Marie-Gabrielle Trézel) Born in Compiègne, 4 April 1743.
+* Sister Teresa of the Sacred Heart of Mary (Marie-Antoniette **Hanisset**). Born in Rheims in 1740 or 1742.
+** Journal: Hannisset
+** Journal: 52 years old, which would make her birth year 1742.  
+* Mother Teresa of St. Augustine, prioress (Madeleine-Claudine **Ledoine**). Born in Paris, 22 September 1752.
+** Journal: Lidoine
+* Sister Mary-Henrietta of Providence (Anne **Petras/Pellerat**). Born in Cajarc, 17 June 1760.
+* Sister Charlotte of the Resurrection, ex-sub-prioress (1764 and 1778) and sacristan (Anne-Marie-Madeleine **Thouret/Tourret**). Born in Mouy, 16 September 1715.
+* Sister Mary of Jesus Crucified (Marie-Anne Piedcourt). Born 1715, professed 1737.
+* Mother St. Louis, sub-prioress (Marie-Anne Brideau). Born in Belfort, 7 December 1752. **No age given in Journal**
+* Sister Euphrasia of the Immaculate Conception (Marie-Claude **Cyprienne/Brard**). Born in 1736 in Bourth.
+* Sister Julie Louise of Jesus, widow (Rose-Chrétien de la Neuville). Born in Loreau (or Évreux), in 1741.
+* Sister St. Martha, lay sister (Marie Dufour). Born in Beaune, 1 October or 2, 1742. **No age given in Journal**
+* Sister Mary of the Holy Spirit, lay sister (Angélique Roussel). Born in Fresnes, 4 August 1742.
+* Sister St. Francis Xavier (Julie **Vérolot/Verolat**), lay sister. Born in Laignes or Lignières, 11 January 1764.
+* Sister Constance of St. Denis, novice (Marie-Geneviève Meunier). Born in Saint-Denis, 28 May 1765 or 1766.
+* Catherine Soiron, extern, born in 1742. **Aged 55 in Journal, but should be 52**
+* Thérèse Soiron, extern, born in 1748. 
+
+# Bonus
+
+10 days after the Carmelites were killed (as William Bush pointed out, exactly 1 revolutionary week), Maximilian Robespierre was executed in the same way. His arrest and death are recorded in the July 27 and 28 issues of the Journal de Paris. 
 
 ![](/uploads/carmelites-journal/robespierre_arrest.png "Robespierre arrest")
 
 ![](/uploads/carmelites-journal/robespierre_death.png "Robespierre death")
-
-# List of Carmelites
-
-1. Mother Henriette of Jesus, ex-prioress for two terms, elected by the community in 1779 and 1782; novice mistress (Marie-Françoise Gabrielle de **Croissy/Croisy**). Born in Paris, 18 June 1745. 
-2. Sister Teresa of St. Ignatius (Marie-Gabrielle Trézel) Born in Compiègne, 4 April 1743. 
-3. Sister Teresa of the Sacred Heart of Mary (Marie-Antoniette **Hanisset/Hannisset**). Born in Rheims in 1740 or **1742**. Aged 52.
-4. Mother Teresa of St. Augustine, prioress (Madeleine-Claudine **Ledoine/Lidoine**). Born in Paris, 22 September 1752. 
-5. Sister Mary-Henrietta of Providence (Anne **Petras/Pellerat**). Born in Cajarc, 17 June 1760. 
-6. Sister Charlotte of the Resurrection, ex-sub-prioress (1764 and 1778) and sacristan (Anne-Marie-Madeleine **Thouret/Tourret**). Born in Mouy, 16 September 1715. 
-7. Sister Mary of Jesus Crucified (Marie-Anne Piedcourt). Born 1715, professed 1737.
-8. Mother St. Louis, sub-prioress (Marie-Anne Brideau). Born in Belfort, 7 December 1752. **No age given in Journal**
-9. Sister Euphrasia of the Immaculate Conception (Marie-Claude **Cyprienne/Brard**). Born in 1736 in Bourth. 
-10. Sister Julie Louise of Jesus, widow (Rose-Chrétien de la Neuville). Born in Loreau (or Évreux), in 1741. 
-11. Sister St. Martha, lay sister (Marie Dufour). Born in Beaune, 1 October or 2, 1742. **No age given in Journal** 
-12. Sister Mary of the Holy Spirit, lay sister (Angélique Roussel). Born in Fresnes, 4 August 1742. 
-13. Sister St. Francis Xavier (Julie **Vérolot/Verolat**), lay sister. Born in Laignes or Lignières, 11 January 1764. 
-14. Sister Constance of St. Denis, novice (Marie-Geneviève Meunier). Born in Saint-Denis, 28 May 1765 or 1766. 
-15. Catherine Soiron, extern, born in 1742. **Aged 55 in Journal, but should be 52**
-16. Thérèse Soiron, extern, born in 1748. 
