@@ -38,7 +38,7 @@ The _Journal de Paris_ was a long-running daily newspaper in Paris. During the F
 
 Of interest to us is the section _Tribunale Revolutionnaire_, which recorded the names, ages, and birth towns of the people sentenced to death the day before. Because sentences were frequently carried out the same day that they were handed down, this list can also be seen as a list of the previous day's executions. 
 
-On July 18, 1794, the Journal de Paris published the names of those executed on July 17. Included in this list are the 16 Carmelites, listed by their birth names. The list ended with "dernieres ex-Carmelites a Compiegne." 
+On July 18, 1794, the _Journal de Paris_ published the names of those executed on July 17. Included in this list are the 16 Carmelites, listed by their birth names. The list ended with "dernieres ex-Carmelites a Compiegne." 
 
 ![](/uploads/carmelites-journal/carmelites.png "Journal de Paris, 18 July 1794")
 
