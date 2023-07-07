@@ -1,5 +1,5 @@
 ---
-title: "The Carmelites of Compiegne (and Robespierre) in the 1794 Journal de Paris"
+title: "The Carmelites of Compiegne (and Robespierre) in the Journal de Paris"
 date: 2023-07-06
 
 # View.
