@@ -9,8 +9,8 @@ date: 2020-03-15
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: "[Prayer in Latin, for prevention from the plague](https://commons.wikimedia.org/wiki/File:Prayer_in_Latin,_for_prevention_from_the_plague_Wellcome_L0063751.jpg)"
+image:
+  caption: "Prayer in Latin, for prevention from the plague"
   
 ---
 
