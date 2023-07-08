@@ -9,9 +9,8 @@ date: 2021-06-14
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:  
-  caption: ""
-  image: ""
+image:  
+  caption: "Enseignement de la géométrie, 1300-1349. Bibliothèque nationale de France. ark:/12148/btv1b10575603j"
 
 tags:
  - Stanley Jaki
