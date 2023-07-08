@@ -9,15 +9,13 @@ date: 2020-12-06
 view: 2
 
 # Optional header image (relative to `static/img/` folder)
-header:
-  caption: ""
-  image: "guittonheader.jpg"
+image:
+  caption: "Pope Paul VI and Jean Guitton. Undated."
+
   
 tags:
  - Catholic fact check
 ---
-
-_Photograph: Pope Paul VI and Jean Guitton. Undated._
 
 # Claim
 
