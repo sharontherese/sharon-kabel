@@ -9,9 +9,8 @@ date: 2021-05-27
 view: 2
 
 # Optional header image (relative to `static/img/` folder)
-header:
-  caption: "'The Corpus Christi procession,' Arcadi Mas i Fondevila (1887)"
-  image: "fondevila_corpuschristi.jpg"
+image:
+  caption: "The Corpus Christi procession, Arcadi Mas i Fondevila (1887)"
   
 tags:
  - art
