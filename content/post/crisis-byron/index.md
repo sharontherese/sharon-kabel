@@ -12,9 +12,9 @@ tags:
  - cataloging the crisis
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+image:
+  caption: "The St. Louis Review, Volume 9, Number 14, 1 April 1949"
+
 ---
 
 Father Joseph Byron came to my attention because of his connection to a minor innovation, "dialogue homilies." It is difficult to say with certainty what they were, but judging by results in the Catholic News Archive, they were an experimental feature of some liturgies practiced in 1966-1972. 
