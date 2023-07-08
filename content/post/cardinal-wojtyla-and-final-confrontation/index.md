@@ -9,9 +9,8 @@ date: 2021-01-29
 view: 2
 
 # Optional header image (relative to `static/img/` folder)
-header:
+image:
   caption: "The Catholic Transcript, Volume LXVIII, Number 45, 5 March 1976"
-  image: "wojtylaheader.png"
   
 tags:
  - Catholic fact check
