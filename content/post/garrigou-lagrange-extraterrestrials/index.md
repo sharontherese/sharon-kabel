@@ -9,9 +9,8 @@ date: 2021-06-08
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:  
+image:  
   caption: "Fra Filippo Lippi, 'The Annunciation'"
-  image: "lippi_annunciation.jpg"
 
 tags:
  - science
