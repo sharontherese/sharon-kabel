@@ -10,8 +10,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 image:
-  caption: "Greek Miniaturist, "Homilies of Ioannes Chrysostomos." c. 1078. Manuscript (Ms. Coislin 79) Bibliothèque Nationale, Paris"
-#  image: ""
+  caption: "Greek Miniaturist, Homilies of Ioannes Chrysostomos. c. 1078. Manuscript (Ms. Coislin 79) Bibliothèque Nationale, Paris"
   
 tags:
  - Catholic fact check
