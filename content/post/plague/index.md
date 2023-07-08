@@ -10,8 +10,8 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "[Prayer in Latin, for prevention from the plague Wellcome L0063751](https://commons.wikimedia.org/wiki/File:Prayer_in_Latin,_for_prevention_from_the_plague_Wellcome_L0063751.jpg)"
-  image: "plague.jpg"
+  caption: "[Prayer in Latin, for prevention from the plague](https://commons.wikimedia.org/wiki/File:Prayer_in_Latin,_for_prevention_from_the_plague_Wellcome_L0063751.jpg)"
+  
 ---
 
 > “When a severe plague was raging in the city of Trent in 1546, it is reported that the fathers of the Council of Trent devoutly wore certain characters arranged in the form of a cross collected by S. Zacharias, ancient Bishop of Jerusalem. In fact, they found that wearing and venerating these characters as signs of various devout ancient and spontaneous prayers to ward off the evil of contagion (as described by their explanation), was an advantageous remedy against the plague. These characters were written down on parchment in ancient times by the sainted bishop, and then found in the Monastery of Frailes in Spain, and placed in veneration with an admirable effect by devout people, who paid tribute to them, brought them back, and said the prayers.”
