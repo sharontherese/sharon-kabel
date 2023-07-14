@@ -1,5 +1,5 @@
 ---
-title: "9 centuries of the choir and high altar of Notre Dame de Paris"
+title: "9 centuries of the high altar and choir of Notre Dame de Paris"
 date: 2023-07-06
 draft: false 
 
