@@ -66,7 +66,7 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 
 ![](/uploads/notre-dame-paris-altar/1709_Mass.jpg "1709_Mass. Jean-Baptiste Jouvenet (1644-1717). 1709. Mass Said by the Canon de La Porte, or the High Altar of Notre-Dame de Paris. painting. Place: Musée du Louvre, Paris, France. https://library-artstor-org.ezaccess.libraries.psu.edu/asset/LESSING_ART_10310752388")
 
-![](/uploads/notre-dame-paris-altar/1725_Grand.jpg "1725_Grand. General Research Division, The New York Public Library. "Grand Autel de Notre Dame" New York Public Library Digital Collections. Accessed June 30, 2023. https://digitalcollections.nypl.org/items/898d048d-d14d-5dce-e040-e00a18062ce")
+![](/uploads/notre-dame-paris-altar/1725_Grand.jpg "1725_Grand. General Research Division, The New York Public Library. Grand Autel de Notre Dame. New York Public Library Digital Collections. Accessed June 30, 2023. https://digitalcollections.nypl.org/items/898d048d-d14d-5dce-e040-e00a18062ce")
 
 ![](/uploads/notre-dame-paris-altar/1735_Pompe.jpg "1735_Pompe. Charles-Nicolas Cochin and Rene de Bonneval. Pompe funèbre de Polixène de Hesse-Rhinfels, reine de Sardaigne, en l'Eglise de Notre Dame de Paris, le XXIVe mars MDCCXXXV. 1735. Bibliothèque de l'Institut National d'Histoire de l'Art, collections Jacques Doucet. https://bibliotheque-numerique.inha.fr/idurl/1/25828")
 
@@ -94,7 +94,7 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 
 ![](/uploads/notre-dame-paris-altar/1793_Fete.jpeg "1793_Fete. Fête idolâtre célébré dans la cathedrale Notre Dame à Paris, où les jacobins firent asseoir une actrice sur l'autel. 1793, J. M. Will: Augsburg. https://gallica.bnf.fr/ark:/12148/btv1b52509803t?rk=1373397;2")
 
-![](/uploads/notre-dame-paris-altar/1800s_Cathedrale.jpeg "1800s_Cathedrale. Cathédrale Notre-Dame de Paris. Le choeur avec le maître-autel, les statues de Louis XIII et Louis XIV et six anges en bronze. 19th century. Photo (C) Ministère de la Culture - Médiathèque du patrimoine et de la photographie, Dist. RMN-Grand Palais / image RMN-GP. https://www.photo.rmn.fr/archive/21-550765-2C6NU0A5A6LEG.html")
+![](/uploads/notre-dame-paris-altar/1800s_Cathedrale.jpg "1800s_Cathedrale. Cathédrale Notre-Dame de Paris. Le choeur avec le maître-autel, les statues de Louis XIII et Louis XIV et six anges en bronze. 19th century. Photo (C) Ministère de la Culture - Médiathèque du patrimoine et de la photographie, Dist. RMN-Grand Palais image RMN-GP. https://www.photo.rmn.fr/archive/21-550765-2C6NU0A5A6LEG.html")
 
 ![](/uploads/notre-dame-paris-altar/1800s_Choeur.jpeg "1800s_Choeur. Charles Percier. Le choeur de Notre-Dame avant la restauration de M. Viollet-le-Duc. 18... Bibliothèque nationale de France. https://gallica.bnf.fr/ark:/12148/btv1b103033087?rk=879832;4")
 
@@ -110,7 +110,7 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 
 ![](/uploads/notre-dame-paris-altar/1804_Onction.jpeg "1804_Onction. Fill, Phil. Jos. L'onction et le couronnement solemnel de Sa Majesté impériale Napoléon, premier, empereur des Français et de Sa Majesté impériale Joséphine, impératrice, par sa sainteté le suprême Pontife Pie VII, dans l'église de Notre-Dame à Paris, le 11 frimaire an 13. https://gallica.bnf.fr/ark:/12148/btv1b8413272f/f1.item")
 
-![](/uploads/notre-dame-paris-altar/1807_Antel.jpg "1807_Antel. The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Art & Architecture Collection, The New York Public Library. "Vue de l'intérieur de l'Église de Notre-Dame, en regardent le Mâitre-Antel." New York Public Library Digital Collections. Accessed June 30, 2023. https://digitalcollections.nypl.org/items/510d47e2-ab1a-a3d9-e040-e00a18064a99")
+![](/uploads/notre-dame-paris-altar/1807_Antel.jpg "1807_Antel. The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Art & Architecture Collection, The New York Public Library. Vue de l'intérieur de l'Église de Notre-Dame, en regardent le Mâitre-Antel. New York Public Library Digital Collections. Accessed June 30, 2023. https://digitalcollections.nypl.org/items/510d47e2-ab1a-a3d9-e040-e00a18064a99")
 
 ![](/uploads/notre-dame-paris-altar/1810_Prestation.jpeg "1810_Prestation. Prestation du serment des évêques après la messe du Saint-Esprit célébrée dans le choeur de la Basilique de Notre Dame de Paris : [estampe]. 1810-1811, A Paris, chez Jean, rue S.t-Jean de Beauvais, N° 10. Bibliothèque nationale de France. https://gallica.bnf.fr/ark:/12148/btv1b8413647r")
 
