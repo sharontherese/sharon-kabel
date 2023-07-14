@@ -50,6 +50,8 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 
 # The high altar and choir of Notre Dame de Paris
 
+## The Middle Ages
+
 ![](/uploads/notre-dame-paris-altar/1200s_Altar.jpg "1200s_Altar. Viollet-le-Duc, E. (1875). Dictionnaire raisonné de l'architecture française du XIe au XVIe siècle. Paris: A. Morel. https://catalog.hathitrust.org/Record/000776217/Home")
 
 ![](/uploads/notre-dame-paris-altar/1200s_Choeur.jpg "1200s_Choeur. Viollet-le-Duc, Eugène-Emmanuel, 1814-1879, and Edgar Quinet. Les églises De Paris: Le Panthéon Par E. Quinet. Paris: C. Marpon et E. Flammarion, 1883. https://catalog.hathitrust.org/Record/100345704")
@@ -57,6 +59,8 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 ![](/uploads/notre-dame-paris-altar/1200s_Geschichte.jpg "1200s_Geschichte. The main altars of Notre-Dame Cathedral in Paris (fig. 1) and Arras Cathedral (fig. 2), both with altar curtains (tetravela). Illustration in Franz Bock's 1871 Geschichte der liturgischen Gewänder des Mittelalters: oder Entstehung und Entwicklung der kirchlichen Ornate und Paramente in Rücksicht auf Stoff, Gewebe, Farbe, Zeichnung, Schnitt und rituelle Bedeutung. Band 3: Die Paramentik des Altares und des Chores im Mittelalter. https://commons.wikimedia.org/wiki/File:Bock1871bd3_0259.jpg")
 
 ![](/uploads/notre-dame-paris-altar/1200s_meaulle.jpg "1200s_Meaulle. Fortuné Louis Méaulle. [Notre-Dame de Paris, Livre troisième.] Le Grand-Autel. 1877. Maison de Victor Hugo - Hauteville House. Numéro d’inventaire: 2017.0.1322.3. https://www.parismuseescollections.paris.fr/fr/maison-de-victor-hugo/oeuvres/notre-dame-de-paris-livre-troisieme-le-grand-autel-1#infos-principales")
+
+## The 17th-18th centuries: King Louis XIV's renovations
 
 ![](/uploads/notre-dame-paris-altar/1669_Choeur.jpg "1669_Choeur. Choeur de N-D de Paris lors du Te Deum donné en 1669, gravure de Jean Marot (1619-1679), musée Notre-Dame. https://commons.wikimedia.org/wiki/File:Choeur_de_ND_de_Paris_1669.jpg")
 
@@ -88,6 +92,8 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 
 ![](/uploads/notre-dame-paris-altar/1787_Messe.jpg "1787_Messe. Jacques-Simon Chéreau. Messe solennelle celebrée par M.gr l'archevesque au m.tre autel de l'eglise de Notre Dame de Paris. Inventé par B. Picard. Between 1787 and 1805. Collections numérisées de la bibliothèque de l'INHA. https://bibliotheque-numerique.inha.fr/idurl/1/68850")
 
+## The 18th-19th centuries: The French Revolution and Napoleon
+
 ![](/uploads/notre-dame-paris-altar/1789_Benediction.jpg "1789_Benediction. Berthault, Pierre Gabriel, Etcher, and François Louis Prieur. Bénédiction des drapeaux de la Garde Nationale Parisienne a Notre Dame, le 27 Septmebre/ Prieur inv. & del. ; Berthault sculp. Paris France, 1804. [Paris: Chez Auber] Photograph. https://www.loc.gov/item/2015646561/")
  
 ![](/uploads/notre-dame-paris-altar/1790_Deum.jpeg "1790_Deum. Te Deum chanté à N.D. le 14 fevrier 1790 en mémoire de la seance du 4, ou le roi assista. 1790, Imprimerie des Revolutions: Paris. https://gallica.bnf.fr/ark:/12148/btv1b6948087c?rk=42918;4#")
@@ -118,6 +124,8 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 
 ![](/uploads/notre-dame-paris-altar/1811_Bapteme.jpg "1811_Bapteme. Baptême de Napoléon François Charles, roi de Rome. 1811. Photo (C) RMN-Grand Palais (MuCEM) / Jean-Gilles Berizzi. https://www.photo.rmn.fr/archive/02-011982-2C6NU0GK29RP.html")
 
+## The 19th-21st centuries: Viollet-le-Duc and the Modern Age
+
 ![](/uploads/notre-dame-paris-altar/1840s_Reproduction.jpg "1840s_Reproduction. Emmanuel-Louis Mas. Cathédrale Notre-Dame de Paris. Reproduction d’un dessin d'Eugène Emmanuel Viollet-le-Duc. Projet pour un orgue. Photo (C) Ministère de la Culture - Médiathèque du patrimoine et de la photographie, Dist. RMN-Grand Palais / Emmanuel-Louis Mas. https://www.photo.rmn.fr/archive/19-537127-2C6NU0AX5WAZB.html")
 
 ![](/uploads/notre-dame-paris-altar/1880_Cathedrale.jpg "1880_Cathedrale. Cathédrale Notre-Dame, intérieur, le maître-autel. Bibliothèque Historique de la Ville de Paris. https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0002224853/0001.locale=en")
@@ -125,10 +133,6 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 ![](/uploads/notre-dame-paris-altar/1900_Interior.jpg "1900_Interior. Interior of the great Notre Dame cathedral, Paris, France. France, 1900. Photograph. https://www.loc.gov/item/2019641463/")
 
 ![](/uploads/notre-dame-paris-altar/1931_Obseques.jpeg "1931_Obseques. Agence Rol. Agence photographique (commanditaire). 7 janvier 1931, obsèques de Joffre à Notre-Dame de Paris : photographie de presse / Agence Rol. 1931. Bibliothèque nationale de France. https://gallica.bnf.fr/ark:/12148/btv1b53238542w")
-
-![](/uploads/notre-dame-paris-altar/2013_Altar.jpg "2013_Altar. Larry Koester. Notre-Dame's high altar with the kneeling statues of Louis XIII and Louis XIV. February 14, 2013. Reshared under CC-BY 2.0. https://www.flickr.com/photos/larrywkoester/50802352532/0")
-
-![](/uploads/notre-dame-paris-altar/2014_Choeur.jpg "2014_Choeur. Notre-Dame de Paris - Tapis monumental du chœur - 012. Thesupermat. Reshared under CC-BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_-_Tapis_monumental_du_ch%C5%93ur_-_012.jpg")
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:Roboto,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:550px;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/104414192" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:108.00001% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/104414192?et=EWRJZNBtR2hgYRdd1_4B4w&tld=com&sig=dfonIs4IqVWCc8MrZdZ3f7-ciOPUjPG4zx56l5iNsrs=&caption=true&ver=1" scrolling="no" frameborder="0" width="550" height="594" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div></div>
 
@@ -138,9 +142,25 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 
 1967: Charles de Gaulle dans la cathédrale Notre-Dame de Paris. Photo by KEYSTONE-FRANCE/Gamma-Rapho via Getty Images.
 
+![](/uploads/notre-dame-paris-altar/2013_Altar.jpg "2013_Altar. Larry Koester. Notre-Dame's high altar with the kneeling statues of Louis XIII and Louis XIV. February 14, 2013. Reshared under CC-BY 2.0. https://www.flickr.com/photos/larrywkoester/50802352532/0")
+
+![](/uploads/notre-dame-paris-altar/2014_Choeur.jpg "2014_Choeur. Notre-Dame de Paris - Tapis monumental du chœur - 012. Thesupermat. Reshared under CC-BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_-_Tapis_monumental_du_ch%C5%93ur_-_012.jpg")
+
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:Roboto,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/1189627642" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.66667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/1189627642?et=LVD1GRRaQz5uGnufvvoyMw&tld=com&sig=3BexqnlTSL9KWbwY7LG1AJ22CZvelFFFRNaW6HpXvNw=&caption=true&ver=1" scrolling="no" frameborder="0" width="594" height="396" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div></div>
 
 2019: Pictures Of The Year: The Other Half. Photographer: Christophe Morin/Bloomberg via Getty Images.
+
+# Read More 
+
+Viollet-le-Duc, E. (1875). Dictionnaire raisonné de l'architecture française du XIe au XVIe siècle. Paris: A. Morel. https://catalog.hathitrust.org/Record/000776217 
+
+Viollet-le-Duc, E., Quinet, E. (1883). Les églises de Paris: Le Panthéon par E. Quinet. Paris: C. Marpon et E. Flammarion. https://catalog.hathitrust.org/Record/100345704
+
+Devrim Topsakal, Elif. 2023. “In search of the “definite reference”: Cathedral of Notre Dame de Paris and Gothic Architecture.” Ph.D. - Doctoral Program, Middle East Technical University. https://hdl.handle.net/11511/102779
+
+Henri Daniel-Rops. (1957). Cathedral and Crusade: studies of the medieval church. London: Dent. https://archive.org/details/cathedralcrusade0000unse/
+
+F. Hoffbauer, et al. (1885). Paris à travers les âges : aspects successifs des monuments et quartiers historiques de Paris depuis le XIIIe siècle jusqu'à nos jours. Paris: Firmin-Didot. 
 
 # Sources
 
