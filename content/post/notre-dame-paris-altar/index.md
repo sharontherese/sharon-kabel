@@ -22,7 +22,7 @@ view: 2
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: "Grand Autel de Notre Dame. 1725. New York Public Library Digital Collections."
+  caption: "The original high altar of Notre Dame de Paris. Viollet-le-Duc, E. (1875). Dictionnaire raisonné de l’architecture française du XIe au XVIe siècle."
   focal_point: "Center"
   preview_only: false
 #  alt_text: An optional description of the image for screen readers.
