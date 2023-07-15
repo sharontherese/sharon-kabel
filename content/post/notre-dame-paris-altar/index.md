@@ -128,11 +128,11 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 
 ![](/uploads/notre-dame-paris-altar/1800s_Unknown.jpg "1163-c.1250. Paris: Notre-Dame Cathedral Ref.: drawings sanctuary. https://library-artstor-org.ezaccess.libraries.psu.edu/asset/ARTSTOR_103_41822003354576")
 
-![](/uploads/notre-dame-paris-altar/1880_Cathedrale.jpg "1880_Cathedrale. Cathédrale Notre-Dame, intérieur, le maître-autel. Bibliothèque Historique de la Ville de Paris. https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0002224853/0001.locale=en")
+![](/uploads/notre-dame-paris-altar/1880_Cathedrale.jpg "Cathédrale Notre-Dame, intérieur, le maître-autel. Bibliothèque Historique de la Ville de Paris. https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0002224853/0001.locale=en")
 
-![](/uploads/notre-dame-paris-altar/1900_Interior.jpg "1900_Interior. Interior of the great Notre Dame cathedral, Paris, France. France, 1900. Photograph. https://www.loc.gov/item/2019641463/")
+![](/uploads/notre-dame-paris-altar/1900_Interior.jpg "Interior of the great Notre Dame cathedral, Paris, France. France, 1900. Photograph. https://www.loc.gov/item/2019641463/")
 
-![](/uploads/notre-dame-paris-altar/1931_Obseques.jpeg "1931_Obseques. Agence Rol. Agence photographique (commanditaire). 7 janvier 1931, obsèques de Joffre à Notre-Dame de Paris : photographie de presse / Agence Rol. 1931. Bibliothèque nationale de France. https://gallica.bnf.fr/ark:/12148/btv1b53238542w")
+![](/uploads/notre-dame-paris-altar/1931_Obseques.jpeg "Agence Rol. Agence photographique (commanditaire). 7 janvier 1931, obsèques de Joffre à Notre-Dame de Paris : photographie de presse / Agence Rol. 1931. Bibliothèque nationale de France. https://gallica.bnf.fr/ark:/12148/btv1b53238542w")
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:Roboto,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:550px;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/104414192" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:108.00001% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/104414192?et=EWRJZNBtR2hgYRdd1_4B4w&tld=com&sig=dfonIs4IqVWCc8MrZdZ3f7-ciOPUjPG4zx56l5iNsrs=&caption=true&ver=1" scrolling="no" frameborder="0" width="550" height="594" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div></div>
 
@@ -142,9 +142,9 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 
 1967: Charles de Gaulle dans la cathédrale Notre-Dame de Paris. Photo by KEYSTONE-FRANCE/Gamma-Rapho via Getty Images.
 
-![](/uploads/notre-dame-paris-altar/2013_Altar.jpg "2013_Altar. Larry Koester. Notre-Dame's high altar with the kneeling statues of Louis XIII and Louis XIV. February 14, 2013. Reshared under CC-BY 2.0. https://www.flickr.com/photos/larrywkoester/50802352532/0")
+![](/uploads/notre-dame-paris-altar/2013_Altar.jpg "Larry Koester. Notre-Dame's high altar with the kneeling statues of Louis XIII and Louis XIV. February 14, 2013. Reshared under CC-BY 2.0. https://www.flickr.com/photos/larrywkoester/50802352532/0")
 
-![](/uploads/notre-dame-paris-altar/2014_Choeur.jpg "2014_Choeur. Notre-Dame de Paris - Tapis monumental du chœur - 012. Thesupermat. Reshared under CC-BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_-_Tapis_monumental_du_ch%C5%93ur_-_012.jpg")
+![](/uploads/notre-dame-paris-altar/2014_Choeur.jpg "Notre-Dame de Paris - Tapis monumental du chœur - 012. Thesupermat. Reshared under CC-BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_-_Tapis_monumental_du_ch%C5%93ur_-_012.jpg")
 
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:Roboto,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/1143993689" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.66667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/1143993689?et=klW7JSnERYJ226Xumm3OJQ&tld=com&sig=QqTYyStAj9TPGNOgb1os_vZPJrwX7---Nn51vWFKv_I=&caption=true&ver=1" scrolling="no" frameborder="0" width="594" height="396" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div></div>
 
