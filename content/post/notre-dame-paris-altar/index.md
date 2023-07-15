@@ -22,7 +22,7 @@ view: 2
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: "Grand Autel de Notre Dame. New York Public Library Digital Collections."
+  caption: "Grand Autel de Notre Dame. 1725. New York Public Library Digital Collections."
   focal_point: "Center"
   preview_only: false
 #  alt_text: An optional description of the image for screen readers.
@@ -70,7 +70,7 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 
 ![](/uploads/notre-dame-paris-altar/1709_Mass.jpg "Jean-Baptiste Jouvenet (1644-1717). 1709. Mass Said by the Canon de La Porte, or the High Altar of Notre-Dame de Paris. painting. Place: Musée du Louvre, Paris, France. https://library-artstor-org.ezaccess.libraries.psu.edu/asset/LESSING_ART_10310752388")
 
-![](/uploads/notre-dame-paris-altar/1725_Grand.jpg "General Research Division, The New York Public Library. Grand Autel de Notre Dame. New York Public Library Digital Collections. Accessed June 30, 2023. https://digitalcollections.nypl.org/items/898d048d-d14d-5dce-e040-e00a18062ce")
+![](/uploads/notre-dame-paris-altar/1725_Grand.jpg "General Research Division, The New York Public Library. Grand Autel de Notre Dame. New York Public Library Digital Collections. Accessed June 30, 2023. https://digitalcollections.nypl.org/items/898d048d-d14d-5dce-e040-e00a18062ceb")
 
 ![](/uploads/notre-dame-paris-altar/1735_Pompe.jpg "Charles-Nicolas Cochin and Rene de Bonneval. Pompe funèbre de Polixène de Hesse-Rhinfels, reine de Sardaigne, en l'Eglise de Notre Dame de Paris, le XXIVe mars MDCCXXXV. 1735. Bibliothèque de l'Institut National d'Histoire de l'Art, collections Jacques Doucet. https://bibliotheque-numerique.inha.fr/idurl/1/25828")
 
