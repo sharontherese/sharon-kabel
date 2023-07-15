@@ -9,9 +9,9 @@ date: 2021-05-27
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:  
+image:  
   caption: "'The Ambassadors,' Hans Holbein the Younger"
-  image: "holbeinheader.jpg"
+#  image: "holbeinheader.jpg"
 
 tags:
  - Stanley Jaki
