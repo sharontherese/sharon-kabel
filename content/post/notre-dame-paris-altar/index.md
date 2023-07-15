@@ -60,9 +60,9 @@ Below is a pictorial timeline of the high altar and choir of Notre Dame de Paris
 
 ![](/uploads/notre-dame-paris-altar/1200s_meaulle.jpg "Fortuné Louis Méaulle. [Notre-Dame de Paris, Livre troisième.] Le Grand-Autel. 1877. Maison de Victor Hugo - Hauteville House. Numéro d’inventaire: 2017.0.1322.3. https://www.parismuseescollections.paris.fr/fr/maison-de-victor-hugo/oeuvres/notre-dame-de-paris-livre-troisieme-le-grand-autel-1#infos-principales")
 
-## The 17th-18th centuries: King Louis XIV's renovations
-
 ![](/uploads/notre-dame-paris-altar/1669_Choeur.jpg "Choeur de N-D de Paris lors du Te Deum donné en 1669, gravure de Jean Marot (1619-1679), musée Notre-Dame. https://commons.wikimedia.org/wiki/File:Choeur_de_ND_de_Paris_1669.jpg")
+
+## The 17th-18th centuries: King Louis XIV's renovations
 
 ![](/uploads/notre-dame-paris-altar/1699_Voeu.jpg "Jerome Roussel. Voeu de Louis XIII. 1699. Petit Palais, musée des Beaux-arts de la Ville de Paris. https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/voeu-de-louis-xiii-0#infos-principales")
 
