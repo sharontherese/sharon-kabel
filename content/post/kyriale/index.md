@@ -38,6 +38,6 @@ More information can be found at CCWatershed's Saint Antoine Daniel Kyriale: htt
 | `Weddings`             | any            | none |
 | `Funerals`             | pro defunctis  | none | 
 
-View the chart {{% staticref "files/Kyriale_chart.pdf" %}}as a color-coded PDF here{{% /staticref %}}.
+{{% staticref "files/Kyriale_chart.pdf" %}}View the chart as a color-coded PDF here.{{% /staticref %}}
 
 
