@@ -9,9 +9,9 @@ date: 2020-11-30
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:  
-  caption: "Kyrie XI (Orbis Factor) from Mass for Sundays throughout the Year (folio 53, verso), University of Missouri-Kansas City. https://library.umkc.edu/exhibits/chantbook"
-  image: "kyrie-lg.jpg"
+image:  
+  caption: "Kyrie XI (Orbis Factor) from Mass for Sundays throughout the Year (folio 53, verso), University of Missouri-Kansas City."
+#  image: "kyrie-lg.jpg"
   
 tags: 
 - music 
