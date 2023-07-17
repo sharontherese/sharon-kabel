@@ -80,11 +80,10 @@ I borrowed Wikipedia's list of the Carmelites, and added a few notes. I reordere
 
 ![](/uploads/carmelites-journal/robespierre_arrest.png "Robespierre's arrest, Journal de Paris, 28 July 1794")
 
+![](/uploads/carmelites-journal/robespierre_death.png "Robespierre's execution, Journal de Paris, 29 July 1794")
+
 # Sources
 
 [^1]: "What did the Carmelites of Compiegne sing?" https://sharonkabel.com/post/compiegne/. "The Final Days of the Carmelites of Compiegne," July 17, 2020. OnePeterFive. https://onepeterfive.com/the-final-days-of-the-carmelites-of-compiegne/
 
 [^2]: Much of the Journal de Paris is currently available on Hathitruth. I reference three issues from 1794: July 18, July 28, and July 29. All of those issues can be found in the following volume: Journal De Paris National. (Paris, France): Impr. du Journal de Paris, 1792-1795. https://catalog.hathitrust.org/Record/011570293
-
-
-![](/uploads/carmelites-journal/robespierre_death.png "Robespierre's execution, Journal de Paris, 29 July 1794")
