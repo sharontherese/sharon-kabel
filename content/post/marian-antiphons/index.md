@@ -2,16 +2,16 @@
 title: Printable Marian Antiphons
 date: 2020-12-01
 view: 2
-header:
+image:
   caption: ''
-  image: "almaheader.png"
+#  image: "almaheader.png"
 
 tags:
 - music
 
 ---
 
-There are four Marian antiphons that are sung, during the Divine Office and sometimes during Mass, throughout the year. 
+There are four Marian antiphons that are sung throughout the liturgical year, during the Divine Office and sometimes after Mass. 
 
 _Alma Redemptoris Mater_ is sung from Advent to Candlemas. 
 
@@ -23,7 +23,7 @@ _Salve Regina_ is sung from Trinity Sunday to the first Sunday of Advent.
 
 I made letter-sized (8.5x11) posters, one for each Marian antiphon. Included for each is a woodcut from Albrecht Durer's unfinished work _Life of the Virgin_. 
 
-View as a {{% staticref "files/Marian_Antiphons.pdf" %}}PDF{{% /staticref %}}.
+{{% staticref "files/Marian_Antiphons.pdf" %}}View and print as a PDF.{{% /staticref %}}
 
 ![](/uploads/marian-antiphons/almaredemptoris.png)
 
