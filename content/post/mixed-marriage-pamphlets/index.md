@@ -73,7 +73,7 @@ Heenan, John C. They Made Me Sign. London; New York, 1961.
 
 ![](/uploads/mixedmarriage/tellher.png)
 
-Jewell, Walter. Tell Her You're a Catholic. 1949. (with full text)
+Jewell, Walter. Tell Her You're a Catholic. 1949.
 
 {{% staticref "files/tellheryoureacatholic2.pdf" %}}Full text PDF{{% /staticref %}}
 
