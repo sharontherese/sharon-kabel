@@ -9,9 +9,9 @@ date: 2021-05-23
 view: 2
 
 # Optional header image (relative to `static/img/` folder)
-header:
+image:
   caption: "Photo found at The Leaven, the official newspaper of the Archdiocese of Kansas City in Kansas. Original caption: 'CNS PHOTO FROM KNA Father Joseph Ratzinger, right, talks with an unidentified prelate in this photo taken in 1962 during the Second Vatican Council. The future Pope Benedict XVI attended all four sessions of the council as a theological adviser to German Cardinal Joseph Frings of Cologne.'"
-  image: "header_ratzinger.jpg"
+#  image: "header_ratzinger.jpg"
   
 tags:
  - Catholic fact check
