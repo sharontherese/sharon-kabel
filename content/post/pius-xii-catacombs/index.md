@@ -10,7 +10,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 image:
-  caption: "The Catholic World in Pictures, 31 December 1948: In a solemn state visit, Luigi Einaudi, President of Italy, and His Holiness Pope Pius XII converse in Latin, the traditional solemn language of the Holy See."
+  caption: "The Catholic World in Pictures, 31 December 1948."
 #  image: "piusxiicatacombsheader.png"
   
 tags:
