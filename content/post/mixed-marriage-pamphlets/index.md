@@ -53,13 +53,13 @@ Catholic husband, and Protestant wife. I Love You But. Union City, N.J., 1952.
 
 * Photos and listing: https://www.ebay.com/itm/165267468706
 
-# Six Pre-Marriage Instructions for Catholics and Non-Catholics (1944, with full text)
+# Six Pre-Marriage Instructions for Catholics and Non-Catholics (1944)
 
 ![](/uploads/mixedmarriage/sixpremarriage.png)
 
-Fathers Rumble and Carty. Six Pre-Marriage Instructions for Catholics and Non-Catholics. Saint Paul, MN, 1944. (with full text)
+Fathers Rumble and Carty. Six Pre-Marriage Instructions for Catholics and Non-Catholics. Saint Paul, MN, 1944. 
 
-* Full text: {{% staticref "files/sixpremarriagein00unse.pdf" %}}PDF{{% /staticref %}}
+{{% staticref "files/sixpremarriagein00unse.pdf" %}}Full text PDF{{% /staticref %}}
 
 # They Made Me Sign (1961)
 
@@ -69,14 +69,15 @@ Heenan, John C. They Made Me Sign. London; New York, 1961.
 
 * Photo and listing: https://www.abebooks.com/servlet/BookDetailsPL?bi=25730211
 
-# Tell Her You're a Catholic (1949, with full text)
+# Tell Her You're a Catholic (1949)
 
 ![](/uploads/mixedmarriage/tellher.png)
 
 Jewell, Walter. Tell Her You're a Catholic. 1949. (with full text)
 
-* Full text: {{% staticref "files/tellheryoureacatholic2.pdf" %}}PDF{{% /staticref %}}
-* Full text: http://archive.org/details/TellHerYoureACatholic
+{{% staticref "files/tellheryoureacatholic2.pdf" %}}Full text PDF{{% /staticref %}}
+
+Full text: http://archive.org/details/TellHerYoureACatholic
 
 # Marry Your Own (1953)
 
@@ -92,14 +93,15 @@ Lord, Daniel A., and Australian Catholic Truth Society. Marry Your Own : A Discu
 
 Lover, James Francis. Mixed Marriages Are Risky! 1954.
 
-# Can Mixed Marriages Be Happy? (1956, with full text)
+# Can Mixed Marriages Be Happy? (1956)
 
 ![](/uploads/mixedmarriage/canmixedmarriages.png)
 
 Miller, D. F. Can Mixed Marriages Be Happy? 1956. 
 
-* Full text: {{% staticref "files/CanMixedMarriages.pdf" %}}PDF{{% /staticref %}}
-* Full text: https://archive.org/details/miller-can-mixed-marriages-be-happy
+{{% staticref "files/CanMixedMarriages.pdf" %}}Full text PDF{{% /staticref %}}
+
+Full text: https://archive.org/details/miller-can-mixed-marriages-be-happy
 
 # Why Not a "Mixed" Marriage? (1937)
 
