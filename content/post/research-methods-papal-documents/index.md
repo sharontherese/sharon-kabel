@@ -2,8 +2,8 @@
 title: Research Methods for Charts on Papal Citation Sources
 date: 2020-10-06
 view: 2
-header:
-  caption: ''
+image:
+  caption: 'Dataviz best practices are not welcome here'
   image: ""
 
 ---
