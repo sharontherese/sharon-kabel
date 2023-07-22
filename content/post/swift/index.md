@@ -9,9 +9,9 @@ date: 2020-08-06
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:
+image:
   caption: ""
-  image: "taylorheader.png"
+#  image: "taylorheader.png"
 ---
 
 My birthday is this week, so I wanted to do a little data project that was more fun. 
