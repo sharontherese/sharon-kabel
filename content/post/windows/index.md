@@ -10,9 +10,9 @@ date: 2020-04-19
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: "[The Catholic Advocate, 30 August 1962](https://thecatholicnewsarchive.org/?a=d&d=ca19620830-01.2.42&srpos=2)"
-  image: "windowsheader.png"
+image:
+  caption: "The Catholic Advocate, 30 August 1962"
+#  image: "windowsheader.png"
 
 tags:
   - Catholic fact check
