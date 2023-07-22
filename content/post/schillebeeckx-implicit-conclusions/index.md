@@ -9,9 +9,9 @@ date: 2021-02-11
 view: 2
 
 # Optional header image (relative to `static/img/` folder)
-header:
-  caption: "[National Catholic Reporter, Volume 1, Number 3, 11 November 1964](https://thecatholicnewsarchive.org/?a=d&d=ncr19641111-01.2.18&srpos=60)"
-  image: "schillebeeckxheader.jpg"
+image:
+  caption: "National Catholic Reporter, Volume 1, Number 3, 11 November 1964"
+#  image: "schillebeeckxheader.jpg"
   
 tags:
  - Catholic fact check
