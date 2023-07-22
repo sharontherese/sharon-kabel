@@ -28,7 +28,7 @@ This left me with 12 colors: black, blue, gold, gray, green, orange, pink, purpl
 
 Swiftian scholars may take issue with my classification of “purple-pink” as its own color, but given the context of the song it seems to refer to one color, not two. Complaints may be directed to the songwriter.
 
-One could also challenge “champagne sea” (“This Is Why We Can’t Have Nice Things,”), because of its Homeric undertones, vis "wine dark sea." While I am not currently swayed, I look forward to future research on both “champagne” and Swift’s iterations of “wine” and “rose.” 
+One could also challenge “champagne sea” (“This Is Why We Can’t Have Nice Things,”), because of its Homeric undertones, viz. "wine dark sea." While I am not currently swayed, I look forward to future research on both “champagne” and Swift’s iterations of “wine” and “rose.” 
 
 I counted "redhead" ("Fifteen") as red, and "indigo" ("I Think He Knows") as blue.
 
