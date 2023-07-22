@@ -9,9 +9,9 @@ date: 2021-01-22
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:  
+image:  
   caption: "St. Joseph with the Infant Jesus, by Guido Reni"
-  image: "josephheader.jpg"
+#  image: "josephheader.jpg"
 
 
   
