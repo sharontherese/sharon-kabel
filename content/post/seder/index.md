@@ -10,7 +10,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 image:  
-  caption: "Seder supper. The Catholic Advocate, Volume 12, Number 16, 11 April 1963"
+  caption: "Seder supper. The Catholic Advocate, 11 April 1963"
 #  image: "sederheader2.jpg"
   
 tags:
