@@ -9,9 +9,9 @@ date: 2020-04-03
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: "[Pittsburgh Catholic, 1962-03-01](https://thecatholicnewsarchive.org/?a=d&d=TPC19620301-01.1.1&srpos=1)"
-  image: "sticklerheader.jpg"
+image:
+  caption: "Pittsburgh Catholic, 1962-03-01"
+#  image: "sticklerheader.jpg"
   
 tags:
  - Catholic fact check
