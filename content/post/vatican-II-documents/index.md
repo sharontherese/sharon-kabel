@@ -9,9 +9,9 @@ date: 2020-05-14
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:  
+image:  
   caption: ""
-  image: "vaticaniiheader.png"
+#  image: "vaticaniiheader.png"
   
 tags:
  - newspapers
