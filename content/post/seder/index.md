@@ -18,7 +18,7 @@ tags:
  
 ---
 
-This is the first post in an ongoing series, documenting assorted topics as they appear in Catholic Newspapers in the [Catholic News Archive](https://thecatholicnewsarchive.org/). How was the topic described? When did it peak in usage? Did its connotations or associations for Catholics change over time?  
+This post is an exploration of seder meals as they appeared in the [Catholic News Archive](https://thecatholicnewsarchive.org/). How was the topic described? When did it peak in usage? Did its connotations or associations for Catholics change over time?  
 
 ## Methods: Search terms 
 
