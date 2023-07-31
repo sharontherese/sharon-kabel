@@ -34,6 +34,7 @@ These charts do not include Scriptural citations. All popes reference Scripture 
 ## Pope John Paul II 
 
 ![](/uploads/jpii-fcwithout.png)
+![](/uploads/veritatis_splendor.png)
 
 ## Pope Paul VI 
 
