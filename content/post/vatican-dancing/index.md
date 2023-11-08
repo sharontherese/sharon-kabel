@@ -88,9 +88,9 @@ First, Ecclesiasticus or Sirach 9:4:
 
 This exact translation appears to be the King James Version, an unusual choice for a traditional Catholic argument. Let's look at earlier translations:
 
-* Latin: cum **psaltrice** ne adsiduus sis nec audias illam ne forte pereas in efficacia illius[^2] (harpist, lutist, musician)
-* Greek: μετὰ **ψαλλούσης** μὴ ἐνδελέχιζε, μή ποτε ἁλῷς ἐν τοῖς ἐπιχειρήμασιν αὐτῆς[^3] (musician)
-* Hebrew: browse here[^6] - the translator also uses the word "musician"
+* Latin[^2]: cum **psaltrice** ne adsiduus sis nec audias illam ne forte pereas in efficacia illius (harpist, lutist, musician)
+* Greek[^3]: μετὰ **ψαλλούσης** μὴ ἐνδελέχιζε, μή ποτε ἁλῷς ἐν τοῖς ἐπιχειρήμασιν αὐτῆς (musician)
+* Hebrew[^4]: the translator also uses the word "musician"
 
 The Haydock Biblical Commentary also has a note about this particular verse:
 
