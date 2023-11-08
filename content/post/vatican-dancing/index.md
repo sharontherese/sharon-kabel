@@ -100,9 +100,9 @@ Clearly, the noun in question has not ever exclusively been translated as "dance
 
 ## Examining the sources: Acta Apostolicae Sedis, March 31, 1916
 
-The AAS is the official gazette of the Vatican, and has been in circulation since 1908. It is in Latin, and freely available online. "The Church's Official Position on Dancing" quotes a letter from 1969. The full Latin (pardon any OCR issues) and English (pardon the Google Translate) is below:
+The AAS is the official gazette of the Vatican, and has been in circulation since 1908. It is in Latin, and freely available online. "The Church's Official Position on Dancing" quotes a letter from 1969.[^6] The full Latin (pardon any OCR issues) and English (pardon the Google Translate) is below:
 
-> CIRCA QUASDAM CHOREAS IN STATIBUS FOEDERATIS AMERICAE SEPTENTRIONALIS  ET IN REGIONE CANADENSI[^6]
+> CIRCA QUASDAM CHOREAS IN STATIBUS FOEDERATIS AMERICAE SEPTENTRIONALIS  ET IN REGIONE CANADENSI
 > 
 > Elapso saeculo, in foederatis Americae septentrionalis Statibus usus incoeperat catholicas familias convocandi ad choreas quae per multas noctis horas cum conviviis aliisque solatiis protrahi consueverant. Cuius rei ea dabatur ratio et causa, quo scilicet catholici se mutuo cognoscerent et amoris caritatisque vinculis intimius unirentur, simulque ut subsidia pro hoc illove pio opere necessaria compararentur. Qui autem conventus indicere eisque praesidere solebant, praesides plerumque erant alicuius pii operis, et non raro ipsi ecclesiarum rectores vel parochi. 
 > 
