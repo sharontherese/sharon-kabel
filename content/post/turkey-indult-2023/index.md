@@ -39,7 +39,7 @@ Each year, we revisit the burning question of our generation:
 
 In 1958, did Pope Pius XII allow Catholics to eat meat the Friday after Thanksgiving?
 
-The answer is no…and yes. The Turkey Indult happened, but not how we think.
+The answer is no…and yes. The Turkey Indult did happen, but not how we think.
 
 # A definitive answer 
 
@@ -49,11 +49,11 @@ Q: “I am wondering why a dispensation was not given for the Friday after Thank
 
 A: "...in granting the relaxation of the abstinence on the Friday after Thanksgiving in 1958 he set no precedent but granted a particular favor for a particular year." 
 
-**turkey-indult-2023/turkeyindult_1959.png**
+![](/uploads/turkey-indult-2023/turkeyindult_1959.png)
 
 So...why the confusion?
 
-# More mysteries
+# And yet! 
 
 Notice...the article never says the name of the pope. 
 
