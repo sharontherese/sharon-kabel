@@ -1,4 +1,4 @@
-  ---
+---
 title: "Mitchum Was Right: A Reflection on Motherhood in the Gilmore Girls revival"
 date: 2023-08-17
 
