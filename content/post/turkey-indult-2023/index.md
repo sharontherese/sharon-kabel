@@ -1,7 +1,6 @@
   ---
 title: "The State of the Turkey Indult, 2023"
 date: 2023-11-20
-draft: true
 
 # View.
 #   1 = List
@@ -61,43 +60,37 @@ Pius XII died on October 9, 1958. While it's possible he issued a Turkey Indult 
 
 The only logical explanation is that the turkey indult - which we now know happened, and was papally issued - came from Pope St. John XXIII, who issued a Turkey Indult in 1958 but chose not to do so in 1959.
 
-(Sidebar: Although…did John XXIII really say that the purpose of the Council was to let the fresh air in to the Church?[^1]
+Why didn’t it get more coverage? Well, that can be mostly answered by looking at the confusion following John XXIII’s cascade of innovative indults. Let me paint a picture. 
 
-Back to papal indults.
+(Sidebar: Did John XXIII really say that the purpose of the Council was to let the fresh air in to the Church?[^1]
 
-John XXIII issued new indults throughout the first year of his pontificate. His innovative indults caused international headlines from Catholic and secular newspapers alike. 
-
-The thing is, because these were brand-new indults, it appears that the usual channels of communication did not work. Some dioceses didn’t even hear about the indults until the day the indults applied, making it too late to do anything. 
-
-So you have the unusual situation, for example, of the Diocese of X following the indult and the neighboring Diocese Y not even aware the indult exists. 
-
-**Catholic Transcript, 13 June 1935**
-**turkeyindult_1935.png**
-
-NEVERTHELESS, a papal turkey indult in 1958 did happen! 
-
-Why didn’t it get more coverage? Well, that can be mostly answered by looking at the utter confusion following John XXIII’s subsequent indults. Let me paint a picture. 
+![](/uploads/turkey-indult-2023/turkeyindult_1935.png "Catholic Transcript, 13 June 1935")
 
 # Painting a picture
 
-October 9, 1958: Pius XII dies. 
+October 9, 1958: Pius XII dies.
 
-October 28: John XXIII is elected. 
+October 28: John XXIII is elected.
 
-November 27: Thanksgiving Day. Sometime between October 28 and November 27 - likely very close to November 27 - John XXIII fires off a brand new papal “Turkey Indult.” Given the lateness of the hour, the typical chaos of ushering in a new pope, the pope’s unconventional approaches in general, news of the Turkey Indult doesn’t make it across the whole world, let alone to the newspapers. 
+November 27: Thanksgiving Day. Sometime between October 28 and November 27 - likely very close to November 27 - John XXIII fires off a brand new papal “Turkey Indult.” Given the lateness of the hour, the typical chaos of ushering in a new pope, the pope’s unconventional approaches in general, news of the Turkey Indult doesn’t make it across the whole world, let alone to most newspapers.
 
-December 26: John XXIII issues an indult for the Friday after Christmas. https://www.newspapers.com/clip/70239237/the-herald-press/
+December 26: John XXIII issues an indult for the Friday after Christmas.[^2]
 
-May 1, 1959: John XXIII issues an indult for Friday, May 1, the new Feast of St. Joseph the Worker. https://www.newspapers.com/clip/70256261/star-tribune/. 
-The Diocese of Erie announced it only applied to Europeans. https://www.newspapers.com/clip/70246654/the-titusville-herald/. The Archdiocese of Philly announced it applied to them…but they’d only received notice of the indult on April 30! https://www.newspapers.com/clip/70251793/the-mercury/
+![](/uploads/turkey-indult-2023/december26.jpg "Pope Okays Meat Friday Dec. 26. The Herald-Press, Saint Joseph, Michigan. Tue, Dec 16, 1958.")
 
-August 14: John XXIII issues an indult for the Vigil of the Assumption. https://www.newspapers.com/clip/70248118/republican-and-herald/. The Diocese of Lafayette, Indiana did not receive confirmation in time to announce the indult at Sunday Masses. https://www.newspapers.com/clip/70261669/logansport-pharos-tribune/. An article from Ontario, Canada was waiting on confirmation (suggesting, like John XXIII’s other indults, they were released last-minute). https://www.newspapers.com/clip/70261937/the-ottawa-citizen/
+May 1, 1959: John XXIII issues an indult for Friday, May 1, the new Feast of St. Joseph the Worker.[^3] The Diocese of Erie announced it only applied to Europeans.[^4] The Archdiocese of Philly announced it applied to them.[^5] 
+
+![](/uploads/turkey-indult-2023/may1.png)
+
+August 14: John XXIII issues an indult for the Vigil of the Assumption. The dioceses of Allentown, Pennsylvania[^6] and Lafayette, Indiana[^7] did not receive confirmation in time to announce the indult at Sunday Masses. By August 10, the Archbishop of Ontario, Canada had heard reports of an indult but was still waiting on confirmation.[^8] 
+
+![](/uploads/turkey-indult-2023/august14.png)
 
 Thanksgiving, 1959: Someone in the Diocese of Pittsburgh, PA remembers that the pope said he could eat meat last Thanksgiving Friday. He writes his newspaper - can he do so again? The priest responds no, that was a one-time deal. Note that the priest doesn’t say “the pope didn’t issue a turkey indult,” or “that wasn’t the pope, that was your bishop.”
 
 1960: Canadian bishops abolish ember days and Lenten abstinence.
 
-**turkeyindult_1960**
+![](/uploads/turkey-indult-2023/turkeyindult_1960.png)
 
 # Conclusion
 
@@ -107,13 +100,13 @@ Is it any wonder that we forgot such a small fact like the Papal Turkey Indult o
 
 In terms of current practice, all of this is moot, of course. But as a fun, academic exercise, the turkey indult is THE MOST FUN. 
 
-A pope issued a Turkey Indult in 1958. It’s almost a guarantee that that pope was John XXIII, and that the indult was for one year only.
+There really was a one-time Turkey Indult issued in 1958 by Pope John XXIII.
 
-We know this because of ONE single solitary newspaper column in 1959! And it upends years and years of debate! Imagine what else is out there, lurking in newspapers and pamphlets and primary sources! What small historical mysteries might you unravel from trawling the Catholic News Archive, or JSTOR, or ?????
+We know this because of one single solitary newspaper column in 1959! And it upends years of debate! What small historical mysteries might we unravel, trawling Catholic newspapers and pamphlets and other (freely available! online!) primary sources!
 
-John XXIII was elected on October 28, 1958, and was notable for haphazard new ideas. (Schillebeeckx line about St. Joseph in the canon?]
+By way of a conclusion, I quote theologian Edward Schillebeeckx, OP, who - in the midst of the even more confusing collegiality debate - gave a sketch of John XXIII that is illuminating for our story. 
 
-> I myself find it depressing that I have to write two articles with all kinds of theological distinctions and explanations in order to bring some clarity. When such a thing is necessary, it clearly indicates an opaque situation and the faithful are thoroughly fed up with all these learned explanations. I can only agree with that. We also had to constantly make distinctions with Pope John, but his attitude was overwhelmingly humane and liberating which is why we did not make a spectacle when he suddenly placed St. Joseph in the canon at odds with the council, even though the church had no express need for it. John could have proclaimed Mary as Mother of the Church with the same nonchalance. We would have kindly smiled on. The one who does not take himself seriously but takes the church surprisingly seriously may, for our part, occasionally act against our wishes. But now we have a Pope that takes the church just as seriously but also his ecclesiastical office and for him that is the primateship (which dogmatically contains somewhat more than the “primus inter pares” or hon ourary president!) with which he, in a strong sense of apostleship, entirely identifies himself.
+> I myself find it depressing that I have to write two articles with all kinds of theological distinctions and explanations in order to bring some clarity. When such a thing is necessary, it clearly indicates an opaque situation and the faithful are thoroughly fed up with all these learned explanations. I can only agree with that. We also had to constantly make distinctions with Pope John, but his attitude was overwhelmingly humane and liberating which is why we did not make a spectacle when he suddenly placed St. Joseph in the canon at odds with the council, even though the church had no express need for it. John could have proclaimed Mary as Mother of the Church with the same nonchalance. We would have kindly smiled on. The one who does not take himself seriously but takes the church surprisingly seriously may, for our part, occasionally act against our wishes. But now we have a Pope that takes the church just as seriously but also his ecclesiastical office and for him that is the primateship (which dogmatically contains somewhat more than the “primus inter pares” or hon ourary president!) with which he, in a strong sense of apostleship, entirely identifies himself.[^9]
 
 Original article: https://docs.google.com/document/d/1k_34MCgnHHwA3J4D4sabfO8XcnUJyWdh64tUZJaZZu4/edit
 Follow up 2020: https://docs.google.com/document/d/1lsfqd4hLA7i0APP9j7U6bA6oAQ47WzjGWfm3x62sNFE/edit
@@ -123,4 +116,18 @@ Follow up 2021: https://docs.google.com/document/d/1kd8DkJV-kurQE_GbqaSayWVR8rfz
 
 [^1]: https://sharonkabel.com/post/windows/
 
-[^2]: 
+[^2]: "Pope Okays Meat Friday Dec. 26." The Herald-Press, Saint Joseph, Michigan. Tue, Dec 16, 1958. https://www.newspapers.com/clip/70239237/the-herald-press/
+
+[^3]: "Pope John Says Catholics Can Eat Meat Today." Star Tribune, Minneapolis, Minnesota. Fri, May 1, 1959. https://www.newspapers.com/clip/70256261/star-tribune/
+
+[^4]: "Dispensation Doesn't Affect Area Catholics." The Titusville Herald, Titusville, Pennsylvania. Fri, May 1, 1959. https://www.newspapers.com/clip/70246654/the-titusville-herald/
+
+[^5]: "Catholics Permitted To Eat Meat Today." The Mercury, Pottstown, Pennsylvania. Fri, May 1, 1959. https://www.newspapers.com/clip/70251793/the-mercury/
+
+[^6]: https://www.newspapers.com/clip/70248118/republican-and-herald/
+
+[^7]: https://www.newspapers.com/clip/70261669/logansport-pharos-tribune/
+
+[^8]: https://www.newspapers.com/clip/70261937/the-ottawa-citizen/
+
+[^9]: https://sharonkabel.com/post/schillebeeckx-implicit-conclusions/
