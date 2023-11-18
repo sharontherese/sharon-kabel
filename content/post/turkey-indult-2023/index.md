@@ -1,6 +1,7 @@
 ---
 title: "The State of the Turkey Indult 2023"
 date: 2023-11-20
+draft: false
 
 # View.
 #   1 = List
