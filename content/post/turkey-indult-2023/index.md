@@ -1,5 +1,5 @@
 ---
-title: "The State of the Turkey Indult, 2023"
+title: "The State of the Turkey Indult 2023"
 date: 2023-11-20
 
 # View.
