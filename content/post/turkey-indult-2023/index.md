@@ -50,11 +50,11 @@ A: "...in granting the relaxation of the abstinence on the Friday after Thanksgi
 
 ![](/uploads/turkey-indult-2023/turkeyindult_1959.png)
 
-So...why the confusion?
+# So why the confusion?
 
-# And yet! 
+Part of the confusion is that at different times in the twentieth century, the reigning pope would give bishops the authority to do their own Turkey Indult. Each bishop was free to use or not use that indult for his diocese. That is an interesting slice of history in itself, but it's unrelated to our discussion of a papal Turkey Indult - from the chair of St. Peter to you, so to speak.
 
-Notice...the article never says the name of the pope. 
+The more notable cause of confusion is about the exact pope who issued the 1958 Turkey Indult...the Pittsburg Catholic article never actually said the name of the pope. 
 
 Pius XII died on October 9, 1958. While it's possible he issued a Turkey Indult on his deathbed, more than a month before Thanksgiving, he couldn’t have done so in 1959.
 
@@ -85,10 +85,6 @@ Why didn’t it get more coverage? Well, that can be mostly answered by looking 
 ![](/uploads/turkey-indult-2023/august14.png)
 
 **Thanksgiving, 1959**: Someone in the Diocese of Pittsburgh, PA remembers that the pope said he could eat meat last Thanksgiving Friday. He writes his newspaper - can he do so again? The priest responds no, that was a one-time deal. Note that the priest doesn’t say “the pope didn’t issue a turkey indult,” or “that wasn’t the pope, that was your bishop.”
-
-**January, 1960**: Canadian bishops abolish ember days and Lenten abstinence.
-
-![](/uploads/turkey-indult-2023/turkeyindult_1960.png "Pittsburgh Catholic, January 28, 1960")
 
 # Conclusion
 
