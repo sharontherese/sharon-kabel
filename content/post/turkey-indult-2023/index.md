@@ -21,7 +21,7 @@ view: 2
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-#  caption: "Un visiteur tient a droite le patient et lexorte, en lui presentant le crucifix, tandis que le confesseur à gauche lui donne labsolution. 1792-1794. Bibliothèque nationale de France."
+  caption: "The Catholic Advocate, 24 November 1966"
   focal_point: "Center"
   preview_only: false
 #  alt_text: An optional description of the image for screen readers.
