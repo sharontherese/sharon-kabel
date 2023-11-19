@@ -38,7 +38,7 @@ Each year, we revisit the burning question of our generation:
 
 In 1958, did Pope Pius XII allow Catholics to eat meat the Friday after Thanksgiving?
 
-![](/uploads/turkey-indult-2023/turkeyindult_1959.png "Of course it's real. I saw it on Facebook.")
+![](/uploads/turkey-indult-2023/meme.png "Of course it's real. I saw it on Facebook.")
 
 The answer is no…and yes. The Turkey Indult did happen, but not how we think.
 
