@@ -46,9 +46,9 @@ The answer is no…and yes. The Turkey Indult did happen, but not how we think.
 
 Let’s cut to the chase. Contrary to many blog posts and memes out there, we can confidently say that there was a papal turkey indult in 1958, thanks to this Pittsburgh Catholic newspaper article. 
 
-Q: “I am wondering why a dispensation was not given for the Friday after Thanksgiving this year. One was given last year…”
-
-A: "...in granting the relaxation of the abstinence on the Friday after Thanksgiving in 1958 he set no precedent but granted a particular favor for a particular year." 
+> Q: “I am wondering why a dispensation was not given for the Friday after Thanksgiving this year. One was given last year…”
+>
+> A: "...in granting the relaxation of the abstinence on the Friday after Thanksgiving in 1958 he set no precedent but granted a particular favor for a particular year."[^1] 
 
 ![](/uploads/turkey-indult-2023/turkeyindult_1959.png "Pittsburgh Catholic, 3 December 1959")
 
@@ -64,7 +64,7 @@ The only logical explanation is that the turkey indult - which we now know happe
 
 Why didn’t it get more coverage? Well, that can be mostly answered by looking at the confusion following John XXIII’s cascade of innovative indults. Let me paint a picture. 
 
-(Sidebar: Did John XXIII really say that the purpose of the Council was to let the fresh air in to the Church?[^1])
+(Sidebar: Did John XXIII really say that the purpose of the Council was to let the fresh air in to the Church?[^2])
 
 # Painting a picture
 
@@ -74,15 +74,15 @@ Why didn’t it get more coverage? Well, that can be mostly answered by looking 
 
 **November 27, 1958**: Thanksgiving Day. Sometime between October 28 and November 27 - likely very close to November 27 - John XXIII fires off a brand new papal “Turkey Indult.” Given the lateness of the hour, the typical chaos of ushering in a new pope, and the pope’s unconventional approach in general, news of the Turkey Indult doesn’t make it to most newspapers.
 
-**December 26, 1958**: John XXIII issues an indult for the Friday after Christmas.[^2]
+**December 26, 1958**: John XXIII issues an indult for the Friday after Christmas.[^3]
 
 ![](/uploads/turkey-indult-2023/december26.jpg "The Herald-Press, Saint Joseph, Michigan. Tue, Dec 16, 1958")
 
-**May 1, 1959**: John XXIII issues an indult for Friday, May 1, the new Feast of St. Joseph the Worker.[^3] The Diocese of Erie announced it only applied to Europeans.[^4] The Archdiocese of Philly announced it applied to them.[^5] 
+**May 1, 1959**: John XXIII issues an indult for Friday, May 1, the new Feast of St. Joseph the Worker.[^4] The Diocese of Erie announced it only applied to Europeans.[^5] The Archdiocese of Philly announced it applied to them.[^6] 
 
 ![](/uploads/turkey-indult-2023/may1.png)
 
-**August 14, 1959**: John XXIII issues an indult for the Vigil of the Assumption. The dioceses of Allentown, Pennsylvania[^6] and Lafayette, Indiana[^7] did not receive confirmation in time to announce the indult at Sunday Masses. By August 10, the Archbishop of Ontario, Canada had heard reports of an indult but was still waiting on confirmation.[^8] 
+**August 14, 1959**: John XXIII issues an indult for the Vigil of the Assumption. The dioceses of Allentown, Pennsylvania[^7] and Lafayette, Indiana[^8] did not receive confirmation in time to announce the indult at Sunday Masses. By August 10, the Archbishop of Ontario, Canada had heard reports of an indult but was still waiting on confirmation.[^9] 
 
 ![](/uploads/turkey-indult-2023/august14.png)
 
@@ -104,7 +104,7 @@ We know this because of one single solitary newspaper column in 1959! And it upe
 
 By way of a conclusion, I quote theologian Edward Schillebeeckx, OP, who - in the midst of the even more confusing collegiality debate - gave a sketch of John XXIII that is illuminating for our story. 
 
-> I myself find it depressing that I have to write two articles with all kinds of theological distinctions and explanations in order to bring some clarity. When such a thing is necessary, it clearly indicates an opaque situation and the faithful are thoroughly fed up with all these learned explanations. I can only agree with that. We also had to constantly make distinctions with Pope John, but his attitude was overwhelmingly humane and liberating which is why we did not make a spectacle when he suddenly placed St. Joseph in the canon at odds with the council, even though the church had no express need for it. John could have proclaimed Mary as Mother of the Church with the same nonchalance. We would have kindly smiled on. The one who does not take himself seriously but takes the church surprisingly seriously may, for our part, occasionally act against our wishes.[^9]
+> I myself find it depressing that I have to write two articles with all kinds of theological distinctions and explanations in order to bring some clarity. When such a thing is necessary, it clearly indicates an opaque situation and the faithful are thoroughly fed up with all these learned explanations. I can only agree with that. We also had to constantly make distinctions with Pope John, but his attitude was overwhelmingly humane and liberating which is why we did not make a spectacle when he suddenly placed St. Joseph in the canon at odds with the council, even though the church had no express need for it. John could have proclaimed Mary as Mother of the Church with the same nonchalance. We would have kindly smiled on. The one who does not take himself seriously but takes the church surprisingly seriously may, for our part, occasionally act against our wishes.[^10]
 
 # Read my other Turkey Indult research articles 
 
@@ -114,20 +114,22 @@ By way of a conclusion, I quote theologian Edward Schillebeeckx, OP, who - in th
 
 # Sources
 
-[^1]: Sharon Kabel. "Catholic fact check: Pope John XXIII and fresh air." Updated July 21, 2023. https://sharonkabel.com/post/windows/
+[^1]: "The Question Box: Why Friday Dispensations?" Pittsburgh Catholic, 3 December 1959. https://thecatholicnewsarchive.org/?a=d&d=TPC19591203-01.1.5&srpos=5
 
-[^2]: "Pope Okays Meat Friday Dec. 26." The Herald-Press, Saint Joseph, Michigan. Tue, Dec 16, 1958. https://www.newspapers.com/clip/70239237/the-herald-press/
+[^2]: Sharon Kabel. "Catholic fact check: Pope John XXIII and fresh air." Updated July 21, 2023. https://sharonkabel.com/post/windows/
 
-[^3]: "Pope John Says Catholics Can Eat Meat Today." Star Tribune, Minneapolis, Minnesota. Fri, May 1, 1959. https://www.newspapers.com/clip/70256261/star-tribune/
+[^3]: "Pope Okays Meat Friday Dec. 26." The Herald-Press, Saint Joseph, Michigan. Tue, Dec 16, 1958. https://www.newspapers.com/clip/70239237/the-herald-press/
 
-[^4]: "Dispensation Doesn't Affect Area Catholics." The Titusville Herald, Titusville, Pennsylvania. Fri, May 1, 1959. https://www.newspapers.com/clip/70246654/the-titusville-herald/
+[^4]: "Pope John Says Catholics Can Eat Meat Today." Star Tribune, Minneapolis, Minnesota. Fri, May 1, 1959. https://www.newspapers.com/clip/70256261/star-tribune/
 
-[^5]: "Catholics Permitted To Eat Meat Today." The Mercury, Pottstown, Pennsylvania. Fri, May 1, 1959. https://www.newspapers.com/clip/70251793/the-mercury/
+[^5]: "Dispensation Doesn't Affect Area Catholics." The Titusville Herald, Titusville, Pennsylvania. Fri, May 1, 1959. https://www.newspapers.com/clip/70246654/the-titusville-herald/
 
-[^6]: "Roman Catholics Eating Meat Today." Republican and Herald, Pottsville, Pennsylvania. Fri, Aug 14, 1959. https://www.newspapers.com/clip/70248118/republican-and-herald/
+[^6]: "Catholics Permitted To Eat Meat Today." The Mercury, Pottstown, Pennsylvania. Fri, May 1, 1959. https://www.newspapers.com/clip/70251793/the-mercury/
 
-[^7]: "Pope John Grants Dispensation To Eat Meat Friday." Logansport Pharos-Tribune, Logansport, Indiana. Thu, Aug 13, 1959. https://www.newspapers.com/clip/70261669/logansport-pharos-tribune/
+[^7]: "Roman Catholics Eating Meat Today." Republican and Herald, Pottsville, Pennsylvania. Fri, Aug 14, 1959. https://www.newspapers.com/clip/70248118/republican-and-herald/
 
-[^8]: "May Erase Catholics' Meat Ban This Friday." The Ottawa Citizen, Ottawa, Ontario, Canada. Mon, Aug 10, 1959. https://www.newspapers.com/clip/70261937/the-ottawa-citizen/
+[^8]: "Pope John Grants Dispensation To Eat Meat Friday." Logansport Pharos-Tribune, Logansport, Indiana. Thu, Aug 13, 1959. https://www.newspapers.com/clip/70261669/logansport-pharos-tribune/
 
-[^9]: This translation of Schillebeeckx's quote is from Gregory Arblaster, who permitted me to reshare it. Read more context in my post here here: "Catholic fact check: Father Edward Schillebeeckx and Implicit Conclusions." July 21, 2023. https://sharonkabel.com/post/schillebeeckx-implicit-conclusions/
+[^9]: "May Erase Catholics' Meat Ban This Friday." The Ottawa Citizen, Ottawa, Ontario, Canada. Mon, Aug 10, 1959. https://www.newspapers.com/clip/70261937/the-ottawa-citizen/
+
+[^10]: This translation of Schillebeeckx's quote is from Gregory Arblaster, who permitted me to reshare it. Read more context in my post here here: "Catholic fact check: Father Edward Schillebeeckx and Implicit Conclusions." July 21, 2023. https://sharonkabel.com/post/schillebeeckx-implicit-conclusions/
