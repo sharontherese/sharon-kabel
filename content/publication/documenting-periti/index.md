@@ -1,5 +1,5 @@
 ---
-title: 'Documenting the 'experts' of Vatican II'
+title: 'Documenting the experts of Vatican II'
 authors:
 - admin
 date: 2023-04-11T00:00:00Z
