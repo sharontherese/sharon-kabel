@@ -43,6 +43,30 @@ The father of the bride was Sir Alan Henry Bellingham, who among other roles, se
 
 Setting that aside, the most interesting thing about this wedding is that, despite being more than 100 years ago, we have a wedding program AND wedding video footage! 
 
+# wedding program 
+
+https://archive.org/details/the-marriage-service/mode/2up?view=theater 
+Note about dates, previous marquess helped with translation
+Latin and english rite, mostly english mass 
+Includes nicene creed
+
+# wedding movie
+
+The wedding of the 4th Marquess of Bute 1905. 1905, July 5th-6th. Black & white, 35mm. 2.30 minutes. Reference number: 6774. National Library of Scotland. 
+https://movingimage.nls.uk/film/6774  
+
+# Wedding photo 
+bute_wedding_photo.jpg
+John Crichton-Stuart, 4th Marquess of Bute; Augusta Mary Monica (née Bellingham), Marchioness of Bute. published by Rotary Photographic Co Ltd. bromide postcard print, late 1910s. NPG x198198. © National Portrait Gallery, London. https://www.npg.org.uk/collections/search/portrait/mw262978/John-Crichton-Stuart-4th-Marquess-of-Bute-Augusta-Mary-Monica-ne-Bellingham-Marchioness-of-Bute?
+
+# Newspaper clippings 
+
+catholiccolumbian_19050617.jpg
+https://thecatholicnewsarchive.org/?a=d&d=CC19050617-01.2.44&srpos=2
+
+kentuckyirishamerican.jpg
+Kentucky Irish American. (Louisville, Ky.), 15 July 1905. Chronicling America: Historic American Newspapers. Lib. of Congress. <https://chroniclingamerica.loc.gov/lccn/sn86069180/1905-07-15/ed-1/seq-4/>
+
 # Sources
 
 [^1]: https://electricscotland.com/history/johnpatrick.pdf
