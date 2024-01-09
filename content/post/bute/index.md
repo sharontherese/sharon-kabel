@@ -33,7 +33,7 @@ tags:
  - newspapers
 ---
 
-On the morning of July 6, a bride and groom prepared for their traditional Catholic wedding. The photographer and videographer were on hand to document an historic union of two Catholic families. The groom had commissioned wedding booklets with the ceremonies in Latin and English, to assist the many guests who had never been to such old ceremonies. 
+On the morning of July 6, a bride and groom prepared for their traditional Catholic wedding. The photographer and videographer were on hand to document an historic union of two Catholic families. The groom may even have had wedding booklets with the ceremonies in Latin and English, to assist the many guests who had never been to such old ceremonies. 
 
 The year was 1905, and the couple was John Crichton-Stuart and Augusta Mary Monica Bellingham. 
 
@@ -45,7 +45,7 @@ The year was 1905, and the couple was John Crichton-Stuart and Augusta Mary Moni
 
 The father of the groom, the 3rd Marquess of Bute, deserves an article in his own right, which I cannot provide here. Here is a memoir[^1] of one of his Benedictine friends, and a more recent biography[^2] of Crichton-Stuart III). John Chrichton-Stuard, was not only the richest man in the world at the time, but the first English translator of the Roman Breviary.[^3] [^4] [^5] The father of the bride was Sir Alan Henry Bellingham, who among other roles, served as Private Chamberlain to Popes Pius IX, Leo XIII, and Pius X.
 
-Setting that aside...the most interesting thing about this wedding is that, despite being more than 100 years ago, we have a wedding program AND wedding video footage! 
+Setting that aside...the most interesting thing about this wedding is that, despite being more than 100 years ago, we have wedding video footage, and a connection to a uniquely printed wedding booklet! 
 
 # The Wedding Film
 
@@ -61,17 +61,27 @@ See the full video here:
 
 The wedding of the 4th Marquess of Bute 1905. 1905, July 5th-6th. Black & white, 35mm. 2.30 minutes. Reference number: 6774. National Library of Scotland. https://movingimage.nls.uk/film/6774  
 
-# The Wedding Program
+# The Wedding Booklet
 
-The couple also distributed
+The couple may have distributed copies of a wedding booklet, "The Marriage Service with the Mass for a Bridegroom and Bride." The booklet was about 40 pages, and contained the English (and some Latin) for the wedding rite and the wedding Mass. 
 
-Note about dates, previous marquess helped with translation
-Latin and english rite, mostly english mass 
-Includes nicene creed
+![](/uploads/bute/program_1.jpg "Cover page")
+
+While I can't be sure that the Butes had copies on hand, I believe that this booklet is worth mentioning because of its connection to the Bute family. 
+
+![](/uploads/bute/program_2.jpg "Note to the present edition: The translation from the Latin in the present edition of the Marriage Service has been taken with permission from a version privately printed by the late Marguess of Bute and that of the Nuptial Mass has been revised with much help from a translation from the same pen.")
+
+The Marquess in question is the groom's father, The Third Marquess, who died in 1900. There are three dates connected to the booklet: the preface is dated 1895, the nihil obstat and imprimatur are 1905, and 'note to the present edition' is 1909). It seems reasonable to infer that the Third Marquess had this wedding booklet printed privately in 1895, and then there was at least one subsequent edition that was made more publicly available via the publishers Art & Book Company in London. 
+
+I collect wedding booklets of this kind (see my scanned collection here[^6]), so here are a few highlights I noticed:
+
+* Nihil obstat: Hamilton Macdonald, founder of the Guild of St. Stephen, for "rais[ing] the standard of altar serving"[^7]
+* Preface: John Alphonsus Maria Morrall, OSB, author of _Saints of the Order of S. Benedict_[^8]
+* The Gloria and the Credo are both included in the wedding Mass. At different times in the history of rubrics, both were excluded from the wedding Mass, so to see both in print and 'nihil obstat'd is unusual. Perhaps my history is incomplete![^9]
 
 See the full program here: 
 
-The Marriage Service with the Mass for a Bridegroom and Bride. Westminster, England: Art and Book Company, 1909. https://archive.org/details/the-marriage-service/mode/2up?view=theater 
+The Marriage Service with the Mass for a Bridegroom and Bride. Westminster, England: Art and Book Company, 1895/1905/1909. https://archive.org/details/the-marriage-service/mode/2up?view=theater 
 
 # Sources
 
@@ -84,3 +94,11 @@ The Marriage Service with the Mass for a Bridegroom and Bride. Westminster, Engl
 [^4]: https://roathlocalhistorysociety.org/2023/05/09/the-marquess-of-butes-translation-of-the-breviary/
 
 [^5]: https://www.thepeerage.com/p2387.htm
+
+[^6]: https://archive.org/details/@skabel?and[]=subject%3A%22catholic+wedding+programs%22
+
+[^7]: https://guildofststephenbrentwood.org.uk/the-history-of-the-guild/
+
+[^8]: https://commons.wikimedia.org/wiki/File:Saints_of_the_Order_of_S._Benedict_(IA_saintsoforderofs00ranb).pdf
+
+[^9]: https://www.latinmasswedding.com/post/gloria-credo/
