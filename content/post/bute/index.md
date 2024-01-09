@@ -79,6 +79,10 @@ I collect wedding booklets of this kind (see my scanned collection here[^6]), so
 * Preface: John Alphonsus Maria Morrall, OSB, author of _Saints of the Order of S. Benedict_[^8]
 * The Gloria and the Credo are both included in the wedding Mass. At different times in the history of rubrics, both were excluded from the wedding Mass, so to see both in print and 'nihil obstat'd is unusual. Perhaps my history is incomplete![^9]
 
+![](/uploads/bute/program_3.jpg " ")
+
+![](/uploads/bute/program_4.jpg " ")
+
 See the full program here: 
 
 The Marriage Service with the Mass for a Bridegroom and Bride. Westminster, England: Art and Book Company, 1895/1905/1909. https://archive.org/details/the-marriage-service/mode/2up?view=theater 
