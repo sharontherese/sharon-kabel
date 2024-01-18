@@ -89,11 +89,11 @@ The Marriage Service with the Mass for a Bridegroom and Bride. Westminster, Engl
 
 # Sources
 
-[^1]: https://electricscotland.com/history/johnpatrick.pdf
+[^1]: Hunter Blair David Oswald. 1921. _John Patrick Third Marquess of Bute K.t. (1847-1900)._ London: J. Murray. https://electricscotland.com/history/johnpatrick.pdf
 
-[^2]: https://books.google.com/books?id=oqfUXwAACAAJ
+[^2]: Hannah Rosemary. 2012. _The Grand Designer : Third Marquess of Bute._ Edinburgh: Birlinn. 
 
-[^3]: https://www.newliturgicalmovement.org/2006/12/internet-archive-roman-breviary.html#.ZFppLnaZNPZ
+[^3]: Shawn Tribe. Internet Archive: The Roman breviary translated by John, Marquess of Bute. _New Liturgical Movement,_ December 15, 2006. https://www.newliturgicalmovement.org/2006/12/internet-archive-roman-breviary.html#.ZFppLnaZNPZ
 
 [^4]: https://roathlocalhistorysociety.org/2023/05/09/the-marquess-of-butes-translation-of-the-breviary/
 
