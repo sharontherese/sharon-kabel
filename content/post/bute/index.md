@@ -1,5 +1,5 @@
 ---
-title: "A wedding video from an aristocratic traditional Catholic wedding"
+title: "Video and highlights from an aristocratic traditional Catholic wedding"
 date: 2024-01-18
 
 # View.
