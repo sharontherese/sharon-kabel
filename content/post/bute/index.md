@@ -1,5 +1,5 @@
 ---
-title: "Historic Latin Mass Weddings: The Butes"
+title: "A wedding video from an aristocratic traditional Catholic wedding"
 date: 2024-01-18
 
 # View.
@@ -50,7 +50,7 @@ Setting that aside...the most interesting thing about this wedding is that, desp
 
 The National Library of Scotland has generously made available this historic film - likely the only film of its kind. 
 
-![](/uploads/bute/bute_video.jpg "Screenshot from the National Library of Congress")
+![](/uploads/bute/bute_video.jpg "Screenshot from the National Library of Scotland")
 
 From the Library's record:
 
