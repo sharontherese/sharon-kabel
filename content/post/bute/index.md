@@ -21,7 +21,7 @@ view: 2
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: "Castle Bellingham, CASTLEBELLINGHAM, Castlebellingham, LOUTH. National Inventory of Architectural Heritage"
+  caption: "Saint Mary's Catholic Church, Kilsaran. National Inventory of Architectural Heritage"
   focal_point: "Center"
   preview_only: false
 #  alt_text: An optional description of the image for screen readers.
