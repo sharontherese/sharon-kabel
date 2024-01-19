@@ -1,7 +1,6 @@
 ---
 title: "Historic Latin Mass Weddings: The Butes"
-date: 2024-01-05
-draft: true
+date: 2024-01-18
 
 # View.
 #   1 = List
@@ -93,16 +92,16 @@ The Marriage Service with the Mass for a Bridegroom and Bride. Westminster, Engl
 
 [^2]: Hannah Rosemary. 2012. _The Grand Designer : Third Marquess of Bute._ Edinburgh: Birlinn. 
 
-[^3]: Shawn Tribe. Internet Archive: The Roman breviary translated by John, Marquess of Bute. _New Liturgical Movement,_ December 15, 2006. https://www.newliturgicalmovement.org/2006/12/internet-archive-roman-breviary.html#.ZFppLnaZNPZ
+[^3]: Shawn Tribe. "Internet Archive: The Roman breviary translated by John, Marquess of Bute." New Liturgical Movement, December 15, 2006. https://www.newliturgicalmovement.org/2006/12/internet-archive-roman-breviary.html#.ZFppLnaZNPZ
 
-[^4]: https://roathlocalhistorysociety.org/2023/05/09/the-marquess-of-butes-translation-of-the-breviary/
+[^4]: Liam Affley. "The Marquess of Bute’s Translation of the Breviary." Roath Local History Society, May 9, 2023. https://roathlocalhistorysociety.org/2023/05/09/the-marquess-of-butes-translation-of-the-breviary/
 
-[^5]: https://www.thepeerage.com/p2387.htm
+[^5]: "John Patrick Crichton-Stuart, 3rd Marquess of the County of Bute." The Peerage. https://www.thepeerage.com/p2387.htm
 
 [^6]: https://archive.org/details/@skabel?and[]=subject%3A%22catholic+wedding+programs%22
 
-[^7]: https://guildofststephenbrentwood.org.uk/the-history-of-the-guild/
+[^7]: "History of the Guild." Guild of St. Stephen Brentwood. https://guildofststephenbrentwood.org.uk/the-history-of-the-guild/
 
-[^8]: https://commons.wikimedia.org/wiki/File:Saints_of_the_Order_of_S._Benedict_(IA_saintsoforderofs00ranb).pdf
+[^8]: Ranbeck Aegidius and John Alphonsus Maria Morrall. 1896. Saints of the Order of S. Benedict. London: J. Hodges. http://catalog.hathitrust.org/api/volumes/oclc/21137748.html.
 
-[^9]: https://www.latinmasswedding.com/post/gloria-credo/
+[^9]: "Do you include the Gloria and the Credo in the Traditional Latin wedding Mass?." Latin Mass Wedding, January 22, 2021. https://www.latinmasswedding.com/post/gloria-credo/
