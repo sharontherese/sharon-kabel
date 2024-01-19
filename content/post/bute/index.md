@@ -38,11 +38,17 @@ The year was 1905, and the couple was John Crichton-Stuart and Augusta Mary Moni
 
 ![](/uploads/bute/bute_wedding_photo.jpg "John Crichton-Stuart, 4th Marquess of Bute; Augusta Mary Monica (née Bellingham), Marchioness of Bute. published by Rotary Photographic Co Ltd. bromide postcard print, late 1910s. NPG x198198. © National Portrait Gallery, London. <https://www.npg.org.uk/collections/search/portrait/mw262978/John-Crichton-Stuart-4th-Marquess-of-Bute-Augusta-Mary-Monica-ne-Bellingham-Marchioness-of-Bute>")
 
+News of the wedding made its way into multiple American newspapers. 
+
 ![](/uploads/bute/catholiccolumbian_19050617.jpg "The Catholic Columbian, Volume 30, Number 24, 17 June 1905. <https://thecatholicnewsarchive.org/?a=d&d=CC19050617-01.2.44&srpos=2>")
 
 ![](/uploads/bute/kentuckyirishamerican.jpg "Kentucky Irish American. (Louisville, Ky.), 15 July 1905. Chronicling America: Historic American Newspapers. Lib. of Congress. <https://chroniclingamerica.loc.gov/lccn/sn86069180/1905-07-15/ed-1/seq-4/>")
 
 The father of the groom, the 3rd Marquess of Bute, deserves an article in his own right, which I cannot provide here. Here is a memoir[^1] of one of his Benedictine friends, and a more recent biography[^2] of Crichton-Stuart III). John Chrichton-Stuard, was not only the richest man in the world at the time, but the first English translator of the Roman Breviary.[^3] [^4] [^5] The father of the bride was Sir Alan Henry Bellingham, who among other roles, served as Private Chamberlain to Popes Pius IX, Leo XIII, and Pius X.
+
+![](/uploads/bute/page40.jpg "Embarkation of Marquis and Marchioness of Bute. Annagassen, July 6, 1905." in: James Blennerhassett Leslie. 1908. History of Kilsaran Union of Parishes in the County of Louth. Dundalk: William Tempest.")
+
+![](/uploads/bute/page119.jpg "Kilsaran Roman Catholic Church." in: James Blennerhassett Leslie. 1908. History of Kilsaran Union of Parishes in the County of Louth. Dundalk: William Tempest.")
 
 Setting that aside...the most interesting thing about this wedding is that, despite being more than 100 years ago, we have wedding video footage, and a connection to a uniquely printed wedding booklet! 
 
