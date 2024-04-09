@@ -17,6 +17,8 @@ These charts do not include Scriptural citations. All popes reference Scripture 
 
 ## Pope Francis 
 
+![](/uploads/pf_DignitasInfinita_column.png)
+![](/uploads/pf_DignitasInfinita_pie.png)
 ![](/uploads/PF_fratelliwithout.png)
 ![](/uploads/pf-qa.png)
 ![](/uploads/pf-cvwithout-2.png)
