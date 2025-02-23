@@ -47,7 +47,7 @@ In 1980, the Vatican published a list of 479 names - the 479 official periti at 
 > 
 > I, II, III, IV
 
-![](/uploads/periti/original_list.png " ")
+![](/uploads/periti/original_list.png)
 
 From a researcher’s perspective, the formatting of this list renders it nearly useless. 
 
@@ -79,13 +79,17 @@ There are partial lists of periti in the following sources:
 
 Some other supporting sources are:
 
-> Acta Synodalia Sacrosancti Concilii Oecumenici Vaticani II. Rome: Typis Polyglottis Vaticanis, 1970.
-> Anderson, Floyd, ed. Council Daybook, Vatican II, Session 1-4. Washington, D.C: National Catholic Welfare Conference, 1965.
-> Congar, Yves. My Journal of the Council. Edited by Denis Minns. Translated by Mary John Ronayne and M. Cecily Boulding.   Hindmarsh, SA: ATF Theology, 2012. https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=452754.
+> Anderson, Floyd, ed. _Council Daybook, Vatican II, Session 1-4_. Washington, D.C: National Catholic Welfare Conference, 1965.
+> 
+> Congar, Yves. _My Journal of the Council_. Edited by Denis Minns. Translated by Mary John Ronayne and M. Cecily Boulding.   Hindmarsh, SA: ATF Theology, 2012.
+> 
 > Doria, Piero. “L’Archivio Del Concilio Vaticano II: Storia e Sviluppo.” Accessed December 8, 2022. https://ixtheo.de/Record/1635668700.
-> Haley, Ihor. Iudex peritus peritorum. Roma: Pontificia Università lateranense, 2008. https://www.google.com/books/edition/Iudex_peritus_peritorum/sIZyPgAACAAJ?hl=en.
-> “Il Concilio Vaticano II: Notiziario 12.” La Civiltà cattolica, 1963, 174–87.
-> “La preparazione del Concilio Vaticano II: Notiziario n. 6.” La Civiltà cattolica, 1960, 634–45.
+> 
+> Haley, Ihor. _Iudex peritus peritorum_. Roma: Pontificia Università lateranense, 2008.
+> 
+> “Il Concilio Vaticano II: Notiziario 12.” _La Civiltà cattolica_, 1963, 174–87.
+> 
+> “La preparazione del Concilio Vaticano II: Notiziario n. 6.” _La Civiltà cattolica_, 1960, 634–45.
 
 # Materials and Methods
 
