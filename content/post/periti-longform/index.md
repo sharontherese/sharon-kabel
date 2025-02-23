@@ -242,49 +242,93 @@ Of the 479 council periti, I was able to find information about all but 19.
 
 # References
 
+## Journal articles, books 
+
+“Index Peritorum.” In Acta synodalia Sacrosancti Concilii Oecumenici Vaticani II. Indices, 937–49. Vatican City: Typis polyglottis Vaticanis, 1980.
+
+Acta Synodalia Sacrosancti Concilii Oecumenici Vaticani II. Rome: Typis Polyglottis Vaticanis, 1970.
+
+Anderson, Floyd, ed. Council Daybook, Vatican II, Session 1-4. Washington, D.C: National Catholic Welfare Conference, 1965.
+
+Congar, Yves. My Journal of the Council. Edited by Denis Minns. Translated by Mary John Ronayne and M. Cecily Boulding. Hindmarsh, SA: ATF Theology, 2012. 
+
+Doria, Piero. “L’Archivio Del Concilio Vaticano II: Storia e Sviluppo.” Accessed December 8, 2022. https://ixtheo.de/Record/1635668700.
+
+Haley, Ihor. Iudex peritus peritorum. Roma: Pontificia Università lateranense, 2008. 
+
+“Il Concilio Vaticano II: Notiziario 12.” La Civiltà cattolica, 1963, 174–87.
+
+“La preparazione del Concilio Vaticano II: Notiziario n. 6.” La Civiltà cattolica, 1960, 634–45.
+
+Pyne, Tricia T. “The Archives of the Second Vatican Council Fathers Project: A Report from the United States.” U.S. Catholic Historian 30, no. 3 (2012): 51–63.
+
+Weiser, François. “Les experts au concile Vatican II, 1962-1965. Note de recherche sur les conditions de possibilité d’un champ transnational.” Actes de la recherche en sciences sociales 224, no. 4 (2018): 64–75. https://doi.org/10.3917/arss.224.0064.
+
+———. “The Periti of the United States and the Second Vatican Council: Prosopography of a Group of Theologians.” U.S. Catholic Historian 30, no. 3 (2012): 65–91.
+
+## Web sites, web pages, blogs 
+
+Chow, Gabriel. “Periti of the Second Vatican Council.” GCatholic. http://www.gcatholic.org/events/list/Vatican2-Periti.htm.
+
+Catholic Research Resources Alliance. “Catholic News Archive.” Accessed December 15, 2022. https://thecatholicnewsarchive.org/.
+
+Catholic Research Resources Alliance. “Catholic Portal.” Accessed December 15, 2022. https://www.catholicresearch.org/.
+
+“Centre for the Study of the Second Vatican Council - List of Archives.” Accessed December 1, 2022.  https://theo.kuleuven.be/en/research/centres/centr_vatii/centr_vatii-arch/centr_vatii-arch_index.html.
+
+Liturgical Pioneers / Pastoral Musicians and Liturgists. “Liturgical Pioneers / Pastoral Musicians and Liturgists.” Accessed December 1, 2022. http://liturgicalleaders.blogspot.com/.
+
+Catholic-Hierarchy. “Male Religious Orders.” Accessed December 15, 2022. https://www.catholic-hierarchy.org/country/xrel.html.
+
+Find A Grave. “Member Profile: Eman Bonnici.” Accessed December 1, 2022. https://www.findagrave.com/user/profile/46572312. This is the account of a wonderfully diligent user, whose posts saved me hours of research.
+
+Catholic-Hierarchy. “The Hierarchy of the Catholic Church.” Accessed December 15, 2022. https://www.catholic-hierarchy.org/. “Current and historical information about its bishops and dioceses.”
+
+Miranda, Salvador. “The Cardinals of the Holy Roman Church.” Accessed December 1, 2022. https://cardinals.fiu.edu/cardinals.htm. “A digital resource created and produced by Salvador Miranda, consisting of the biographical entries of the cardinals from 494 to 2021 and of the events and documents concerning the origin of the Roman cardinalate and its historical evolution.”
+
 # Appendix: Religious Orders
 
-| Acronym on original list |                                               Latin                                               |                        Vernacular full                       |             Nickname            |   |
-|:------------------------:|:-------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|:-------------------------------:|---|
-| AA                       | Congregatio Augustinianorum ab Assumptione                                                        | Augustinians of the Assumption                               | Assumptionists                  |   |
-| Carm BMVI                | Congregatio Fratrum Carmelitarum B.V. Mariae Immaculatae                                          | Carmelites of Mary Immaculate                                |                                 |   |
-| CICM                     | Congregatio Immaculata Cordis Mariae                                                              | Congregation of the Sacred Heart of the Virgin Mary          | Scheutists                      |   |
-| CJM                      | Congregatio Iesu et Mariae                                                                        | Congregation of Jesus and Mary                               | Eudists                         |   |
-| CM                       | Congregatio Missionis                                                                             | Congregation of the Mission                                  | Vincentians/Lazarists           |   |
-| CMF                      | Congregatio Missionariorum Filiorum Immaculati Cordis Beatae Mariae Virginis                      | Missionary Sons of the Immaculate Heart of Mary (Claretians) | Claretians                      |   |
-| CP                       | Congregatio Passionis Iesu Christi                                                                | Congregation of the Passion                                  | Passionists                     |   |
-| CSS                      | Congregatio a Ss. Stigmatibus D.N.I.C.                                                            | Congregation of the Sacred Stigmata                          | Stigmatine Fathers              |   |
-| CSB                      | Congregatio a Sancto Basilio                                                                      | Congregation of St. Basil                                    | Basilian Fathers                |   |
-| CSC                      | Congregatio a Sanctae Cruce                                                                       | Congregation of Holy Cross                                   | Holy Cross Fathers              |   |
-| CSSP                     | Congregatio Sancti Spiritus sub tutela Immaculati Cordis Beatissimae Virginis Mariae              | Congregation of the Holy Spirit                              | Holy Ghost Fathers, Spiritans   |   |
-| CSSR                     | Congregatio Sanctissimi Redemptoris                                                               | Congregation of the Most Holy Redeemer                       | Redemptorists                   |   |
-| FSC                      | Fratres Scholarum Christianarum                                                                   | Institute of the Brothers of the Christian Schools           | De La Salle Brothers            |   |
-| IC                       | Institutum Charitatis                                                                             | Institute of Charity                                         | Rosminians                      |   |
-| MSC                      | Missionarii Sacratissimi Cordis Iesu                                                              | Missionaries of the Sacred Heart of Jesus                    | Sacred Heart Missionaries       |   |
-| MSSST                    | Congregatio Missionariorum Servorum Sanctissimae Trinitatis                                       | Missionary Servants of the Most Holy Trinity                 |                                 |   |
-| O Carm                   | Ordo Fratrum Beatissimae Mariae Virginis de Monte Carmelo                                         | Order of Our Lady of Mt. Carmel                              | Carmelites                      |   |
-| O Praem                  | Candidus et Canonicus Ordo Praemonstratensis                                                      | Order of the Canons Regular of Premontre                     | Norbertines, Premonstratensians |   |
-| OCD                      | Ordo Fratrum Discalceatorum B. Mariae V. de Monte Carmelo                                         | Order of Discalced Carmelites                                | Discalced Carmelites            |   |
-| OESA                     | Ordo Fratrum Sancti Augustini / Ordo eremitarum sancti Augustini                                  | Order of St. Augustine / Order of Hermits of Saint Augustine | Augustinians                    |   |
-| OFM                      | Ordo Fratrum Minorum                                                                              | Order of Friars Minor                                        | Franciscans                     |   |
-| OFM Capuchin             | Ordo Fratrum Minorum Capuccinorum                                                                 | Order of Friars Minor Capuchin                               | Capuchins                       |   |
-| OFM Conventual           | Ordo Fratrum Minorum Conventualium                                                                | Order of Friars Minor Conventual                             | Conventual Franciscans          |   |
-| OMI                      | Congregatio Missionariorum Oblatorum Beatae Mariae Virginis Immaculatae                           | Oblates of Mary Immaculate                                   |                                 |   |
-| OP                       | Ordo Fratrum Praedicatorum                                                                        | Order of Friars Preachers                                    | Dominicans                      |   |
-| Opus Dei                 | Praelatura Sanctae Crucis et Operis Dei                                                           | Prelature of the Holy Cross and Opus Dei                     | Opus Dei                        |   |
-| Oratorian                | Confoederatio Oratorii S. Philippi Nerii                                                          | Confederation of Oratorians of St. Philip Neri               | Oratorians                      |   |
-| ORSA                     | Ordo Augustinianorum Recollectorum                                                                | Order of Augustinian Recollects                              | Augustinian Recollects          |   |
-| OSB                      | Ordo S. Benedicti                                                                                 | Order of St. Benedict                                        | Benedictines                    |   |
-| OSBM                     | Ordo Sancti Basilii Magni                                                                         | Basilian Order of Saint Josaphat                             | Order of St. Basil the Great    |   |
-| OSM                      | Ordo Servorum Mariae                                                                              | Order of Friar Servants of Mary                              | Servites                        |   |
-| PA                       | Missionarii Africae (Patres Albi)                                                                 | Missionaries of Africa                                       | White Fathers                   |   |
-| PIME                     | Pontificium Institutum pro Missionibus Exteris                                                    | Pontifical Institute for Foreign Missions                    |                                 |   |
-| PSS                      | Societas Presbyterorum a S. Sulpitio                                                              | Society of Priests of Saint Sulpice                          | Sulpicians                      |   |
-| RSV                      | Congregatio Religiosorum S. Vincentii a Paulo                                                     | Religieux de Saint Vincent de Paul                           |                                 |   |
-| Sac OP Dioc              | Sacerdotes Operarios Diocesanos / Sodalitas Sacerdotum Operariorum Dioecesanorum Sacro Corde Iesu | Diocesanos del Sagrado Corazón de Jesús                      |                                 |   |
-| SDB                      | Societas S. Francisci Salesii                                                                     | Salesians of Saint John Bosco                                | Salesians                       |   |
-| SJ                       | Societas Iesu                                                                                     | Society of Jesus                                             | Jesuits                         |   |
-| SMM                      | Societas Mariae Montfortana                                                                       | Missionaries of the Company of Mary                          | Montfort Missionaries           |   |
-| SP                       | Servi Sancti Paracliti                                                                            | Servants of the Holy Paraclete                               |                                 |   |
-| SSS                      | Congregatio Sanctissimi Sacramenti                                                                | Congregation of the Blessed Sacrament                        | Blessed Sacrament Fathers       |   |
-| SVD                      | Societas Verbi Divini                                                                             | Society of the Divine Word                                   | Divine Word Missionaries        |   |
+| Acronym on original list |                                               Latin                                               |                        Vernacular full                       |             Nickname            |
+|:------------------------:|:-------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|:-------------------------------:|
+| AA                       | Congregatio Augustinianorum ab Assumptione                                                        | Augustinians of the Assumption                               | Assumptionists                  |
+| Carm BMVI                | Congregatio Fratrum Carmelitarum B.V. Mariae Immaculatae                                          | Carmelites of Mary Immaculate                                |                                 |
+| CICM                     | Congregatio Immaculata Cordis Mariae                                                              | Congregation of the Sacred Heart of the Virgin Mary          | Scheutists                      |
+| CJM                      | Congregatio Iesu et Mariae                                                                        | Congregation of Jesus and Mary                               | Eudists                         |
+| CM                       | Congregatio Missionis                                                                             | Congregation of the Mission                                  | Vincentians/Lazarists           |
+| CMF                      | Congregatio Missionariorum Filiorum Immaculati Cordis Beatae Mariae Virginis                      | Missionary Sons of the Immaculate Heart of Mary (Claretians) | Claretians                      |
+| CP                       | Congregatio Passionis Iesu Christi                                                                | Congregation of the Passion                                  | Passionists                     |
+| CSS                      | Congregatio a Ss. Stigmatibus D.N.I.C.                                                            | Congregation of the Sacred Stigmata                          | Stigmatine Fathers              |
+| CSB                      | Congregatio a Sancto Basilio                                                                      | Congregation of St. Basil                                    | Basilian Fathers                |
+| CSC                      | Congregatio a Sanctae Cruce                                                                       | Congregation of Holy Cross                                   | Holy Cross Fathers              |
+| CSSP                     | Congregatio Sancti Spiritus sub tutela Immaculati Cordis Beatissimae Virginis Mariae              | Congregation of the Holy Spirit                              | Holy Ghost Fathers, Spiritans   |
+| CSSR                     | Congregatio Sanctissimi Redemptoris                                                               | Congregation of the Most Holy Redeemer                       | Redemptorists                   |
+| FSC                      | Fratres Scholarum Christianarum                                                                   | Institute of the Brothers of the Christian Schools           | De La Salle Brothers            |
+| IC                       | Institutum Charitatis                                                                             | Institute of Charity                                         | Rosminians                      |
+| MSC                      | Missionarii Sacratissimi Cordis Iesu                                                              | Missionaries of the Sacred Heart of Jesus                    | Sacred Heart Missionaries       |
+| MSSST                    | Congregatio Missionariorum Servorum Sanctissimae Trinitatis                                       | Missionary Servants of the Most Holy Trinity                 |                                 |
+| O Carm                   | Ordo Fratrum Beatissimae Mariae Virginis de Monte Carmelo                                         | Order of Our Lady of Mt. Carmel                              | Carmelites                      |
+| O Praem                  | Candidus et Canonicus Ordo Praemonstratensis                                                      | Order of the Canons Regular of Premontre                     | Norbertines, Premonstratensians |
+| OCD                      | Ordo Fratrum Discalceatorum B. Mariae V. de Monte Carmelo                                         | Order of Discalced Carmelites                                | Discalced Carmelites            |
+| OESA                     | Ordo Fratrum Sancti Augustini / Ordo eremitarum sancti Augustini                                  | Order of St. Augustine / Order of Hermits of Saint Augustine | Augustinians                    |
+| OFM                      | Ordo Fratrum Minorum                                                                              | Order of Friars Minor                                        | Franciscans                     |
+| OFM Capuchin             | Ordo Fratrum Minorum Capuccinorum                                                                 | Order of Friars Minor Capuchin                               | Capuchins                       |
+| OFM Conventual           | Ordo Fratrum Minorum Conventualium                                                                | Order of Friars Minor Conventual                             | Conventual Franciscans          |
+| OMI                      | Congregatio Missionariorum Oblatorum Beatae Mariae Virginis Immaculatae                           | Oblates of Mary Immaculate                                   |                                 |
+| OP                       | Ordo Fratrum Praedicatorum                                                                        | Order of Friars Preachers                                    | Dominicans                      |
+| Opus Dei                 | Praelatura Sanctae Crucis et Operis Dei                                                           | Prelature of the Holy Cross and Opus Dei                     | Opus Dei                        |
+| Oratorian                | Confoederatio Oratorii S. Philippi Nerii                                                          | Confederation of Oratorians of St. Philip Neri               | Oratorians                      |
+| ORSA                     | Ordo Augustinianorum Recollectorum                                                                | Order of Augustinian Recollects                              | Augustinian Recollects          |
+| OSB                      | Ordo S. Benedicti                                                                                 | Order of St. Benedict                                        | Benedictines                    |
+| OSBM                     | Ordo Sancti Basilii Magni                                                                         | Basilian Order of Saint Josaphat                             | Order of St. Basil the Great    |
+| OSM                      | Ordo Servorum Mariae                                                                              | Order of Friar Servants of Mary                              | Servites                        |
+| PA                       | Missionarii Africae (Patres Albi)                                                                 | Missionaries of Africa                                       | White Fathers                   |
+| PIME                     | Pontificium Institutum pro Missionibus Exteris                                                    | Pontifical Institute for Foreign Missions                    |                                 |
+| PSS                      | Societas Presbyterorum a S. Sulpitio                                                              | Society of Priests of Saint Sulpice                          | Sulpicians                      |
+| RSV                      | Congregatio Religiosorum S. Vincentii a Paulo                                                     | Religieux de Saint Vincent de Paul                           |                                 |
+| Sac OP Dioc              | Sacerdotes Operarios Diocesanos / Sodalitas Sacerdotum Operariorum Dioecesanorum Sacro Corde Iesu | Diocesanos del Sagrado Corazón de Jesús                      |                                 |
+| SDB                      | Societas S. Francisci Salesii                                                                     | Salesians of Saint John Bosco                                | Salesians                       |
+| SJ                       | Societas Iesu                                                                                     | Society of Jesus                                             | Jesuits                         |
+| SMM                      | Societas Mariae Montfortana                                                                       | Missionaries of the Company of Mary                          | Montfort Missionaries           |
+| SP                       | Servi Sancti Paracliti                                                                            | Servants of the Holy Paraclete                               |                                 |
+| SSS                      | Congregatio Sanctissimi Sacramenti                                                                | Congregation of the Blessed Sacrament                        | Blessed Sacrament Fathers       |
+| SVD                      | Societas Verbi Divini                                                                             | Society of the Divine Word                                   | Divine Word Missionaries        |
