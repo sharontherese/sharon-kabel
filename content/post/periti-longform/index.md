@@ -47,7 +47,7 @@ In 1980, the Vatican published a list of 479 names - the 479 official periti at 
 > 
 > I, II, III, IV
 
-![](/uploads/periti/original_list " ")
+![](/uploads/periti/original_list.png " ")
 
 From a researcher’s perspective, the formatting of this list renders it nearly useless. 
 
