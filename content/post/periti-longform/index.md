@@ -51,6 +51,8 @@ In 1980, the Vatican published a list of 479 names - the 479 official periti at 
 
 ![](/uploads/periti/original_list.png)
 
+
+
 From a researcher’s perspective, the formatting of this list renders it nearly useless. 
 
 The lack of the ‘vernacular’ first name meant I could not easily research by full name. In fact, I could not be sure what the first and last names actually were. There was no syntactical delineation between the names, except for a comma to set apart the (latinized and abbreviated) religious order. Even if I ran the list through optical character recognition (OCR), the formatting prevented me from copying and pasting the names in a sequential way.
