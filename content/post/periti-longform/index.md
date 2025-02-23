@@ -175,8 +175,6 @@ It was not until near the end of the entire project that I hit upon two of my be
 
 Searching VIAF for _Zalba, M_ and waiting briefly would reveal two autofilled entries: 
 
-{{< hl >}}Zalba, Marcelino 1908-2008{{< /hl >}}.
-
 > Zalba, Marcelino 1908-2008
 > 
 > Zalba, Marcelino, S.J
@@ -220,6 +218,8 @@ Of the 479 council periti, I was able to find information about all but 19.
 
 # Discussion
 
+What can we learn from this project? What is it like to research 20th century Catholic records less than 100 years later?
+
 ## The catholicity of Catholicism
 
 The missionary nature of the Church nullifies (or at least seriously complicates) the ability to make inferences based on names and geographical markers. A few examples: 
@@ -233,7 +233,7 @@ The missionary nature of the Church nullifies (or at least seriously complicates
 * **Jaroslav Mala** was Croatian, born in Yugoslavia, but only has a Hungarian Wikipedia page.
 * **Konrad Kernweiss**, whom I assumed was German, kept appearing in Romanian books. My husband explained the Transylvania Saxons and the Austro-Hungarian Empire.
 
-  [IMAGE OT LEDWOLORZ]
+  [IMAGE OF LEDWOLORZ]
 
 ## Typos, the scale of human error 
 
