@@ -1,7 +1,7 @@
 ---
 title: "longform periti"
 date: 2025-02-17
-draft: true
+draft: false
 
 # View.
 #   1 = List
