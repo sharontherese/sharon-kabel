@@ -57,6 +57,36 @@ Given the variety of naming conventions from different countries and religious o
 
 # Literature Review
 
+Regarding the periti generally, A great deal of literature has also been written on specific groups of periti. Works tend to focus on the nationality (the then-infamous Squadra Belga) or on religious orders (the Sulpicians may have the most careful documentation of their order’s role in the Council). There are also many more works on the periti, but not necessarily on their role as periti. Hans Kung, for example, is famous for many things besides his role at the Council. 
+
+My interest was in complete or partial lists of periti.
+
+The core text for the council periti is:
+
+> “Index Peritorum.” In _Acta synodalia Sacrosancti Concilii Oecumenici Vaticani II. Indices_, 937–49. Vatican City: Typis polyglottis Vaticanis, 1980.
+
+To my knowledge, there is only one other freely available list of periti online: 
+
+> Chow, Gabriel. “Periti of the Second Vatican Council.” GCatholic (blog). http://www.gcatholic.org/events/list/Vatican2-Periti.htm. The periti are organized by status - eventually pope, eventually bishop, priests, laicized, etc. - and alphabetically by last name. Each peritus’ country and flag are provided, and occasionally the peritus’ name at the time of the Council.
+
+There are partial lists of periti in the following sources:
+
+> Pyne, Tricia T. “The Archives of the Second Vatican Council Fathers Project: A Report from the United States.” _U.S. Catholic Historian_ 30, no. 3 (2012): 51–63.
+> 
+> Weiser, François. “Les experts au concile Vatican II, 1962-1965. Note de recherche sur les conditions de possibilité d’un champ transnational.” _Actes de la recherche en sciences sociales_ 224, no. 4 (2018): 64–75. https://doi.org/10.3917/arss.224.0064.
+> 
+> ———. “The Periti of the United States and the Second Vatican Council: Prosopography of a Group of Theologians.” _U.S. Catholic Historian_ 30, no. 3 (2012): 65–91.
+
+Some other supporting sources are:
+
+> Acta Synodalia Sacrosancti Concilii Oecumenici Vaticani II. Rome: Typis Polyglottis Vaticanis, 1970.
+> Anderson, Floyd, ed. Council Daybook, Vatican II, Session 1-4. Washington, D.C: National Catholic Welfare Conference, 1965.
+> Congar, Yves. My Journal of the Council. Edited by Denis Minns. Translated by Mary John Ronayne and M. Cecily Boulding.   Hindmarsh, SA: ATF Theology, 2012. https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=452754.
+> Doria, Piero. “L’Archivio Del Concilio Vaticano II: Storia e Sviluppo.” Accessed December 8, 2022. https://ixtheo.de/Record/1635668700.
+> Haley, Ihor. Iudex peritus peritorum. Roma: Pontificia Università lateranense, 2008. https://www.google.com/books/edition/Iudex_peritus_peritorum/sIZyPgAACAAJ?hl=en.
+> “Il Concilio Vaticano II: Notiziario 12.” La Civiltà cattolica, 1963, 174–87.
+> “La preparazione del Concilio Vaticano II: Notiziario n. 6.” La Civiltà cattolica, 1960, 634–45.
+
 # Materials and Methods
 
 ## Round 0: Retype
