@@ -93,19 +93,136 @@ Some other supporting sources are:
 
 # Materials and Methods
 
+With the Vatican’s list (hereafter AAS), I had no reliable pieces of uniquely identifying information. ‘Council sessions attended’ was unhelpful, except perhaps as a cross-reference once I found the peritus. ‘Religious order abbreviation’ helped, but only for the religious - and most periti were diocesan. Even among the religious, I had to figure out the Latin abbreviation. For example, the order Diocesan Workers (_“Sac. Op.”_ in the AAS list) got maddeningly mixed up with Dominicans (_"OP"_) and priests (_"sacerdote"_, abbreviated as _sac._ in many results). 
+
+The Latinized first name proved to be a mixed blessing. The famous periti were easy - Ratzinger Ioseph is Joseph Ratzinger, Pope Benedict XVI. Even then, what counts as his “real” first name? Technically, it would be Josef, but is that how people would search for it?
+
+Georgius could be George (American), Jorge (Chilean), Jacques-Georges (Syriac), Giorgio (Italian), or Georgi (Bulgarian). The last name might give me a clue - Estevez is probably not from Ireland - but I could never assume. A French-sounding name could come from France, Canada, Belgium, or any one of their mission territories. A Catholic priest is uniquely hard to pin down geographically, especially an order priest. He may have come from any country, been ordained anywhere, been assigned anywhere, studied anywhere, learned any language, or served any role.
+
+So, I iteratively developed a list of author identifiers that linked the identifier(s) to the names on the AAS list. 
+
 ## Round 0: Retype
+
+The project originally was going to be this stage only: a simple retyping of the Vatican’s list of periti into a spreadsheet. I quickly became dissatisfied with this, and expanded my scope to retyping, verifying, and expanding the data. 
 
 ## Round 1: Triage
 
+What could find in a 1-minute search in a search engine and the Catholic News Archive? I searched their last name and possible first name. Names either accrued links - usually to Wikipedia pages, Google Books, or articles - or I flagged them as ‘unconfirmed.’ 
+
+About 75 periti in, I realized that I should be tracking ‘country of origin’. That was the one piece of metadata I did my best to find for each peritus in Round 1. 
+
 ## Round 2: Enrich
 
-## Round 3: Polish (-Lithuanian Commonwealth) 
+This was the most time consuming round. I had grouped my list of 479 names into 3 subgroups: the obvious, the somewhat obvious, and the unconfirmed names. The more I searched, the more data points I found that I wanted to include. Choosing a new data point to collect meant going back through all previously searched periti to extract that information. 
+
+Because I had ‘country of origin’ for most periti, I sorted by country (instead of alphabetically by last name for Round 1). I could more easily search similar sources and find patterns. French records behave differently than, say, Hungarian records, and I would search a bit differently for each of them. For example, most Wikipedia pages from most countries have a link out to Wikidata. The French Wikipedia does not interlink with Wikidata. For any French-looking names, I needed to search them separately in Wikidata. 
+
+**IMAGE**
+
+This round was extremely messy, and out of order. A lot of names that I thought I had confirmed had to be ‘demoted’ to unconfirmed. Sometimes what I thought I found was not substantial enough. For example, I did find an Arthur Gibson who was possibly a priest in the 20th century, but that’s not enough to connect him to my list. 
+
+## Round 3: Polish 
+
+This was a more fun, but still time consuming round. Most of it was spent standardizing the Selected Mention column, changing the data from links to a hyperlinked label (such as "Subject of book" or "Mentioned in article").
 
 ## Bonus Round 4: Check it all again
 
+As I was cleaning up my Zotero references, I idly searched VIAF for one of my unconfirmed periti - and I found the right guy. I realized to my chagrin that I needed to re-check my unconfirmed names, now that I had a much better sense of how to search and what to look for. 
+
 ## Data points
 
+Eventually, I settled on four groups of metadata I wanted to include for each peritus.
+
+The core: the AAS list, retyped and corrected:
+
+1. Last name
+2. Latinized first name
+3. First name
+4. Order (if applicable)
+5. Session I?
+6. Session II?
+7. Session III?
+8. Session IV?
+
+The author identifiers
+
+9. Wikipedia: A Wikipedia page was the ideal identifier because of the level of information, and the degree of interlinking with other identifiers.
+10. Wikidata: A Wikidata page was useful for finding other identifiers, and Wikipedia pages in other languages.
+11. VIAF: VIAF’s ‘About’ section could tell me nationality, a Wikipedia page I may have missed, and variants of their name.
+12. Worldcat Identities: Worldcat Identities could tell me variant names, books about them, books by them, years published, languages published, and holding institutions.
+13. FindAGrave: FindAGrave could tell me birth place, burial site, year born, year died, and in some cases rich biographical detail not found in any other identifier.
+14. Catholic Hierarchy: Catholic Hierarchy told me rank, birth year, death year, and dates ‘promoted’.
+15. Selected mention: While many periti were verifiable through ‘traditional’ avenues - i.e. they wrote a book, so I can find them in catalogs and author lists - many periti left their mark in other ways. They may have written religiously for their diocesan newspaper. They may have been fiercely loved by their hometown. They may have a lecture series or golf tournament named after them. After a lot of deliberation, I decided to count these as their own identifiers. 
+
+The biographical information 
+
+16. Ethnicity/country of origin: I admit that I conflated country of origin and ethnicity, which led to occasional problems. For a priest who was born in America, I put “USA.” What about Luigi Ligutti, who was born in Italy, but emigrated to America? His archival collection and almost all of his priestly career was in America - rather famously, as he worked with rural American populations. What about Konrad Kernweisz? He was born in what is now Romania, but his name is clearly German - Banat Swabian, to be exact. All of this was complicated by the fact that any priest’s Wikipedia page or online tribute might be in any language and from any country. The final complicating factor was my stubborn ignorance on obvious cultural markers. I did my best to be consistent, and I sincerely hope I have not reignited any ethnic conflicts. I owe a great deal of thanks to my long-suffering husband, who has done his level best to remind me of esoteric historical details, like the existence of the Austro-Hungarian Empire.
+17. Birth year: Extracted from one or more of the identifiers. In case the numbers didn’t match, I used the most commonly used year.
+18. Death year: Same as above.
+19. Age at council: 1962 minus birth year.
+20. Age at death: Self evident.
+21. Highest episcopal title: Did they ever attain the rank of superior general, abbot, bishop, cardinal, or pope? I counted archbishops as bishops, and cardinal-deacons as cardinals.
+22. Sainthood: Have they attained the rank of Servant of God, Venerable, Blessed, or Saint?
+
+The extra stuff:
+
+23. Important: Is this peritus famous in general, (such as Pope Benedict or Hans Kung) or was this peritus influential around the time of the Council (such as Georges Tavard, who may not be in the headlines now, but certainly was back then)?
+24. Photo no reuse: I found lots of photos of periti, but the photos may be under copyright.
+25. Photo reuse: I found a public domain photo on Wikipedia, Wikidata, or the Catholic News Archive.
+26. Change during council: did the peritus die, or become a bishop (and therefore voting member of the council) during the council? There is one case of the reverse: John L. Swain, SJ, was appointed vicar general of the Jesuits (1960), was a Council Father during session III (September-November 1964), stepped down as vicar general (October 1964), and served as a peritus for session IV (September-December 1965).
+27. Memoir on Vatican II: Did the peritus write a book or article on his time at the council?
+28. Typo in original list: Was the peritus’ name misspelled in the Vatican’s list? The most egregious example is John Courtney Murray, who is listed as _Courtney, Murray_. The first name is missing entirely, and the names are out of order.
+29. Credibly accused: This column only applies to American periti, as very few countries have conducted reviews of priests credibly accused of child sexual abuse. Of the few countries that have, their findings are only partially public. France, for example, had a gargantuan report on their abuse crisis, but nowhere can I find a publicly available list of the priests’ names. I checked American names in Pro Publica’s “Credibly Accused” database. Non-American periti are noted as “n/a”.
+30. Sexual ethics watch: This column initially was to note the peritus’ stance on Humanae Vitae or contraception, but it expanded to capture a variety of stances. “Obedient” generally refers to public support of Humanae Vitae; “Disobedient” or a more detailed comment could refer to a ‘progressive’ stance on Humanae Vitae, Marian apparitions, women’s ordination, or liturgical reforms. In rare cases, I noted a criminal offense.
+31. Left priesthood and/or married: Did the peritus leave the priesthood, and/or get married?
+32. Notes: This column captures anything that I thought was important to know about the peritus, that was not captured by any other column. Because I am primarily interested in where the worked and what he was famous for. You will note I cared predominately about periti who worked at newspapers, journals, and publishers. 
+
+Using FindAGrave as part of my research workflow did not occur to me until near the end of the project. Because it was near the end, I had to re-search every name. The silver lining is that I had so much information - so many identifiers, so many clues about the peritus’ life - that I could more effectively use FindAGrave’s simple search interface. It would have been hopeless to use FindAGrave, had I not had an idea about country of origin, birth year, and death year. 
+
+This was an extremely iterative process. I might strike out on all identifiers, but then find a chance mention in Google Books or JSTOR - then I would re-search the identifiers and find a treasure trove. 
+
+It was not until near the end of the entire project that I hit upon two of my best search tactics. What plagued me throughout the project was not being sure about the peritus’ first name. I might search 2-10 variations on a first name in WikiData, VIAF, or Worldcat Identities. What I learned (painfully) was that I can search last name first for many tools, and use autofill to save me minutes of agony. 
+
+Searching VIAF for _Zalba, M_ and waiting briefly would reveal two autofilled entries: 
+
+> Zalba, Marcelino 1908-2008
+> 
+> Zalba, Marcelino, S.J
+
+Both are connected to the same entry, our guy.
+
+**IMAGE**
+
+Last name + letter of first name, then waiting for autofill, is how I confirmed almost 3 dozen otherwise unfindable periti. 
+
+My second dynamite strategy - less broadly applicable but for me more exciting - was to use OCR errors in my favor. OCR is how PDFs and documents are made searchable, so that we can CTRL+F or “Search inside” for a particular word. OCR is a powerful tool, but is only as good as the legibility of the text it’s scanning. 
+
+Order priests were a challenge. Ostensibly, their order would make my life easier. There are many Thomas Gallaghers, but not many Thomas Gallaghers who are Dominicans (O.P., for Order of Preachers). However, not all identifiers and databases note the religious order. Those who do may not do so consistently, and if I search with the order - which term do I use, and am I positive that I’m not accidentally missing the right result? What if Dominican or OP is noted elsewhere in the record, but not in the field I’m searching? 
+
+The Catholic News Archive would be an ideal database to search for this, were it not for the uncorrected OCR. By no means is this a complaint - the CNA is such a phenomenal tool, and anyone can log in and clean up the OCR. It’s simply a reality of searching. I would love to search “thomas gallagher OP,” but capital O’s are usually labelled incorrectly by OCR. 
+
+So, I ev0lved. I tried the following search: 
+
+> “gallagher 0P”~1
+
+That particular syntax is a proximity search: it means that I am searching the CNA for ‘gallagher’ and ‘0P’ within one word of each other.
+
+I cannot stress how iterative this searching was. If a name seemed common, then I would start with a narrow search tool, like the CNA. If the name was uncommon, I would throw it into Google Books, Wikidata, or another giant tool. 
+
+I had great success adding “monsignor” or “msgr” to my periti names, as many of these priests were monsignors (a now defunct title). I might also add the language-appropriate version of council, rome, or vatican. Finding the right guy in one tool meant double checking all of the other identifiers, even if I had just looked. 
+
+## Private periti 
+
+Most periti were council periti; they were appointed by the Council to support a particular committee. Some Council Fathers were permitted to bring private periti. 
+
+I found several dozen private periti by searching the CNA (and only the CNA) for “expert” or “peritus” during the years 1962-1965. Since publishing this project, I have had several readers email me about a private peritus I missed. Each name has been added to my spreadsheet.
+
 # Results
+
+Currently, the list contains 479 council periti and 49 private periti. 
+
+Of the 479 council periti, I was able to find information about all but 19. 
+
 
 # Discussion
 
