@@ -27,13 +27,13 @@ image:
   preview_only: false
 #  alt_text: An optional description of the image for screen readers.
   # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
+
+{{< toc >}}
   
 tags:
  - periti
  - research
 ---
-
-{{< toc >}}
 
 # Abstract
 
