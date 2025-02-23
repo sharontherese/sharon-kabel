@@ -175,6 +175,8 @@ It was not until near the end of the entire project that I hit upon two of my be
 
 Searching VIAF for _Zalba, M_ and waiting briefly would reveal two autofilled entries: 
 
+{{< hl >}}Zalba, Marcelino 1908-2008{{< /hl >}}.
+
 > Zalba, Marcelino 1908-2008
 > 
 > Zalba, Marcelino, S.J
