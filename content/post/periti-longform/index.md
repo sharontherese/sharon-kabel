@@ -77,21 +77,11 @@ There are partial lists of periti in the following sources:
 > 
 > ———. “The Periti of the United States and the Second Vatican Council: Prosopography of a Group of Theologians.” _U.S. Catholic Historian_ 30, no. 3 (2012): 65–91.
 
-Some other supporting sources are:
-
-> Anderson, Floyd, ed. _Council Daybook, Vatican II, Session 1-4_. Washington, D.C: National Catholic Welfare Conference, 1965.
-> 
-> Congar, Yves. _My Journal of the Council_. Edited by Denis Minns. Translated by Mary John Ronayne and M. Cecily Boulding.   Hindmarsh, SA: ATF Theology, 2012.
-> 
-> Doria, Piero. “L’Archivio Del Concilio Vaticano II: Storia e Sviluppo.” Accessed December 8, 2022. https://ixtheo.de/Record/1635668700.
-> 
-> Haley, Ihor. _Iudex peritus peritorum_. Roma: Pontificia Università lateranense, 2008.
-> 
-> “Il Concilio Vaticano II: Notiziario 12.” _La Civiltà cattolica_, 1963, 174–87.
-> 
-> “La preparazione del Concilio Vaticano II: Notiziario n. 6.” _La Civiltà cattolica_, 1960, 634–45.
+A more complete list of my references can be found at References at the end of this paper.
 
 # Materials and Methods
+
+My materials were simple: a Zotero library, a Google Drive, and a keyboard.
 
 With the Vatican’s list (hereafter AAS), I had no reliable pieces of uniquely identifying information. ‘Council sessions attended’ was unhelpful, except perhaps as a cross-reference once I found the peritus. ‘Religious order abbreviation’ helped, but only for the religious - and most periti were diocesan. Even among the religious, I had to figure out the Latin abbreviation. For example, the order Diocesan Workers (_“Sac. Op.”_ in the AAS list) got maddeningly mixed up with Dominicans (_"OP"_) and priests (_"sacerdote"_, abbreviated as _sac._ in many results). 
 
@@ -201,11 +191,13 @@ Order priests were a challenge. Ostensibly, their order would make my life easie
 
 The Catholic News Archive would be an ideal database to search for this, were it not for the uncorrected OCR. By no means is this a complaint - the CNA is such a phenomenal tool, and anyone can log in and clean up the OCR. It’s simply a reality of searching. I would love to search “thomas gallagher OP,” but capital O’s are usually labelled incorrectly by OCR. 
 
-So, I ev0lved. I tried the following search: 
+So, I ev0lved. I tried the following search with great success: 
 
 > “gallagher 0P”~1
 
-That particular syntax is a proximity search: it means that I am searching the CNA for ‘gallagher’ and ‘0P’ within one word of each other.
+That particular syntax is a proximity search: it means that I am searching the CNA for ‘gallagher’ and ‘0P’ within one word of each other. I found several relevant articles about a Thomas Gallagher. I went to VIAF, searched for Gallagher, T, waited for the autofill, and found him. 
+
+Later, I used the same idea to search CNA for the Missionary Oblates of Mary: 0MI vs. OMI.
 
 I cannot stress how iterative this searching was. If a name seemed common, then I would start with a narrow search tool, like the CNA. If the name was uncommon, I would throw it into Google Books, Wikidata, or another giant tool. 
 
@@ -226,9 +218,22 @@ Of the 479 council periti, I was able to find information about all but 19.
 
 # Discussion
 
-## Typos, the scale of human error 
-
 ## The catholicity of Catholicism
+
+The missionary nature of the Church nullifies (or at least seriously complicates) the ability to make inferences based on names and geographical markers. A few examples: 
+
+* **Luc Gillon** was Belgian but only has a Congolese Wikipedia page
+* **Antoine Hacault** was a Canadian but only has a German Wikipedia page
+* **Killian Flynn** was an Irish peritus who worked in Africa but only has a Polish Wikipedia page
+* **Michael Hrynchyshyn**, ethnically Ukrainian but born in Canada, prompting a discussion with my husband about the Russian Civil War and Ukrainians emigrating to Canada in the 1920s
+* **Adolfo Ledwolorz**, who I assumed was Polish, but all of his books were in German. I found a vita (in his own words) in a footnote on the Wikipedia page for his hometown. He went to school in Breslau. My husband patiently re-explained the German Empire to me.
+* **William Onclin**, who went by a variety of first names, but mostly “Willy.” I assumed American, but in fact he was Belgian, but he only has a Spanish Wikipedia page. Because of my initial scarce results, I assumed he was a minor figure. Once I searched under “Willy,” I found a lecture series and book series named after him, and one article described his work on “sweeping changes in the Code of Canon Law.”
+* **Jaroslav Mala** was Croatian, born in Yugoslavia, but only has a Hungarian Wikipedia page.
+* **Konrad Kernweiss**, whom I assumed was German, kept appearing in Romanian books. My husband explained the Transylvania Saxons and the Austro-Hungarian Empire.
+
+  [IMAGE OT LEDWOLORZ]
+
+## Typos, the scale of human error 
 
 ## What's in a name?
 
