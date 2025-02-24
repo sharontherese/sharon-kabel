@@ -265,13 +265,21 @@ I encountered so many odd things and typos in the AAS’s list that I decided to
 * **Paulus Goossens**, CICM: The one significant mention I found of Goossens lists him with 2 White Fathers. He himself is not a White Father, but the Vatican did misspell his order.
 * **Ianuarius a S. Corde Fernandez** is either a Servant of God or Venerable. The Vatican’s AAS list misspelled his order’s abbreviation - ORSA when it should be OAR.
 * **Gregorius Martinez de Antonana**: his order is CMF; the Vatican’s AAS list put down CFM. They made the same mistake with fellow CMF peritus **Antonius Peinador Navarro**, in addition to forgetting “Navarro.” One hates to point an accusing finger, but it is hard to ignore the trend of typos and manglings in the more unusual (less Italian, perhaps) names.
-* I relied almost entirely on Catholic-Hierarchy.org’s list of religious orders (in References below). There were a rare few orders I did not find there, such as the De La Salle Brothers. 
+* I relied almost entirely on Catholic-Hierarchy.org’s list of religious orders (in References below). There were a rare few orders I did not find there, such as the De La Salle Brothers.
+
+### to do: fragility
 
 ### to do: Vignettes
 
-### to do: What I didn't include
+### What I didn't include
 
-## to do: Conclusion
+There are two glaring pieces of information I chose not to include. 
+
+The first is diocese. When someone asked me about this, I immediately asked - which diocese? The one they were incardinated in? The one they were in at the time of the council? Either of these is actually extremely difficult to find, again, owing to the type of lives Catholic priests have. Diocesan borders also may change over time. 
+
+The second is Council Father. Again, this was asked to me from an early reader of my project. Why not note which peritus assisted which council father? This could help readers draw conclusions of all sorts! I tried this out on a few periti, and came to a shocking realization. 
+
+I had assumed, like the question asker, that the periti were at the Council at the invitation of a Council Father. In reality, almost all periti were Council periti, summoned by invitation of the Pope and serving a particular commission. I had to recalibrate a fundamental assumption I had about how the council worked. The few references I found to periti who did serve a particular council father filled me with dread, such as Sulpician **John R. Sullivan**. He began as peritus to Archbishop Thomas Connolly (Seattle) then was transferred to Cardinal Shehan (Baltimore). This is a level of granularity that I am unwilling to handle. 
 
 ## References
 
