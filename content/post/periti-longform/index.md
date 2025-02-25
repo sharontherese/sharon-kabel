@@ -1,7 +1,7 @@
 ---
 title: "longform periti"
 date: 2025-02-17
-draft: true
+draft: false
 
 # View.
 #   1 = List
@@ -41,25 +41,41 @@ Although the Second Vatican Council (1962-5) is the most important religious eve
 
 ## Introduction
 
-The project started with a list. 
+The landing page for the finished product is here:
 
-In 1980, the Vatican published a list of 479 names - the 479 official periti at the Second Vatican Council. Each name is formatted as: 
+> "The Periti of Vatican II/." https://sharonkabel.com/periti-of-vatican-ii/
+
+I wrote about the project at the New Liturgical Movement and The Pillar. 
+
+> "The Periti of Vatican II: A New Research Project by Sharon Kabel." New Liturgical Movement (blog), January 25, 2023. https://www.newliturgicalmovement.org/2023/01/the-periti-of-vatican-ii-new-research.html#.Y9nIK3bMJPY
+
+> "Documenting the 'experts' of Vatican II." The Pillar, April 11, 2023. https://www.pillarcatholic.com/p/documenting-the-experts-of-vatican
+
+Preceding these historical insights and findings came a list. 
+
+In 1980, the Vatican published a list of 479 names - the 479 council periti at the Second Vatican Council. The list looked like this: 
+
+![](/uploads/periti/originallist.png)
+
+So, each name was recorded as: 
 
 > Lastname Latinized_first_name, AbbreviatedOrder
 > 
 > I, II, III, IV
 
-![](/uploads/periti/originallist.png)
+My original plan was to OCR (optical character recognition) the document, copy and paste the list, and do some relaxing research deep dives into some of the periti. 
 
-From a researcher’s perspective, the formatting of this list renders it nearly useless. 
+Unfortunately, from a researcher’s perspective, the formatting of this list renders this impossible. If I ran the list through OCR, the formatting prevented me from copying and pasting the names in a sequential way. The lack of the ‘vernacular’ first name meant I could not easily research by full name. In fact, I could not be sure what the first and last names actually were. There was no syntactical delineation between the names, except for a comma to set apart the (latinized and abbreviated) religious order. 
 
-The lack of the ‘vernacular’ first name meant I could not easily research by full name. In fact, I could not be sure what the first and last names actually were. There was no syntactical delineation between the names, except for a comma to set apart the (latinized and abbreviated) religious order. Even if I ran the list through optical character recognition (OCR), the formatting prevented me from copying and pasting the names in a sequential way.
-
-Given the variety of naming conventions from different countries and religious orders, this list of names was in fact a barrier to research itself. In order to do any research, I had to retype the list by hand. The rest of the project sprang from that. 
+This list of names felt like a barrier to research itself, and I can't resist fixing a list.
 
 ## Literature Review
 
-Regarding the periti generally, A great deal of literature has also been written on specific groups of periti. Works tend to focus on the nationality (the then-infamous Squadra Belga) or on religious orders (the Sulpicians may have the most careful documentation of their order’s role in the Council). There are also many more works on the periti, but not necessarily on their role as periti. Hans Kung, for example, is famous for many things besides his role at the Council. 
+Regarding the periti generally, A great deal of literature has also been written on specific groups of periti. Works tend to focus on the nationality (the then-infamous _Squadra Belga_) or on religious orders (the Sulpicians may have the most careful documentation of their order’s role in the Council). There are also many more works on the periti, but not necessarily on their role as periti. Hans Kung, for example, is famous for many things besides his role at the Council. 
+
+![](/uploads/periti/booksby.png "Some books by periti")
+
+![](/uploads/periti/bookson.png "Some books about periti")
 
 My interest was in complete or partial lists of periti.
 
@@ -171,7 +187,9 @@ The core: the AAS list, retyped and corrected:
 29. Credibly accused: This column only applies to American periti, as very few countries have conducted reviews of priests credibly accused of child sexual abuse. Of the few countries that have, their findings are only partially public. France, for example, had a gargantuan report on their abuse crisis, but nowhere can I find a publicly available list of the priests’ names. I checked American names in Pro Publica’s “Credibly Accused” database. Non-American periti are noted as “n/a”.
 30. Sexual ethics watch: This column initially was to note the peritus’ stance on Humanae Vitae or contraception, but it expanded to capture a variety of stances. “Obedient” generally refers to public support of Humanae Vitae; “Disobedient” or a more detailed comment could refer to a ‘progressive’ stance on Humanae Vitae, Marian apparitions, women’s ordination, or liturgical reforms. In rare cases, I noted a criminal offense.
 31. Left priesthood and/or married: Did the peritus leave the priesthood, and/or get married?
-32. Notes: This column captures anything that I thought was important to know about the peritus, that was not captured by any other column. Because I am primarily interested in where the worked and what he was famous for. You will note I cared predominately about periti who worked at newspapers, journals, and publishers. 
+32. Notes: This column captures anything that I thought was important to know about the peritus, that was not captured by any other column. Because I am primarily interested in where the worked and what he was famous for. You will note I cared predominately about periti who worked at newspapers, journals, and publishers.
+
+![](/uploads/periti/worlock.png "A peritus, before and after I attacked with data points")
 
 Using FindAGrave as part of my research workflow did not occur to me until near the end of the project. Because it was near the end, I had to re-search every name. The silver lining is that I had so much information - so many identifiers, so many clues about the peritus’ life - that I could more effectively use FindAGrave’s simple search interface. It would have been hopeless to use FindAGrave, had I not had an idea about country of origin, birth year, and death year. 
 
@@ -217,6 +235,8 @@ I cannot stress how iterative this searching was. If a name seemed common, then 
 
 I had great success adding “monsignor” or “msgr” to my periti names, as many of these priests were monsignors (a now defunct title). I might also add the language-appropriate version of council, rome, or vatican. Finding the right guy in one tool meant double checking all of the other identifiers, even if I had just looked. 
 
+![](/uploads/periti/gallagher.png "My two beloved search strategy tricks")
+
 ### Private periti 
 
 Most periti were council periti; they were appointed by the Council to support a particular committee. Some Council Fathers were permitted to bring private periti. 
@@ -233,6 +253,12 @@ Of the 479 council periti, I was able to find information about all but 19.
 
 What can we learn from this project? What is it like to research 20th century Catholic records less than 100 years later?
 
+### Human error 
+
+![](/uploads/periti/errors1.png "Some errors in the Vatican's list")
+
+![](/uploads/periti/errors2.png "Some more errors in the Vatican's list")
+
 ### The catholicity of Catholicism
 
 The missionary nature of the Church nullifies (or at least seriously complicates) the ability to make inferences based on names and geographical markers. A few examples: 
@@ -246,11 +272,13 @@ The missionary nature of the Church nullifies (or at least seriously complicates
 * **Jaroslav Mala** was Croatian, born in Yugoslavia, but only has a Hungarian Wikipedia page.
 * **Konrad Kernweiss**, whom I assumed was German, kept appearing in Romanian books. My husband explained the Transylvania Saxons and the Austro-Hungarian Empire.
 
+![](/uploads/periti/onclin.png "The many names of Willy Onclin")
+
   [IMAGE OF LEDWOLORZ]
 
 ### What's in a name?
 
-[TASCON IMAGE, Canva #13]
+![](/uploads/periti/tascon.png "A search in the Catholic News Archive for Tommaso Tascon, OP. 3 of the 4 results have different iterations of his first name, and one result has an OCR error of '0P'.")
 
 This entire project rested on names. Most periti had more than one iteration of their name. They may have had their writing translated into other languages, they may have had a religious name, they may have gone by initials, or the Vatican’s list may have been wrong. Countless times, I searched to near-satisfaction, then discovered a new iteration of a peritus’ name. Re-searching the new name brought fresh discoveries and an updated research workflow. A few examples: 
 
@@ -258,6 +286,9 @@ This entire project rested on names. Most periti had more than one iteration of 
 * **Georgius Eldarov**: I found works published by him with a variety of first names: Georgi, Giorgio M., George. All OFM Conventual, so I knew they were likely the same person. When I said the last name out loud, my husband independently suggested **Georgi**, because the last name was Cyrillic. Lo and behold! I almost flagged him as a mystery peritus when in fact he was the most prominent Bulgarian Catholic of the last century.
 * The peritus: **Santiago Maria Ramirez Ruiz de Dulanto, OP**. How the Vatican’s AAS list wrote it: **Ramirez Ruiz Iacobos OP**.
 * Periti double header with **Dionysius Robitaille** and **Petrus Kenneth**. My initial searches kept mentioning a **Kenneth Robitaille**, who was possibly a private peritus. He was described as Archbishop Philip Francis Pocock’s “secretary and right hand man”. Still on the hunt for Dionysius, I stumbled across a recommended post on Twitter that Dionysius can be “Dennis.” Given the French last name, I search for **Denis**, and found him immediately.
+
+![](/uploads/periti/robitaille.png "Honestly, what are the odds of seeing this tweet during this project?")
+  
 * **Placido A S. Ioseph Podipara**, Order of Carmelites: This order is generally abbreviated as OCarm or O. Carm. The vernacular abbreviation is usually CMI; the Latin, BMVI. The Vatican’s AAS rendition? “Carm BMVI.”
 * **Ioannes Toomey**: I found a **John** J Toomey, PA but the dates seemed off, and my Toomey wasn’t listed by the AAS as a Passionists. I found another Toomey, but MM (Maryknoll). I checked the religious orders on Catholic-Hierarchy.org, and realized I had assumed “PA” was an order. There were no listed religious orders abbreviated as PA. Maybe PA is an abbreviation of a job title? Off to the CNA! There were 2 John J Toomey’s in similar regions (CT and NY). In the same month, one died and one was given a new assignment, so there’s similar newspaper coverage. Original findagrave was the right one.
 * **Theodoricus Worlock**: I had trouble with this name, so I approached it sideways and Googled “monsignor warlock. I found **Derek** Worlock, along with a Wikipedia page. His Wiki page says that “He attended every session of the Second Vatican Council between 1962 and 1965.” The Vatican’s AAS list only has him attending sessions 2-4. Both are partly right and partly wrong:  he was a peritus at sessions 1-3, and a Council Father at 4.
@@ -285,6 +316,8 @@ There’s no need for me to philosophize about how fragile the digital world is.
 * I started this project in August 2022, and finished around January 2023. In December, four months after starting the project, I was already encountering link rot - dead links because of deleted websites, changes in URLs, etc. -  in my Zotero records.
 * Mere days after I published this project, Worldcat announced they were shuttering Worldcat Identities. In its place is Worldcat Entities, ostensibly the same but in my opinion, there is less detail in the name of a slicker interface. Over 300 periti had an entry on Worldcat Identities; hopefully, all of those links redirect to Entities - but who knows how long that will last?
 * Google Images gave me results that should have appeared in a regular Google search. In November, a good 3 months into the project, I was searching for information on Servo Goyeneche. I saw a promising photo result in Google Images. When I clicked through, I found an article and a 2-page photo spread of periti - none of which I had seen before. Every database and search engine has its own way of indexing information and mapping my search terms, but this seemed a bit much. What else was I missing by not searching by image?
+
+### to do: Crowdsourcing reader contributions, visualizations
 
 ### Chance, passion, and drama
 
@@ -356,27 +389,10 @@ Catholic-Hierarchy. “The Hierarchy of the Catholic Church.” Accessed Decembe
 
 Miranda, Salvador. “The Cardinals of the Holy Roman Church.” Accessed December 1, 2022. https://cardinals.fiu.edu/cardinals.htm. “A digital resource created and produced by Salvador Miranda, consisting of the biographical entries of the cardinals from 494 to 2021 and of the events and documents concerning the origin of the Roman cardinalate and its historical evolution.”
 
-## to do: canva photos
+## Appendix: render test
 
-![](/uploads/periti/robitaille.png "caption")
+{{< table path="appendix.csv" header="true" caption="This is a test" >}}
 
-![](/uploads/periti/tascon.png "caption")
-
-![](/uploads/periti/worlock.png "caption")
-
-![](/uploads/periti/booksby.png "caption")
-
-![](/uploads/periti/bookson.png "caption")
-
-![](/uploads/periti/errors1.png "caption")
-
-![](/uploads/periti/errors2.png "caption")
-
-![](/uploads/periti/gallagher.png "caption")
-
-![](/uploads/periti/onclin.png "caption")
-
-## to do: reader contributions, visualizations
 
 ## Appendix: Religious Orders
 
