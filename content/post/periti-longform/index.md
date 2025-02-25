@@ -49,7 +49,7 @@ In 1980, the Vatican published a list of 479 names - the 479 official periti at 
 > 
 > I, II, III, IV
 
-![](/uploads/periti/original_list.png)
+![](/uploads/periti/originallist.png)
 
 From a researcher’s perspective, the formatting of this list renders it nearly useless. 
 
@@ -362,13 +362,11 @@ Miranda, Salvador. “The Cardinals of the Holy Roman Church.” Accessed Decemb
 
 ![](/uploads/periti/tascon.png "caption")
 
-![](/uploads/periti/van_leeuwen.png "caption")
-
 ![](/uploads/periti/worlock.png "caption")
 
-![](/uploads/periti/books_by.png "caption")
+![](/uploads/periti/booksby.png "caption")
 
-![](/uploads/periti/books_on.png "caption")
+![](/uploads/periti/bookson.png "caption")
 
 ![](/uploads/periti/errors1.png "caption")
 
@@ -376,7 +374,7 @@ Miranda, Salvador. “The Cardinals of the Holy Roman Church.” Accessed Decemb
 
 ![](/uploads/periti/gallagher.png "caption")
 
-![](/uploads/periti/onclin_worldcat.png "caption")
+![](/uploads/periti/onclin.png "caption")
 
 ## to do: reader contributions, visualizations
 
