@@ -389,11 +389,6 @@ Catholic-Hierarchy. “The Hierarchy of the Catholic Church.” Accessed Decembe
 
 Miranda, Salvador. “The Cardinals of the Holy Roman Church.” Accessed December 1, 2022. https://cardinals.fiu.edu/cardinals.htm. “A digital resource created and produced by Salvador Miranda, consisting of the biographical entries of the cardinals from 494 to 2021 and of the events and documents concerning the origin of the Roman cardinalate and its historical evolution.”
 
-## Appendix: render test
-
-{{< table path="appendix.csv" header="true" caption="This is a test" >}}
-
-
 ## Appendix: Religious Orders
 
 {{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKsn5hihSyVuR7eWz-e9AjrfV2kZ5O3YcjLs7jYNECWpV56UXXYsEFgi2PawBgGesu5YCqYjVeYmPc/pubhtml" >}}
