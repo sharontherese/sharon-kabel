@@ -123,7 +123,9 @@ About 75 periti in, I realized that I should be tracking ‘country of origin’
 
 This was the most time consuming round. I had grouped my list of 479 names into 3 subgroups: the obvious, the somewhat obvious, and the unconfirmed names. The more I searched, the more data points I found that I wanted to include. Choosing a new data point to collect meant going back through all previously searched periti to extract that information. 
 
-Because I had ‘country of origin’ for most periti, I sorted by country (instead of alphabetically by last name for Round 1). I could more easily search similar sources and find patterns. French records behave differently than, say, Hungarian records, and I would search a bit differently for each of them. For example, most Wikipedia pages from most countries have a link out to Wikidata. The French Wikipedia does not interlink with Wikidata. For any French-looking names, I needed to search them separately in Wikidata. (And since publishing this project, Wikipedia has moved the link to Wikidata to a drop down menu on the opposite side of the page.) 
+Because I had ‘country of origin’ for most periti, I sorted by country (instead of alphabetically by last name for Round 1). I could more easily search similar sources and find patterns. French records behave differently than, say, Hungarian records, and I would search a bit differently for each of them. 
+
+For example, most Wikipedia pages from most countries have a link out to Wikidata. In 2022-2023, the French Wikipedia did not interlink with Wikidata. For any French-looking names, I needed to search them separately in Wikidata. (Since publishing this project, Wikipedia has moved the link to Wikidata to a drop down menu on the opposite side of the page, and French pages now link to Wikidata.)
 
 This round was extremely messy, and out of order. A lot of names that I thought I had confirmed had to be ‘demoted’ to unconfirmed. Sometimes what I thought I found was not substantial enough. For example, I did find an Arthur Gibson who was possibly a priest in the 20th century, but that’s not enough to connect him to my list. 
 
