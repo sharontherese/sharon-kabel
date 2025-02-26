@@ -133,7 +133,7 @@ I did a broad literature search for "expert" or "peritus" in all articles from 1
 
 Secondly, I went through my list of stubbornly unconfirmed periti. I ran their names through the CNA using all of the search strategies I'd developed over the past 3 months. The CNA helped me confirm another 10 periti. 
 
-### Data points
+## Data points
 
 Eventually, I settled on four groups of metadata I wanted to include for each peritus.
 
@@ -187,7 +187,9 @@ Using FindAGrave as part of my research workflow did not occur to me until near 
 
 This was a thrillingly iterative process. I might strike out on all identifiers, but then find a chance mention in Google Books or JSTOR - then I would re-search the identifiers and find a treasure trove of information. 
 
-### Search strategy: autofill
+## Search strategies
+
+**Autofill**
 
 It was not until near the end of the entire project that I hit upon two of my best search tactics. What plagued me throughout the project was not being sure about the peritus’ first name. I might search 2-10 variations on a first name in WikiData, VIAF, or Worldcat Identities. What I learned (painfully) was that I can search last name first for many tools, and use autofill to save me minutes of agony. 
 
@@ -207,7 +209,7 @@ Both are connected to the same entry, a Spanish Jesuit peritus.
 
 Last name + letter of first name, then waiting for autofill, is how I confirmed almost 3 dozen otherwise unfindable periti. 
 
-### Search strategy: using OCR typos
+**Using OCR typos**
 
 My second dynamite strategy - less broadly applicable but for me more exciting - was to use OCR errors in my favor. OCR is how PDFs and documents are made searchable, so that we can CTRL+F or “Search inside” for a particular word. OCR is a powerful tool, but is only as good as the legibility of the text it’s scanning. 
 
@@ -229,7 +231,7 @@ I had great success adding “monsignor” or “msgr” to my periti names, as 
 
 ![](/uploads/periti/gallagher.png "My two beloved search strategy tricks")
 
-### Private periti 
+**Private periti**
 
 Most periti were council periti; they were appointed by the Council to support a particular committee. Some Council Fathers were permitted to bring private periti. 
 
@@ -245,13 +247,13 @@ Of the 479 council periti, I was able to find information about all but 19.
 
 What can we learn from this project? What is it like to research 20th century Catholic records less than 100 years later?
 
-### Human error 
+**Human error **
 
 ![](/uploads/periti/errors1.png "Some errors in the Vatican's list")
 
 ![](/uploads/periti/errors2.png "Some more errors in the Vatican's list")
 
-### The catholicity of Catholicism
+**The catholicity of Catholicism**
 
 The missionary nature of the Church nullifies (or at least seriously complicates) the ability to make inferences based on names and geographical markers. A few examples: 
 
@@ -268,7 +270,7 @@ The missionary nature of the Church nullifies (or at least seriously complicates
 
   [IMAGE OF LEDWOLORZ]
 
-### What's in a name?
+**What's in a name?**
 
 ![](/uploads/periti/tascon.png "A search in the Catholic News Archive for Tommaso Tascon, OP. 3 of the 4 results have different iterations of his first name, and one result has an OCR error of '0P'.")
 
@@ -301,7 +303,7 @@ I encountered so many odd things and typos in the AAS’s list that I decided to
 * **Gregorius Martinez de Antonana**: his order is CMF; the Vatican’s AAS list put down CFM. They made the same mistake with fellow CMF peritus **Antonius Peinador Navarro**, in addition to forgetting “Navarro.” One hates to point an accusing finger, but it is hard to ignore the trend of typos and manglings in the more unusual (less Italian, perhaps) names.
 * I relied almost entirely on Catholic-Hierarchy.org’s list of religious orders (in References below). There were a rare few orders I did not find there, such as the De La Salle Brothers.
 
-### The fragility of digital records 
+**The fragility of digital records **
 
 There’s no need for me to philosophize about how fragile the digital world is. Instead, I want to share a few specific examples of the perils of relying on digital records. 
 
@@ -309,9 +311,9 @@ There’s no need for me to philosophize about how fragile the digital world is.
 * Mere days after I published this project, Worldcat announced they were shuttering Worldcat Identities. In its place is Worldcat Entities, ostensibly the same but in my opinion, there is less detail in the name of a slicker interface. Over 300 periti had an entry on Worldcat Identities; hopefully, all of those links redirect to Entities - but who knows how long that will last?
 * Google Images gave me results that should have appeared in a regular Google search. In November, a good 3 months into the project, I was searching for information on Servo Goyeneche. I saw a promising photo result in Google Images. When I clicked through, I found an article and a 2-page photo spread of periti - none of which I had seen before. Every database and search engine has its own way of indexing information and mapping my search terms, but this seemed a bit much. What else was I missing by not searching by image?
 
-### to do: Crowdsourcing reader contributions, visualizations
+**To do: Crowdsourcing reader contributions, visualizations**
 
-### Chance, passion, and drama
+**Chance, passion, and drama**
 
 * Use Msgr. Michael Barry as one example of local fervor
 * 11/29: found that Find a Grave superuser
@@ -321,7 +323,7 @@ There’s no need for me to philosophize about how fragile the digital world is.
 * 12/26: that Callahan article where every lecturer left the church/did something shady.
 * Dawn Eden interview with a peritus who says “oh I wasn’t a peritus, just the bishop’s chauffeur,” and they take it to mean he’s being humble, but what if that’s all it was?
 
-### What I didn't include
+**What I didn't include**
 
 There are two major pieces of information I chose not to include. 
 
@@ -337,7 +339,7 @@ Perhaps because of the unprecedented size and scope of Vatican II, one may get t
 
 ## References
 
-### Journal articles, books 
+**Journal articles, books**
 
 “Index Peritorum.” In Acta synodalia Sacrosancti Concilii Oecumenici Vaticani II. Indices, 937–49. Vatican City: Typis polyglottis Vaticanis, 1980.
 
@@ -361,7 +363,7 @@ Weiser, François. “Les experts au concile Vatican II, 1962-1965. Note de rech
 
 ———. “The Periti of the United States and the Second Vatican Council: Prosopography of a Group of Theologians.” U.S. Catholic Historian 30, no. 3 (2012): 65–91.
 
-### Web sites, web pages, blogs 
+**Web sites, web pages, blogs**
 
 Chow, Gabriel. “Periti of the Second Vatican Council.” GCatholic. http://www.gcatholic.org/events/list/Vatican2-Periti.htm.
 
