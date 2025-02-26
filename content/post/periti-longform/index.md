@@ -55,7 +55,7 @@ This essay is a summary of my research methods that led to those findings.
 
 In 1980, the Vatican published a list of 479 names - the 479 council periti at the Second Vatican Council. The list looked like this: 
 
-![](/uploads/periti/index_peritorum.png "The list of periti as recorded by the Vatican"
+![](/uploads/periti/index_peritorum.png "The list of periti as recorded by the Vatican")
 
 So, each name was recorded as: 
 
@@ -152,7 +152,7 @@ The core: the AAS list, retyped and corrected:
 
 9. Wikipedia: A Wikipedia page was the ideal identifier because of the level of information, and the degree of interlinking with other identifiers.
 10. Wikidata: A Wikidata page was useful for finding other identifiers, and Wikipedia pages in other languages.
-11. VIAF: VIAF’s ‘About’ section could tell me nationality, a Wikipedia page I may have missed, and variants of their name.
+11. Virtual International Authority File (VIAF): VIAF’s ‘About’ section could tell me nationality, a Wikipedia page I may have missed, and variants of their name.
 12. Worldcat Identities: Worldcat Identities could tell me variant names, books about them, books by them, years published, languages published, and holding institutions.
 13. FindAGrave: FindAGrave could tell me birth place, burial site, year born, year died, and in some cases rich biographical detail not found in any other identifier.
 14. Catholic Hierarchy: Catholic Hierarchy told me rank, birth year, death year, and dates ‘promoted’.
@@ -203,7 +203,7 @@ and waiting briefly would reveal two autofilled entries:
 
 Both are connected to the same entry, a Spanish Jesuit peritus.
 
-![](/uploads/periti/worlock.png "Searching in VIAF for Zalba, M")
+![](/uploads/periti/zalba_viaf.png "Searching in VIAF for Zalba, M")
 
 Last name + letter of first name, then waiting for autofill, is how I confirmed almost 3 dozen otherwise unfindable periti. 
 
