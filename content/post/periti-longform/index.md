@@ -1,7 +1,7 @@
 ---
-title: "longform periti"
-date: 2025-02-17
-draft: true
+title: "Research methods and insights from the periti project"
+date: 2025-03-01
+draft: false
 
 # View.
 #   1 = List
@@ -215,17 +215,17 @@ My second dynamite strategy - less broadly applicable but for me more exciting -
 
 Order priests were a challenge. Ostensibly, their order would make my life easier. There are many Thomas Gallaghers, but not many Thomas Gallaghers who are Dominicans (O.P., for Order of Preachers). However, not all identifiers and databases note the religious order. Those who do may not do so consistently, and if I search with the order - which term do I use, and am I positive that I’m not accidentally missing the right result? What if Dominican or OP is noted elsewhere in the record, but not in the field I’m searching? 
 
-The Catholic News Archive would be an ideal database to search for this, were it not for the uncorrected OCR. By no means is this a complaint - the CNA is such a phenomenal tool, and anyone can log in and clean up the OCR. It’s simply a reality of searching. I would love to search “thomas gallagher OP,” but capital O’s are usually labelled incorrectly by OCR. 
+The Catholic News Archive would be an ideal database to search for this, were it not for the uncorrected OCR. By no means is this a complaint - the CNA is such a phenomenal tool, and anyone can log in and clean up the OCR. It’s simply a reality of searching. I would love to search “thomas gallagher OP,” but capital letter O’s are sometimes 'read' as zeroes by OCR. 
 
-So, I ev0lved. I tried the following search with great success: 
+So, I ev0lved. I searched with a zero instead of a letter O: 
 
 > “gallagher 0P”~1
 
-That particular syntax is a proximity search: it means that I am searching the CNA for ‘gallagher’ and ‘0P’ within one word of each other. I found several relevant articles about a Thomas Gallagher. I went to VIAF, searched for Gallagher, T, waited for the autofill, and found him. 
+That particular syntax is a proximity search: it means that I am searching the CNA for ‘gallagher’ and ‘0P’ within one word of each other. I found several relevant articles about a Thomas Gallagher. I went to VIAF, searched for Gallagher, T, waited for the autofill, and found him. (Later, I used the same idea to search CNA for the Missionary Oblates of Mary: 0MI vs. OMI.)
 
-Later, I used the same idea to search CNA for the Missionary Oblates of Mary: 0MI vs. OMI.
+![](/uploads/periti/gallagher_cna.png "Note that the OCR for the second result mixed up 'named' and 'nomed'.")
 
-I cannot stress how iterative this searching was. If a name seemed common, then I would start with a narrow search tool, like the CNA. If the name was uncommon, I would throw it into Google Books, Wikidata, or another giant tool. 
+**Using Catholic titles**
 
 I had great success adding “monsignor” or “msgr” to my periti names, as many of these priests were monsignors (a now defunct title). I might also add the language-appropriate version of council, rome, or vatican. Finding the right guy in one tool meant double checking all of the other identifiers, even if I had just looked. 
 
@@ -235,11 +235,15 @@ I had great success adding “monsignor” or “msgr” to my periti names, as 
 
 Most periti were council periti; they were appointed by the Council to support a particular committee. Some Council Fathers were permitted to bring private periti. 
 
-I found several dozen private periti by searching the CNA (and only the CNA) for “expert” or “peritus” during the years 1962-1965. Since publishing this project, I have had several readers email me about a private peritus I missed. Each name has been added to my spreadsheet.
+I found several dozen private periti by searching the CNA (and only the CNA) from 1960-9 for:
+
+> (expert OR peritus) AND council
+
+Since publishing this project, I have had several readers email me about a private peritus I missed. Each name has been added to my spreadsheet.
 
 ## Results
 
-Currently, the list contains 479 council periti and 49 private periti. 
+Currently, the list contains 479 council periti, 49 private periti, and over 10,000 data points.
 
 Of the 479 council periti, I was able to find information about all but 19. 
 
