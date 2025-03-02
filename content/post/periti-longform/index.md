@@ -241,6 +241,16 @@ I found several dozen private periti by searching the CNA (and only the CNA) fro
 
 Since publishing this project, I have had several readers email me about a private peritus I missed. Each name has been added to my spreadsheet.
 
+**What I didn't include**
+
+There are two major pieces of information I chose not to include. 
+
+The first is diocese. When someone asked me about this, I immediately asked - which diocese? The one they were incardinated in? The one they were in at the time of the council? Either of these is actually extremely difficult to find, again, owing to the type of lives Catholic priests have. Diocesan borders also may change over time. 
+
+The second is Council Father. Again, this was asked to me from an early reader of my project. Why not note which peritus assisted which council father? This could help readers draw conclusions of all sorts! I tried this out on a few periti, and came to a shocking realization. 
+
+I had assumed, like the question asker, that the periti were at the Council at the invitation of a Council Father. In reality, almost all periti were Council periti, summoned by invitation of the Pope and serving a particular commission. I had to recalibrate a fundamental assumption I had about how the council worked. The few references I found to periti who did serve a particular council father filled me with dread, such as Sulpician **John R. Sullivan**. He began as peritus to Archbishop Thomas Connolly (Seattle) then was transferred to Cardinal Shehan (Baltimore). This is a level of granularity that I am unwilling to handle. 
+
 ## Results
 
 Currently, the list contains 479 council periti, 49 private periti, and over 10,000 data points.
@@ -269,25 +279,14 @@ This entire project rested on names. Most periti had more than one iteration of 
 * **Placido A S. Ioseph Podipara**, Order of Carmelites: This order is generally abbreviated as OCarm or O. Carm. The vernacular abbreviation is usually CMI; the Latin, BMVI. The Vatican’s AAS rendition? “Carm BMVI.”
 * **Ioannes Toomey**: I found a **John** J Toomey, PA but the dates seemed off, and my Toomey wasn’t listed by the AAS as a Passionists. I found another Toomey, but MM (Maryknoll). I checked the religious orders on Catholic-Hierarchy.org, and realized I had assumed “PA” was an order. There were no listed religious orders abbreviated as PA. Maybe PA is an abbreviation of a job title? Off to the CNA! There were 2 John J Toomey’s in similar regions (CT and NY). In the same month, one died and one was given a new assignment, so there’s similar newspaper coverage. Original findagrave was the right one.
 * **Theodoricus Worlock**: I had trouble with this name, so I approached it sideways and Googled “monsignor warlock. I found **Derek** Worlock, along with a Wikipedia page. His Wiki page says that “He attended every session of the Second Vatican Council between 1962 and 1965.” The Vatican’s AAS list only has him attending sessions 2-4. Both are partly right and partly wrong:  he was a peritus at sessions 1-3, and a Council Father at 4.
-* **Patritius Gillespie**: FindAGrave has a likely **Patrick** born in Ireland. CNA tells me he wrote a column called “Vicar General something” in The Catholic Commentator, Louisiana. Tombstone says “PAVG” which is probably vicar general something. Tombstone is in Louisiana.
 * **Henricus Ewers**: I found very little on him, until I tried the VIAF autofill trick (Ewers, H). That led me to **Heinrich**, which led me to previously missed Wikipedia and Wikidata pages.
+* **Patritius Gillespie**: This one was particularly fun. FindAGrave has a likely **Patrick** born in Ireland in 1902. Searching the CNA leads me to a regular column called "Vicar General Recollects" in the Catholic Commentator. The column was written by Patrick Gillespie, Vicar General of the Diocese of Baton Rouge, Louisiana. I had assumed "PAVG" was a religious order, but VG is probably Vicar General. Now that I had more identifying information (do you know how many Patrick Gillespie's have existed?), I searched Find A Grave, filtering by Louisiana and death year (1982 - another data point I got from the CNA). Lo and behold, there is a Patrick Gillespie buried in Baton Rouge, and his tombstone has "PAVG"!
 
-As I cross-referenced my AAS list with Father Weiser’s list of American periti (see References), I found several issues. 
+![](/uploads/periti/gillespie.png "A photo of Gillespie's tombstone in Find A Grave")
 
-* Fr. Weiser has **Martin J. Flynn**. The AAS list has **Martin G.** and **Martin F. Flynn**. Are they all right, all wrong, or all partly right?
-* I had partly confirmed peritus **Francis Hurt**, and assumed he was American as he co-authored works with American periti. However, he was not on Weiser’s list. I noodled around and found a **Franz Hurth**. Among other things, he was Karl Rahner’s professor and was involved with Casti Connubi.
-* I found a mistake I made: **Bernard Joseph Kelly** is the correct peritus, and I had cataloged **Bernard Matthew Kelly**, a Council Father and, later, apostate.
-* The peritus and Shroud of Turin expert **Edward Wuenschel**, CSSR: His name was mangled by the Vatican's list as **Eduardus Wuenackel**. Weiser included each peritus’ diocese in his list, which helped me untangle this mystery.
+![](/uploads/periti/gillespie_column.png "One of Gillespie's columns in the Catholic Commentator. He frequently reported on the Council, but it was not always clear from the columns themselves that he was there as a peritus. The Catholic Commentator, Volume 1, Number 50, 31 January 1964.")
 
-I encountered so many odd things and typos in the AAS’s list that I decided to make my own table of all religious orders present at the Council, by all the most commonly used names. I’ve mentioned a few religious order naming issues already, but here are a few more: 
-
-* **Paulus Goossens**, CICM: The one significant mention I found of Goossens lists him with 2 White Fathers. He himself is not a White Father, but the Vatican did misspell his order.
-* **Ianuarius a S. Corde Fernandez** is either a Servant of God or Venerable. The Vatican’s AAS list misspelled his order’s abbreviation - ORSA when it should be OAR.
-* **Gregorius Martinez de Antonana**: his order is CMF; the Vatican’s AAS list put down CFM. They made the same mistake with fellow CMF peritus **Antonius Peinador Navarro**, in addition to forgetting “Navarro.” One hates to point an accusing finger, but it is hard to ignore the trend of typos and manglings in the more unusual (less Italian, perhaps) names.
-* The order Diocesan Workers (_“Sac. Op.”_ in the AAS list) got maddeningly mixed up with Dominicans (_"OP"_) and priests (_"sacerdote"_, abbreviated as _sac._ in many results). 
-* I relied almost entirely on Catholic-Hierarchy.org’s list of religious orders (in References below). There were a rare few orders I did not find there, such as the De La Salle Brothers.
-
-** 2) The catholicity of Catholicism**
+**2) The catholicity of Catholicism**
 
 The missionary nature of the Church nullifies (or at least seriously complicates) the ability to make inferences based on names and geographical markers. A few examples: 
 
@@ -306,6 +305,24 @@ The missionary nature of the Church nullifies (or at least seriously complicates
 
 **3) Human error and digital fragility**
 
+Perhaps because of the unprecedented size and scope of Vatican II, one may get the impression that record keeping was at times a bit slapdash. Given the errors in the AAS list of periti, one wonders if the list started with a harried monsignori running around with a clipboard asking for names. 
+
+As I cross-referenced my AAS list with Father Weiser’s list of American periti (see References), I found several issues. 
+
+* Fr. Weiser has **Martin J. Flynn**. The AAS list has **Martin G.** and **Martin F. Flynn**. Are they all right, all wrong, or all partly right?
+* I had partly confirmed peritus **Francis Hurt**, and assumed he was American as he co-authored works with American periti. However, he was not on Weiser’s list. I noodled around and found a **Franz Hurth**. Among other things, he was Karl Rahner’s professor and was involved with Casti Connubi.
+* I found a mistake I made: **Bernard Joseph Kelly** is the correct peritus, and I had cataloged **Bernard Matthew Kelly**, a Council Father and, later, apostate.
+* The peritus and Shroud of Turin expert **Edward Wuenschel**, CSSR: His name was mangled by the Vatican's list as **Eduardus Wuenackel**. Weiser included each peritus’ diocese in his list, which helped me untangle this mystery.
+* One almost-error was my own: I assumed Jean Danielou had been a peritus. Halfway through my project, I discovered a feud: Cardinal Alfredo Ottaviani had allegedly threatened to boycott the Council if Danielou became a peritus. According to my notes, Danielou was only a pre-Council peritus.
+
+I encountered so many odd things and typos in the AAS’s list that I decided to make my own table of all religious orders present at the Council, by all the most commonly used names. I’ve mentioned a few religious order naming issues already, but here are a few more: 
+
+* **Paulus Goossens**, CICM: The one significant mention I found of Goossens lists him with 2 White Fathers. He himself is not a White Father, but the Vatican did misspell his order.
+* **Ianuarius a S. Corde Fernandez** is either a Servant of God or Venerable. The Vatican’s AAS list misspelled his order’s abbreviation - ORSA when it should be OAR.
+* **Gregorius Martinez de Antonana**: his order is CMF; the Vatican’s AAS list put down CFM. They made the same mistake with fellow CMF peritus **Antonius Peinador Navarro**, in addition to forgetting “Navarro.” One hates to point an accusing finger, but it is hard to ignore the trend of typos and manglings in the more unusual (less Italian, perhaps) names.
+* The order Diocesan Workers (_“Sac. Op.”_ in the AAS list) got maddeningly mixed up with Dominicans (_"OP"_) and priests (_"sacerdote"_, abbreviated as _sac._ in many results). 
+* I relied almost entirely on Catholic-Hierarchy.org’s list of religious orders (in References below). There were a rare few orders I did not find there, such as the De La Salle Brothers.
+
 ![](/uploads/periti/errors1.png "Some errors in the Vatican's list")
 
 ![](/uploads/periti/errors2.png "Some more errors in the Vatican's list")
@@ -318,31 +335,29 @@ There’s no need for me to philosophize about how fragile the digital world is.
 * Mere days after I published this project, Worldcat announced they were shuttering Worldcat Identities. In its place is Worldcat Entities, ostensibly the same but in my opinion, there is less detail in the name of a slicker interface. Over 300 periti had an entry on Worldcat Identities; hopefully, all of those links redirect to Entities - but who knows how long that will last?
 * Google Images gave me results that should have appeared in a regular Google search. In November, a good 3 months into the project, I was searching for information on Servo Goyeneche. I saw a promising photo result in Google Images. When I clicked through, I found an article and a 2-page photo spread of periti - none of which I had seen before. Every database and search engine has its own way of indexing information and mapping my search terms, but this seemed a bit much. What else was I missing by not searching by image?
 
-**To do: Crowdsourcing reader contributions, visualizations**
+Further complicating digital research is the unique nature of Catholic records. Parish bulletins, for example, can be a treasure trove of information for a project like mine. Not only is there no database (that I know of) for parish bulletins, I'd be lucky to find any old bulletins from any parish posted online. Archival research is in many ways a dramatically different skill, even more so for Catholic archives, and even more so for Catholic religious order archives. 
 
-**Chance, passion, and drama**
+![](/uploads/periti/barry.png "A touching tribute to Canadian peritus Michael J. Barry, in the diocesan newsletter, two years before Barry's death. Dumouchel, Andrea. “Merci, Monseigneur Barry!” In Ecclesia: Official Newsletter of the Catholic Diocese of Pembroke, 2003.")
 
-* Use Msgr. Michael Barry as one example of local fervor
-* 11/29: found that Find a Grave superuser
-* 10/18: confirmed Charles Davis, discovered feud that Ottaviani threatened to boycott the council (?) if Danielou was a peritus, so Danielou was only a pre-council peritus
-* 11/20: John Patrick Carley, my math is: ordained 1950, serves at VII, 1975: priest for 25 years, leaves the priesthood, immediately marries, dies in 2016 and is married for 41 years
-* 9/13: patrick finds private peritus (Coyle) in a footnote
-* 12/26: that Callahan article where every lecturer left the church/did something shady.
-* Dawn Eden interview with a peritus who says “oh I wasn’t a peritus, just the bishop’s chauffeur,” and they take it to mean he’s being humble, but what if that’s all it was?
+## Conclusion: Mending the tapestry
 
-**What I didn't include**
+Sometimes, the ability to collate and connect so many data points made for grim afternoons. While searching for private periti mentioned in the CNA, I came across an article discussing a lecture from prominent Catholic intellectual, Daniel Callahan. 
 
-There are two major pieces of information I chose not to include. 
+![](/uploads/periti/callahan_lecture.png "Pittsburgh Catholic, 31 January 1969")
 
-The first is diocese. When someone asked me about this, I immediately asked - which diocese? The one they were incardinated in? The one they were in at the time of the council? Either of these is actually extremely difficult to find, again, owing to the type of lives Catholic priests have. Diocesan borders also may change over time. 
+After gathering many Catholic accolades to his name, Callahan left the Church in the late 1960s. This is not an uncommon story, sadly, but what makes this clipping remarkable is the list of Catholic speakers who followed Callahan. 
 
-The second is Council Father. Again, this was asked to me from an early reader of my project. Why not note which peritus assisted which council father? This could help readers draw conclusions of all sorts! I tried this out on a few periti, and came to a shocking realization. 
+* Father James Groppi - married in 1976, excommunicated
+* Father Jose Lemercier - private peritus, left the priesthood and married in 1967 after a disastrous religious experiment in Mexico
+* Charles Davis - one of the most prolific Council periti from America, very publicly opposed Humanae Vitae, apostasized and married in the late 1960s
 
-I had assumed, like the question asker, that the periti were at the Council at the invitation of a Council Father. In reality, almost all periti were Council periti, summoned by invitation of the Pope and serving a particular commission. I had to recalibrate a fundamental assumption I had about how the council worked. The few references I found to periti who did serve a particular council father filled me with dread, such as Sulpician **John R. Sullivan**. He began as peritus to Archbishop Thomas Connolly (Seattle) then was transferred to Cardinal Shehan (Baltimore). This is a level of granularity that I am unwilling to handle. 
+A great deal has been written about the unraveling of (topic of choice) within (institution of choice) in the mid-20th century. It is hard not to see that unraveling before, during, and after the Council. It is just as true that there were and are many menders of the tapestry.
 
-## Conclusion 
+I started the project with a list of names - names which represented a handful of people, passionate about something. I am able to research deeply because of a different handful of passionate people. 
 
-Perhaps because of the unprecedented size and scope of Vatican II, one may get the impression that record keeping was at times a bit slapdash. Given the errors in the AAS list of periti, one wonders if the list started with a harried monsignori running around with a clipboard asking for names. 
+* Eman Bonnici is the name of a Find A Grave user. He diligently added enormous amounts of biographical information for the grave sites of Catholic clerics, saving me incalculable time.
+* Since the publication of my project, I have had readers send me information about nearly 10 additional private periti. I had not heard of any of these periti, and many of them had open causes, or books about them, or websites devoted to them and lovingly maintained.
+* One reader took my data and created [a series of data visualizations.](https://sharonkabel.com/post/periti-visualizations/)
 
 ## References
 
