@@ -339,6 +339,8 @@ Further complicating digital research is the unique nature of Catholic records. 
 
 ![](/uploads/periti/barry.png "A touching tribute to Canadian peritus Michael J. Barry, in the diocesan newsletter, two years before Barry's death. Dumouchel, Andrea. “Merci, Monseigneur Barry!” In Ecclesia: Official Newsletter of the Catholic Diocese of Pembroke, 2003.")
 
+![](/uploads/periti/devine "A golf tournament named after peritus Thomas Devine")
+
 ## Conclusion: Mending the tapestry
 
 Sometimes, the ability to collate and connect so many data points made for grim afternoons. While searching for private periti mentioned in the CNA, I came across an article discussing a lecture from prominent Catholic intellectual, Daniel Callahan. 
@@ -355,9 +357,17 @@ A great deal has been written about the unraveling of (topic of choice) within (
 
 I started the project with a list of names - names which represented a handful of people, passionate about something. I am able to research deeply because of a different handful of passionate people. 
 
+* A whole issue of _Revue thomiste_ was dedicated to the life of Marie-Michel Labourdette O.P.
+* Fernand Boulard developed the cartographically famous Boulard Maps.
+* Sulpician Raymond Brown would go on to become the editor for the New Jerome Biblical Commentary.
+* Mario Luigi Ciappi, OP, served as personal theologian to 5 popes.
+* Paolo Dezza baptized Israel Zolli.
 * Eman Bonnici is the name of a Find A Grave user. He diligently added enormous amounts of biographical information for the grave sites of Catholic clerics, saving me incalculable time.
 * Since the publication of my project, I have had readers send me information about nearly 10 additional private periti. I had not heard of any of these periti, and many of them had open causes, or books about them, or websites devoted to them and lovingly maintained.
 * One reader took my data and created [a series of data visualizations.](https://sharonkabel.com/post/periti-visualizations/)
+* There was clearly affection and great respect among some of the periti. **Vincenzo Carbone** edited **Pericle Felici**'s diaries on the Council. **Luigi Boglioio** wrote an article on **Louis Boyer**. **Antonio Piolanti** said of Of **Karlo Balic**:
+
+> "a titan of a man, built almost on an abyss of contrasts - a great soul of unlimited horizons and immense desires. A type of coincidentia oppositorum was easily detected in the vigorous spiritual physiognomy of this worthy son of strong and gentle Croatia: the heart of a child and Hieronymic impetus, the tenderness of a mother and authoritativeness of a leader, acute and penetrating intelligence, resolute and fiery determination, warm generosity and Dantesque indignation”. [https://en.wikipedia.org/wiki/Charles_Balic](https://en.wikipedia.org/wiki/Charles_Balic)
 
 ## References
 
