@@ -101,7 +101,7 @@ A more complete list of my references can be found at References at the end of t
 
 **Phase 1: Names and Countries** 
 
-With the Vatican’s list, I had no reliable pieces of uniquely identifying information. ‘Council sessions attended’ was unhelpful, except perhaps as a cross-reference once I found the peritus. ‘Religious order abbreviation’ helped, but only for the religious - and most periti were diocesan. Even among the religious, I had to figure out the Latin abbreviation. For example, the order Diocesan Workers (_“Sac. Op.”_ in the AAS list) got maddeningly mixed up with Dominicans (_"OP"_) and priests (_"sacerdote"_, abbreviated as _sac._ in many results). 
+With the Vatican’s list, I had no reliable pieces of uniquely identifying information. ‘Council sessions attended’ was unhelpful, except perhaps as a cross-reference once I found the peritus. ‘Religious order abbreviation’ helped, but only for the religious - and most periti were diocesan. Even among the religious, I had to figure out the Latin abbreviation. 
 
 The Latinized first name proved to be a mixed blessing. The famous periti were easy - Ratzinger Ioseph is Joseph Ratzinger, Pope Benedict XVI. Even then, what counts as his “real” first name? Technically, it would be Josef, but is that how people would search for it?
 
@@ -251,28 +251,7 @@ Of the 479 council periti, I was able to find information about all but 19.
 
 What can we learn from this project? What is it like to research 20th century Catholic records less than 100 years later?
 
-**Human error **
-
-![](/uploads/periti/errors1.png "Some errors in the Vatican's list")
-
-![](/uploads/periti/errors2.png "Some more errors in the Vatican's list")
-
-**The catholicity of Catholicism**
-
-The missionary nature of the Church nullifies (or at least seriously complicates) the ability to make inferences based on names and geographical markers. A few examples: 
-
-* **Luc Gillon** was Belgian but only has a Congolese Wikipedia page
-* **Antoine Hacault** was a Canadian but only has a German Wikipedia page
-* **Killian Flynn** was an Irish peritus who worked in Africa but only has a Polish Wikipedia page
-* **Michael Hrynchyshyn**, ethnically Ukrainian but born in Canada, prompting a discussion with my husband about the Russian Civil War and Ukrainians emigrating to Canada in the 1920s
-* **Adolfo Ledwolorz**, who I assumed was Polish, but all of his books were in German. I found a vita (in his own words) in a footnote on the Wikipedia page for his hometown. He went to school in Breslau. My husband patiently re-explained the German Empire to me.
-* **William Onclin**, who went by a variety of first names, but mostly “Willy.” I assumed American, but in fact he was Belgian, but he only has a Spanish Wikipedia page. Because of my initial scarce results, I assumed he was a minor figure. Once I searched under “Willy,” I found a lecture series and book series named after him, and one article described his work on “sweeping changes in the Code of Canon Law.”
-* **Jaroslav Mala** was Croatian, born in Yugoslavia, but only has a Hungarian Wikipedia page.
-* **Konrad Kernweiss**, whom I assumed was German, kept appearing in Romanian books. My husband explained the Transylvania Saxons and the Austro-Hungarian Empire.
-
-![](/uploads/periti/onclin.png "The many names of Willy Onclin")
-
-  [IMAGE OF LEDWOLORZ]
+**What's in a name?**
 
 **What's in a name?**
 
@@ -298,18 +277,42 @@ As I cross-referenced my AAS list with Father Weiser’s list of American periti
 * Fr. Weiser has **Martin J. Flynn**. The AAS list has **Martin G.** and **Martin F. Flynn**. Are they all right, all wrong, or all partly right?
 * I had partly confirmed peritus **Francis Hurt**, and assumed he was American as he co-authored works with American periti. However, he was not on Weiser’s list. I noodled around and found a **Franz Hurth**. Among other things, he was Karl Rahner’s professor and was involved with Casti Connubi.
 * I found a mistake I made: **Bernard Joseph Kelly** is the correct peritus, and I had cataloged **Bernard Matthew Kelly**, a Council Father and, later, apostate.
-* The peritus and Shroud of Turin expert **Edward Wuenschel**, CSSR was listed as **Eduardus Wuenackel** in Vatican’s list. Weiser included each peritus’ diocese in his list, which helped me untangle this mystery.
+* The peritus and Shroud of Turin expert **Edward Wuenschel**, CSSR: His name was mangled by the Vatican's list as **Eduardus Wuenackel**. Weiser included each peritus’ diocese in his list, which helped me untangle this mystery.
 
 I encountered so many odd things and typos in the AAS’s list that I decided to make my own table of all religious orders present at the Council, by all the most commonly used names. I’ve mentioned a few religious order naming issues already, but here are a few more: 
 
 * **Paulus Goossens**, CICM: The one significant mention I found of Goossens lists him with 2 White Fathers. He himself is not a White Father, but the Vatican did misspell his order.
 * **Ianuarius a S. Corde Fernandez** is either a Servant of God or Venerable. The Vatican’s AAS list misspelled his order’s abbreviation - ORSA when it should be OAR.
 * **Gregorius Martinez de Antonana**: his order is CMF; the Vatican’s AAS list put down CFM. They made the same mistake with fellow CMF peritus **Antonius Peinador Navarro**, in addition to forgetting “Navarro.” One hates to point an accusing finger, but it is hard to ignore the trend of typos and manglings in the more unusual (less Italian, perhaps) names.
+* The order Diocesan Workers (_“Sac. Op.”_ in the AAS list) got maddeningly mixed up with Dominicans (_"OP"_) and priests (_"sacerdote"_, abbreviated as _sac._ in many results). 
 * I relied almost entirely on Catholic-Hierarchy.org’s list of religious orders (in References below). There were a rare few orders I did not find there, such as the De La Salle Brothers.
 
-**The fragility of digital records **
+** 2) The catholicity of Catholicism**
 
-There’s no need for me to philosophize about how fragile the digital world is. Instead, I want to share a few specific examples of the perils of relying on digital records. 
+The missionary nature of the Church nullifies (or at least seriously complicates) the ability to make inferences based on names and geographical markers. A few examples: 
+
+* **Luc Gillon** was Belgian but only has a Congolese Wikipedia page
+* **Antoine Hacault** was a Canadian but only has a German Wikipedia page
+* **Killian Flynn** was an Irish peritus who worked in Africa but only has a Polish Wikipedia page
+* **Michael Hrynchyshyn**, ethnically Ukrainian but born in Canada, prompting a discussion with my husband about the Russian Civil War and Ukrainians emigrating to Canada in the 1920s
+* **Adolfo Ledwolorz**, who I assumed was Polish, but all of his books were in German. I found a vita (in his own words) in a footnote on the Wikipedia page for his hometown. He went to school in Breslau. My husband patiently re-explained the German Empire to me.
+* **William Onclin**, who went by a variety of first names, but mostly “Willy.” I assumed American, but in fact he was Belgian, but he only has a Spanish Wikipedia page. Because of my initial scarce results, I assumed he was a minor figure. Once I searched under “Willy,” I found a lecture series and book series named after him, and one article described his work on “sweeping changes in the Code of Canon Law.”
+* **Jaroslav Mala** was Croatian, born in Yugoslavia, but only has a Hungarian Wikipedia page.
+* **Konrad Kernweiss**, whom I assumed was German, kept appearing in Romanian books. My husband explained the Transylvania Saxons and the Austro-Hungarian Empire.
+
+![](/uploads/periti/onclin.png "The many names of Willy Onclin")
+
+![](/uploads/periti/ledwolorz_wikipedia.png "A rich mini-biography, tucked in a Wikipedia footnote, of an otherwise obscure peritus. An archived link is [here.](https://web.archive.org/web/20250302001252/https://en.wikipedia.org/wiki/Dobrze%C5%84_Wielki)")
+
+**3) Human error and digital fragility**
+
+![](/uploads/periti/errors1.png "Some errors in the Vatican's list")
+
+![](/uploads/periti/errors2.png "Some more errors in the Vatican's list")
+
+The heart of this project is a list that, for decades, existed only in a physical format. When records are converted to the digital world, you increase access and usability, but you amplify errors. The Vatican's list had a number of typos and ambiguities. Once those are digital, they can spread like wildfire: it takes next to no effort to copy/paste a fake quotation, to screenshot a fake image, and to perpetuate a terrible game of Telephone. You can easily make mistakes in print, but the quantity and quality can increase in digital formats. 
+
+There’s no need for me to philosophize about how fragile the digital world is. It's a well documented topic. Instead, I'll share a few specific examples of the perils of relying on digital records. 
 
 * I started this project in August 2022, and finished around January 2023. In December, four months after starting the project, I was already encountering link rot - dead links because of deleted websites, changes in URLs, etc. -  in my Zotero records.
 * Mere days after I published this project, Worldcat announced they were shuttering Worldcat Identities. In its place is Worldcat Entities, ostensibly the same but in my opinion, there is less detail in the name of a slicker interface. Over 300 periti had an entry on Worldcat Identities; hopefully, all of those links redirect to Entities - but who knows how long that will last?
