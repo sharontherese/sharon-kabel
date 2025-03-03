@@ -18,7 +18,9 @@ type: book
 weight: 1
 ---
 
-{{< toc mobile_only=true >}}
+{{< toc >}}
+
+{{< toc is_open=false >}}
 
 ## Abstract
 
