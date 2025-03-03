@@ -10,8 +10,8 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 [appearance]
-theme_day = "green"
-theme_night = "green"
+theme_day = "forest"
+theme_night = "forest"
 
 # theme = "minimal"
 
