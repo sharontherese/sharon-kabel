@@ -18,6 +18,8 @@ type: book
 weight: 1
 ---
 
+{{< toc >}}
+
 ## Abstract
 
 Although the Second Vatican Council (1962-5) is the most important religious event of the last century, it remains curiously underdocumented. It is surprisingly difficult to have an accurate and comprehensive picture of who was present, what was said, what was done, and what was meant. Even a complete list of the Council Fathers, the voting members of the Council, is difficult to find. Even more mysterious are the periti, the theological assistants to the Council itself and/or particular Council Fathers. These men, priests and religious, were selected for their expertise in numerous aspects of theology and history. They would go on to become university presidents, newspaper editors, radio directors, bishops, saints, criminals, and in one instance, pope. The more they are studied, the more we find their direct influence on the inception, discussion, revision, and promulgation of the Council documents themselves. For the first time, there is now an open access list of the 479 council periti and 49 private periti, all supported by over 30 data points for each peritus and over 700 references. While I have written elsewhere about the content of the list of periti, this essay will discuss my research methods in depth: how could one simple list of names cause so much mayhem?
