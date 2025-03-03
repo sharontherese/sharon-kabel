@@ -10,10 +10,10 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 [appearance]
-theme_day = "strawberry"
-theme_night = "strawberry"
+theme_day = "ocean"
+theme_night = "ocean"
 
-# theme = "classic"
+# theme = "rose"
 
 # Enable users to switch between day and night mode?
 # day_night = true
