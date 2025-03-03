@@ -355,7 +355,7 @@ Many periti lived remarkable yet quiet lives in the eyes of the world, contribut
 
 * A whole issue of _Revue thomiste_ was dedicated to the life of **Marie-Michel Labourdette** O.P.
 * **Fernand Boulard** developed the cartographically famous Boulard Maps.
-* Sulpician **Raymond Brown** would go on to become the editor for the New Jerome Biblical Commentary.
+* Sulpician **Raymond Brown** would go on to become an editor of the Jerome Biblical Commentary.
 * John H. Miller, CSC, became an editor for the New Catholic Dictionary.
 * **Andrea Spada** edited the newspaper _Eco Di Bergamo_, allegedly the only newspaper that Pope St. John XXIII read cover to cover.
 * **Mario Luigi Ciappi**, OP, served as personal theologian to 5 popes.
