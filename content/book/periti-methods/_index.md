@@ -6,7 +6,7 @@ title: Research methods for the periti project
 # linktitle: Course
 
 # Page summary for search engines.
-summary: This essay discusses the steps involved in creating a spreadsheet of over 500 names of periit, with over 700 references and over 10,000 data points.
+# summary: This essay discusses the steps involved in creating a spreadsheet of over 500 names of periit, with over 700 references and over 10,000 data points.
 
 # Date page published
 date: 2025-03-02
