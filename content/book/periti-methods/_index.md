@@ -20,7 +20,7 @@ weight: 1
 
 ## Abstract
 
-Although the Second Vatican Council (1962-5) is the most important religious event of the last century, it remains curiously underdocumented. It is surprisingly difficult to have an accurate and comprehensive picture of who was present, what was said, what was done, and what was meant. Even a complete list of the Council Fathers, the voting members of the Council, is difficult to find. Even more mysterious are the periti, the theological assistants to the Council itself and/or particular Council Fathers. These men, priests and religious, were selected for their expertise in numerous aspects of theology and history. They would go on to become university presidents, newspaper editors, radio directors, bishops, saints, criminals, and in one instance, pope. The amount they wrote in their careers is nearly immeasurable, and the more they are studied, the more we find their direct influence on the inception, discussion, revision, and promulgation of the Council documents themselves. For the first time, here is a list of the 479 council periti as reported by the Vatican, 49 private periti - with over 30 data points for each peritus. Those data points include 7 author identifiers, 7 biographical identifiers, and 11 points of general interest. While I have written elsewhere about the content of the list of periti, this article will discuss how this list came to be: what are the unique challenges that come with researching 20th century Catholic records?
+Although the Second Vatican Council (1962-5) is the most important religious event of the last century, it remains curiously underdocumented. It is surprisingly difficult to have an accurate and comprehensive picture of who was present, what was said, what was done, and what was meant. Even a complete list of the Council Fathers, the voting members of the Council, is difficult to find. Even more mysterious are the periti, the theological assistants to the Council itself and/or particular Council Fathers. These men, priests and religious, were selected for their expertise in numerous aspects of theology and history. They would go on to become university presidents, newspaper editors, radio directors, bishops, saints, criminals, and in one instance, pope. The more they are studied, the more we find their direct influence on the inception, discussion, revision, and promulgation of the Council documents themselves. For the first time, there is now an open access list of the 479 council periti and 49 private periti, all supported by over 30 data points for each peritus and over 700 references. While I have written elsewhere about the content of the list of periti, this essay will discuss my research methods in depth: how could one simple list of names cause so much mayhem?
 
 ## Introduction
 
@@ -80,7 +80,7 @@ A more complete list of my references can be found at References at the end of t
 
 ## Materials and Methods
 
-**Phase 1: Names and Countries** 
+### 1: Names and Countries
 
 With the Vatican’s list, I had no reliable pieces of uniquely identifying information. ‘Council sessions attended’ was unhelpful, except perhaps as a cross-reference once I found the peritus. ‘Religious order abbreviation’ helped, but only for the religious - and most periti were diocesan. Even among the religious, I had to figure out the Latin abbreviation. 
 
@@ -94,7 +94,7 @@ My searches were quick and simple: What could find in a 1-minute search in a sea
 
 About 75 periti in, I realized that I should be tracking ‘country of origin’. Aside from the author identifiers, that was the one piece of metadata I did my best to find for each peritus in Phase 1. 
 
-**Phase 2: Enrich**
+### 2: Enrich and standardize
 
 This was the most time consuming round. I had grouped my list of 479 names into 3 subgroups: the obvious, the somewhat obvious, and the unconfirmed names. The more I searched, the more data points I found that I wanted to include. Choosing a new data point to collect meant going back through all previously searched periti to extract that information. 
 
@@ -104,13 +104,17 @@ For example, most Wikipedia pages from most countries have a link out to Wikidat
 
 This round was extremely messy, and out of order. A lot of names that I thought I had confirmed had to be ‘demoted’ to unconfirmed. Sometimes what I thought I found was not substantial enough. For example, I did find an Arthur Gibson who was possibly a priest in the 20th century, but that’s not enough to connect him to my list. 
 
-**Phase 3: Literature searches** 
+### 3: Cross-check with literature searches
 
 This was a more fun, but still time consuming round. Most of it was spent standardizing the Selected Mention column, changing the data from links to a hyperlinked label (such as "Subject of book" or "Mentioned in article").
 
 I used the Catholic News Archive (CNA) throughout every step of this project. Near the end of the project, I used the CNA in two significant ways. 
 
-I did a broad literature search for "expert" or "peritus" in all articles from 1960-1969. I used the results to cross-check the Council periti, and to find private periti. By the end of the search, I had found about 40 private periti. 
+I found several dozen private periti by searching the CNA (and only the CNA) from 1960-9 for:
+
+> (expert OR peritus) AND council
+
+Since publishing this project, I have had several readers email me about a private peritus I missed. Each name has been added to my spreadsheet.
 
 Secondly, I went through my list of stubbornly unconfirmed periti. I ran their names through the CNA using all of the search strategies I'd developed over the past 3 months. The CNA helped me confirm another 10 periti. 
 
@@ -118,7 +122,9 @@ Secondly, I went through my list of stubbornly unconfirmed periti. I ran their n
 
 Eventually, I settled on four groups of metadata I wanted to include for each peritus.
 
-**The core: the Vatican's list, retyped and corrected**
+### The Vatican's list
+
+(Retyped and corrected.)
 
 1. Last name
 2. Latinized first name
@@ -129,7 +135,7 @@ Eventually, I settled on four groups of metadata I wanted to include for each pe
 7. Session III?
 8. Session IV?
 
-**The author identifiers**
+### Author identifiers
 
 9. Wikipedia: A Wikipedia page was the ideal identifier because of the level of information, and the degree of interlinking with other identifiers.
 10. Wikidata: A Wikidata page was useful for finding other identifiers, and Wikipedia pages in other languages.
@@ -139,7 +145,7 @@ Eventually, I settled on four groups of metadata I wanted to include for each pe
 14. Catholic Hierarchy: Catholic Hierarchy told me rank, birth year, death year, and dates ‘promoted’.
 15. Selected mention: While many periti were verifiable through ‘traditional’ avenues - i.e. they wrote a book, so I can find them in catalogs and author lists - many periti left their mark in other ways. They may have written religiously for their diocesan newspaper. They may have been fiercely loved by their hometown. They may have a lecture series or golf tournament named after them. After a lot of deliberation, I decided to count these as their own identifiers. 
 
-**The biographical information**
+### Biographical information
 
 16. Ethnicity/country of origin: I admit that I conflated country of origin and ethnicity, which led to occasional problems. For a priest who was born in America, I put “USA.” What about Luigi Ligutti, who was born in Italy, but emigrated to America? His archival collection and almost all of his priestly career was in America - rather famously, as he worked with rural American populations. What about Konrad Kernweisz? He was born in what is now Romania, but his name is clearly German - Banat Swabian, to be exact. All of this was complicated by the fact that any priest’s Wikipedia page or online tribute might be in any language and from any country. The final complicating factor was my stubborn ignorance on obvious cultural markers. I did my best to be consistent, and I sincerely hope I have not reignited any ethnic conflicts. I owe a great deal of thanks to my long-suffering husband, who has done his level best to remind me of esoteric historical details, like the existence of the Austro-Hungarian Empire.
 17. Birth year: Extracted from one or more of the identifiers. In case the numbers didn’t match, I used the most commonly used year.
@@ -149,7 +155,7 @@ Eventually, I settled on four groups of metadata I wanted to include for each pe
 21. Highest episcopal title: Did they ever attain the rank of superior general, abbot, bishop, cardinal, or pope? I counted archbishops as bishops, and cardinal-deacons as cardinals.
 22. Sainthood: Have they attained the rank of Servant of God, Venerable, Blessed, or Saint?
 
-**The extra stuff**
+### Extra stuff
 
 23. Important: Is this peritus famous in general, (such as Pope Benedict or Hans Kung) or was this peritus influential around the time of the Council (such as Georges Tavard, who may not be in the headlines now, but certainly was back then)?
 24. Photo no reuse: I found lots of photos of periti, but the photos may be under copyright.
@@ -170,7 +176,7 @@ This was a thrillingly iterative process. I might strike out on all identifiers,
 
 ## Search strategies
 
-**Autofill**
+### Autofill
 
 It was not until near the end of the entire project that I hit upon two of my best search tactics. What plagued me throughout the project was not being sure about the peritus’ first name. I might search 2-10 variations on a first name in WikiData, VIAF, or Worldcat Identities. What I learned (painfully) was that I can search last name first for many tools, and use autofill to save me minutes of agony. 
 
@@ -190,7 +196,7 @@ Both are connected to the same entry, a Spanish Jesuit peritus.
 
 Last name + letter of first name, then waiting for autofill, is how I confirmed almost 3 dozen otherwise unfindable periti. 
 
-**Using OCR typos**
+### Using OCR typos
 
 My second dynamite strategy - less broadly applicable but for me more exciting - was to use OCR errors in my favor. OCR is how PDFs and documents are made searchable, so that we can CTRL+F or “Search inside” for a particular word. OCR is a powerful tool, but is only as good as the legibility of the text it’s scanning. 
 
@@ -206,23 +212,13 @@ That particular syntax is a proximity search: it means that I am searching the C
 
 ![](/uploads/periti/gallagher_cna.png "Note that the OCR for the second result mixed up 'named' and 'nomed'.")
 
-**Using Catholic titles**
+### Using Catholic lingo
 
 I had great success adding “monsignor” or “msgr” to my periti names, as many of these priests were monsignors (a now defunct title). I might also add the language-appropriate version of council, rome, or vatican. Finding the right guy in one tool meant double checking all of the other identifiers, even if I had just looked. 
 
 ![](/uploads/periti/gallagher.png "My two beloved search strategy tricks")
 
-**Private periti**
-
-Most periti were council periti; they were appointed by the Council to support a particular committee. Some Council Fathers were permitted to bring private periti. 
-
-I found several dozen private periti by searching the CNA (and only the CNA) from 1960-9 for:
-
-> (expert OR peritus) AND council
-
-Since publishing this project, I have had several readers email me about a private peritus I missed. Each name has been added to my spreadsheet.
-
-**What I didn't include**
+### What I didn't include
 
 There are two major pieces of information I chose not to include. 
 
@@ -242,7 +238,7 @@ Of the 479 council periti, I was able to find information about all but 19.
 
 What can we learn from this project? What is it like to research 20th century Catholic records less than 100 years later?
 
-**What's in a name?**
+### What's in a name?
 
 ![](/uploads/periti/tascon_cna.png "A search in the Catholic News Archive for Tommaso Tascon, OP. 4 of the 5 results have different iterations of his first name, and one result has an OCR error of '0P'.")
 
@@ -267,7 +263,7 @@ This entire project rested on names. Most periti had more than one iteration of 
 
 ![](/uploads/periti/gillespie_cna.png "If you search for 'vicar general recollects' in the CNA, these are your options to filter by article author. There are at least 7 different ways that the CNA indexed Gillespie's name. This is why I don't trust search filters by themselves, and search broadly whenever possible.")
 
-**2) The catholicity of Catholicism**
+### The catholicity of Catholicism
 
 The missionary nature of the Church nullifies (or at least seriously complicates) the ability to make inferences based on names and geographical markers. A few examples: 
 
@@ -284,7 +280,7 @@ The missionary nature of the Church nullifies (or at least seriously complicates
 
 ![](/uploads/periti/ledwolorz_wikipedia.png "A rich mini-biography, tucked in a Wikipedia footnote, of an otherwise obscure peritus. An archived link is [here.](https://web.archive.org/web/20250302001252/https://en.wikipedia.org/wiki/Dobrze%C5%84_Wielki)")
 
-**3) Human error and digital fragility**
+### Human error and digital fragility
 
 Perhaps because of the unprecedented size and scope of Vatican II, one may get the impression that record keeping was at times a bit slapdash. Given the errors in the Vatican's list of periti, one wonders if the list started with a harried monsignore running around with a clipboard asking for names. 
 
@@ -320,7 +316,7 @@ Further complicating digital research is the unique nature of Catholic records. 
 
 ![](/uploads/periti/devine.png "A golf tournament named after American peritus Thomas Devine")
 
-## Conclusion: Mending the tapestry
+## Conclusion
 
 Sometimes, the ability to collate and connect so many data points made for grim afternoons. While searching for private periti mentioned in the CNA, I came across an article discussing a lecture from prominent Catholic intellectual, Daniel Callahan. 
 
@@ -361,7 +357,7 @@ I started the project with a list of names, but those names represented people w
 
 ## References
 
-**Journal articles, books**
+### Journal articles, books
 
 “Index Peritorum.” In Acta synodalia Sacrosancti Concilii Oecumenici Vaticani II. Indices, 937–49. Vatican City: Typis polyglottis Vaticanis, 1980.
 
@@ -385,7 +381,7 @@ Weiser, François. “Les experts au concile Vatican II, 1962-1965. Note de rech
 
 ———. “The Periti of the United States and the Second Vatican Council: Prosopography of a Group of Theologians.” U.S. Catholic Historian 30, no. 3 (2012): 65–91.
 
-**Web sites, web pages, blogs**
+### Web sites, web pages, blogs
 
 Chow, Gabriel. “Periti of the Second Vatican Council.” GCatholic. http://www.gcatholic.org/events/list/Vatican2-Periti.htm.
 
