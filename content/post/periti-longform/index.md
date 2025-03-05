@@ -1,7 +1,7 @@
 ---
 title: "Research methods and insights from the periti project"
 date: 2025-03-01
-draft: false
+draft: true
 
 # View.
 #   1 = List
